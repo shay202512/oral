@@ -34274,5 +34274,9797 @@ window.dialogueCards = [
         "Practice using \"spotter\" in a real conversation."
       ]
     ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在威尼斯乘坐贡多拉",
+    "difficulty": "初级",
+    "tip": "练习乘坐特色交通工具和与船夫交流。",
+    "lines": [
+      [
+        "A",
+        "This is so romantic! Gliding through the canals of Venice is a dream come true.",
+        "太浪漫了！在威尼斯运河上滑行，梦想成真了。"
+      ],
+      [
+        "B",
+        "Our gondolier is even singing! This is the real Venetian experience.",
+        "我们的船夫还在唱歌！这才是真正的威尼斯体验。"
+      ],
+      [
+        "A",
+        "How much does a gondola ride usually cost?",
+        "坐一次贡多拉通常多少钱？"
+      ],
+      [
+        "B",
+        "Around €80 for a 30-minute ride. It's pricey but absolutely worth it.",
+        "30分钟大约80欧元。贵但绝对值得。"
+      ],
+      [
+        "A",
+        "Look at the buildings right on the water! They look like they're floating.",
+        "看那些建在水上的建筑！它们看起来像漂浮着一样。"
+      ],
+      [
+        "B",
+        "Some of them are hundreds of years old. Can you imagine living here?",
+        "有些已经有几百年历史了。你能想象住在这里吗？"
+      ],
+      [
+        "A",
+        "I could get used to this. The gentle rocking of the boat is so peaceful.",
+        "我可能会习惯这种生活。小船轻轻的摇晃好宁静。"
+      ],
+      [
+        "B",
+        "Let's take a selfie with the Rialto Bridge in the background to remember this moment.",
+        "我们以里亚托桥为背景拍张自拍，记住这一刻。"
+      ]
+    ],
+    "words": [
+      [
+        "gondola",
+        "/phrase/",
+        "贡多拉",
+        "Practice using \"gondola\" in a real conversation."
+      ],
+      [
+        "canal",
+        "/phrase/",
+        "运河",
+        "Practice using \"canal\" in a real conversation."
+      ],
+      [
+        "gondolier",
+        "/phrase/",
+        "船夫",
+        "Practice using \"gondolier\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在摩洛哥集市讨价还价",
+    "difficulty": "初中级",
+    "tip": "练习在北非市场的砍价技巧。",
+    "lines": [
+      [
+        "A",
+        "How much for this beautiful lantern?",
+        "这盏漂亮的灯多少钱？"
+      ],
+      [
+        "B",
+        "For you, special price: 500 dirham. Handmade, very high quality.",
+        "给你特别价：500迪拉姆。手工制作，质量非常好。"
+      ],
+      [
+        "A",
+        "That's too expensive. I've seen similar ones for 200 dirham.",
+        "太贵了。我看到类似的只要200迪拉姆。"
+      ],
+      [
+        "B",
+        "200? Impossible! This is real brass. Okay, 400. Final offer.",
+        "200？不可能！这是真铜的。好吧，400。最后价。"
+      ],
+      [
+        "A",
+        "I'll give you 250. I'm a poor student traveling on a budget.",
+        "我给你250。我是个穷学生，旅行预算有限。"
+      ],
+      [
+        "B",
+        "You drive a hard bargain! 300 and I'll throw in a free bracelet.",
+        "你真会砍价！300，我再送你一条手链。"
+      ],
+      [
+        "A",
+        "Deal! Thank you. Your lantern will shine brightly in my home.",
+        "成交！谢谢。你的灯会在我的家里闪闪发光。"
+      ],
+      [
+        "B",
+        "You got a good price! Come back tomorrow, I have more beautiful things for you.",
+        "你买到了好价钱！明天再来，我还有更漂亮的东西给你。"
+      ]
+    ],
+    "words": [
+      [
+        "bargain",
+        "/phrase/",
+        "讨价还价",
+        "Practice using \"bargain\" in a real conversation."
+      ],
+      [
+        "handmade",
+        "/phrase/",
+        "手工制作的",
+        "Practice using \"handmade\" in a real conversation."
+      ],
+      [
+        "final offer",
+        "/phrase/",
+        "最终报价",
+        "Practice using \"final offer\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在机场转机时逛免税店",
+    "difficulty": "初级",
+    "tip": "练习利用转机时间购物和了解免税政策。",
+    "lines": [
+      [
+        "A",
+        "We have a 3-hour layover. Plenty of time to explore the duty-free shops!",
+        "我们有三个小时的中转时间。足够逛免税店了！"
+      ],
+      [
+        "B",
+        "Good idea! I need to buy some gifts for my family.",
+        "好主意！我需要给家人买些礼物。"
+      ],
+      [
+        "A",
+        "This perfume set is 40% off compared to the city price. That's a steal!",
+        "这套香水比市区便宜40%。太划算了！"
+      ],
+      [
+        "B",
+        "Check the size though. If it's over 100ml, you can't take it on the connecting flight.",
+        "但要注意尺寸。超过100毫升就不能带上转机航班了。"
+      ],
+      [
+        "A",
+        "Good point. I'll buy it and have it delivered to my home address instead.",
+        "说得对。我买了让他们寄到家里地址。"
+      ],
+      [
+        "B",
+        "Smart! Some stores offer free shipping for purchases over $200.",
+        "聪明！有些店消费满200美元免运费。"
+      ],
+      [
+        "A",
+        "Look, they have a tasting section for local wines! Want to try some?",
+        "看，他们有本地葡萄酒的品鉴区！要尝尝吗？"
+      ],
+      [
+        "B",
+        "Why not? It's a great way to pass the time. Cheers to our layover!",
+        "为什么不呢？这是打发时间的好办法。为我们的中转干杯！"
+      ]
+    ],
+    "words": [
+      [
+        "layover",
+        "/phrase/",
+        "中转停留",
+        "Practice using \"layover\" in a real conversation."
+      ],
+      [
+        "duty-free",
+        "/phrase/",
+        "免税的",
+        "Practice using \"duty-free\" in a real conversation."
+      ],
+      [
+        "shipping",
+        "/phrase/",
+        "运送、运费",
+        "Practice using \"shipping\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室给同事起绰号",
+    "difficulty": "初级",
+    "tip": "练习友好的玩笑和团队氛围。",
+    "lines": [
+      [
+        "A",
+        "Tom, you've fixed the printer three times this week. We should call you \"Tech Wizard\"!",
+        "汤姆，你这周修了三次打印机了。我们应该叫你\"技术巫师\"！"
+      ],
+      [
+        "B",
+        "Ha! I'll take that title. Better than \"Printer Guy,\" I suppose.",
+        "哈！我接受这个称号。总比\"打印机小哥\"好听吧。"
+      ],
+      [
+        "A",
+        "And Sarah, you always know where everything is. You're our \"Office GPS.\"",
+        "莎拉，你总是知道什么东西在哪里。你是我们的\"办公室GPS\"。"
+      ],
+      [
+        "B",
+        "That's because I've been here for 10 years! I've seen it all.",
+        "那是因为我在这里待了十年了！什么都见过。"
+      ],
+      [
+        "A",
+        "What about Mike? He's always the first to arrive and last to leave.",
+        "迈克呢？他总是第一个到最后一个走。"
+      ],
+      [
+        "B",
+        "\"Iron Man Mike\" - because he never seems to get tired!",
+        "\"钢铁侠迈克\"——因为他好像从来不会累！"
+      ],
+      [
+        "A",
+        "You guys are hilarious. These nicknames are going to stick!",
+        "你们太搞笑了。这些绰号要用起来了！"
+      ],
+      [
+        "B",
+        "Just wait until we come up with one for the boss!",
+        "等着吧，我们迟早会给老板也起一个！"
+      ]
+    ],
+    "words": [
+      [
+        "nickname",
+        "/phrase/",
+        "绰号、昵称",
+        "Practice using \"nickname\" in a real conversation."
+      ],
+      [
+        "wizard",
+        "/phrase/",
+        "巫师、高手",
+        "Practice using \"wizard\" in a real conversation."
+      ],
+      [
+        "hilarious",
+        "/phrase/",
+        "滑稽的、搞笑的",
+        "Practice using \"hilarious\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在会议室做头脑风暴",
+    "difficulty": "中高级",
+    "tip": "练习创意讨论和提出想法。",
+    "lines": [
+      [
+        "A",
+        "Let's brainstorm ideas for the new ad campaign. No idea is too crazy!",
+        "我们来为新的广告活动头脑风暴。任何想法都不嫌疯狂！"
+      ],
+      [
+        "B",
+        "What if we use augmented reality? Users can try our products virtually.",
+        "如果我们用增强现实呢？用户可以虚拟试用我们的产品。"
+      ],
+      [
+        "A",
+        "Interesting! That would appeal to the younger demographic.",
+        "有意思！那会吸引年轻群体。"
+      ],
+      [
+        "B",
+        "Or a viral challenge on TikTok? User-generated content is very engaging.",
+        "或者在TikTok上发起一个病毒式挑战？用户生成的内容参与度很高。"
+      ],
+      [
+        "A",
+        "Both are great. Let's combine them - AR filter + challenge = double impact!",
+        "两个都好。我们把它们结合起来——AR滤镜加挑战等于双重效果！"
+      ],
+      [
+        "B",
+        "Love it! We can partner with influencers to kickstart the trend.",
+        "喜欢！我们可以和网红合作来启动这个趋势。"
+      ],
+      [
+        "A",
+        "This is the most productive brainstorming session we've had. Great energy, team!",
+        "这是我们最有成效的一次头脑风暴。能量满满，团队！"
+      ],
+      [
+        "B",
+        "Let's prototype the AR filter and present it at next week's meeting.",
+        "我们做个AR滤镜的原型，下周会议上展示。"
+      ]
+    ],
+    "words": [
+      [
+        "brainstorm",
+        "/phrase/",
+        "头脑风暴",
+        "Practice using \"brainstorm\" in a real conversation."
+      ],
+      [
+        "augmented reality",
+        "/phrase/",
+        "增强现实",
+        "Practice using \"augmented reality\" in a real conversation."
+      ],
+      [
+        "influencer",
+        "/phrase/",
+        "网红、影响者",
+        "Practice using \"influencer\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室为退休同事举办欢送会",
+    "difficulty": "初中级",
+    "tip": "练习表达敬意和不舍之情。",
+    "lines": [
+      [
+        "A",
+        "After 35 years of service, today is Mr. Chen's last day. Let's give him a warm send-off!",
+        "服务了35年后，今天是陈先生的最后一天。我们热烈欢送他！"
+      ],
+      [
+        "B",
+        "Mr. Chen, you've been a mentor to so many of us. We'll miss your wisdom and kindness.",
+        "陈先生，您是我们很多人的导师。我们会怀念您的智慧和善意。"
+      ],
+      [
+        "A",
+        "I remember when I first joined the company. You were the first person to welcome me.",
+        "我记得我刚加入公司时，您是第一个欢迎我的人。"
+      ],
+      [
+        "B",
+        "Time flies. I've watched this company grow and seen so many talented people come through.",
+        "时间过得真快。我看着这家公司成长，见证了这么多优秀的人才来来去去。"
+      ],
+      [
+        "A",
+        "We've put together a photo album with messages from everyone in the team.",
+        "我们整理了一本相册，里面有团队每个人的留言。"
+      ],
+      [
+        "B",
+        "(Opens album) This is incredibly touching. I'll treasure this forever.",
+        "（打开相册）这太感人了。我会永远珍藏。"
+      ],
+      [
+        "A",
+        "Wishing you a wonderful retirement filled with travel, family, and relaxation!",
+        "祝您退休生活美好，充满旅行、家人和悠闲！"
+      ],
+      [
+        "B",
+        "Thank you all. This company will always have a special place in my heart.",
+        "谢谢大家。这家公司在我心中永远有一个特殊的位置。"
+      ]
+    ],
+    "words": [
+      [
+        "retirement",
+        "/phrase/",
+        "退休",
+        "Practice using \"retirement\" in a real conversation."
+      ],
+      [
+        "mentor",
+        "/phrase/",
+        "导师",
+        "Practice using \"mentor\" in a real conversation."
+      ],
+      [
+        "treasure",
+        "/phrase/",
+        "珍惜、珍藏",
+        "Practice using \"treasure\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在韩国炸鸡店点外卖",
+    "difficulty": "初级",
+    "tip": "练习电话订餐和确认配送信息。",
+    "lines": [
+      [
+        "A",
+        "Hello, I'd like to place a delivery order, please.",
+        "你好，我想点一份外卖。"
+      ],
+      [
+        "B",
+        "Sure. What would you like to order?",
+        "好的。您想点什么？"
+      ],
+      [
+        "A",
+        "Half a chicken, soy garlic flavor, and a side of cheese sticks.",
+        "半只鸡，酱油蒜香味，再加一份芝士条。"
+      ],
+      [
+        "B",
+        "Any drinks? We have cola, sprite, and Korean rice wine.",
+        "要饮料吗？我们有可乐、雪碧和韩国米酒。"
+      ],
+      [
+        "A",
+        "Two cans of cola, please. What's the delivery time?",
+        "两罐可乐。配送时间多久？"
+      ],
+      [
+        "B",
+        "About 30 minutes. Minimum order is 15. Your total is 18.50.",
+        "大约30分钟。最低消费15美元。您一共18.5美元。"
+      ],
+      [
+        "A",
+        "Perfect. Deliver to 125 Maple Street, Apartment 3B.",
+        "完美。送到枫树街125号，3B公寓。"
+      ],
+      [
+        "B",
+        "Got it. Your order will arrive by 7:30 PM. Thank you!",
+        "收到。您的订单将在7点半前送达。谢谢！"
+      ]
+    ],
+    "words": [
+      [
+        "delivery order",
+        "/phrase/",
+        "外卖订单",
+        "Practice using \"delivery order\" in a real conversation."
+      ],
+      [
+        "soy garlic",
+        "/phrase/",
+        "酱油蒜香",
+        "Practice using \"soy garlic\" in a real conversation."
+      ],
+      [
+        "minimum order",
+        "/phrase/",
+        "最低消费",
+        "Practice using \"minimum order\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在古巴餐厅尝试传统美食",
+    "difficulty": "初中级",
+    "tip": "练习了解异国饮食文化和尝试新口味。",
+    "lines": [
+      [
+        "A",
+        "This Cuban restaurant looks so authentic! The music is fantastic too.",
+        "这家古巴餐厅看起来好正宗！音乐也太棒了。"
+      ],
+      [
+        "B",
+        "I've been here before. You have to try the ropa vieja - shredded beef in tomato sauce.",
+        "我以前来过。你一定要试试罗帕维耶哈——番茄酱炖牛肉丝。"
+      ],
+      [
+        "A",
+        "What's the story behind the name? \"Ropa vieja\" means \"old clothes,\" right?",
+        "这个名字有什么来历？\"罗帕维耶哈\"意思是\"旧衣服\"，对吧？"
+      ],
+      [
+        "B",
+        "Yes! Legend says a poor man shredded his clothes and cooked them, and they turned into this delicious dish.",
+        "是的！传说一个穷人把自己的衣服撕碎煮了，结果变成了这道美味。"
+      ],
+      [
+        "A",
+        "That's a great story! I'll order that. And a Cuba Libre to drink.",
+        "好有趣的故事！我点那个。再来一杯自由古巴。"
+      ],
+      [
+        "B",
+        "Excellent pairing! The rum and coke cocktail was invented here, you know.",
+        "绝妙的搭配！你知道朗姆可乐鸡尾酒就是在这里发明的。"
+      ],
+      [
+        "A",
+        "(Tastes) The beef is so tender and flavorful! This is incredible.",
+        "（品尝）牛肉好嫩好入味！太好吃了。"
+      ],
+      [
+        "B",
+        "I told you! Cuban cuisine is underrated. Let's also order some plantain chips.",
+        "我告诉过你！古巴菜被低估了。我们再点一些大蕉片吧。"
+      ]
+    ],
+    "words": [
+      [
+        "authentic",
+        "/phrase/",
+        "正宗的",
+        "Practice using \"authentic\" in a real conversation."
+      ],
+      [
+        "shredded",
+        "/phrase/",
+        "切碎的、撕碎的",
+        "Practice using \"shredded\" in a real conversation."
+      ],
+      [
+        "underrated",
+        "/phrase/",
+        "被低估的",
+        "Practice using \"underrated\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在素食汉堡店点餐",
+    "difficulty": "初级",
+    "tip": "练习点植物基食品和了解替代蛋白。",
+    "lines": [
+      [
+        "A",
+        "I'm curious about plant-based burgers. What do you recommend?",
+        "我对植物基汉堡很好奇。你有什么推荐？"
+      ],
+      [
+        "B",
+        "Our Beyond Burger is the most popular. It tastes just like beef!",
+        "我们的超越汉堡最受欢迎。吃起来就和牛肉一样！"
+      ],
+      [
+        "A",
+        "Really? I'm skeptical but willing to try.",
+        "真的吗？我有点怀疑，但愿意试试。"
+      ],
+      [
+        "B",
+        "I promise you won't be able to tell the difference. It's made from pea protein.",
+        "我保证你分辨不出区别。它是用豌豆蛋白做的。"
+      ],
+      [
+        "A",
+        "Okay, I'll have one with all the toppings. And sweet potato fries.",
+        "好吧，我要一个加满配料的。再来一份红薯条。"
+      ],
+      [
+        "B",
+        "Great choice! Would you like a milkshake? We have oat milk and almond milk options.",
+        "好选择！要奶昔吗？我们有燕麦奶和杏仁奶可选。"
+      ],
+      [
+        "A",
+        "Chocolate oat milk shake, please. I'm embracing the plant-based life today!",
+        "巧克力燕麦奶昔。今天我拥抱植物基生活！"
+      ],
+      [
+        "B",
+        "Love it! Your order will be ready in 10 minutes. Welcome to the green side!",
+        "太棒了！您的订单10分钟就好。欢迎来到绿色阵营！"
+      ]
+    ],
+    "words": [
+      [
+        "plant-based",
+        "/phrase/",
+        "植物基的",
+        "Practice using \"plant-based\" in a real conversation."
+      ],
+      [
+        "burger",
+        "/phrase/",
+        "汉堡",
+        "Practice using \"burger\" in a real conversation."
+      ],
+      [
+        "milkshake",
+        "/phrase/",
+        "奶昔",
+        "Practice using \"milkshake\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在珠宝店挑选订婚戒指",
+    "difficulty": "中高级",
+    "tip": "练习选购贵重首饰和询问钻石品质。",
+    "lines": [
+      [
+        "A",
+        "I'm looking for an engagement ring. This is a big moment for me.",
+        "我在找订婚戒指。对我来说这是一个重要的时刻。"
+      ],
+      [
+        "B",
+        "Congratulations! Let me show you our collection. Do you have a budget in mind?",
+        "恭喜！我给您看看我们的系列。您有预算吗？"
+      ],
+      [
+        "A",
+        "Around $3,000. I want something classic and elegant.",
+        "大约3000美元。我想要经典优雅的款式。"
+      ],
+      [
+        "B",
+        "This solitaire diamond ring is timeless. The diamond is 0.5 carat, VS1 clarity, and E color.",
+        "这款单钻戒指永不过时。钻石0.5克拉，VS1净度，E色。"
+      ],
+      [
+        "A",
+        "Can you explain the 4 Cs to me? I want to make sure I'm getting good value.",
+        "能给我解释一下4C标准吗？我想确保物有所值。"
+      ],
+      [
+        "B",
+        "Of course. Carat is weight, cut determines sparkle, color grades from D to Z, and clarity measures inclusions.",
+        "当然。克拉是重量，切工决定闪耀度，颜色从D到Z分级，净度衡量内含物。"
+      ],
+      [
+        "A",
+        "This one has beautiful sparkle. I think she'll love it. I'll take it.",
+        "这颗闪耀度很美。我想她会喜欢的。我买了。"
+      ],
+      [
+        "B",
+        "Wonderful choice! We offer free engraving and a lifetime warranty on the setting.",
+        "非常好的选择！我们提供免费刻字和戒托终身保修。"
+      ]
+    ],
+    "words": [
+      [
+        "engagement ring",
+        "/phrase/",
+        "订婚戒指",
+        "Practice using \"engagement ring\" in a real conversation."
+      ],
+      [
+        "carat",
+        "/phrase/",
+        "克拉",
+        "Practice using \"carat\" in a real conversation."
+      ],
+      [
+        "clarity",
+        "/phrase/",
+        "净度",
+        "Practice using \"clarity\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在户外用品店买帐篷",
+    "difficulty": "中级",
+    "tip": "练习根据使用场景选择装备。",
+    "lines": [
+      [
+        "A",
+        "I'm planning a camping trip. I need a tent for two people.",
+        "我在计划一次露营旅行。我需要一个双人帐篷。"
+      ],
+      [
+        "B",
+        "What season? Summer camping or all-season use?",
+        "什么季节？夏季露营还是四季通用？"
+      ],
+      [
+        "A",
+        "Mostly summer and early fall. Lightweight is important since we'll be hiking to the campsite.",
+        "主要是夏末初秋。轻便很重要，因为我们要徒步到营地。"
+      ],
+      [
+        "B",
+        "This ultralight tent weighs only 2 kg. It's easy to pack and sets up in minutes.",
+        "这款超轻帐篷只有2公斤。易于打包，几分钟就能搭好。"
+      ],
+      [
+        "A",
+        "Is it waterproof? What if it rains?",
+        "防水吗？万一下雨怎么办？"
+      ],
+      [
+        "B",
+        "Yes, it has a waterproof rating of 3000mm. The rainfly covers the entire tent.",
+        "防水，防水等级3000毫米。防雨罩覆盖整个帐篷。"
+      ],
+      [
+        "A",
+        "Does it come with stakes and repair kit?",
+        "配有地钉和修补工具吗？"
+      ],
+      [
+        "B",
+        "Everything included. Plus a carrying bag and guy lines. You're all set for your adventure!",
+        "全套配备。还有收纳袋和防风绳。你的探险之旅万事俱备了！"
+      ]
+    ],
+    "words": [
+      [
+        "tent",
+        "/phrase/",
+        "帐篷",
+        "Practice using \"tent\" in a real conversation."
+      ],
+      [
+        "waterproof",
+        "/phrase/",
+        "防水的",
+        "Practice using \"waterproof\" in a real conversation."
+      ],
+      [
+        "ultralight",
+        "/phrase/",
+        "超轻的",
+        "Practice using \"ultralight\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在二手奢侈品店鉴定包包",
+    "difficulty": "中高级",
+    "tip": "练习鉴定真伪和了解二手行情。",
+    "lines": [
+      [
+        "A",
+        "I found this Chanel bag at a thrift store. Can you authenticate it?",
+        "我在二手店找到这个香奈儿包。能鉴定真伪吗？"
+      ],
+      [
+        "B",
+        "Let me examine it closely. The stitching, logo, and serial number are all key indicators.",
+        "让我仔细看看。缝线、logo和序列号都是关键指标。"
+      ],
+      [
+        "A",
+        "The seller said it's from the 1990s collection. Is that possible?",
+        "卖家说是90年代的款。有可能吗？"
+      ],
+      [
+        "B",
+        "The serial number format matches that era. The leather quality and hardware feel authentic.",
+        "序列号格式符合那个年代。皮质和五金手感都像真的。"
+      ],
+      [
+        "A",
+        "What about the authenticity card? It looks a bit worn.",
+        "那张真品卡呢？看起来有点旧了。"
+      ],
+      [
+        "B",
+        "That's actually a good sign. Vintage cards show wear. New-looking cards on old bags are suspicious.",
+        "这反而是好迹象。 vintage卡片会有磨损痕迹。旧包配新卡反而可疑。"
+      ],
+      [
+        "A",
+        "I'm convinced it's real. How much would you price it for resale?",
+        "我相信是真的。你们转卖的话定价多少？"
+      ],
+      [
+        "B",
+        "In this condition, around $1,200. You got a great deal if you paid less!",
+        "这个品相大约1200美元。如果你买得便宜就赚到了！"
+      ]
+    ],
+    "words": [
+      [
+        "authenticate",
+        "/phrase/",
+        "鉴定真伪",
+        "Practice using \"authenticate\" in a real conversation."
+      ],
+      [
+        "serial number",
+        "/phrase/",
+        "序列号",
+        "Practice using \"serial number\" in a real conversation."
+      ],
+      [
+        "vintage",
+        "/phrase/",
+        "复古的、老款的",
+        "Practice using \"vintage\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在实验室做实验时发生小意外",
+    "difficulty": "中级",
+    "tip": "练习报告实验事故和处理紧急情况。",
+    "lines": [
+      [
+        "A",
+        "Oh no! I accidentally knocked over the beaker!",
+        "糟了！我不小心打翻了烧杯！"
+      ],
+      [
+        "B",
+        "What chemical was it? Check the label quickly!",
+        "是什么化学品？快看标签！"
+      ],
+      [
+        "A",
+        "Diluted hydrochloric acid. It spilled on the lab bench.",
+        "稀释盐酸。洒在实验台上了。"
+      ],
+      [
+        "B",
+        "Neutralize it with baking soda first. Then wipe it up with a wet cloth. Wear gloves!",
+        "先用小苏打中和。然后用湿布擦拭。戴上手套！"
+      ],
+      [
+        "A",
+        "Got it. Did any get on my skin? I don't feel anything.",
+        "好的。有没有溅到我皮肤上？我没感觉。"
+      ],
+      [
+        "B",
+        "You're fine. Dilute acid takes a moment to irritate. Rinse the area with water just in case.",
+        "没事。稀酸要过一会儿才会刺激。用水冲洗一下以防万一。"
+      ],
+      [
+        "A",
+        "Thanks for staying calm. I panicked for a second.",
+        "谢谢你保持冷静。我慌了一下。"
+      ],
+      [
+        "B",
+        "Lab accidents happen. The important thing is to respond correctly. Always follow safety protocols.",
+        "实验室事故难免。重要的是正确应对。始终遵守安全规程。"
+      ]
+    ],
+    "words": [
+      [
+        "beaker",
+        "/phrase/",
+        "烧杯",
+        "Practice using \"beaker\" in a real conversation."
+      ],
+      [
+        "neutralize",
+        "/phrase/",
+        "中和",
+        "Practice using \"neutralize\" in a real conversation."
+      ],
+      [
+        "protocol",
+        "/phrase/",
+        "规程、方案",
+        "Practice using \"protocol\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园林荫道上骑自行车相撞",
+    "difficulty": "初级",
+    "tip": "练习道歉和确认双方无恙。",
+    "lines": [
+      [
+        "A",
+        "Oh! I'm so sorry! I didn't see you coming around the corner.",
+        "哦！非常抱歉！我没看到你从拐角过来。"
+      ],
+      [
+        "B",
+        "It's okay. I was going a bit fast too. Are you alright?",
+        "没关系。我也骑得有点快。你没事吧？"
+      ],
+      [
+        "A",
+        "I think so. Just a scratched elbow. What about you?",
+        "应该没事。就是手肘擦破了。你呢？"
+      ],
+      [
+        "B",
+        "My bike chain came off, but I'm fine. Let me check your elbow.",
+        "我的车链子掉了，但我没事。让我看看你的手肘。"
+      ],
+      [
+        "A",
+        "It's just a scrape. I have a first aid kit in my backpack.",
+        "只是擦伤。我背包里有急救包。"
+      ],
+      [
+        "B",
+        "Good thinking. Let's move our bikes to the side so we don't block the path.",
+        "想得周到。我们把自行车挪到路边，别挡道。"
+      ],
+      [
+        "A",
+        "Here's a bandage. I really am sorry about this.",
+        "给你创可贴。真的很抱歉。"
+      ],
+      [
+        "B",
+        "Accidents happen! No hard feelings. Ride safe!",
+        "意外难免！别放在心上。骑车小心！"
+      ]
+    ],
+    "words": [
+      [
+        "scratch",
+        "/phrase/",
+        "擦伤",
+        "Practice using \"scratch\" in a real conversation."
+      ],
+      [
+        "first aid kit",
+        "/phrase/",
+        "急救包",
+        "Practice using \"first aid kit\" in a real conversation."
+      ],
+      [
+        "bandage",
+        "/phrase/",
+        "绷带、创可贴",
+        "Practice using \"bandage\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在毕业晚会上表演诗朗诵",
+    "difficulty": "中高级",
+    "tip": "练习有感情地朗读和舞台表现。",
+    "lines": [
+      [
+        "A",
+        "I'm up next for the poetry recital. My hands are shaking!",
+        "下一个就是我诗朗诵了。我的手在发抖！"
+      ],
+      [
+        "B",
+        "You've been practicing for weeks. You know this poem by heart. Just breathe.",
+        "你练了好几周了。这首诗你都背熟了。深呼吸。"
+      ],
+      [
+        "A",
+        "What if I forget the lines on stage?",
+        "万一我在台上忘词了怎么办？"
+      ],
+      [
+        "B",
+        "Pause, take a breath, and look at the audience. They're rooting for you, not judging you.",
+        "停顿，深呼吸，看着观众。他们在为你加油，不是在评判你。"
+      ],
+      [
+        "A",
+        "(On stage) \"Two roads diverged in a yellow wood...\"",
+        "（上台）\"黄色的树林里分出两条路……\""
+      ],
+      [
+        "B",
+        "(Whispering from audience) You're doing great! Keep going!",
+        "（台下轻声说）你做得很好！继续！"
+      ],
+      [
+        "A",
+        "(After performance) I did it! I didn't stumble once!",
+        "（表演后）我做到了！一次都没卡壳！"
+      ],
+      [
+        "B",
+        "You were amazing! I had goosebumps the whole time. That was powerful.",
+        "你太棒了！我全程起鸡皮疙瘩。太有感染力了。"
+      ]
+    ],
+    "words": [
+      [
+        "recite",
+        "/phrase/",
+        "朗诵",
+        "Practice using \"recite\" in a real conversation."
+      ],
+      [
+        "stumble",
+        "/phrase/",
+        "绊倒、卡壳",
+        "Practice using \"stumble\" in a real conversation."
+      ],
+      [
+        "goosebump",
+        "/phrase/",
+        "鸡皮疙瘩",
+        "Practice using \"goosebump\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在密室逃脱中和队友配合",
+    "difficulty": "初中级",
+    "tip": "练习团队协作和解谜沟通。",
+    "lines": [
+      [
+        "A",
+        "We have 45 minutes to escape! Let's divide and conquer.",
+        "我们有45分钟逃出去！分头行动。"
+      ],
+      [
+        "B",
+        "I'll search the bookshelf for clues. You check the desk drawers.",
+        "我搜书架找线索。你检查书桌抽屉。"
+      ],
+      [
+        "A",
+        "Found a locked box! It needs a 4-digit code.",
+        "找到一个锁着的盒子！需要四位数的密码。"
+      ],
+      [
+        "B",
+        "There's a calendar on the wall with some dates circled. Maybe that's the code?",
+        "墙上有个日历，有些日期被圈起来了。也许是密码？"
+      ],
+      [
+        "A",
+        "Let me try 0521 - the circled dates. It opened! Inside is a key!",
+        "我试0521——圈起来的日期。打开了！里面是一把钥匙！"
+      ],
+      [
+        "B",
+        "Great work! That key probably opens the cabinet next to the door.",
+        "干得好！那把钥匙可能开门口的那个柜子。"
+      ],
+      [
+        "A",
+        "(Opens cabinet) There's a riddle inside! \"What has keys but can't open locks?\"",
+        "（打开柜子）里面有个谜语！\"什么东西有键但不能开锁？\""
+      ],
+      [
+        "B",
+        "A piano! There's a piano in the corner. Let's check it for the final clue!",
+        "钢琴！角落里有一架钢琴。我们去看看最后的线索！"
+      ]
+    ],
+    "words": [
+      [
+        "escape room",
+        "/phrase/",
+        "密室逃脱",
+        "Practice using \"escape room\" in a real conversation."
+      ],
+      [
+        "clue",
+        "/phrase/",
+        "线索",
+        "Practice using \"clue\" in a real conversation."
+      ],
+      [
+        "riddle",
+        "/phrase/",
+        "谜语",
+        "Practice using \"riddle\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在朋友的求婚现场帮忙",
+    "difficulty": "初中级",
+    "tip": "练习协助策划惊喜和保密。",
+    "lines": [
+      [
+        "A",
+        "Is everything ready for tonight? The ring is secure?",
+        "今晚的一切都准备好了吗？戒指安全吗？"
+      ],
+      [
+        "B",
+        "Yes, it's in my pocket. I've been checking every 5 minutes!",
+        "是的，在我口袋里。我每五分钟检查一次！"
+      ],
+      [
+        "A",
+        "The restaurant confirmed the rooftop terrace. Candles and rose petals are set up.",
+        "餐厅确认了屋顶露台。蜡烛和玫瑰花瓣都布置好了。"
+      ],
+      [
+        "B",
+        "What if she says no? I've been rehearsing my speech all week.",
+        "万一她拒绝怎么办？我练了一周的求婚词了。"
+      ],
+      [
+        "A",
+        "She's crazy about you. There's zero chance she'll say no. Trust me.",
+        "她爱你爱得不得了。她绝不可能说不。相信我。"
+      ],
+      [
+        "B",
+        "You're right. I need to calm down. Signal me when she's on her way up.",
+        "你说得对。我需要冷静。她上楼的时候给我信号。"
+      ],
+      [
+        "A",
+        "She just parked! Get into position! This is happening!",
+        "她刚停好车！就位！要开始了！"
+      ],
+      [
+        "B",
+        "(Later, after she says yes) She said yes! Thank you for everything!",
+        "（后来，在她答应后）她答应了！谢谢你做的一切！"
+      ]
+    ],
+    "words": [
+      [
+        "propose",
+        "/phrase/",
+        "求婚",
+        "Practice using \"propose\" in a real conversation."
+      ],
+      [
+        "rehearsal",
+        "/phrase/",
+        "排练",
+        "Practice using \"rehearsal\" in a real conversation."
+      ],
+      [
+        "signal",
+        "/phrase/",
+        "信号",
+        "Practice using \"signal\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在相声茶馆和邻座谈论表演",
+    "difficulty": "初中级",
+    "tip": "练习欣赏传统艺术和交流观后感。",
+    "lines": [
+      [
+        "A",
+        "This is my first time watching crosstalk live. It's hilarious!",
+        "这是我第一次现场看相声。太好笑了！"
+      ],
+      [
+        "B",
+        "The comedians have incredible timing. Their banter is so natural.",
+        "演员们的节奏感太棒了。他们的调侃好自然。"
+      ],
+      [
+        "A",
+        "I can't believe they memorize all those lines. The puns are so clever.",
+        "不敢相信他们把那么多台词都记住了。双关语太巧妙了。"
+      ],
+      [
+        "B",
+        "Traditional crosstalk artists train for years. The fast-paced dialogue requires immense skill.",
+        "传统相声演员要训练多年。快节奏的对白需要极高的技巧。"
+      ],
+      [
+        "A",
+        "The one making jokes about his partner's bald head had me in tears!",
+        "那个拿搭档秃头开玩笑的段子让我笑出眼泪了！"
+      ],
+      [
+        "B",
+        "That's a classic bit! They've been performing that routine for decades, but it never gets old.",
+        "那是经典段子！他们演了几十年了，但永远不会过时。"
+      ],
+      [
+        "A",
+        "I'm definitely coming back. Is there a show every weekend?",
+        "我一定还会再来。每个周末都有演出吗？"
+      ],
+      [
+        "B",
+        "Yes, Friday to Sunday. Next week they have a guest performer from Beijing. Should be great!",
+        "是的，周五到周日。下周有北京来的特邀演员。应该会很精彩！"
+      ]
+    ],
+    "words": [
+      [
+        "crosstalk",
+        "/phrase/",
+        "相声",
+        "Practice using \"crosstalk\" in a real conversation."
+      ],
+      [
+        "comedian",
+        "/phrase/",
+        "喜剧演员",
+        "Practice using \"comedian\" in a real conversation."
+      ],
+      [
+        "pun",
+        "/phrase/",
+        "双关语",
+        "Practice using \"pun\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在烧伤科处理烫伤",
+    "difficulty": "中级",
+    "tip": "练习描述烫伤情况和紧急处理。",
+    "lines": [
+      [
+        "A",
+        "Doctor, I burned my hand with hot oil while cooking.",
+        "医生，我做菜时被热油烫伤了手。"
+      ],
+      [
+        "B",
+        "Let me see. You did the right thing by running it under cool water immediately.",
+        "让我看看。你做得对，立刻用凉水冲了。"
+      ],
+      [
+        "A",
+        "It's blistering now. Should I pop the blisters?",
+        "现在起泡了。我应该把水泡挑破吗？"
+      ],
+      [
+        "B",
+        "No, never pop blisters. They protect the underlying skin from infection.",
+        "不要，千万不要挑破水泡。它们保护下面的皮肤免受感染。"
+      ],
+      [
+        "A",
+        "What should I put on it? I've heard aloe vera helps.",
+        "我应该涂什么？我听说芦荟有用。"
+      ],
+      [
+        "B",
+        "For a second-degree burn like this, I'll apply a silver sulfadiazine cream and wrap it loosely.",
+        "对于这种二度烧伤，我会涂磺胺嘧啶银乳膏，然后松松包扎。"
+      ],
+      [
+        "A",
+        "How long will it take to heal?",
+        "愈合需要多久？"
+      ],
+      [
+        "B",
+        "About two to three weeks. Change the dressing daily and watch for signs of infection like increased redness or pus.",
+        "大约两到三周。每天换药，注意是否有感染迹象，如红肿加剧或化脓。"
+      ]
+    ],
+    "words": [
+      [
+        "burn",
+        "/phrase/",
+        "烧伤、烫伤",
+        "Practice using \"burn\" in a real conversation."
+      ],
+      [
+        "blister",
+        "/phrase/",
+        "水泡",
+        "Practice using \"blister\" in a real conversation."
+      ],
+      [
+        "dressing",
+        "/phrase/",
+        "敷料、包扎",
+        "Practice using \"dressing\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在肿瘤科陪同家人就诊",
+    "difficulty": "中高级",
+    "tip": "练习陪同就医和询问治疗方案。",
+    "lines": [
+      [
+        "A",
+        "Doctor, my mother was diagnosed with early-stage breast cancer. We're very worried.",
+        "医生，我母亲被诊断为早期乳腺癌。我们非常担心。"
+      ],
+      [
+        "B",
+        "I understand. The good news is that early detection significantly improves outcomes.",
+        "我理解。好消息是早期发现大大提高了治疗效果。"
+      ],
+      [
+        "A",
+        "What treatment options are available?",
+        "有哪些治疗方案？"
+      ],
+      [
+        "B",
+        "We recommend a lumpectomy followed by radiation therapy. Depending on the pathology, chemotherapy may not be necessary.",
+        "我们建议肿块切除后放疗。根据病理结果，化疗可能并非必要。"
+      ],
+      [
+        "A",
+        "What are the side effects of radiation?",
+        "放疗有什么副作用？"
+      ],
+      [
+        "B",
+        "Fatigue and localized skin irritation. Most patients tolerate it well. We'll manage any discomfort.",
+        "疲劳和局部皮肤刺激。大多数患者耐受良好。我们会处理任何不适。"
+      ],
+      [
+        "A",
+        "How long is the recovery period?",
+        "恢复期多长？"
+      ],
+      [
+        "B",
+        "Surgery recovery is about 4-6 weeks. Radiation is daily for 3-6 weeks. We'll be with you every step of the way.",
+        "手术恢复大约4-6周。放疗每天进行，持续3-6周。我们全程陪伴你们。"
+      ]
+    ],
+    "words": [
+      [
+        "diagnosis",
+        "/phrase/",
+        "诊断",
+        "Practice using \"diagnosis\" in a real conversation."
+      ],
+      [
+        "lumpectomy",
+        "/phrase/",
+        "肿块切除术",
+        "Practice using \"lumpectomy\" in a real conversation."
+      ],
+      [
+        "radiation therapy",
+        "/phrase/",
+        "放射治疗",
+        "Practice using \"radiation therapy\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在疫苗接种点接种HPV疫苗",
+    "difficulty": "初中级",
+    "tip": "练习咨询疫苗信息和接种流程。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'm here for my first dose of the HPV vaccine.",
+        "你好，我来打HPV疫苗第一针。"
+      ],
+      [
+        "B",
+        "Great! Have you read the vaccine information sheet?",
+        "好的！你读过疫苗信息说明了吗？"
+      ],
+      [
+        "A",
+        "Yes, I have. How many doses do I need in total?",
+        "读过了。我一共需要打几针？"
+      ],
+      [
+        "B",
+        "Three doses over six months. Second dose in two months, third in six months.",
+        "六个月三针。第二针在两个月后，第三针在六个月后。"
+      ],
+      [
+        "A",
+        "Are there any common side effects I should expect?",
+        "有什么常见的副作用需要注意吗？"
+      ],
+      [
+        "B",
+        "Sore arm, mild fever, or headache for a day or two. Perfectly normal.",
+        "手臂酸痛、轻微发热或头疼一两天。完全正常。"
+      ],
+      [
+        "A",
+        "Can I take painkillers if my arm hurts?",
+        "如果手臂疼可以吃止痛药吗？"
+      ],
+      [
+        "B",
+        "Yes, ibuprofen or acetaminophen are fine. Roll up your sleeve, and I'll administer the injection.",
+        "可以，布洛芬或对乙酰氨基酚都可以。卷起袖子，我来注射。"
+      ]
+    ],
+    "words": [
+      [
+        "vaccine",
+        "/phrase/",
+        "疫苗",
+        "Practice using \"vaccine\" in a real conversation."
+      ],
+      [
+        "dose",
+        "/phrase/",
+        "剂量、针次",
+        "Practice using \"dose\" in a real conversation."
+      ],
+      [
+        "side effect",
+        "/phrase/",
+        "副作用",
+        "Practice using \"side effect\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在邮局寄国际包裹",
+    "difficulty": "初中级",
+    "tip": "练习邮寄包裹和填写报关单。",
+    "lines": [
+      [
+        "A",
+        "I'd like to send this package to Canada. What's the fastest option?",
+        "我想把这个包裹寄到加拿大。最快的选项是什么？"
+      ],
+      [
+        "B",
+        "Express mail takes 5-7 business days. Standard airmail takes 2-3 weeks.",
+        "快递5-7个工作日。标准航空件2-3周。"
+      ],
+      [
+        "A",
+        "Express, please. How much does it cost?",
+        "快递。多少钱？"
+      ],
+      [
+        "B",
+        "Let me weigh it. 2.5 kg to Canada is 65. Includes tracking and insurance up to 100.",
+        "我称一下。2.5公斤到加拿大65美元。包含追踪和最高100美元的保险。"
+      ],
+      [
+        "A",
+        "Do I need to fill out a customs declaration form?",
+        "我需要填写报关单吗？"
+      ],
+      [
+        "B",
+        "Yes, please declare the contents and their value. Be honest to avoid delays at customs.",
+        "是的，请申报物品内容和价值。如实填写以免海关延误。"
+      ],
+      [
+        "A",
+        "It's clothing and books, valued at $80. Is that okay?",
+        "是衣服和书，价值80美元。可以吗？"
+      ],
+      [
+        "B",
+        "That's fine. Here's your receipt with the tracking number. You can track it online.",
+        "没问题。这是你的收据和追踪单号。可以在网上查询。"
+      ]
+    ],
+    "words": [
+      [
+        "package",
+        "/phrase/",
+        "包裹",
+        "Practice using \"package\" in a real conversation."
+      ],
+      [
+        "tracking",
+        "/phrase/",
+        "追踪",
+        "Practice using \"tracking\" in a real conversation."
+      ],
+      [
+        "customs",
+        "/phrase/",
+        "海关",
+        "Practice using \"customs\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在自助餐厅打饭时遇到同事",
+    "difficulty": "初级",
+    "tip": "练习午餐时间的轻松对话。",
+    "lines": [
+      [
+        "A",
+        "Hey, I didn't know you eat here too! The pasta station is my favorite.",
+        "嘿，我不知道你也来这里吃！意面档是我的最爱。"
+      ],
+      [
+        "B",
+        "Same here! Their carbonara is actually pretty decent for a cafeteria.",
+        "我也是！他们的奶油培根意面在食堂里算相当不错的了。"
+      ],
+      [
+        "A",
+        "I'm getting the grilled salmon today. Need to eat healthy after last night's feast.",
+        "我今天吃烤三文鱼。昨晚大吃一顿后需要吃健康点。"
+      ],
+      [
+        "B",
+        "Ha! I know what you mean. I had pizza for dinner and I'm still feeling guilty.",
+        "哈！我懂。我晚餐吃了披萨，现在还觉得罪恶。"
+      ],
+      [
+        "A",
+        "Want to sit together? I found a table by the window.",
+        "要一起坐吗？我找了个靠窗的桌子。"
+      ],
+      [
+        "B",
+        "Sure! Let me grab a drink and I'll join you.",
+        "好啊！我拿杯饮料就过来。"
+      ],
+      [
+        "A",
+        "I'll save you a seat. Don't forget to try the dessert - the chocolate mousse is amazing today!",
+        "我给你留座。别忘了尝尝甜点——今天的巧克力慕斯超赞！"
+      ],
+      [
+        "B",
+        "You're dangerous! Now I have to get dessert too.",
+        "你真危险！现在我不得不也来份甜点了。"
+      ]
+    ],
+    "words": [
+      [
+        "cafeteria",
+        "/phrase/",
+        "食堂、自助餐厅",
+        "Practice using \"cafeteria\" in a real conversation."
+      ],
+      [
+        "station",
+        "/phrase/",
+        "档口、站点",
+        "Practice using \"station\" in a real conversation."
+      ],
+      [
+        "dessert",
+        "/phrase/",
+        "甜点",
+        "Practice using \"dessert\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区楼下遇到遛狗的邻居",
+    "difficulty": "初级",
+    "tip": "练习与邻居交流养狗心得。",
+    "lines": [
+      [
+        "A",
+        "What a beautiful dog! Is he friendly?",
+        "好漂亮的狗！他友善吗？"
+      ],
+      [
+        "B",
+        "Very friendly! He loves meeting new people. You can pet him if you'd like.",
+        "非常友善！他喜欢认识新朋友。你可以摸他。"
+      ],
+      [
+        "A",
+        "(Pets dog) Oh, he's so soft! What breed is he?",
+        "（摸狗）哦，他好软！是什么品种？"
+      ],
+      [
+        "B",
+        "He's a Golden Retriever. Two years old, but still acts like a puppy!",
+        "金毛寻回犬。两岁了，但还像个小狗一样！"
+      ],
+      [
+        "A",
+        "I've been thinking about getting a dog. Is this breed good for first-time owners?",
+        "我一直在考虑养狗。这个品种适合新手吗？"
+      ],
+      [
+        "B",
+        "Goldens are great for beginners. They're patient, intelligent, and eager to please.",
+        "金毛很适合新手。它们耐心、聪明，而且很愿意讨好主人。"
+      ],
+      [
+        "A",
+        "How much exercise do they need? I work long hours.",
+        "它们需要多少运动量？我工作时间长。"
+      ],
+      [
+        "B",
+        "At least an hour of walking daily. But if you're busy, a dog walker or daycare can help.",
+        "每天至少散步一小时。但如果忙的话，可以请遛狗人或送去日托。"
+      ]
+    ],
+    "words": [
+      [
+        "pet",
+        "/phrase/",
+        "抚摸、宠物",
+        "Practice using \"pet\" in a real conversation."
+      ],
+      [
+        "breed",
+        "/phrase/",
+        "品种",
+        "Practice using \"breed\" in a real conversation."
+      ],
+      [
+        "exercise",
+        "/phrase/",
+        "运动、锻炼",
+        "Practice using \"exercise\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在冰岛蓝湖泡温泉",
+    "difficulty": "初中级",
+    "tip": "练习享受自然景观和了解温泉特色。",
+    "lines": [
+      [
+        "A",
+        "This is unreal! The milky blue water against the black lava rocks is stunning.",
+        "太不真实了！乳蓝色的水和黑色的火山岩形成了 stunning 的对比。"
+      ],
+      [
+        "B",
+        "The water is the perfect temperature. I can feel the minerals doing wonders for my skin.",
+        "水温刚刚好。我能感觉到矿物质在滋养我的皮肤。"
+      ],
+      [
+        "A",
+        "I heard the silica mud is great for facials. Should we try it?",
+        "我听说硅藻泥做面膜很好。我们要试试吗？"
+      ],
+      [
+        "B",
+        "Absolutely! There's a hut where you can scoop it up. Let's get some.",
+        "当然！有个小亭子可以舀。我们去弄一些。"
+      ],
+      [
+        "A",
+        "(Applying mud) I must look ridiculous! But this feels amazing.",
+        "（涂泥）我看起来一定很可笑！但感觉太棒了。"
+      ],
+      [
+        "B",
+        "Everyone here looks like a mud monster. It's part of the experience!",
+        "这里每个人看起来都像泥怪物。这是体验的一部分！"
+      ],
+      [
+        "A",
+        "I could stay in this water forever. The steam rising in the cold air is magical.",
+        "我可以永远待在这个水里。冷空气中升腾的蒸汽太迷幻了。"
+      ],
+      [
+        "B",
+        "Let's stay until sunset. I heard the colors reflecting on the water are incredible.",
+        "我们待到日落吧。我听说映在水面上的色彩美得不可思议。"
+      ]
+    ],
+    "words": [
+      [
+        "geothermal",
+        "/phrase/",
+        "地热的",
+        "Practice using \"geothermal\" in a real conversation."
+      ],
+      [
+        "mineral",
+        "/phrase/",
+        "矿物质",
+        "Practice using \"mineral\" in a real conversation."
+      ],
+      [
+        "silica",
+        "/phrase/",
+        "二氧化硅、硅藻",
+        "Practice using \"silica\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在柬埔寨吴哥窟看日出",
+    "difficulty": "初中级",
+    "tip": "练习早起看日出和了解历史文化。",
+    "lines": [
+      [
+        "A",
+        "We woke up at 4 AM for this. I hope it's worth it!",
+        "我们凌晨4点起床就为了这个。希望值得！"
+      ],
+      [
+        "B",
+        "Trust me, it will be. The sun rising behind Angkor Wat is legendary.",
+        "相信我，会的。太阳在吴哥窟背后升起是传奇般的景象。"
+      ],
+      [
+        "A",
+        "Look, the sky is starting to change colors! Purple and orange!",
+        "看，天空开始变色了！紫色和橙色！"
+      ],
+      [
+        "B",
+        "And the temple silhouette is becoming clearer. This is the moment everyone waits for.",
+        "寺庙的轮廓也越来越清晰了。这就是大家等待的时刻。"
+      ],
+      [
+        "A",
+        "I've seen pictures, but nothing compares to seeing it in person.",
+        "我看过照片，但亲眼所见的感觉无可比拟。"
+      ],
+      [
+        "B",
+        "That's the magic of travel. Some things you just have to experience yourself.",
+        "这就是旅行的魔力。有些事情你必须亲身经历。"
+      ],
+      [
+        "A",
+        "(Sun rises) Wow. Just wow. I'm speechless.",
+        "（日出）哇。就一个字，哇。我说不出话了。"
+      ],
+      [
+        "B",
+        "Worth the early alarm, right? This is a memory we'll carry forever.",
+        "早起值得吧？这是我们永远珍藏的记忆。"
+      ]
+    ],
+    "words": [
+      [
+        "sunrise",
+        "/phrase/",
+        "日出",
+        "Practice using \"sunrise\" in a real conversation."
+      ],
+      [
+        "silhouette",
+        "/phrase/",
+        "轮廓、剪影",
+        "Practice using \"silhouette\" in a real conversation."
+      ],
+      [
+        "legendary",
+        "/phrase/",
+        "传奇的",
+        "Practice using \"legendary\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在瑞士少女峰山顶车站",
+    "difficulty": "初中级",
+    "tip": "练习高原反应应对和欣赏雪山风光。",
+    "lines": [
+      [
+        "A",
+        "We're at 3,454 meters! I can feel my ears popping.",
+        "我们在3454米的高度！我能感觉到耳朵在嗡鸣。"
+      ],
+      [
+        "B",
+        "Take it slow. The altitude can catch up with you. Breathe deeply.",
+        "放慢脚步。高原反应会悄悄袭来。深呼吸。"
+      ],
+      [
+        "A",
+        "The panoramic view is breathtaking. Snow-capped peaks as far as the eye can see.",
+        "全景令人叹为观止。目光所及皆是雪顶山峰。"
+      ],
+      [
+        "B",
+        "Look, you can see the Aletsch Glacier - the longest in the Alps.",
+        "看，你能看到阿莱奇冰川——阿尔卑斯山脉最长的冰川。"
+      ],
+      [
+        "A",
+        "I feel a bit dizzy. Should I sit down?",
+        "我有点头晕。需要坐下来吗？"
+      ],
+      [
+        "B",
+        "Yes, rest for a few minutes and drink some water. Don't push yourself.",
+        "是的，休息几分钟，喝点水。别勉强自己。"
+      ],
+      [
+        "A",
+        "I'm feeling better now. The chocolate bar helped!",
+        "我现在好多了。巧克力棒起了作用！"
+      ],
+      [
+        "B",
+        "Sugar and hydration are your best friends at high altitude. Let's explore the Ice Palace next!",
+        "在高海拔，糖分和水分是你最好的朋友。我们接下来去冰宫看看吧！"
+      ]
+    ],
+    "words": [
+      [
+        "altitude",
+        "/phrase/",
+        "海拔",
+        "Practice using \"altitude\" in a real conversation."
+      ],
+      [
+        "glacier",
+        "/phrase/",
+        "冰川",
+        "Practice using \"glacier\" in a real conversation."
+      ],
+      [
+        "panoramic",
+        "/phrase/",
+        "全景的",
+        "Practice using \"panoramic\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室收到匿名表扬信",
+    "difficulty": "初中级",
+    "tip": "练习接受赞扬和表达谦逊。",
+    "lines": [
+      [
+        "A",
+        "Tom, did you see the anonymous feedback board? Someone wrote a glowing review about you!",
+        "汤姆，你看到匿名反馈板了吗？有人写了对你赞不绝口的评价！"
+      ],
+      [
+        "B",
+        "Really? Let me see... \"Tom always goes above and beyond to help colleagues.\" That's so nice!",
+        "真的吗？我看看……\"汤姆总是竭尽全力帮助同事。\"太暖心了！"
+      ],
+      [
+        "A",
+        "Whoever wrote it is right. You helped me with that report last month until 9 PM.",
+        "不管是谁写的，说得没错。上个月你帮我改报告改到晚上9点。"
+      ],
+      [
+        "B",
+        "That's what teammates do. I'm glad someone appreciated it enough to write it down.",
+        "队友之间就该这样。很高兴有人记在心里还写了下来。"
+      ],
+      [
+        "A",
+        "I wonder who it was. The handwriting looks familiar...",
+        "我好奇是谁写的。笔迹看起来眼熟……"
+      ],
+      [
+        "B",
+        "Let's not try to figure it out. Anonymous means anonymous. I'll just take the compliment.",
+        "别猜了。匿名就是匿名。我就收下这份赞美吧。"
+      ],
+      [
+        "A",
+        "You deserve it. I'm nominating you for next month's Employee of the Month!",
+        "你应得的。我要提名你为下个月的月度最佳员工！"
+      ],
+      [
+        "B",
+        "You're too kind! But I'm just doing my job. Let's focus on the team's success.",
+        "你太好了！但我只是在做我的本职工作。我们关注团队的成功吧。"
+      ]
+    ],
+    "words": [
+      [
+        "anonymous",
+        "/phrase/",
+        "匿名的",
+        "Practice using \"anonymous\" in a real conversation."
+      ],
+      [
+        "feedback",
+        "/phrase/",
+        "反馈",
+        "Practice using \"feedback\" in a real conversation."
+      ],
+      [
+        "nominate",
+        "/phrase/",
+        "提名",
+        "Practice using \"nominate\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室分享育儿经验",
+    "difficulty": "初中级",
+    "tip": "练习与同事交流家庭生活和育儿心得。",
+    "lines": [
+      [
+        "A",
+        "You look tired today, Sarah. Everything okay?",
+        "莎拉，你今天看起来很累。还好吗？"
+      ],
+      [
+        "B",
+        "The baby kept me up all night. Teething is no joke!",
+        "宝宝闹了一整夜。长牙可不是闹着玩的！"
+      ],
+      [
+        "A",
+        "I remember those days. Have you tried frozen teething rings? They worked wonders for my son.",
+        "我记得那些日子。你试过冷冻牙胶吗？对我儿子效果奇好。"
+      ],
+      [
+        "B",
+        "I haven't! I'll pick some up today. Any other tips?",
+        "还没试过！我今天去买。还有其他建议吗？"
+      ],
+      [
+        "A",
+        "A gentle gum massage with a clean finger can also soothe them. And lots of patience!",
+        "用干净的手指轻轻按摩牙龈也能安抚他们。还有就是大量的耐心！"
+      ],
+      [
+        "B",
+        "Thanks! Being a first-time mom is overwhelming. Hearing from experienced parents helps.",
+        "谢谢！第一次当妈妈真的很不知所措。听听有经验的父母说话很有帮助。"
+      ],
+      [
+        "A",
+        "You're doing great. We've all been there. It gets easier, I promise.",
+        "你做得很好。我们都经历过。会越来越容易的，我保证。"
+      ],
+      [
+        "B",
+        "I needed to hear that. Thanks for being such a supportive colleague!",
+        "我需要听到这句话。谢谢你这么支持我！"
+      ]
+    ],
+    "words": [
+      [
+        "teething",
+        "/phrase/",
+        "长牙",
+        "Practice using \"teething\" in a real conversation."
+      ],
+      [
+        "soothe",
+        "/phrase/",
+        "安抚",
+        "Practice using \"soothe\" in a real conversation."
+      ],
+      [
+        "overwhelming",
+        "/phrase/",
+        "不知所措的",
+        "Practice using \"overwhelming\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室讨论团建地点",
+    "difficulty": "初级",
+    "tip": "练习集体决策和表达偏好。",
+    "lines": [
+      [
+        "A",
+        "Team, we need to decide on the venue for our quarterly team-building event.",
+        "团队，我们需要决定季度团建活动的地点。"
+      ],
+      [
+        "B",
+        "I vote for the mountain resort. Fresh air and hiking trails sound perfect.",
+        "我投山区度假村。新鲜空气和徒步小径听起来很完美。"
+      ],
+      [
+        "A",
+        "But some people might not be physically up for hiking. What about a beach resort?",
+        "但有些人可能体力上不适合徒步。海边度假村怎么样？"
+      ],
+      [
+        "B",
+        "Beach is good! Volleyball, swimming, and relaxing by the water.",
+        "海边不错！排球、游泳，在水边放松。"
+      ],
+      [
+        "A",
+        "How about we compromise? A lakeside cabin with both indoor activities and nature walks.",
+        "我们折中一下怎么样？湖边小屋，既有室内活动又有自然漫步。"
+      ],
+      [
+        "B",
+        "That could work for everyone. Is there one within our budget?",
+        "这样大家都能接受。预算内有合适的吗？"
+      ],
+      [
+        "A",
+        "I found one that fits. Lakeview Lodge, $150 per person for two nights. Includes meals.",
+        "我找到一个合适的。湖景旅馆，每人150美元两晚。含餐。"
+      ],
+      [
+        "B",
+        "Sounds great! Let's put it to a vote. All in favor?",
+        "听起来不错！我们投票吧。同意的举手？"
+      ]
+    ],
+    "words": [
+      [
+        "venue",
+        "/phrase/",
+        "场地",
+        "Practice using \"venue\" in a real conversation."
+      ],
+      [
+        "compromise",
+        "/phrase/",
+        "妥协、折中",
+        "Practice using \"compromise\" in a real conversation."
+      ],
+      [
+        "budget",
+        "/phrase/",
+        "预算",
+        "Practice using \"budget\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在墨西哥餐厅过生日",
+    "difficulty": "初中级",
+    "tip": "练习在餐厅庆祝生日和享受特色服务。",
+    "lines": [
+      [
+        "A",
+        "Happy birthday! I reserved a table at this Mexican restaurant. They have a live mariachi band!",
+        "生日快乐！我在这家墨西哥餐厅订了位。他们有现场墨西哥流浪乐队！"
+      ],
+      [
+        "B",
+        "No way! This is the best birthday surprise ever!",
+        "不会吧！这是有史以来最好的生日惊喜！"
+      ],
+      [
+        "A",
+        "Let's start with guacamole made fresh at your table. And margaritas, of course!",
+        "我们先来个桌边现做的鳄梨酱。当然还有玛格丽特！"
+      ],
+      [
+        "B",
+        "I'm already in heaven. The music, the colors, the smells - it's so festive!",
+        "我已经在天堂了。音乐、色彩、气味——太有节日气氛了！"
+      ],
+      [
+        "A",
+        "(Mariachi approaches) They're playing \"Las Mañanitas\" for you!",
+        "（乐队走近）他们在为你演奏《Las Mañanitas》！"
+      ],
+      [
+        "B",
+        "I'm going to cry! This is so special. Thank you, everyone!",
+        "我要哭了！太特别了。谢谢大家！"
+      ],
+      [
+        "A",
+        "Make a wish before you blow out the candle on this churro \"cake\"!",
+        "在吹灭这根吉事果\"蛋糕\"上的蜡烛前许个愿！"
+      ],
+      [
+        "B",
+        "I wish for many more birthdays surrounded by friends like you!",
+        "我希望能有更多生日被你们这样的朋友包围！"
+      ]
+    ],
+    "words": [
+      [
+        "mariachi",
+        "/phrase/",
+        "墨西哥流浪乐队",
+        "Practice using \"mariachi\" in a real conversation."
+      ],
+      [
+        "guacamole",
+        "/phrase/",
+        "鳄梨酱",
+        "Practice using \"guacamole\" in a real conversation."
+      ],
+      [
+        "margarita",
+        "/phrase/",
+        "玛格丽特鸡尾酒",
+        "Practice using \"margarita\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在波兰饺子馆品尝传统美食",
+    "difficulty": "初中级",
+    "tip": "练习了解东欧饮食文化和尝试新口味。",
+    "lines": [
+      [
+        "A",
+        "Pierogi! I've heard so much about these Polish dumplings.",
+        "波兰饺子！我听过很多关于这种波兰饺子的说法。"
+      ],
+      [
+        "B",
+        "They're a national treasure. You can get them with savory or sweet fillings.",
+        "它们是国宝级的。有咸馅和甜馅两种。"
+      ],
+      [
+        "A",
+        "I'll try the classic - potato and cheese. And the mushroom and sauerkraut.",
+        "我试试经典款——土豆芝士馅。再来个蘑菇酸菜馅的。"
+      ],
+      [
+        "B",
+        "Great choices! They're served with fried onions and a dollop of sour cream.",
+        "好选择！配着炸洋葱和一勺酸奶油上桌。"
+      ],
+      [
+        "A",
+        "(Tastes) The dough is so soft! And the filling is creamy and comforting.",
+        "（品尝）面皮好软！馅料绵密又暖心。"
+      ],
+      [
+        "B",
+        "Now try dipping it in the bacon fat sauce. It takes it to another level!",
+        "现在蘸一下培根油酱。味道更上一层楼！"
+      ],
+      [
+        "A",
+        "Oh my god. That's incredible. I need to learn how to make these at home.",
+        "天哪。太好吃了。我得学着在家做。"
+      ],
+      [
+        "B",
+        "The owner's grandmother is in the kitchen making them by hand. Maybe she'll share her secrets!",
+        "老板的祖母在厨房里亲手做。也许她会分享秘诀！"
+      ]
+    ],
+    "words": [
+      [
+        "pierogi",
+        "/phrase/",
+        "波兰饺子",
+        "Practice using \"pierogi\" in a real conversation."
+      ],
+      [
+        "dumpling",
+        "/phrase/",
+        "饺子、团子",
+        "Practice using \"dumpling\" in a real conversation."
+      ],
+      [
+        "sour cream",
+        "/phrase/",
+        "酸奶油",
+        "Practice using \"sour cream\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在甜品店抱怨分量太小",
+    "difficulty": "初级",
+    "tip": "练习表达不满和幽默化解尴尬。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, is this the full portion? It looks... petite.",
+        "打扰一下，这是全份的量吗？看起来……很精致。"
+      ],
+      [
+        "B",
+        "Yes, it's our signature deconstructed cheesecake. The flavors are very concentrated.",
+        "是的，这是我们招牌的解构芝士蛋糕。味道非常浓缩。"
+      ],
+      [
+        "A",
+        "Concentrated or not, I paid $12 for three bites!",
+        "不管浓不浓缩，我花了12美元就吃了三口！"
+      ],
+      [
+        "B",
+        "I understand your concern. Let me bring you a complimentary side of ice cream to balance it out.",
+        "我理解您的顾虑。我给您免费加一份冰淇淋来平衡一下。"
+      ],
+      [
+        "A",
+        "That's very kind. I guess good things come in small packages?",
+        "你太好了。也许好东西都是小包装的吧？"
+      ],
+      [
+        "B",
+        "(Returns with ice cream) Here you go. And I'll add an extra cookie on the house.",
+        "（带着冰淇淋回来）给您。我再送您一块免费饼干。"
+      ],
+      [
+        "A",
+        "Now this looks like a proper dessert! Thank you for making it right.",
+        "现在看起来像个像样的甜点了！谢谢你妥善处理。"
+      ],
+      [
+        "B",
+        "My pleasure. We value your feedback. Hope you'll give us another chance!",
+        "不客气。我们重视您的反馈。希望您再给我们一次机会！"
+      ]
+    ],
+    "words": [
+      [
+        "portion",
+        "/phrase/",
+        "份量",
+        "Practice using \"portion\" in a real conversation."
+      ],
+      [
+        "complimentary",
+        "/phrase/",
+        "免费赠送的",
+        "Practice using \"complimentary\" in a real conversation."
+      ],
+      [
+        "on the house",
+        "/phrase/",
+        "店家请客、免费的",
+        "Practice using \"on the house\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在音响店试听耳机",
+    "difficulty": "中级",
+    "tip": "练习比较音质和询问技术参数。",
+    "lines": [
+      [
+        "A",
+        "I'm looking for noise-cancelling headphones for commuting.",
+        "我在找通勤用的降噪耳机。"
+      ],
+      [
+        "B",
+        "Let me show you our top two models. Sony and Bose are the industry leaders.",
+        "我给你看看两款最好的。索尼和博士是行业领先品牌。"
+      ],
+      [
+        "A",
+        "Can I test them with my own playlist?",
+        "我能用我自己的播放列表试听吗？"
+      ],
+      [
+        "B",
+        "Of course. Plug into this demo station and compare the sound profiles.",
+        "当然。插到这个试听台上，比较一下音质特点。"
+      ],
+      [
+        "A",
+        "The Sony has deeper bass, but the Bose is more balanced. Tough choice.",
+        "索尼的低音更深沉，但博士更均衡。好难选。"
+      ],
+      [
+        "B",
+        "Consider the comfort too. Wear them for a few minutes to see which feels better.",
+        "也要考虑舒适度。戴几分钟感受一下哪个更舒服。"
+      ],
+      [
+        "A",
+        "The Bose feels lighter on my head. And the noise cancellation is incredible. I'll go with these.",
+        "博士戴在头上更轻。降噪效果也惊人。我选这个。"
+      ],
+      [
+        "B",
+        "Excellent choice. They come with a carrying case and a 2-year warranty.",
+        "好选择。附赠收纳盒和两年保修。"
+      ]
+    ],
+    "words": [
+      [
+        "noise-cancelling",
+        "/phrase/",
+        "降噪的",
+        "Practice using \"noise-cancelling\" in a real conversation."
+      ],
+      [
+        "bass",
+        "/phrase/",
+        "低音",
+        "Practice using \"bass\" in a real conversation."
+      ],
+      [
+        "sound profile",
+        "/phrase/",
+        "音质特点",
+        "Practice using \"sound profile\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在古董相机店淘老相机",
+    "difficulty": "中高级",
+    "tip": "练习了解摄影历史和检查器材状况。",
+    "lines": [
+      [
+        "A",
+        "This Leica M3 is a beauty! Is it still functional?",
+        "这台徕卡M3太美了！还能用吗？"
+      ],
+      [
+        "B",
+        "Fully functional. I had it serviced last month. The shutter fires accurately at all speeds.",
+        "功能完好。我上个月刚保养过。快门在所有速度下都精准触发。"
+      ],
+      [
+        "A",
+        "Can I look through the viewfinder? The rangefinder patch looks clear.",
+        "我能看看取景器吗？测距仪对焦屏看起来很清晰。"
+      ],
+      [
+        "B",
+        "Go ahead. The glass is pristine - no scratches or fungus.",
+        "请看。镜片完美无瑕——没有划痕或霉斑。"
+      ],
+      [
+        "A",
+        "How much are you asking? I've been saving up for one of these.",
+        "你开价多少？我一直在攒钱买一台。"
+      ],
+      [
+        "B",
+        "$1,800. It's a fair price for a classic in this condition. Comes with the original leather case.",
+        "1800美元。对于这个品相的经典机型来说价格公道。附送原装皮套。"
+      ],
+      [
+        "A",
+        "That's within my budget. I'll take it. Do you have film for sale too?",
+        "在我预算内。我买了。你们也卖胶卷吗？"
+      ],
+      [
+        "B",
+        "Yes, I have Kodak Portra and Tri-X in stock. Starting your film photography journey!",
+        "有的，我有柯达Portra和Tri-X胶卷现货。开启你的胶片摄影之旅吧！"
+      ]
+    ],
+    "words": [
+      [
+        "viewfinder",
+        "/phrase/",
+        "取景器",
+        "Practice using \"viewfinder\" in a real conversation."
+      ],
+      [
+        "shutter",
+        "/phrase/",
+        "快门",
+        "Practice using \"shutter\" in a real conversation."
+      ],
+      [
+        "rangefinder",
+        "/phrase/",
+        "测距仪",
+        "Practice using \"rangefinder\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在情趣用品店选购礼物",
+    "difficulty": "中级",
+    "tip": "练习得体地询问产品和表达需求。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'm looking for a gift for my partner. Something to spice things up.",
+        "你好，我在找送给伴侣的礼物。想增添一点情趣。"
+      ],
+      [
+        "B",
+        "Great! Do you have any idea what you're looking for? Something playful or more serious?",
+        "太好了！你有什么想法吗？是趣味型的还是更认真的？"
+      ],
+      [
+        "A",
+        "Something beginner-friendly. We're new to this.",
+        "适合初学者的。我们是新手。"
+      ],
+      [
+        "B",
+        "This massage candle is a great starting point. It melts into warm oil and is completely body-safe.",
+        "这款按摩蜡烛是个很好的起点。融化后变成温热的精油，对身体完全安全。"
+      ],
+      [
+        "A",
+        "That sounds lovely and not intimidating. What scent options are there?",
+        "听起来很温馨，也不会让人有压力。有什么香味可选？"
+      ],
+      [
+        "B",
+        "Lavender for relaxation, vanilla for sweetness, or unscented for sensitive skin.",
+        "薰衣草助放松，香草添甜蜜，无香型适合敏感肌肤。"
+      ],
+      [
+        "A",
+        "Lavender, please. Can you gift-wrap it?",
+        "薰衣草的。能礼品包装吗？"
+      ],
+      [
+        "B",
+        "Of course. Discreet packaging and a plain gift bag. Your privacy is guaranteed.",
+        "当然。低调包装，素色礼品袋。您的隐私有保障。"
+      ]
+    ],
+    "words": [
+      [
+        "massage",
+        "/phrase/",
+        "按摩",
+        "Practice using \"massage\" in a real conversation."
+      ],
+      [
+        "discreet",
+        "/phrase/",
+        "谨慎的、低调的",
+        "Practice using \"discreet\" in a real conversation."
+      ],
+      [
+        "intimidating",
+        "/phrase/",
+        "令人生畏的",
+        "Practice using \"intimidating\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园草坪上晒太阳看书",
+    "difficulty": "初级",
+    "tip": "练习描述休闲活动和感受。",
+    "lines": [
+      [
+        "A",
+        "Finally, a sunny day after a week of rain! This spot on the lawn is perfect.",
+        "下了一周雨后终于晴天了！草坪上这个位置太完美了。"
+      ],
+      [
+        "B",
+        "I know! I brought a blanket and my favorite novel. Pure bliss.",
+        "就是！我带了毯子和最爱的小说。纯粹的幸福。"
+      ],
+      [
+        "A",
+        "What are you reading? I need a new book recommendation.",
+        "你在读什么？我需要新的书推荐。"
+      ],
+      [
+        "B",
+        "\"Where the Crawdads Sing.\" It's beautifully written - part mystery, part coming-of-age story.",
+        "《沼泽深处的女孩》。写得非常美——既是悬疑又是成长故事。"
+      ],
+      [
+        "A",
+        "I've heard great things about it! Can I borrow it when you're done?",
+        "我听说过很多好评！你读完了能借我吗？"
+      ],
+      [
+        "B",
+        "Of course! I'm almost finished. Maybe by tomorrow.",
+        "当然！我快读完了。也许明天就行。"
+      ],
+      [
+        "A",
+        "Perfect. Days like this remind me why I love campus life. Sun, books, and good company.",
+        "完美。这样的日子提醒我为什么热爱校园生活。阳光、书本和好友相伴。"
+      ],
+      [
+        "B",
+        "Don't forget the occasional ice cream from the campus shop!",
+        "别忘了偶尔从校园小店买个冰淇淋！"
+      ]
+    ],
+    "words": [
+      [
+        "lawn",
+        "/phrase/",
+        "草坪",
+        "Practice using \"lawn\" in a real conversation."
+      ],
+      [
+        "novel",
+        "/phrase/",
+        "小说",
+        "Practice using \"novel\" in a real conversation."
+      ],
+      [
+        "bliss",
+        "/phrase/",
+        "极乐、幸福",
+        "Practice using \"bliss\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在宿舍讨论毕业旅行计划",
+    "difficulty": "初中级",
+    "tip": "练习规划旅行和协调不同意见。",
+    "lines": [
+      [
+        "A",
+        "Graduation is in two months! We need to plan our grad trip ASAP.",
+        "还有两个月就毕业了！我们得赶紧计划毕业旅行。"
+      ],
+      [
+        "B",
+        "I'm thinking Thailand. Beaches, temples, and cheap street food!",
+        "我在想泰国。海滩、寺庙和便宜的街头小吃！"
+      ],
+      [
+        "A",
+        "Thailand sounds fun, but I've been there before. How about Japan?",
+        "泰国听起来不错，但我去过了。日本怎么样？"
+      ],
+      [
+        "B",
+        "Japan is more expensive. We're on a student budget, remember?",
+        "日本更贵。我们可是学生预算，记得吗？"
+      ],
+      [
+        "A",
+        "True. What about Vietnam? It's affordable and has amazing landscapes.",
+        "说得对。越南呢？物价便宜，风景又美。"
+      ],
+      [
+        "B",
+        "I've heard Ha Long Bay is breathtaking. And the food is incredible.",
+        "我听说下龙湾美得令人窒息。食物也超棒。"
+      ],
+      [
+        "A",
+        "Let's do Vietnam! I'll start researching flights and hostels tonight.",
+        "就去越南吧！我今晚就开始查机票和青旅。"
+      ],
+      [
+        "B",
+        "I'll look into the itinerary. This is going to be the trip of a lifetime before we start our jobs!",
+        "我来研究行程。这将是我们工作前一生一次的旅行！"
+      ]
+    ],
+    "words": [
+      [
+        "grad trip",
+        "/phrase/",
+        "毕业旅行",
+        "Practice using \"grad trip\" in a real conversation."
+      ],
+      [
+        "budget",
+        "/phrase/",
+        "预算",
+        "Practice using \"budget\" in a real conversation."
+      ],
+      [
+        "landscape",
+        "/phrase/",
+        "风景、地貌",
+        "Practice using \"landscape\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园心理咨询中心求助",
+    "difficulty": "中高级",
+    "tip": "练习表达学业压力和寻求心理支持。",
+    "lines": [
+      [
+        "A",
+        "Counselor, I've been feeling overwhelmed by exam pressure. I can't concentrate.",
+        "咨询师，我被考试压力压得喘不过气来。我无法集中注意力。"
+      ],
+      [
+        "B",
+        "That's a common experience among students. Let's explore what's triggering this anxiety.",
+        "这在学生中很常见。我们来探讨一下是什么触发了这种焦虑。"
+      ],
+      [
+        "A",
+        "I'm afraid of disappointing my parents. They have high expectations.",
+        "我害怕让父母失望。他们对我的期望很高。"
+      ],
+      [
+        "B",
+        "It's important to remember that your worth isn't defined by exam scores.",
+        "重要的是要记住，你的价值不是由考试成绩定义的。"
+      ],
+      [
+        "A",
+        "Logically I know that, but emotionally I can't shake the fear.",
+        "理智上我知道，但情感上我摆脱不了这种恐惧。"
+      ],
+      [
+        "B",
+        "Let's practice some grounding techniques. When you feel anxious, try the 5-4-3-2-1 method.",
+        "我们来练习一些接地技巧。当你感到焦虑时，试试5-4-3-2-1方法。"
+      ],
+      [
+        "A",
+        "Name 5 things I see, 4 I can touch, 3 I hear, 2 I smell, and 1 I taste?",
+        "说出5样看到的、4样触摸到的、3样听到的、2样闻到的和1样尝到的？"
+      ],
+      [
+        "B",
+        "Exactly. It brings you back to the present moment. Let's try it together right now.",
+        "正是。它把你带回当下。我们现在一起试试。"
+      ]
+    ],
+    "words": [
+      [
+        "counselor",
+        "/phrase/",
+        "咨询师",
+        "Practice using \"counselor\" in a real conversation."
+      ],
+      [
+        "anxiety",
+        "/phrase/",
+        "焦虑",
+        "Practice using \"anxiety\" in a real conversation."
+      ],
+      [
+        "grounding technique",
+        "/phrase/",
+        "接地技巧",
+        "Practice using \"grounding technique\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在朋友家一起做饭聚餐",
+    "difficulty": "初级",
+    "tip": "练习分工合作和分享烹饪乐趣。",
+    "lines": [
+      [
+        "A",
+        "I'll chop the vegetables. Who's in charge of the main dish?",
+        "我来切菜。谁负责主菜？"
+      ],
+      [
+        "B",
+        "I'll handle the pasta. My grandma's recipe is foolproof.",
+        "我来做意面。我奶奶的配方绝不会失败。"
+      ],
+      [
+        "A",
+        "Great! I'll make the salad dressing from scratch.",
+        "太好了！我来从头做沙拉酱。"
+      ],
+      [
+        "B",
+        "Don't forget the garlic bread! It's not a pasta night without it.",
+        "别忘了蒜香面包！没有它就不是意面之夜。"
+      ],
+      [
+        "A",
+        "(While cooking) This kitchen is getting chaotic but I love it.",
+        "（做饭时）厨房虽然乱成一团，但我好喜欢。"
+      ],
+      [
+        "B",
+        "That's the sign of a good dinner party! Everyone contributing and having fun.",
+        "这就是好晚宴的标志！人人出力，人人开心。"
+      ],
+      [
+        "A",
+        "(Sitting down to eat) Everything looks amazing! Let's dig in.",
+        "（坐下准备吃）每道菜看起来都太棒了！我们开动吧。"
+      ],
+      [
+        "B",
+        "Cheers to good food and even better company!",
+        "为美食和更棒的伙伴干杯！"
+      ]
+    ],
+    "words": [
+      [
+        "chop",
+        "/phrase/",
+        "切",
+        "Practice using \"chop\" in a real conversation."
+      ],
+      [
+        "recipe",
+        "/phrase/",
+        "食谱",
+        "Practice using \"recipe\" in a real conversation."
+      ],
+      [
+        "from scratch",
+        "/phrase/",
+        "从头做起",
+        "Practice using \"from scratch\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在酒吧为朋友解围",
+    "difficulty": "初中级",
+    "tip": "练习在社交场合帮助朋友摆脱尴尬。",
+    "lines": [
+      [
+        "A",
+        "That guy has been bothering my friend for 10 minutes. She looks uncomfortable.",
+        "那个人缠着我朋友十分钟了。她看起来很不自在。"
+      ],
+      [
+        "B",
+        "Let's go over and help. Hey, Lisa! We were looking for you!",
+        "我们过去帮忙。嘿，丽莎！我们在找你呢！"
+      ],
+      [
+        "A",
+        "(To the stranger) Sorry, we need to borrow our friend. Important matter to discuss.",
+        "（对陌生人说）不好意思，我们得借走我们的朋友。有要事商量。"
+      ],
+      [
+        "B",
+        "(Walking away) Thanks, you two! I didn't know how to get out of that conversation.",
+        "（走开后）谢谢你们两个！我不知道怎么脱身。"
+      ],
+      [
+        "A",
+        "No problem. That's what friends are for. Want to grab a drink at the other end of the bar?",
+        "没事。朋友就是干这个的。要去吧台另一头喝一杯吗？"
+      ],
+      [
+        "B",
+        "Yes, please! Away from Creepy McCreeperson.",
+        "好的！离那个 creepy 的家伙远一点。"
+      ],
+      [
+        "A",
+        "We've got your back. Let's have fun and forget about him.",
+        "我们罩着你。我们玩开心点，把他忘了。"
+      ],
+      [
+        "B",
+        "You're the best. I'm lucky to have friends who look out for me.",
+        "你们最好了。有你们照顾我，我真幸运。"
+      ]
+    ],
+    "words": [
+      [
+        "uncomfortable",
+        "/phrase/",
+        "不自在的",
+        "Practice using \"uncomfortable\" in a real conversation."
+      ],
+      [
+        "borrow",
+        "/phrase/",
+        "借走",
+        "Practice using \"borrow\" in a real conversation."
+      ],
+      [
+        "look out for",
+        "/phrase/",
+        "照顾、关照",
+        "Practice using \"look out for\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在汉服活动中结识同好",
+    "difficulty": "初中级",
+    "tip": "练习因共同爱好结交朋友。",
+    "lines": [
+      [
+        "A",
+        "Your hanfu is gorgeous! Is it from the Tang Dynasty style?",
+        "你的汉服好美！是唐朝风格的吗？"
+      ],
+      [
+        "B",
+        "Yes! You know your eras. I see you're wearing Ming Dynasty style. The horse-face skirt is lovely!",
+        "是的！你很懂朝代。我看到你穿的是明朝风格的。马面裙好漂亮！"
+      ],
+      [
+        "A",
+        "Thank you! I made it myself. I've been sewing hanfu for three years.",
+        "谢谢！我自己做的。我做汉服已经三年了。"
+      ],
+      [
+        "B",
+        "That's incredible! The embroidery is exquisite. Do you teach workshops?",
+        "太厉害了！刺绣好精致。你开工作坊吗？"
+      ],
+      [
+        "A",
+        "Not yet, but I've been thinking about it. I have so many patterns to share.",
+        "还没，但我一直在考虑。我有好多纸样想分享。"
+      ],
+      [
+        "B",
+        "You should! I would sign up immediately. There's a hanfu club meeting next week. Want to come?",
+        "你应该开！我立刻报名。下周有汉服社聚会。要来吗？"
+      ],
+      [
+        "A",
+        "I'd love to! I've been looking for a community of hanfu enthusiasts.",
+        "我很乐意！我一直在找汉服爱好者的圈子。"
+      ],
+      [
+        "B",
+        "Perfect! Let me add you to our group chat. You'll fit right in!",
+        "完美！我拉你进群。你一定会融入的！"
+      ]
+    ],
+    "words": [
+      [
+        "hanfu",
+        "/phrase/",
+        "汉服",
+        "Practice using \"hanfu\" in a real conversation."
+      ],
+      [
+        "embroidery",
+        "/phrase/",
+        "刺绣",
+        "Practice using \"embroidery\" in a real conversation."
+      ],
+      [
+        "enthusiast",
+        "/phrase/",
+        "爱好者",
+        "Practice using \"enthusiast\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在肠胃科做胃镜检查",
+    "difficulty": "中高级",
+    "tip": "练习描述消化道症状和了解检查流程。",
+    "lines": [
+      [
+        "A",
+        "Doctor, I've had persistent heartburn and stomach pain for months.",
+        "医生，我持续胃灼热和胃痛好几个月了。"
+      ],
+      [
+        "B",
+        "That warrants an endoscopy. We need to look inside your stomach and esophagus.",
+        "那需要做胃镜。我们需要查看你的胃和食道内部。"
+      ],
+      [
+        "A",
+        "I'm nervous about the procedure. Will I be awake?",
+        "我对这个过程很紧张。我会醒着吗？"
+      ],
+      [
+        "B",
+        "You'll be sedated. Most patients don't remember anything. It takes about 15 minutes.",
+        "你会被镇静。大多数患者什么都不记得。过程大约15分钟。"
+      ],
+      [
+        "A",
+        "Do I need to prepare anything beforehand?",
+        "我需要提前做什么准备吗？"
+      ],
+      [
+        "B",
+        "Nothing to eat or drink for 8 hours before. Arrange for someone to drive you home afterward.",
+        "术前8小时禁食禁水。安排人开车送你回家。"
+      ],
+      [
+        "A",
+        "(After procedure) That wasn't bad at all! What did you find?",
+        "（检查后）一点都不难受！你发现了什么？"
+      ],
+      [
+        "B",
+        "Mild gastritis and acid reflux. We'll prescribe medication and discuss dietary changes.",
+        "轻度胃炎和胃酸反流。我们开药并讨论饮食调整。"
+      ]
+    ],
+    "words": [
+      [
+        "endoscopy",
+        "/phrase/",
+        "内窥镜检查",
+        "Practice using \"endoscopy\" in a real conversation."
+      ],
+      [
+        "gastritis",
+        "/phrase/",
+        "胃炎",
+        "Practice using \"gastritis\" in a real conversation."
+      ],
+      [
+        "sedate",
+        "/phrase/",
+        "使镇静",
+        "Practice using \"sedate\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在康复科做颈椎牵引",
+    "difficulty": "初中级",
+    "tip": "练习描述颈椎不适和接受物理治疗。",
+    "lines": [
+      [
+        "A",
+        "My neck has been stiff for weeks. I think it's from working at a computer all day.",
+        "我的脖子僵了好几周了。我觉得是整天对着电脑工作造成的。"
+      ],
+      [
+        "B",
+        "Let me assess your range of motion. Turn your head to the left... Does it hurt?",
+        "我来评估一下你的活动范围。头向左转……疼吗？"
+      ],
+      [
+        "A",
+        "Yes, right here. And I get headaches at the end of the day.",
+        "疼，就是这里。而且我每天下班时都会头痛。"
+      ],
+      [
+        "B",
+        "Classic symptoms of cervical spondylosis. We'll start with traction therapy to decompress the spine.",
+        "颈椎病的典型症状。我们从牵引治疗开始，给脊柱减压。"
+      ],
+      [
+        "A",
+        "What does traction feel like?",
+        "牵引是什么感觉？"
+      ],
+      [
+        "B",
+        "A gentle pulling sensation. It's not painful. Most patients find it very relaxing.",
+        "一种温和的牵拉感。不疼。大多数患者觉得非常放松。"
+      ],
+      [
+        "A",
+        "(During treatment) This actually feels good! My neck is stretching out.",
+        "（治疗中）这居然还挺舒服的！我的脖子在被拉伸。"
+      ],
+      [
+        "B",
+        "Great! We'll do this three times a week. Combined with posture correction exercises, you'll see improvement.",
+        "很好！我们每周做三次。结合体态矫正练习，你会看到改善的。"
+      ]
+    ],
+    "words": [
+      [
+        "traction",
+        "/phrase/",
+        "牵引",
+        "Practice using \"traction\" in a real conversation."
+      ],
+      [
+        "cervical",
+        "/phrase/",
+        "颈部的",
+        "Practice using \"cervical\" in a real conversation."
+      ],
+      [
+        "posture",
+        "/phrase/",
+        "姿势、体态",
+        "Practice using \"posture\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在戒毒所探望朋友",
+    "difficulty": "中高级",
+    "tip": "练习表达支持和鼓励康复。",
+    "lines": [
+      [
+        "A",
+        "It's so good to see you. You look healthier than last time.",
+        "看到你真好。你看起来比上次健康多了。"
+      ],
+      [
+        "B",
+        "I'm doing better. 60 days clean today. One day at a time.",
+        "我好多了。今天戒断60天了。一天一天来。"
+      ],
+      [
+        "A",
+        "I'm so proud of you. That takes incredible strength.",
+        "我真为你骄傲。这需要极大的勇气。"
+      ],
+      [
+        "B",
+        "It's not easy, but the support group here helps. And knowing I have friends like you outside.",
+        "不容易，但这里的互助小组帮了我很多。还有知道外面有你这样的朋友。"
+      ],
+      [
+        "A",
+        "I brought your favorite books and some photos from our hiking trips. To remind you of the good times.",
+        "我给你带来了你最喜欢的书和我们徒步旅行的照片。提醒你那些美好的时光。"
+      ],
+      [
+        "B",
+        "(Eyes tearing up) Thank you. I look at those memories when I feel weak.",
+        "（眼眶湿润）谢谢。当我感到软弱时，我会看看那些回忆。"
+      ],
+      [
+        "A",
+        "When you get out, we'll go on that camping trip we always talked about.",
+        "等你出来，我们就去我们一直说的露营旅行。"
+      ],
+      [
+        "B",
+        "I'm holding you to that. Having something to look forward to keeps me going.",
+        "我记住你的话了。有盼头让我坚持下去。"
+      ]
+    ],
+    "words": [
+      [
+        "clean",
+        "/phrase/",
+        "戒断的、干净的",
+        "Practice using \"clean\" in a real conversation."
+      ],
+      [
+        "support group",
+        "/phrase/",
+        "互助小组",
+        "Practice using \"support group\" in a real conversation."
+      ],
+      [
+        "look forward to",
+        "/phrase/",
+        "期待",
+        "Practice using \"look forward to\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在公交车上遇到钱包被偷",
+    "difficulty": "初中级",
+    "tip": "练习紧急求助和报警流程。",
+    "lines": [
+      [
+        "A",
+        "Oh no! My wallet is gone! Someone must have pickpocketed me on the bus.",
+        "糟了！我的钱包不见了！一定是在公交车上被人扒了。"
+      ],
+      [
+        "B",
+        "Did you feel anything? When was the last time you saw it?",
+        "你感觉到了吗？最后一次看到是什么时候？"
+      ],
+      [
+        "A",
+        "I had it when I got on. I think it happened when the bus was crowded.",
+        "上车时还在。我想是公交车拥挤的时候发生的。"
+      ],
+      [
+        "B",
+        "Let's tell the bus driver. They can lock the doors and call the police.",
+        "我们告诉公交司机。他们可以锁车门并报警。"
+      ],
+      [
+        "A",
+        "Driver! Someone stole my wallet! Can you help? C: I'll pull over and call the police. Did anyone see anything suspicious?",
+        "司机！有人偷了我的钱包！能帮忙吗？ C：我靠边停车并报警。有人看到可疑的人吗？"
+      ],
+      [
+        "B",
+        "I remember a man in a blue jacket pushing past us at the last stop.",
+        "我记得上一站有个穿蓝夹克的男人从我们身边挤过去。"
+      ],
+      [
+        "A",
+        "(Police arrive) I'll file a report. Luckily my phone was in my pocket, not my wallet.",
+        "（警察来了）我去报案。幸好我的手机在口袋里，不在钱包里。"
+      ],
+      [
+        "B",
+        "Call your bank to freeze your cards immediately. I'll help you cancel your IDs.",
+        "立刻打电话给银行冻结你的卡。我帮你挂失证件。"
+      ]
+    ],
+    "words": [
+      [
+        "pickpocket",
+        "/phrase/",
+        "扒手、扒窃",
+        "Practice using \"pickpocket\" in a real conversation."
+      ],
+      [
+        "suspicious",
+        "/phrase/",
+        "可疑的",
+        "Practice using \"suspicious\" in a real conversation."
+      ],
+      [
+        "freeze",
+        "/phrase/",
+        "冻结",
+        "Practice using \"freeze\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在自助饮水机接水时聊天",
+    "difficulty": "初级",
+    "tip": "练习办公室日常简短交流。",
+    "lines": [
+      [
+        "A",
+        "I swear this water dispenser knows when I'm in a hurry. It's always the slowest then.",
+        "我发誓这台饮水机知道我赶时间。越是着急它就越慢。"
+      ],
+      [
+        "B",
+        "Ha! Mine too. I've started bringing a bigger bottle so I don't have to refill as often.",
+        "哈！我的也是。我开始带大瓶子，这样就不用频繁接了。"
+      ],
+      [
+        "A",
+        "Smart! I should do that. I'm trying to drink more water anyway.",
+        "聪明！我也该这么做。反正我也在努力多喝水。"
+      ],
+      [
+        "B",
+        "Me too. I set a reminder on my phone to drink every hour.",
+        "我也是。我在手机上设了每小时喝水的提醒。"
+      ],
+      [
+        "A",
+        "Does it work? I always ignore my reminders after the first week.",
+        "有用吗？我总是在第一周后就忽略提醒了。"
+      ],
+      [
+        "B",
+        "It helps. But honestly, seeing you here every time I refill is a better reminder!",
+        "有帮助。但说实话，每次接水都看到你才是更好的提醒！"
+      ],
+      [
+        "A",
+        "Ha! I'll take that as a compliment. Hydration buddies!",
+        "哈！我当这是夸奖了。补水伙伴！"
+      ],
+      [
+        "B",
+        "Deal! Let's hold each other accountable. Cheers with our water bottles!",
+        "成交！我们互相监督。用水瓶干杯！"
+      ]
+    ],
+    "words": [
+      [
+        "water dispenser",
+        "/phrase/",
+        "饮水机",
+        "Practice using \"water dispenser\" in a real conversation."
+      ],
+      [
+        "refill",
+        "/phrase/",
+        "续杯、加水",
+        "Practice using \"refill\" in a real conversation."
+      ],
+      [
+        "hydration",
+        "/phrase/",
+        "补水、水合作用",
+        "Practice using \"hydration\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区楼下等维修师傅上门",
+    "difficulty": "初中级",
+    "tip": "练习与物业沟通和协调时间。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'm waiting for the repairman. He said he'd be here between 2 and 4 PM.",
+        "你好，我在等维修师傅。他说下午2点到4点之间来。"
+      ],
+      [
+        "B",
+        "It's already 3:30. Have you called to check?",
+        "已经3点半了。你打电话问了吗？"
+      ],
+      [
+        "A",
+        "Yes, he said he's running late. The previous job took longer than expected.",
+        "打了，他说他晚了。上一个活比预计时间长。"
+      ],
+      [
+        "B",
+        "That's frustrating when you've taken time off work to be here.",
+        "你请假在家等，确实让人郁闷。"
+      ],
+      [
+        "A",
+        "Tell me about it. I had to reschedule a meeting for this.",
+        "可不是嘛。我为此改了一个会议。"
+      ],
+      [
+        "B",
+        "At least you live on the ground floor. Imagine waiting on the 20th floor!",
+        "至少你住在一楼。想象一下在20楼等！"
+      ],
+      [
+        "A",
+        "True! Silver lining. Oh, I see his van pulling in now. Finally!",
+        "也是！总算有件好事。哦，我看到他的面包车开进来了。终于来了！"
+      ],
+      [
+        "B",
+        "Hope the fix is quick and painless. Good luck!",
+        "希望维修顺利快速。祝你好运！"
+      ]
+    ],
+    "words": [
+      [
+        "repairman",
+        "/phrase/",
+        "维修工",
+        "Practice using \"repairman\" in a real conversation."
+      ],
+      [
+        "reschedule",
+        "/phrase/",
+        "改期",
+        "Practice using \"reschedule\" in a real conversation."
+      ],
+      [
+        "silver lining",
+        "/phrase/",
+        "一线希望",
+        "Practice using \"silver lining\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在尼泊尔博卡拉玩滑翔伞",
+    "difficulty": "初中级",
+    "tip": "练习体验极限运动和表达兴奋之情。",
+    "lines": [
+      [
+        "A",
+        "I'm so nervous! I've never done paragliding before.",
+        "我好紧张！我以前从没玩过滑翔伞。"
+      ],
+      [
+        "B",
+        "Don't worry! The instructor will be right behind you. Just enjoy the view.",
+        "别担心！教练就在你身后。只管享受风景就好。"
+      ],
+      [
+        "A",
+        "(Taking off) Oh my god, we're airborne! This feels like flying!",
+        "（起飞）天哪，我们升空了！感觉就像在飞翔！"
+      ],
+      [
+        "B",
+        "Look down! Phewa Lake is sparkling like a jewel. And the Himalayas in the distance!",
+        "往下看！费瓦湖像宝石一样闪闪发光。还有远处的喜马拉雅山脉！"
+      ],
+      [
+        "A",
+        "I can see Annapurna! The snow-capped peak is so close I feel like I can touch it.",
+        "我看到安娜普尔纳峰了！白雪皑皑的山顶近得仿佛伸手可及。"
+      ],
+      [
+        "B",
+        "This is why Nepal is called the paragliding capital of the world. Unbeatable views!",
+        "这就是尼泊尔被称为世界滑翔伞之都的原因。无与伦比的景色！"
+      ],
+      [
+        "A",
+        "(Landing) That was the most incredible 20 minutes of my life! I want to go again!",
+        "（降落）这是我一生中最不可思议的20分钟！我想再来一次！"
+      ],
+      [
+        "B",
+        "I knew you'd love it! Let's check the GoPro footage and relive the experience.",
+        "我就知道你会爱上它！我们看看GoPro拍的视频，重温一下。"
+      ]
+    ],
+    "words": [
+      [
+        "paragliding",
+        "/phrase/",
+        "滑翔伞",
+        "Practice using \"paragliding\" in a real conversation."
+      ],
+      [
+        "airborne",
+        "/phrase/",
+        "升空的",
+        "Practice using \"airborne\" in a real conversation."
+      ],
+      [
+        "snow-capped",
+        "/phrase/",
+        "白雪覆盖的",
+        "Practice using \"snow-capped\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在京都民宿体验茶道",
+    "difficulty": "初中级",
+    "tip": "练习体验日本传统文化和礼仪。",
+    "lines": [
+      [
+        "A",
+        "Welcome to our tea ceremony. Please enter the tea room by bowing through the low door.",
+        "欢迎来到茶道体验。请弯腰通过低矮的门进入茶室。"
+      ],
+      [
+        "B",
+        "Why is the door so low?",
+        "为什么门这么矮？"
+      ],
+      [
+        "A",
+        "It symbolizes humility. Everyone, regardless of status, must bow to enter.",
+        "它象征着谦卑。无论身份高低，人人都需弯腰进入。"
+      ],
+      [
+        "B",
+        "I see. The room is so serene. The scroll and flower arrangement are beautiful.",
+        "我明白了。茶室好宁静。挂轴和插花好美。"
+      ],
+      [
+        "A",
+        "Now, observe how I whisk the matcha. The motion is not too fast, not too slow.",
+        "现在，请观察我如何点抹茶。动作不快不慢。"
+      ],
+      [
+        "B",
+        "The sound of the whisk against the bowl is soothing. Like raindrops.",
+        "茶筅碰击碗的声音好治愈。像雨滴声。"
+      ],
+      [
+        "A",
+        "(Receiving tea) I bow before drinking. And rotate the bowl to avoid drinking from the front.",
+        "（接茶）喝之前先鞠躬。转动茶碗，避免从正面喝。"
+      ],
+      [
+        "B",
+        "You've learned well. The last sip should be accompanied by a slurping sound to show appreciation.",
+        "你学得很好。最后一口要发出啜饮声以示赞赏。"
+      ]
+    ],
+    "words": [
+      [
+        "tea ceremony",
+        "/phrase/",
+        "茶道",
+        "Practice using \"tea ceremony\" in a real conversation."
+      ],
+      [
+        "matcha",
+        "/phrase/",
+        "抹茶",
+        "Practice using \"matcha\" in a real conversation."
+      ],
+      [
+        "humble",
+        "/phrase/",
+        "谦卑的",
+        "Practice using \"humble\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在埃及金字塔骑骆驼",
+    "difficulty": "初级",
+    "tip": "练习骑乘动物和与当地向导交流。",
+    "lines": [
+      [
+        "A",
+        "I've never ridden a camel before! They're so tall and a bit intimidating.",
+        "我从没骑过骆驼！它们好高大，有点吓人。"
+      ],
+      [
+        "B",
+        "Don't worry. Camels are gentle creatures. When it stands up, lean backward.",
+        "别担心。骆驼是很温顺的动物。它站起来时，身体向后倾。"
+      ],
+      [
+        "A",
+        "(Camel stands) Whoa! That's a sudden motion! But I'm up!",
+        "（骆驼站起来）哇！动作好突然！但我上来了！"
+      ],
+      [
+        "B",
+        "Now hold the reins loosely and enjoy the sway. It's like a ship crossing the desert.",
+        "现在轻轻握住缰绳，享受摇晃的感觉。就像一艘船驶过沙漠。"
+      ],
+      [
+        "A",
+        "The pyramids look even more magnificent from up here. How old are they again?",
+        "从上面看金字塔更加雄伟了。它们有多少年历史来着？"
+      ],
+      [
+        "B",
+        "Over 4,500 years. Imagine the civilization that built these with no modern technology.",
+        "超过4500年。想象一下在没有现代技术的情况下建造它们的文明。"
+      ],
+      [
+        "A",
+        "This is a once-in-a-lifetime experience. I'll never forget riding a camel in front of the pyramids.",
+        "这是一生一次的体验。我永远不会忘记在金字塔前骑骆驼。"
+      ],
+      [
+        "B",
+        "Let me take your photo with the sunset behind the Sphinx. Perfect memory!",
+        "让我以狮身人面像背后的日落为背景给你拍照。完美的回忆！"
+      ]
+    ],
+    "words": [
+      [
+        "camel",
+        "/phrase/",
+        "骆驼",
+        "Practice using \"camel\" in a real conversation."
+      ],
+      [
+        "reins",
+        "/phrase/",
+        "缰绳",
+        "Practice using \"reins\" in a real conversation."
+      ],
+      [
+        "pyramid",
+        "/phrase/",
+        "金字塔",
+        "Practice using \"pyramid\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室参加消防安全演练",
+    "difficulty": "初中级",
+    "tip": "练习学习消防知识和逃生路线。",
+    "lines": [
+      [
+        "A",
+        "Attention everyone! Fire drill in 5 minutes. Please proceed to the nearest exit.",
+        "大家注意！消防演习5分钟后开始。请前往最近的出口。"
+      ],
+      [
+        "B",
+        "I always forget where the emergency assembly point is.",
+        "我总是忘记紧急集合点在哪里。"
+      ],
+      [
+        "A",
+        "It's in the parking lot across the street. Follow the green exit signs.",
+        "在街对面的停车场。跟着绿色的出口标志走。"
+      ],
+      [
+        "B",
+        "Got it. Should I take my belongings?",
+        "明白了。我要带个人物品吗？"
+      ],
+      [
+        "A",
+        "In a real fire, leave everything behind. In a drill, you can grab your phone.",
+        "如果是真火灾，什么都不要带。演习的话可以拿手机。"
+      ],
+      [
+        "B",
+        "(Alarm sounds) Let's go! Stay calm and don't run.",
+        "（警报响起）走吧！保持冷静，不要跑。"
+      ],
+      [
+        "A",
+        "(Outside) That took 3 minutes. Not bad! But we should practice more often.",
+        "（室外）用了3分钟。还不错！但我们应该多练习。"
+      ],
+      [
+        "B",
+        "Agreed. Knowing the evacuation route could save lives in a real emergency.",
+        "同意。在真正的紧急情况下，知道疏散路线能救命。"
+      ]
+    ],
+    "words": [
+      [
+        "fire drill",
+        "/phrase/",
+        "消防演习",
+        "Practice using \"fire drill\" in a real conversation."
+      ],
+      [
+        "evacuation",
+        "/phrase/",
+        "疏散",
+        "Practice using \"evacuation\" in a real conversation."
+      ],
+      [
+        "assembly point",
+        "/phrase/",
+        "集合点",
+        "Practice using \"assembly point\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室讨论订阅行业杂志",
+    "difficulty": "初中级",
+    "tip": "练习讨论专业发展和知识更新。",
+    "lines": [
+      [
+        "A",
+        "Our department budget allows for two new magazine subscriptions. Any suggestions?",
+        "我们部门的预算允许订阅两份新杂志。有什么建议吗？"
+      ],
+      [
+        "B",
+        "\"Tech Today\" is essential for keeping up with industry trends.",
+        "《今日科技》对跟上行业趋势至关重要。"
+      ],
+      [
+        "A",
+        "Good one. I'd also recommend \"Innovation Weekly.\" It covers case studies we can learn from.",
+        "好推荐。我还推荐《创新周刊》。它涵盖我们可以学习的案例研究。"
+      ],
+      [
+        "B",
+        "Perfect. Between those two, we'll cover both news and in-depth analysis.",
+        "完美。这两本杂志，我们既能获取新闻又能得到深入分析。"
+      ],
+      [
+        "A",
+        "Should we get digital or print versions? Digital is cheaper and searchable.",
+        "我们应该订电子版还是纸质版？电子版更便宜，还可搜索。"
+      ],
+      [
+        "B",
+        "Digital makes more sense. We can share articles in the team chat easily.",
+        "电子版更合理。我们可以轻松地在团队群里分享文章。"
+      ],
+      [
+        "A",
+        "Agreed. I'll submit the order today. Let's set up a weekly discussion to share insights.",
+        "同意。我今天就提交订单。我们设立一个每周讨论来分享见解吧。"
+      ],
+      [
+        "B",
+        "Great idea! Knowledge sharing is how we grow as a team.",
+        "好主意！知识分享是我们团队成长的途径。"
+      ]
+    ],
+    "words": [
+      [
+        "subscription",
+        "/phrase/",
+        "订阅",
+        "Practice using \"subscription\" in a real conversation."
+      ],
+      [
+        "industry trend",
+        "/phrase/",
+        "行业趋势",
+        "Practice using \"industry trend\" in a real conversation."
+      ],
+      [
+        "insight",
+        "/phrase/",
+        "见解",
+        "Practice using \"insight\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室庆祝通过职业资格考试",
+    "difficulty": "初级",
+    "tip": "练习分享喜悦和接受祝贺。",
+    "lines": [
+      [
+        "A",
+        "Guess what? I passed the CPA exam!",
+        "猜怎么着？我通过了注册会计师考试！"
+      ],
+      [
+        "B",
+        "Congratulations! That's a huge achievement! I know how hard you studied.",
+        "恭喜！这可是个大成就！我知道你有多努力。"
+      ],
+      [
+        "A",
+        "Thanks! I've been studying for six months. I can finally breathe!",
+        "谢谢！我学了六个月。终于可以喘口气了！"
+      ],
+      [
+        "B",
+        "You deserve this. Let's celebrate! I'll buy you a drink after work.",
+        "这是你应得的。我们庆祝一下！下班后我请你喝一杯。"
+      ],
+      [
+        "A",
+        "That's so kind! But I'm treating everyone to bubble tea this afternoon.",
+        "你太好了！但今天下午我请大家喝奶茶。"
+      ],
+      [
+        "B",
+        "You don't have to do that! But I won't say no to free bubble tea!",
+        "你不用这么做的！但我不会拒绝免费的奶茶！"
+      ],
+      [
+        "A",
+        "I want to share my joy with the team. Plus, your support during my study time meant a lot.",
+        "我想和团队分享喜悦。而且，我学习期间你们的支持很重要。"
+      ],
+      [
+        "B",
+        "We're proud of you. This certification opens up new opportunities for your career!",
+        "我们为你骄傲。这个证书为你的职业打开了新的大门！"
+      ]
+    ],
+    "words": [
+      [
+        "certification",
+        "/phrase/",
+        "认证、资格证书",
+        "Practice using \"certification\" in a real conversation."
+      ],
+      [
+        "achievement",
+        "/phrase/",
+        "成就",
+        "Practice using \"achievement\" in a real conversation."
+      ],
+      [
+        "treat",
+        "/phrase/",
+        "请客",
+        "Practice using \"treat\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在希腊餐厅尝试茴香酒",
+    "difficulty": "初中级",
+    "tip": "练习尝试特色酒饮和了解饮用方式。",
+    "lines": [
+      [
+        "A",
+        "I've heard about ouzo but never tried it. What does it taste like?",
+        "我听说过茴香酒但从没尝过。它是什么味道？"
+      ],
+      [
+        "B",
+        "It's anise-flavored, similar to black licorice. Very distinct!",
+        "是茴芹味的，有点像黑甘草。非常独特！"
+      ],
+      [
+        "A",
+        "Do you drink it straight or with something?",
+        "是纯饮还是配着什么喝？"
+      ],
+      [
+        "B",
+        "Traditionally, you serve it with water and ice. Watch what happens when you add water...",
+        "传统上是加水加冰喝。看，加水后会发生什么……"
+      ],
+      [
+        "A",
+        "It turned milky white! That's so cool! Does the taste change?",
+        "变成乳白色了！好酷！味道会变吗？"
+      ],
+      [
+        "B",
+        "Yes, it becomes smoother and less intense. It's meant to be sipped slowly with meze dishes.",
+        "是的，变得更柔和，不那么烈了。它要配着小菜慢慢喝。"
+      ],
+      [
+        "A",
+        "(Sips) It's strong! But paired with this feta and olive platter, it works perfectly.",
+        "（抿一口）好烈！但配上这份菲达芝士和橄榄拼盘，简直绝配。"
+      ],
+      [
+        "B",
+        "Opa! You're drinking like a true Greek now!",
+        "Opa！你现在喝得像个真正的希腊人了！"
+      ]
+    ],
+    "words": [
+      [
+        "ouzo",
+        "/phrase/",
+        "茴香酒",
+        "Practice using \"ouzo\" in a real conversation."
+      ],
+      [
+        "anise",
+        "/phrase/",
+        "茴芹",
+        "Practice using \"anise\" in a real conversation."
+      ],
+      [
+        "meze",
+        "/phrase/",
+        "地中海小菜",
+        "Practice using \"meze\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在日式居酒屋点串烧",
+    "difficulty": "初中级",
+    "tip": "练习点日式烤串和搭配酒饮。",
+    "lines": [
+      [
+        "A",
+        "This izakaya is so cozy! The smell of grilled skewers is irresistible.",
+        "这家居酒屋好温馨！烤串的香味无法抗拒。"
+      ],
+      [
+        "B",
+        "Let's order a variety. Chicken thigh, pork belly, and asparagus wrapped in bacon.",
+        "我们各种都点一些。鸡腿肉、猪五花和培根卷芦笋。"
+      ],
+      [
+        "A",
+        "I'll add shishito peppers and grilled rice balls. What drink pairs well?",
+        "我再加小青椒和烤饭团。配什么喝的好？"
+      ],
+      [
+        "B",
+        "A cold sake or a hoppy draft beer. I'm going with the beer.",
+        "冷清酒或苦味扎啤。我选啤酒。"
+      ],
+      [
+        "A",
+        "(Skewers arrive) Look at the char marks! Perfect grill lines.",
+        "（串上桌）看那些焦痕！完美的烤纹。"
+      ],
+      [
+        "B",
+        "The chef knows his craft. Try the chicken thigh first - it's juicy with a hint of yuzu.",
+        "师傅手艺精湛。先尝尝鸡腿肉——多汁，带一丝柚子味。"
+      ],
+      [
+        "A",
+        "Melt-in-your-mouth tender! I've never had yakitori this good outside of Japan.",
+        "入口即化！我在日本之外从没吃过这么好的烧鸟。"
+      ],
+      [
+        "B",
+        "Let's order another round before they get too busy. More beer too!",
+        "我们在他们忙起来之前再加一轮。再来点啤酒！"
+      ]
+    ],
+    "words": [
+      [
+        "izakaya",
+        "/phrase/",
+        "居酒屋",
+        "Practice using \"izakaya\" in a real conversation."
+      ],
+      [
+        "yakitori",
+        "/phrase/",
+        "烧鸟、日式烤串",
+        "Practice using \"yakitori\" in a real conversation."
+      ],
+      [
+        "sake",
+        "/phrase/",
+        "清酒",
+        "Practice using \"sake\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在海鲜餐厅挑选活海鲜",
+    "difficulty": "初中级",
+    "tip": "练习挑选海鲜和指定烹饪方式。",
+    "lines": [
+      [
+        "A",
+        "Look at the tanks! Lobsters, crabs, and so many fish!",
+        "看那些水箱！龙虾、螃蟹，还有这么多鱼！"
+      ],
+      [
+        "B",
+        "Everything is caught fresh daily. You pick what you want, and we cook it to order.",
+        "所有海鲜都是每天新鲜捕捞的。你选想要的，我们现做。"
+      ],
+      [
+        "A",
+        "That lobster looks feisty. How much per pound?",
+        "那只龙虾看起来好有活力。多少钱一磅？"
+      ],
+      [
+        "B",
+        "$28 per pound. This one is about 2 pounds. Perfect for two people.",
+        "每磅28美元。这只大约两磅。两个人吃正好。"
+      ],
+      [
+        "A",
+        "We'll take it! Steamed with ginger and scallion, please.",
+        "我们要了！请用姜葱蒸。"
+      ],
+      [
+        "B",
+        "Excellent choice. And for the fish? The sea bass is today's special catch.",
+        "好选择。鱼呢？今天的特色渔获是海鲈鱼。"
+      ],
+      [
+        "A",
+        "Let's get the sea bass too. Salt-baked to highlight the freshness.",
+        "海鲈鱼也要了。盐焗，凸显鲜味。"
+      ],
+      [
+        "B",
+        "A true seafood connoisseur! I'll bring your selections to the kitchen right away.",
+        "真正的海鲜行家！我马上把你的选择送到厨房。"
+      ]
+    ],
+    "words": [
+      [
+        "lobster",
+        "/phrase/",
+        "龙虾",
+        "Practice using \"lobster\" in a real conversation."
+      ],
+      [
+        "fresh",
+        "/phrase/",
+        "新鲜的",
+        "Practice using \"fresh\" in a real conversation."
+      ],
+      [
+        "steamed",
+        "/phrase/",
+        "清蒸的",
+        "Practice using \"steamed\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在画材店选购水彩颜料",
+    "difficulty": "初中级",
+    "tip": "练习比较画材品质和询问使用建议。",
+    "lines": [
+      [
+        "A",
+        "I'm starting watercolor painting as a hobby. What paints do you recommend?",
+        "我开始学水彩画作为爱好。你推荐什么颜料？"
+      ],
+      [
+        "B",
+        "Student-grade sets are affordable for beginners. This 12-color set is a great start.",
+        "学生级套装对初学者来说价格适中。这个12色套装是个很好的开始。"
+      ],
+      [
+        "A",
+        "Is there a big difference between student and professional grade?",
+        "学生级和专业级差别大吗？"
+      ],
+      [
+        "B",
+        "Professional paints have higher pigment concentration, so colors are more vibrant. But student grade is fine for learning.",
+        "专业级颜料色素浓度更高，颜色更鲜艳。但学习用学生级就够了。"
+      ],
+      [
+        "A",
+        "What about brushes? I need a basic set.",
+        "画笔呢？我需要一套基础的。"
+      ],
+      [
+        "B",
+        "This set of synthetic brushes is versatile. Sizes 2, 6, and 12 will cover most techniques.",
+        "这套合成毛笔用途广泛。2号、6号和12号能覆盖大部分技法。"
+      ],
+      [
+        "A",
+        "And paper? I heard it matters a lot.",
+        "纸呢？我听说纸张很重要。"
+      ],
+      [
+        "B",
+        "Absolutely! This cold-pressed paper is beginner-friendly. It handles water well without buckling.",
+        "非常重要！这张冷压纸对初学者友好。它吸水好，不易起皱。"
+      ]
+    ],
+    "words": [
+      [
+        "watercolor",
+        "/phrase/",
+        "水彩",
+        "Practice using \"watercolor\" in a real conversation."
+      ],
+      [
+        "pigment",
+        "/phrase/",
+        "色素、颜料",
+        "Practice using \"pigment\" in a real conversation."
+      ],
+      [
+        "brush",
+        "/phrase/",
+        "画笔",
+        "Practice using \"brush\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在婚庆公司挑选婚纱",
+    "difficulty": "中高级",
+    "tip": "练习试穿婚纱和咨询修改服务。",
+    "lines": [
+      [
+        "A",
+        "I'm getting married in three months! I need to find my dream dress.",
+        "我三个月后结婚！我要找到梦想中的婚纱。"
+      ],
+      [
+        "B",
+        "Congratulations! Let's start with silhouettes. A-line, mermaid, or ball gown?",
+        "恭喜！我们从廓形开始。A字型、美人鱼型还是蓬裙型？"
+      ],
+      [
+        "A",
+        "I've always imagined myself in a lace mermaid dress. Something elegant but not too heavy.",
+        "我一直想象自己穿蕾丝美人鱼婚纱。优雅但不笨重的。"
+      ],
+      [
+        "B",
+        "This one is Italian lace with a light train. Let's get you into it and see the magic!",
+        "这款是意大利蕾丝，带有轻拖尾。我们穿上看看效果！"
+      ],
+      [
+        "A",
+        "(In dress) Oh my... I feel like a princess! But the waist needs taking in a bit.",
+        "（穿上后）哦天……我感觉自己像个公主！但腰部需要收一点。"
+      ],
+      [
+        "B",
+        "Our seamstress can alter it perfectly. We'll pin it now and have it ready in two weeks.",
+        "我们的裁缝可以完美修改。我们先别上针，两周内改好。"
+      ],
+      [
+        "A",
+        "This is the one. I can't stop smiling!",
+        "就是它了。我笑得合不拢嘴了！"
+      ],
+      [
+        "B",
+        "That smile says it all. You're going to be a stunning bride!",
+        "那个笑容说明了一切。你会是惊艳全场的新娘！"
+      ]
+    ],
+    "words": [
+      [
+        "silhouette",
+        "/phrase/",
+        "廓形",
+        "Practice using \"silhouette\" in a real conversation."
+      ],
+      [
+        "lace",
+        "/phrase/",
+        "蕾丝",
+        "Practice using \"lace\" in a real conversation."
+      ],
+      [
+        "alteration",
+        "/phrase/",
+        "修改",
+        "Practice using \"alteration\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在宠物店领养猫咪",
+    "difficulty": "初中级",
+    "tip": "练习领养流程和了解宠物护理。",
+    "lines": [
+      [
+        "A",
+        "I'd like to adopt a cat. Can you tell me about the process?",
+        "我想领养一只猫。能告诉我流程吗？"
+      ],
+      [
+        "B",
+        "Of course! First, fill out an application. We'll check your living situation and experience.",
+        "当然！先填申请表。我们会核实你的居住情况和养宠经验。"
+      ],
+      [
+        "A",
+        "I live in an apartment. Is that okay?",
+        "我住在公寓里。可以吗？"
+      ],
+      [
+        "B",
+        "Absolutely. Indoor cats thrive in apartments as long as they have toys and a scratching post.",
+        "完全可以。只要有玩具和猫抓板，室内猫在公寓里也能茁壮成长。"
+      ],
+      [
+        "A",
+        "Which cat would you recommend for a first-time owner?",
+        "你推荐哪只猫给新手主人？"
+      ],
+      [
+        "B",
+        "This tabby is 2 years old, very gentle, and already litter-trained. Perfect for beginners.",
+        "这只虎斑猫两岁，非常温顺，已经会用猫砂盆。非常适合新手。"
+      ],
+      [
+        "A",
+        "She's adorable! What vaccinations does she need?",
+        "她好可爱！她需要打什么疫苗？"
+      ],
+      [
+        "B",
+        "She's up to date on all shots. We'll provide you with her medical records and a starter kit.",
+        "所有疫苗都打齐了。我们会给你她的医疗记录和入门套装。"
+      ]
+    ],
+    "words": [
+      [
+        "adopt",
+        "/phrase/",
+        "领养",
+        "Practice using \"adopt\" in a real conversation."
+      ],
+      [
+        "litter-trained",
+        "/phrase/",
+        "会用猫砂盆的",
+        "Practice using \"litter-trained\" in a real conversation."
+      ],
+      [
+        "vaccination",
+        "/phrase/",
+        "疫苗接种",
+        "Practice using \"vaccination\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园打印店赶印论文",
+    "difficulty": "初中级",
+    "tip": "练习紧急打印需求和应对机器故障。",
+    "lines": [
+      [
+        "A",
+        "I need to print 50 pages for my thesis submission. It's due in an hour!",
+        "我需要打印50页论文交稿。一小时后截止！"
+      ],
+      [
+        "B",
+        "No problem. Upload your file to this computer and select double-sided printing.",
+        "没问题。把文件上传到这台电脑，选择双面打印。"
+      ],
+      [
+        "A",
+        "The printer is saying \"paper jam\"! What do I do?",
+        "打印机显示\"卡纸\"！怎么办？"
+      ],
+      [
+        "B",
+        "Don't panic. Open the front panel, gently pull out the jammed paper, and close it.",
+        "别慌。打开前面板，轻轻拉出卡住的纸，关上。"
+      ],
+      [
+        "A",
+        "It worked! But now it's printing in the wrong format. The margins are off.",
+        "好了！但现在打印格式不对。页边距有问题。"
+      ],
+      [
+        "B",
+        "Let me adjust the settings. Page setup > margins > set to your document's specifications.",
+        "我来调一下设置。页面设置>页边距>按照你的文档规格设置。"
+      ],
+      [
+        "A",
+        "You're a lifesaver! 48 pages done, 2 to go. I might make it!",
+        "你是救星！48页打好了，还剩2页。我赶得上！"
+      ],
+      [
+        "B",
+        "Here are the last two. Stapled and ready. Good luck with your submission!",
+        "最后两页。装订好了。祝你提交顺利！"
+      ]
+    ],
+    "words": [
+      [
+        "paper jam",
+        "/phrase/",
+        "卡纸",
+        "Practice using \"paper jam\" in a real conversation."
+      ],
+      [
+        "margin",
+        "/phrase/",
+        "页边距",
+        "Practice using \"margin\" in a real conversation."
+      ],
+      [
+        "staple",
+        "/phrase/",
+        "装订",
+        "Practice using \"staple\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园湖边写生被围观",
+    "difficulty": "初中级",
+    "tip": "练习专注创作和应对他人关注。",
+    "lines": [
+      [
+        "A",
+        "I love painting by the lake. The light reflecting on the water is perfect today.",
+        "我喜欢在湖边画画。今天水面上的光影太完美了。"
+      ],
+      [
+        "B",
+        "Your painting is beautiful! May I watch for a while?",
+        "你的画好美！我能看一会儿吗？"
+      ],
+      [
+        "A",
+        "Sure! I'm still learning though. The perspective is tricky.",
+        "当然！不过我还在学习。透视不太好把握。"
+      ],
+      [
+        "B",
+        "You're being modest. The way you captured the willow tree's reflection is impressive.",
+        "你太谦虚了。你捕捉柳树倒影的方式令人印象深刻。"
+      ],
+      [
+        "A",
+        "Thank you! I've been practicing water reflections for months. It's finally clicking.",
+        "谢谢！我练水面倒影练了好几个月了。终于找到感觉了。"
+      ],
+      [
+        "B",
+        "Do you sell your paintings? I'd love to buy one for my dorm room.",
+        "你的画卖吗？我想买一幅挂在我的宿舍里。"
+      ],
+      [
+        "A",
+        "I've never sold one before! But if you like this one when it's done, it's yours.",
+        "我从没卖过画！但如果你喜欢完成后的这幅，就送给你了。"
+      ],
+      [
+        "B",
+        "Really? That would be amazing! I'll buy you coffee in return!",
+        "真的吗？那太好了！我请你喝咖啡作为回报！"
+      ]
+    ],
+    "words": [
+      [
+        "paint",
+        "/phrase/",
+        "绘画",
+        "Practice using \"paint\" in a real conversation."
+      ],
+      [
+        "reflection",
+        "/phrase/",
+        "倒影、反射",
+        "Practice using \"reflection\" in a real conversation."
+      ],
+      [
+        "perspective",
+        "/phrase/",
+        "透视、视角",
+        "Practice using \"perspective\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园快递站帮同学代取包裹",
+    "difficulty": "初级",
+    "tip": "练习代取快递和核对信息。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'm here to pick up packages for my friends. They're in class.",
+        "你好，我来帮朋友代取包裹。他们在上课。"
+      ],
+      [
+        "B",
+        "Sure. I need their pickup codes and names.",
+        "好的。我需要他们的取件码和姓名。"
+      ],
+      [
+        "A",
+        "First one: code 4521, name Li Hua. Second: code 7832, name Wang Ming.",
+        "第一个：取件码4521，姓名李华。第二个：取件码7832，姓名王明。"
+      ],
+      [
+        "B",
+        "Found both. Please sign here for each package.",
+        "都找到了。请每个包裹签个字。"
+      ],
+      [
+        "A",
+        "Can I take a photo of the packages to send them proof?",
+        "我能拍张包裹的照片发给他们作凭证吗？"
+      ],
+      [
+        "B",
+        "Of course. Also, remind them to bring their student IDs next time for faster pickup.",
+        "当然。也提醒他们下次带学生证来，取件更快。"
+      ],
+      [
+        "A",
+        "Will do! Thanks for your help.",
+        "好的！谢谢帮忙。"
+      ],
+      [
+        "B",
+        "No problem. Tell your friends their packages are in good hands!",
+        "不客气。告诉你朋友们，他们的包裹妥妥的！"
+      ]
+    ],
+    "words": [
+      [
+        "pickup",
+        "/phrase/",
+        "取件",
+        "Practice using \"pickup\" in a real conversation."
+      ],
+      [
+        "code",
+        "/phrase/",
+        "编码、取件码",
+        "Practice using \"code\" in a real conversation."
+      ],
+      [
+        "proof",
+        "/phrase/",
+        "凭证、证明",
+        "Practice using \"proof\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在朋友家玩桌游发生争执",
+    "difficulty": "初中级",
+    "tip": "练习游戏中的分歧和和解。",
+    "lines": [
+      [
+        "A",
+        "No way! You can't play that card! The rules clearly state it's only for defense.",
+        "不可能！你不能出那张牌！规则明确说了只能用于防守。"
+      ],
+      [
+        "B",
+        "I read the rules differently. It says \"may be used in any phase.\"",
+        "我对规则的理解不一样。上面写着\"可用于任何阶段\"。"
+      ],
+      [
+        "A",
+        "Let's check the official rulebook. I'm sure I'm right.",
+        "我们查一下官方规则书。我肯定我是对的。"
+      ],
+      [
+        "B",
+        "Fine. Let's look it up online. I don't want to argue over a game.",
+        "好吧。我们在网上查一下。我不想因为一个游戏吵架。"
+      ],
+      [
+        "A",
+        "(After checking) You're actually right! I misread it. Sorry for being stubborn.",
+        "（查完后）其实你是对的！我看错了。对不起我太固执了。"
+      ],
+      [
+        "B",
+        "No hard feelings. Board games can get intense! Let's continue.",
+        "没关系。桌游有时就是会激烈起来！我们继续吧。"
+      ],
+      [
+        "A",
+        "Your turn. And this time, I'm prepared for your secret weapon!",
+        "轮到你了。这次，我已经准备好对付你的秘密武器了！"
+      ],
+      [
+        "B",
+        "Game on! May the best strategist win!",
+        "来吧！最好的策略家获胜！"
+      ]
+    ],
+    "words": [
+      [
+        "rule",
+        "/phrase/",
+        "规则",
+        "Practice using \"rule\" in a real conversation."
+      ],
+      [
+        "argue",
+        "/phrase/",
+        "争论",
+        "Practice using \"argue\" in a real conversation."
+      ],
+      [
+        "strategist",
+        "/phrase/",
+        "策略家",
+        "Practice using \"strategist\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在家长会上和其他家长交流",
+    "difficulty": "中高级",
+    "tip": "练习讨论子女教育和分享育儿经验。",
+    "lines": [
+      [
+        "A",
+        "Your son did an excellent job in the school play! He's so confident on stage.",
+        "你儿子在学校话剧里表现得非常好！他在舞台上好自信。"
+      ],
+      [
+        "B",
+        "Thank you! He's been taking drama classes for two years. It's really helped his shyness.",
+        "谢谢！他上戏剧课两年了。对他的害羞真的很有帮助。"
+      ],
+      [
+        "A",
+        "My daughter is quite shy too. Maybe I should consider drama classes for her.",
+        "我女儿也很害羞。也许我也该考虑让她上戏剧课。"
+      ],
+      [
+        "B",
+        "I highly recommend it. The teacher, Ms. Johnson, is wonderful with children.",
+        "我强烈推荐。约翰逊老师对孩子很有办法。"
+      ],
+      [
+        "A",
+        "How do you manage homework time? My daughter procrastinates terribly.",
+        "你怎么管理作业时间？我女儿拖延症很严重。"
+      ],
+      [
+        "B",
+        "We use a timer. 25 minutes of focused work, then a 5-minute break. It's called the Pomodoro technique.",
+        "我们用计时器。专注25分钟，然后休息5分钟。这叫番茄工作法。"
+      ],
+      [
+        "A",
+        "I'll try that! Thanks for the tip. It's nice to chat with parents who understand.",
+        "我试试！谢谢建议。和有共鸣的家长聊天真好。"
+      ],
+      [
+        "B",
+        "We're all in this together. Let's exchange numbers - we can support each other!",
+        "我们都在一起。我们交换号码吧——可以互相支持！"
+      ]
+    ],
+    "words": [
+      [
+        "confident",
+        "/phrase/",
+        "自信的",
+        "Practice using \"confident\" in a real conversation."
+      ],
+      [
+        "procrastinate",
+        "/phrase/",
+        "拖延",
+        "Practice using \"procrastinate\" in a real conversation."
+      ],
+      [
+        "technique",
+        "/phrase/",
+        "技巧、方法",
+        "Practice using \"technique\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在星空露营地和陌生人分享望远镜",
+    "difficulty": "初中级",
+    "tip": "练习分享资源和交流天文兴趣。",
+    "lines": [
+      [
+        "A",
+        "That's a powerful telescope! What are you looking at?",
+        "好强大的望远镜！你在看什么？"
+      ],
+      [
+        "B",
+        "Jupiter! You can see four of its moons tonight. Want to take a look?",
+        "木星！今晚能看到它的四颗卫星。要看看吗？"
+      ],
+      [
+        "A",
+        "Really? I'd love to! (Looks through telescope) Oh my god! I can see the bands on Jupiter!",
+        "真的吗？太好了！（看望远镜）天哪！我能看到木星上的条纹！"
+      ],
+      [
+        "B",
+        "Pretty amazing, right? Saturn will rise in about an hour. The rings will be visible.",
+        "很神奇吧？土星大约一小时后升起。能看到光环。"
+      ],
+      [
+        "A",
+        "I've never seen Saturn through a telescope. Can I stay and watch with you?",
+        "我从没用望远镜看过土星。我能留下来和你一起看吗？"
+      ],
+      [
+        "B",
+        "Of course! I set up camp here specifically for the night sky. The more the merrier.",
+        "当然！我在这里扎营就是为了看夜空。人越多越开心。"
+      ],
+      [
+        "A",
+        "I brought hot chocolate. Want some while we wait for Saturn?",
+        "我带了热巧克力。等土星的时候来一杯吗？"
+      ],
+      [
+        "B",
+        "You're my new best friend! Hot chocolate and stargazing - perfect combination!",
+        "你是我最好的新朋友！热巧克力和观星——完美的组合！"
+      ]
+    ],
+    "words": [
+      [
+        "telescope",
+        "/phrase/",
+        "望远镜",
+        "Practice using \"telescope\" in a real conversation."
+      ],
+      [
+        "moon",
+        "/phrase/",
+        "卫星、月亮",
+        "Practice using \"moon\" in a real conversation."
+      ],
+      [
+        "stargaze",
+        "/phrase/",
+        "观星",
+        "Practice using \"stargaze\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在眼科做近视手术咨询",
+    "difficulty": "中高级",
+    "tip": "练习咨询激光手术和了解风险和恢复。",
+    "lines": [
+      [
+        "A",
+        "I'm tired of wearing glasses. Can you tell me about LASIK?",
+        "我厌倦了戴眼镜。能告诉我关于LASIK手术的信息吗？"
+      ],
+      [
+        "B",
+        "Certainly. First, we need to check if you're a candidate. Your cornea thickness is crucial.",
+        "当然。首先我们需要检查你是否适合。你的角膜厚度至关重要。"
+      ],
+      [
+        "A",
+        "How long does the procedure take?",
+        "手术需要多长时间？"
+      ],
+      [
+        "B",
+        "The laser itself takes about 30 seconds per eye. Total clinic time is about 2 hours.",
+        "激光本身每只眼睛大约30秒。在诊所的总时间大约2小时。"
+      ],
+      [
+        "A",
+        "Does it hurt? I'm a bit nervous.",
+        "疼吗？我有点紧张。"
+      ],
+      [
+        "B",
+        "Numbing drops are used. You'll feel pressure but no pain. Most patients are surprised at how easy it is.",
+        "会用麻醉眼药水。你会感到压力但不会疼。大多数患者都对它的轻松程度感到惊讶。"
+      ],
+      [
+        "A",
+        "What's the recovery like? When can I go back to work?",
+        "恢复期怎么样？我什么时候能回去工作？"
+      ],
+      [
+        "B",
+        "Most people return to work in 2-3 days. No rubbing your eyes for a week. Full stability in about 3 months.",
+        "大多数人2-3天后返回工作。一周内不要揉眼睛。大约3个月完全稳定。"
+      ]
+    ],
+    "words": [
+      [
+        "LASIK",
+        "/phrase/",
+        "激光视力矫正手术",
+        "Practice using \"LASIK\" in a real conversation."
+      ],
+      [
+        "cornea",
+        "/phrase/",
+        "角膜",
+        "Practice using \"cornea\" in a real conversation."
+      ],
+      [
+        "recovery",
+        "/phrase/",
+        "恢复",
+        "Practice using \"recovery\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在中医馆看湿疹",
+    "difficulty": "中高级",
+    "tip": "练习用中医思路描述病症和接受治疗。",
+    "lines": [
+      [
+        "A",
+        "Doctor, I've had eczema on my hands for months. Western creams only give temporary relief.",
+        "医生，我手上长湿疹好几个月了。西药膏只能暂时缓解。"
+      ],
+      [
+        "B",
+        "In Chinese medicine, eczema is often linked to damp-heat in the body. Let me check your pulse.",
+        "在中医里，湿疹通常与体内湿热有关。我来把一下脉。"
+      ],
+      [
+        "A",
+        "What does my pulse tell you?",
+        "我的脉象告诉了你什么？"
+      ],
+      [
+        "B",
+        "Your pulse is slippery and rapid, indicating internal dampness and heat. I'll also look at your tongue.",
+        "你的脉滑数，表明体内有湿热。我还要看一下舌苔。"
+      ],
+      [
+        "A",
+        "My tongue has a yellow coating. Is that bad?",
+        "我的舌苔发黄。不好吗？"
+      ],
+      [
+        "B",
+        "It confirms the diagnosis. I'll prescribe a herbal formula to clear heat and drain dampness. Also, avoid spicy and greasy foods.",
+        "这证实了诊断。我开一个清热祛湿的药方。同时避免辛辣油腻食物。"
+      ],
+      [
+        "A",
+        "How long until I see improvement?",
+        "多久能看到改善？"
+      ],
+      [
+        "B",
+        "With consistent treatment, you should see improvement in two weeks. The root cause takes longer to resolve.",
+        "坚持治疗的话，两周内应有改善。根治需要更长时间。"
+      ]
+    ],
+    "words": [
+      [
+        "eczema",
+        "/phrase/",
+        "湿疹",
+        "Practice using \"eczema\" in a real conversation."
+      ],
+      [
+        "pulse",
+        "/phrase/",
+        "脉搏",
+        "Practice using \"pulse\" in a real conversation."
+      ],
+      [
+        "damp-heat",
+        "/phrase/",
+        "湿热",
+        "Practice using \"damp-heat\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在献血屋献血后休息",
+    "difficulty": "初级",
+    "tip": "练习献血后的注意事项和感受分享。",
+    "lines": [
+      [
+        "A",
+        "All done! That was my 10th donation.",
+        "完成了！这是我第10次献血。"
+      ],
+      [
+        "B",
+        "Amazing! Thank you for being a regular donor. How are you feeling?",
+        "太棒了！感谢你成为定期献血者。你现在感觉怎么样？"
+      ],
+      [
+        "A",
+        "A bit lightheaded, but that's normal. The cookies and juice are helping.",
+        "有点头晕，但正常。饼干和果汁正在起作用。"
+      ],
+      [
+        "B",
+        "Rest for at least 15 minutes. Don't lift heavy things today and drink plenty of fluids.",
+        "至少休息15分钟。今天不要提重物，多喝水。"
+      ],
+      [
+        "A",
+        "How long until my blood is used for someone?",
+        "我的血多久会被用到别人身上？"
+      ],
+      [
+        "B",
+        "After testing, it's usually available within a few days. Your donation could save up to three lives.",
+        "检测后，通常在几天内就可使用。你的献血可以拯救多达三条生命。"
+      ],
+      [
+        "A",
+        "That's a powerful thought. I'll definitely come back in three months for the next one.",
+        "这个想法很有力量。我三个月后一定再来献下一次。"
+      ],
+      [
+        "B",
+        "We'll be here waiting! You're a hero in someone's story.",
+        "我们会在这里等你！你是某个人故事里的英雄。"
+      ]
+    ],
+    "words": [
+      [
+        "donation",
+        "/phrase/",
+        "捐献",
+        "Practice using \"donation\" in a real conversation."
+      ],
+      [
+        "lightheaded",
+        "/phrase/",
+        "头晕的",
+        "Practice using \"lightheaded\" in a real conversation."
+      ],
+      [
+        "save lives",
+        "/phrase/",
+        "拯救生命",
+        "Practice using \"save lives\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在自助洗车店遇到邻居",
+    "difficulty": "初级",
+    "tip": "练习在公共设施遇到熟人闲聊。",
+    "lines": [
+      [
+        "A",
+        "Hey, I didn't know you washed your own car too!",
+        "嘿，我不知道你也自己洗车！"
+      ],
+      [
+        "B",
+        "Yeah, it's cheaper than the automatic car wash and I can get the wheels really clean.",
+        "是啊，比自动洗车便宜，而且轮毂能洗得更干净。"
+      ],
+      [
+        "A",
+        "True. I'm trying to get the bird droppings off. They're baked on from the sun.",
+        "说得对。我在想办法去掉鸟粪。被太阳晒干了。"
+      ],
+      [
+        "B",
+        "Use the pre-soak setting first. Let it sit for a minute before scrubbing.",
+        "先用预浸模式。让它浸泡一分钟再刷。"
+      ],
+      [
+        "A",
+        "Good tip! Your car looks spotless. What wax do you use?",
+        "好建议！你的车看起来一尘不染。你用什么蜡？"
+      ],
+      [
+        "B",
+        "I use a spray-on ceramic coating. It lasts about 6 months and makes future washes easier.",
+        "我用喷雾式陶瓷镀膜。能维持大约六个月，以后洗车也更方便。"
+      ],
+      [
+        "A",
+        "I'll have to try that. Thanks for the advice!",
+        "我得试试那个。谢谢建议！"
+      ],
+      [
+        "B",
+        "Anytime! Maybe we can coordinate car wash days and help each other out.",
+        "随时！也许我们可以约好同一天洗车，互相帮忙。"
+      ]
+    ],
+    "words": [
+      [
+        "car wash",
+        "/phrase/",
+        "洗车",
+        "Practice using \"car wash\" in a real conversation."
+      ],
+      [
+        "pre-soak",
+        "/phrase/",
+        "预浸",
+        "Practice using \"pre-soak\" in a real conversation."
+      ],
+      [
+        "coating",
+        "/phrase/",
+        "镀膜、涂层",
+        "Practice using \"coating\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在楼道里帮邻居提重物",
+    "difficulty": "初级",
+    "tip": "练习主动帮助和礼貌回应。",
+    "lines": [
+      [
+        "A",
+        "That looks heavy! Let me help you with those grocery bags.",
+        "看起来好重！我帮你提这些购物袋吧。"
+      ],
+      [
+        "B",
+        "Oh, thank you! I bought too much at the market. My arms are giving out!",
+        "哦，谢谢！我在市场买太多了。我的胳膊快断了！"
+      ],
+      [
+        "A",
+        "No problem. Which floor are you on?",
+        "没事。你住几楼？"
+      ],
+      [
+        "B",
+        "8th floor. I usually take the elevator, but it's out of service today.",
+        "8楼。我平时坐电梯，但今天电梯坏了。"
+      ],
+      [
+        "A",
+        "That's unfortunate. Let me carry these up for you. I'm going to the 10th floor anyway.",
+        "真不走运。我帮你提上去吧。反正我也要去10楼。"
+      ],
+      [
+        "B",
+        "You're too kind! I don't know how I would have managed.",
+        "你太好了！我不知道我一个人怎么弄上去。"
+      ],
+      [
+        "A",
+        "(At 8th floor) Here we are. Rest up - you've earned it after that shopping trip!",
+        "（到8楼）到了。好好休息——这次采购辛苦了！"
+      ],
+      [
+        "B",
+        "I owe you one! Let me bake you some cookies as a thank-you.",
+        "我欠你一次人情！我烤些饼干给你作为答谢。"
+      ]
+    ],
+    "words": [
+      [
+        "grocery",
+        "/phrase/",
+        "杂货、食品杂货",
+        "Practice using \"grocery\" in a real conversation."
+      ],
+      [
+        "out of service",
+        "/phrase/",
+        "停止服务",
+        "Practice using \"out of service\" in a real conversation."
+      ],
+      [
+        "manage",
+        "/phrase/",
+        "应付、设法做到",
+        "Practice using \"manage\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区垃圾分类督导站当志愿者",
+    "difficulty": "初中级",
+    "tip": "练习引导居民正确分类垃圾。",
+    "lines": [
+      [
+        "A",
+        "Good evening! Let me help you sort these items.",
+        "晚上好！我来帮您分类这些东西。"
+      ],
+      [
+        "B",
+        "Thanks. I'm never sure which bin this milk carton goes into.",
+        "谢谢。我总是不确定这个牛奶盒该扔哪个桶。"
+      ],
+      [
+        "A",
+        "Rinse it out, then it goes into recyclables. The plastic cap goes separately.",
+        "冲洗干净，然后扔进可回收物。塑料盖单独放。"
+      ],
+      [
+        "B",
+        "What about this takeout box with leftover food?",
+        "那这个有剩菜的外卖盒呢？"
+      ],
+      [
+        "A",
+        "Food scraps go into kitchen waste. The clean container goes into recyclables.",
+        "食物残渣扔厨余垃圾。干净的盒子扔可回收物。"
+      ],
+      [
+        "B",
+        "That makes sense. I'm learning! Thanks for volunteering here.",
+        "有道理。我在学习了！谢谢你在这里做志愿者。"
+      ],
+      [
+        "A",
+        "My pleasure! Every small effort counts. Together we make a cleaner community.",
+        "不客气！每一份小小的努力都很重要。我们一起建设更清洁的社区。"
+      ],
+      [
+        "B",
+        "You're right. I'll pay more attention from now on. See you next time!",
+        "你说得对。我从现在开始会更注意的。下次见！"
+      ]
+    ],
+    "words": [
+      [
+        "sort",
+        "/phrase/",
+        "分类",
+        "Practice using \"sort\" in a real conversation."
+      ],
+      [
+        "recyclable",
+        "/phrase/",
+        "可回收物",
+        "Practice using \"recyclable\" in a real conversation."
+      ],
+      [
+        "volunteer",
+        "/phrase/",
+        "志愿者",
+        "Practice using \"volunteer\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在马尔代夫水屋入住",
+    "difficulty": "初中级",
+    "tip": "练习入住特色住宿和询问设施。",
+    "lines": [
+      [
+        "A",
+        "Welcome to your overwater villa! The glass floor lets you see the fish underneath.",
+        "欢迎来到您的水上别墅！玻璃地板让您能看到下方的鱼。"
+      ],
+      [
+        "B",
+        "This is incredible! I can see a stingray swimming right beneath us!",
+        "太不可思议了！我能看到一条鳐鱼就在我们下方游过！"
+      ],
+      [
+        "A",
+        "The villa comes with a private infinity pool and direct lagoon access.",
+        "别墅配有私人无边泳池和直达泻湖的通道。"
+      ],
+      [
+        "B",
+        "Can I snorkel right from the deck?",
+        "我能直接从甲板浮潜吗？"
+      ],
+      [
+        "A",
+        "Yes, the ladder leads into crystal-clear water. Snorkeling gear is provided.",
+        "是的，梯子通向清澈见底的水域。提供浮潜装备。"
+      ],
+      [
+        "B",
+        "What about meals? Is there room service?",
+        "餐饮呢？有客房送餐吗？"
+      ],
+      [
+        "A",
+        "24-hour room service. Or you can dine at the underwater restaurant - reservations recommended.",
+        "24小时客房送餐。或者您也可以在水下餐厅用餐——建议提前预订。"
+      ],
+      [
+        "B",
+        "Underwater restaurant?! This is beyond my wildest dreams!",
+        "水下餐厅？！这超出了我最疯狂的想象！"
+      ]
+    ],
+    "words": [
+      [
+        "overwater villa",
+        "/phrase/",
+        "水上别墅",
+        "Practice using \"overwater villa\" in a real conversation."
+      ],
+      [
+        "lagoon",
+        "/phrase/",
+        "泻湖",
+        "Practice using \"lagoon\" in a real conversation."
+      ],
+      [
+        "infinity pool",
+        "/phrase/",
+        "无边泳池",
+        "Practice using \"infinity pool\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在苏格兰高地自驾迷路",
+    "difficulty": "初中级",
+    "tip": "练习在偏远地区寻求帮助和使用地图。",
+    "lines": [
+      [
+        "A",
+        "I think we took a wrong turn. The GPS lost signal 10 miles ago.",
+        "我觉得我们拐错弯了。GPS十英里前就没信号了。"
+      ],
+      [
+        "B",
+        "Let's pull over and check the paper map. We should be near Loch Ness.",
+        "我们靠边停车，看看纸质地图。我们应该在尼斯湖附近。"
+      ],
+      [
+        "A",
+        "Look, there's a farmhouse up ahead. Maybe we can ask for directions.",
+        "看，前面有个农舍。也许我们可以去问路。"
+      ],
+      [
+        "B",
+        "(Knocks on door) Excuse me, we're a bit lost. Can you help us find the main road?",
+        "（敲门）打扰一下，我们有点迷路了。能帮我们找到主干道吗？"
+      ],
+      [
+        "A",
+        "C: Aye, you're about 5 miles off course. Follow the dirt road until you see the stone bridge, then turn right.",
+        "C：哎，你们偏了大约5英里。沿着土路走到石桥，然后右转。"
+      ],
+      [
+        "B",
+        "Thank you so much! The scenery is beautiful, but the roads are confusing.",
+        "太感谢了！风景很美，但路太难认了。"
+      ],
+      [
+        "A",
+        "C: That's the Highlands for ye! Stop by the pub in town for some warm soup.",
+        "C：高地就是这样！去镇上的酒吧喝碗热汤暖暖身子。"
+      ],
+      [
+        "B",
+        "Great idea! We'll do that. Thanks again for your help!",
+        "好主意！我们会的。再次感谢你的帮助！"
+      ]
+    ],
+    "words": [
+      [
+        "lost",
+        "/phrase/",
+        "迷路的",
+        "Practice using \"lost\" in a real conversation."
+      ],
+      [
+        "paper map",
+        "/phrase/",
+        "纸质地图",
+        "Practice using \"paper map\" in a real conversation."
+      ],
+      [
+        "direction",
+        "/phrase/",
+        "方向",
+        "Practice using \"direction\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在迪拜沙漠冲沙",
+    "difficulty": "初中级",
+    "tip": "练习体验沙漠活动和表达刺激感。",
+    "lines": [
+      [
+        "A",
+        "Buckle up! The dune bashing is about to begin. Hold on tight!",
+        "系好安全带！冲沙要开始了。抓紧了！"
+      ],
+      [
+        "B",
+        "Whoa! This is like a roller coaster on sand! My stomach is doing flips!",
+        "哇！这就像沙地上的过山车！我的胃在翻腾！"
+      ],
+      [
+        "A",
+        "The driver is an expert. He's been doing this for 15 years. Trust the tires!",
+        "司机是专家。他做这行15年了。相信轮胎！"
+      ],
+      [
+        "B",
+        "(Car slides sideways) I can't tell which way is up anymore! This is insane!",
+        "（车子侧滑）我已经分不清上下左右了！太疯狂了！"
+      ],
+      [
+        "A",
+        "Look at the sunset over the dunes! Orange and gold as far as the eye can see.",
+        "看沙丘上的日落！目之所及皆是橙黄交织。"
+      ],
+      [
+        "B",
+        "This is the most beautiful thing I've ever seen. The silence after the ride is magical.",
+        "这是我见过最美的景象。冲沙后的寂静太迷人了。"
+      ],
+      [
+        "A",
+        "Now we head to the Bedouin camp for dinner and camel rides. The adventure continues!",
+        "现在我们前往贝都因营地吃晚饭和骑骆驼。冒险还在继续！"
+      ],
+      [
+        "B",
+        "I don't think this day can get any better. But I'm ready to be proven wrong!",
+        "我觉得这一天不能再更好了。但我准备好被打脸了！"
+      ]
+    ],
+    "words": [
+      [
+        "dune",
+        "/phrase/",
+        "沙丘",
+        "Practice using \"dune\" in a real conversation."
+      ],
+      [
+        "bashing",
+        "/phrase/",
+        "冲撞、冲击",
+        "Practice using \"bashing\" in a real conversation."
+      ],
+      [
+        "Bedouin",
+        "/phrase/",
+        "贝都因人",
+        "Practice using \"Bedouin\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室第一次主持晨会",
+    "difficulty": "初中级",
+    "tip": "练习主持会议和控制节奏。",
+    "lines": [
+      [
+        "A",
+        "Good morning, everyone. Let's start the daily stand-up. I'll be facilitating today.",
+        "大家早上好。我们开始每日站会。今天由我来主持。"
+      ],
+      [
+        "B",
+        "Morning! I'll go first. Yesterday I completed the UI mockups. Today I'll start the backend integration.",
+        "早上好！我先来。昨天我完成了UI设计稿。今天开始后端集成。"
+      ],
+      [
+        "A",
+        "Great progress. Any blockers?",
+        "进展不错。有什么阻碍吗？"
+      ],
+      [
+        "B",
+        "Waiting for the API documentation from the data team. No rush yet.",
+        "在等数据团队的API文档。还不急。"
+      ],
+      [
+        "A",
+        "Noted. I'll follow up with the data team after this meeting. Next person?",
+        "记下了。我会后和数据团队跟进。下一位？"
+      ],
+      [
+        "B",
+        "I'm working on the user testing report. Should be ready by Friday.",
+        "我在做用户测试报告。周五前应该能完成。"
+      ],
+      [
+        "A",
+        "Perfect. Let's keep the momentum going. Meeting adjourned in 12 minutes - right on time!",
+        "完美。我们保持势头。会议12分钟结束——正好准时！"
+      ],
+      [
+        "B",
+        "Well facilitated! You kept us on track without rushing anyone.",
+        "主持得很好！你既让我们不偏离轨道，又没有催促任何人。"
+      ]
+    ],
+    "words": [
+      [
+        "stand-up",
+        "/phrase/",
+        "站会",
+        "Practice using \"stand-up\" in a real conversation."
+      ],
+      [
+        "facilitate",
+        "/phrase/",
+        "主持、推动",
+        "Practice using \"facilitate\" in a real conversation."
+      ],
+      [
+        "blocker",
+        "/phrase/",
+        "阻碍因素",
+        "Practice using \"blocker\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室帮新同事熟悉系统",
+    "difficulty": "初中级",
+    "tip": "练习指导和培训新员工。",
+    "lines": [
+      [
+        "A",
+        "Welcome to the team! Let me walk you through our project management system.",
+        "欢迎加入团队！我来带你了解我们的项目管理系统。"
+      ],
+      [
+        "B",
+        "Thanks! I've used similar tools before, but each one is a bit different.",
+        "谢谢！我以前用过类似的工具，但每个都略有不同。"
+      ],
+      [
+        "A",
+        "This is our dashboard. Tasks are color-coded: red for urgent, yellow for in progress, green for completed.",
+        "这是我们的仪表盘。任务用颜色标注：红色紧急，黄色进行中，绿色已完成。"
+      ],
+      [
+        "B",
+        "That's intuitive. How do I assign a task to someone?",
+        "很直观。我怎么把任务分配给某人？"
+      ],
+      [
+        "A",
+        "Click the \"+\" icon, fill in the details, and use the @mention to assign. Like this.",
+        "点击\"+\"图标，填写详情，用@提及来分配。像这样。"
+      ],
+      [
+        "B",
+        "Got it! Is there a template for recurring tasks?",
+        "明白了！重复性任务有模板吗？"
+      ],
+      [
+        "A",
+        "Yes, I'll share the template library with you. And feel free to ping me anytime if you get stuck.",
+        "有的，我把模板库分享给你。卡住了随时找我。"
+      ],
+      [
+        "B",
+        "This is so helpful. I feel much more confident now. Thanks for being patient!",
+        "太有帮助了。我现在有信心多了。谢谢你这么耐心！"
+      ]
+    ],
+    "words": [
+      [
+        "dashboard",
+        "/phrase/",
+        "仪表盘",
+        "Practice using \"dashboard\" in a real conversation."
+      ],
+      [
+        "assign",
+        "/phrase/",
+        "分配",
+        "Practice using \"assign\" in a real conversation."
+      ],
+      [
+        "template",
+        "/phrase/",
+        "模板",
+        "Practice using \"template\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室讨论年度调薪",
+    "difficulty": "中高级",
+    "tip": "练习与上司讨论薪酬和个人价值。",
+    "lines": [
+      [
+        "A",
+        "Thank you for meeting with me. I'd like to discuss my compensation review.",
+        "谢谢你和我见面。我想谈谈我的薪酬评估。"
+      ],
+      [
+        "B",
+        "Of course. You've had a strong year. Let's look at your achievements.",
+        "当然。你今年表现很出色。我们来看看你的成绩。"
+      ],
+      [
+        "A",
+        "I led three major projects, mentored two junior developers, and improved our deployment efficiency by 30%.",
+        "我主导了三个重大项目，指导了两名初级开发人员，并将部署效率提升了30%。"
+      ],
+      [
+        "B",
+        "Those are impressive metrics. Based on market benchmarks and your performance, I'm recommending a 12% increase.",
+        "这些都是令人印象深刻的指标。基于市场基准和你的表现，我建议加薪12%。"
+      ],
+      [
+        "A",
+        "I was hoping for 15%. Given my expanded responsibilities, I believe it's justified.",
+        "我希望能有15%。考虑到我扩大的职责范围，我认为这是合理的。"
+      ],
+      [
+        "B",
+        "Let me see what I can do. I'll push for 15% and come back to you by end of week.",
+        "让我看看我能做什么。我会争取15%，本周内回复你。"
+      ],
+      [
+        "A",
+        "I appreciate that. Thank you for advocating for me.",
+        "非常感谢。谢谢你为我争取。"
+      ],
+      [
+        "B",
+        "You've earned it. Let's continue this conversation once I have an answer.",
+        "这是你应得的。等我有答复了我们再继续谈。"
+      ]
+    ],
+    "words": [
+      [
+        "compensation",
+        "/phrase/",
+        "薪酬",
+        "Practice using \"compensation\" in a real conversation."
+      ],
+      [
+        "review",
+        "/phrase/",
+        "评估",
+        "Practice using \"review\" in a real conversation."
+      ],
+      [
+        "advocate",
+        "/phrase/",
+        "主张、为……争取",
+        "Practice using \"advocate\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在巴西烤肉店体验不间断上菜",
+    "difficulty": "初中级",
+    "tip": "练习体验特色用餐方式和点单。",
+    "lines": [
+      [
+        "A",
+        "This is my first churrascaria! The gauchos keep coming with different meats!",
+        "这是我第一次来巴西烤肉店！牛仔们不断端着不同的肉过来！"
+      ],
+      [
+        "B",
+        "Flip your card to green for more meat, red to pause. Pace yourself!",
+        "把牌子翻到绿色表示继续上肉，红色表示暂停。悠着点！"
+      ],
+      [
+        "A",
+        "The picanha is incredible! So juicy and flavorful. What cut is this?",
+        "这块烤牛臀肉太棒了！好多汁好入味。这是什么部位？"
+      ],
+      [
+        "B",
+        "That's top sirloin cap - the most prized cut in Brazilian barbecue. Seasoned with just coarse salt.",
+        "那是顶级牛臀盖——巴西烤肉中最珍贵的部位。只用粗盐调味。"
+      ],
+      [
+        "A",
+        "I need to save room for the grilled pineapple with cinnamon. I've heard it's amazing.",
+        "我得留着肚子吃肉桂烤菠萝。我听说超级好吃。"
+      ],
+      [
+        "B",
+        "It's the perfect palate cleanser between meats. Sweet, smoky, and slightly caramelized.",
+        "它是肉类之间完美的味蕾清洁剂。甜、烟熏味，略带焦糖化。"
+      ],
+      [
+        "A",
+        "I've flipped my card to red. I surrender! But I'll be back for more in 10 minutes.",
+        "我把牌子翻到红色了。我投降！但十分钟后我会再战。"
+      ],
+      [
+        "B",
+        "That's the spirit! Caipirinha to wash it all down?",
+        "这才对！来杯卡琵莉亚鸡尾酒润润喉？"
+      ]
+    ],
+    "words": [
+      [
+        "churrascaria",
+        "/phrase/",
+        "巴西烤肉店",
+        "Practice using \"churrascaria\" in a real conversation."
+      ],
+      [
+        "gaucho",
+        "/phrase/",
+        "高乔人、牛仔",
+        "Practice using \"gaucho\" in a real conversation."
+      ],
+      [
+        "picanha",
+        "/phrase/",
+        "巴西烤牛臀肉",
+        "Practice using \"picanha\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在蒙古包餐厅吃烤全羊",
+    "difficulty": "初中级",
+    "tip": "练习体验游牧民族饮食文化和礼仪。",
+    "lines": [
+      [
+        "A",
+        "The whole roasted lamb is being carried in! The ceremony is beginning!",
+        "烤全羊被抬进来了！仪式要开始了！"
+      ],
+      [
+        "B",
+        "In Mongolian tradition, the guest of honor cuts the first piece. That's you today!",
+        "按照蒙古传统，主宾切第一刀。今天就是你！"
+      ],
+      [
+        "A",
+        "Me?! I don't want to disrespect the tradition. What do I do?",
+        "我？！我不想失礼。我该怎么做？"
+      ],
+      [
+        "B",
+        "Make a small cut on the forehead, then slice a piece from the cheek. Offer it to the eldest person first.",
+        "在额头处轻轻划一刀，然后从脸颊切一片。先敬给最年长的人。"
+      ],
+      [
+        "A",
+        "(Performs ritual) I hope I did that right. The skin is so crispy!",
+        "（完成仪式）希望我没做错。皮好脆！"
+      ],
+      [
+        "B",
+        "Perfect! Now we feast! Dip the meat in the special sauce and wrap it in lettuce.",
+        "完美！现在开宴！肉蘸特制酱料，用生菜包着吃。"
+      ],
+      [
+        "A",
+        "This is the most tender lamb I've ever tasted. And the live throat singing is mesmerizing.",
+        "这是我吃过最嫩的羊肉。现场呼麦表演也太迷人了。"
+      ],
+      [
+        "B",
+        "Welcome to the Mongolian steppe experience! Naadam Festival next if you're brave enough!",
+        "欢迎体验蒙古草原风情！要是你敢的话，下次来那达慕大会！"
+      ]
+    ],
+    "words": [
+      [
+        "roasted lamb",
+        "/phrase/",
+        "烤全羊",
+        "Practice using \"roasted lamb\" in a real conversation."
+      ],
+      [
+        "tradition",
+        "/phrase/",
+        "传统",
+        "Practice using \"tradition\" in a real conversation."
+      ],
+      [
+        "feast",
+        "/phrase/",
+        "盛宴、尽情享用",
+        "Practice using \"feast\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在咖啡馆抱怨WiFi太慢",
+    "difficulty": "初级",
+    "tip": "练习向店员反映问题和寻求解决方案。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, the WiFi is really slow. I'm trying to upload a file for work.",
+        "打扰一下，WiFi非常慢。我在上传工作文件。"
+      ],
+      [
+        "B",
+        "I'm sorry about that. Let me check the router. Which table are you at?",
+        "很抱歉。我检查一下路由器。您坐在哪桌？"
+      ],
+      [
+        "A",
+        "By the window. The signal shows full bars but the speed is terrible.",
+        "靠窗的位置。信号满格但速度很差。"
+      ],
+      [
+        "B",
+        "Ah, that corner sometimes has interference. Let me move you to table 7, closer to the router.",
+        "啊，那个角落有时会有干扰。我帮您换到7号桌，离路由器更近。"
+      ],
+      [
+        "A",
+        "(After moving) Much better! Thanks for the quick fix.",
+        "（换位后）好多了！谢谢你这么快解决。"
+      ],
+      [
+        "B",
+        "No problem! Can I offer you a free refill while you work?",
+        "不客气！我给您免费续杯，您继续工作？"
+      ],
+      [
+        "A",
+        "That would be great. A flat white, please. You've saved my deadline!",
+        "那太好了。一杯 flat white。你救了我的截止日期！"
+      ],
+      [
+        "B",
+        "Happy to help! I'll bring it right over.",
+        "很高兴帮到您！马上送来。"
+      ]
+    ],
+    "words": [
+      [
+        "WiFi",
+        "/phrase/",
+        "无线网络",
+        "Practice using \"WiFi\" in a real conversation."
+      ],
+      [
+        "signal",
+        "/phrase/",
+        "信号",
+        "Practice using \"signal\" in a real conversation."
+      ],
+      [
+        "interference",
+        "/phrase/",
+        "干扰",
+        "Practice using \"interference\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在中药房抓药",
+    "difficulty": "中高级",
+    "tip": "练习按方抓药和了解药材功效。",
+    "lines": [
+      [
+        "A",
+        "I have a prescription from my Chinese medicine doctor. Can you fill it?",
+        "我有中医开的方子。能抓药吗？"
+      ],
+      [
+        "B",
+        "Of course. Let me read the prescription. 12 ingredients total. Some are quite rare.",
+        "当然。我来看看方子。一共12味药。有几味比较稀有。"
+      ],
+      [
+        "A",
+        "Is everything in stock? The doctor said it's for boosting my immune system.",
+        "都有货吗？医生说这是用来增强免疫力的。"
+      ],
+      [
+        "B",
+        "We have all except wild ginseng. I can substitute with cultivated ginseng - similar effect, lower price.",
+        "除了野山参都有。我可以用园参代替——功效相似，价格更低。"
+      ],
+      [
+        "A",
+        "That works. How do I prepare this?",
+        "可以。这个怎么煎？"
+      ],
+      [
+        "B",
+        "Soak the herbs in water for 30 minutes, then boil for 45 minutes. Drink one cup twice a day.",
+        "药材用水浸泡30分钟，然后煎45分钟。每天两次，每次一杯。"
+      ],
+      [
+        "A",
+        "Do I need a special pot?",
+        "需要专门的锅吗？"
+      ],
+      [
+        "B",
+        "A clay pot is traditional, but stainless steel works too. Never use aluminum or iron.",
+        "传统上用砂锅，不锈钢锅也可以。切勿用铝锅或铁锅。"
+      ]
+    ],
+    "words": [
+      [
+        "prescription",
+        "/phrase/",
+        "药方",
+        "Practice using \"prescription\" in a real conversation."
+      ],
+      [
+        "herb",
+        "/phrase/",
+        "草药",
+        "Practice using \"herb\" in a real conversation."
+      ],
+      [
+        "decoct",
+        "/phrase/",
+        "煎煮",
+        "Practice using \"decoct\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在文具店买手账本",
+    "difficulty": "初级",
+    "tip": "练习挑选笔记本和内页格式。",
+    "lines": [
+      [
+        "A",
+        "I want to start journaling. Can you recommend a good notebook?",
+        "我想开始写手账。能推荐一个好的笔记本吗？"
+      ],
+      [
+        "B",
+        "This brand is very popular among journal enthusiasts. Thick paper that prevents ink bleeding.",
+        "这个品牌在手账爱好者中很受欢迎。厚纸，防止墨水渗透。"
+      ],
+      [
+        "A",
+        "What's the difference between dotted, lined, and blank pages?",
+        "点阵、横线和空白页有什么区别？"
+      ],
+      [
+        "B",
+        "Dotted is versatile - you can write, draw, and create layouts easily. Lined is best for pure writing.",
+        "点阵页用途广泛——书写、绘画和排版都很方便。横线最适合纯文字书写。"
+      ],
+      [
+        "A",
+        "I'll go with dotted. A5 size, please. And I need some washi tape samples.",
+        "我选点阵的。A5尺寸。我还需要一些纸胶带样品。"
+      ],
+      [
+        "B",
+        "Here's a starter set with 5 rolls of decorative tape. Perfect for beginners!",
+        "这是一个入门套装，含5卷装饰胶带。非常适合新手！"
+      ],
+      [
+        "A",
+        "This is exactly what I need. I'm excited to start my journaling journey!",
+        "这正是我需要的。我好期待开始我的手账之旅！"
+      ],
+      [
+        "B",
+        "Happy journaling! Don't forget to date your entries - you'll thank yourself later!",
+        "手账愉快！别忘了标注日期——以后你会感谢自己的！"
+      ]
+    ],
+    "words": [
+      [
+        "journal",
+        "/phrase/",
+        "手账、日记",
+        "Practice using \"journal\" in a real conversation."
+      ],
+      [
+        "dotted",
+        "/phrase/",
+        "点阵的",
+        "Practice using \"dotted\" in a real conversation."
+      ],
+      [
+        "washi tape",
+        "/phrase/",
+        "纸胶带",
+        "Practice using \"washi tape\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在电器城以旧换新",
+    "difficulty": "初中级",
+    "tip": "练习以旧换新政策和比较型号。",
+    "lines": [
+      [
+        "A",
+        "I'd like to trade in my old refrigerator for a new energy-efficient model.",
+        "我想用旧冰箱换购一台节能新型号。"
+      ],
+      [
+        "B",
+        "Great! We have a trade-in program. What's the brand and age of your old unit?",
+        "好的！我们有以旧换新计划。您的旧冰箱是什么品牌，用了几年了？"
+      ],
+      [
+        "A",
+        "It's a Samsung, about 8 years old. Still works, but it's noisy and uses a lot of electricity.",
+        "三星的，大约8年了。还能用，但噪音大，耗电也多。"
+      ],
+      [
+        "B",
+        "We can offer you $100 trade-in credit. This new model uses 40% less energy and is whisper-quiet.",
+        "我们可以给您100美元的折抵额度。这款新型号省电40%，而且超级静音。"
+      ],
+      [
+        "A",
+        "What's the price difference after trade-in?",
+        "折抵后差价是多少？"
+      ],
+      [
+        "B",
+        "The new fridge is 800. With trade-in and a current 10% discount, you're looking at 620.",
+        "新冰箱800美元。折抵加当前10%折扣，您只需付620美元。"
+      ],
+      [
+        "A",
+        "That's reasonable. Does delivery include hauling away the old one?",
+        "价格合理。送货包含拖走旧冰箱吗？"
+      ],
+      [
+        "B",
+        "Yes, free delivery and removal. We'll install the new one and recycle the old responsibly.",
+        "是的，免费送货和移除。我们会安装新的，并负责任地回收旧的。"
+      ]
+    ],
+    "words": [
+      [
+        "trade-in",
+        "/phrase/",
+        "以旧换新",
+        "Practice using \"trade-in\" in a real conversation."
+      ],
+      [
+        "energy-efficient",
+        "/phrase/",
+        "节能的",
+        "Practice using \"energy-efficient\" in a real conversation."
+      ],
+      [
+        "removal",
+        "/phrase/",
+        "移除",
+        "Practice using \"removal\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在自习室遇到占座纠纷",
+    "difficulty": "初中级",
+    "tip": "练习处理占座问题和维护权益。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, this seat was saved by my friend who went to get coffee.",
+        "打扰一下，这个座位是我朋友留的，他去买咖啡了。"
+      ],
+      [
+        "B",
+        "I'm sorry, but leaving belongings for more than 30 minutes isn't allowed. The library has clear rules.",
+        "抱歉，物品占座超过30分钟是不允许的。图书馆有明确规定。"
+      ],
+      [
+        "A",
+        "He'll be back any minute. Can you please wait a little longer?",
+        "他马上就回来了。能再等一下吗？"
+      ],
+      [
+        "B",
+        "I've been waiting for 20 minutes already. Finals week is stressful for everyone.",
+        "我已经等了20分钟了。期末考试周对每个人来说压力都很大。"
+      ],
+      [
+        "A",
+        "You're right. I'm sorry. Let me text him to come back now.",
+        "你说得对。对不起。我发信息让他马上回来。"
+      ],
+      [
+        "B",
+        "Thank you for understanding. I'll find another spot if he's on his way.",
+        "谢谢你理解。如果他已经在回来的路上，我去找别的位置。"
+      ],
+      [
+        "A",
+        "No, take this seat. I'll share with my friend. We can squeeze in.",
+        "不，你坐这里。我和朋友挤一挤。"
+      ],
+      [
+        "B",
+        "That's really kind of you. Good luck with your finals!",
+        "你真好。祝你期末考试顺利！"
+      ]
+    ],
+    "words": [
+      [
+        "save a seat",
+        "/phrase/",
+        "占座",
+        "Practice using \"save a seat\" in a real conversation."
+      ],
+      [
+        "belongings",
+        "/phrase/",
+        "随身物品",
+        "Practice using \"belongings\" in a real conversation."
+      ],
+      [
+        "finals",
+        "/phrase/",
+        "期末考试",
+        "Practice using \"finals\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园艺术节上表演街舞",
+    "difficulty": "初中级",
+    "tip": "练习上台表演和应对紧张。",
+    "lines": [
+      [
+        "A",
+        "The crowd is huge! I can see people from the balcony too!",
+        "观众好多！我连楼上包厢的人都看到了！"
+      ],
+      [
+        "B",
+        "Focus on the music and your crew. We've practiced this routine a hundred times.",
+        "专注于音乐和你的队友。这个舞蹈我们已经练了一百遍了。"
+      ],
+      [
+        "A",
+        "My heart is racing. What if I miss a beat?",
+        "我的心跳好快。万一我漏了一拍怎么办？"
+      ],
+      [
+        "B",
+        "If you mess up, just keep moving. The audience won't notice unless you stop.",
+        "就算出错了，继续跳。除非你停下来，否则观众看不出来。"
+      ],
+      [
+        "A",
+        "(Music starts) Here we go! Break a leg!",
+        "（音乐响起）开始了！加油！"
+      ],
+      [
+        "B",
+        "(After performance) We killed it! Did you hear that applause?!",
+        "（表演后）我们炸场了！你听到掌声了吗？！"
+      ],
+      [
+        "A",
+        "I'm shaking! But that adrenaline rush was incredible. Let's do it again next year!",
+        "我还在抖！但那种肾上腺素飙升的感觉太棒了。明年再来一次！"
+      ],
+      [
+        "B",
+        "Definitely! Best performance of the night, if I do say so myself!",
+        "必须的！今晚最佳表演，不是我自夸！"
+      ]
+    ],
+    "words": [
+      [
+        "routine",
+        "/phrase/",
+        "舞蹈编排",
+        "Practice using \"routine\" in a real conversation."
+      ],
+      [
+        "beat",
+        "/phrase/",
+        "节拍",
+        "Practice using \"beat\" in a real conversation."
+      ],
+      [
+        "adrenaline",
+        "/phrase/",
+        "肾上腺素",
+        "Practice using \"adrenaline\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在宿舍楼顶看流星雨",
+    "difficulty": "初级",
+    "tip": "练习夜间活动和分享天文奇观。",
+    "lines": [
+      [
+        "A",
+        "The Perseid meteor shower is supposed to peak tonight. Let's go to the rooftop!",
+        "英仙座流星雨今晚达到高峰。我们去天台吧！"
+      ],
+      [
+        "B",
+        "I brought blankets and hot cocoa. The city lights might affect visibility though.",
+        "我带了毯子和热可可。不过城市灯光可能会影响可见度。"
+      ],
+      [
+        "A",
+        "It's still worth a try. Look, there's one! Did you see it?",
+        "还是值得一试的。看，有一颗！你看到了吗？"
+      ],
+      [
+        "B",
+        "Missed it! But I'm staring at the sky now. Oh! Another one, brighter this time!",
+        "错过了！但我现在死死盯着天空。哦！又来一颗，这次更亮！"
+      ],
+      [
+        "A",
+        "Make a wish! I wished for passing all my exams.",
+        "快许愿！我许愿考试全部通过。"
+      ],
+      [
+        "B",
+        "I wished for world peace and a puppy. Don't judge me!",
+        "我许愿世界和平和一只小狗。别笑我！"
+      ],
+      [
+        "A",
+        "Those are both worthy wishes. This is the perfect end to a stressful week.",
+        "这两个都是值得的愿望。这是紧张一周的完美结尾。"
+      ],
+      [
+        "B",
+        "Agreed. Nothing beats lying under the stars with good friends and hot cocoa.",
+        "同意。没有什么比躺在星空下，和好朋友一起喝热可可更好的了。"
+      ]
+    ],
+    "words": [
+      [
+        "meteor shower",
+        "/phrase/",
+        "流星雨",
+        "Practice using \"meteor shower\" in a real conversation."
+      ],
+      [
+        "wish",
+        "/phrase/",
+        "愿望",
+        "Practice using \"wish\" in a real conversation."
+      ],
+      [
+        "rooftop",
+        "/phrase/",
+        "屋顶、天台",
+        "Practice using \"rooftop\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在网友线下见面会上",
+    "difficulty": "初中级",
+    "tip": "练习网友初次见面的破冰对话。",
+    "lines": [
+      [
+        "A",
+        "Hi! Are you \"PixelWarrior99\" from the gaming forum?",
+        "嗨！你是游戏论坛上的\"像素战士99\"吗？"
+      ],
+      [
+        "B",
+        "Yes! And you must be \"DragonSlayer88\"? You look exactly like your avatar!",
+        "是的！那你一定是\"屠龙勇士88\"？你和你的头像长得一模一样！"
+      ],
+      [
+        "A",
+        "Ha! I was about to say the same about you. It's weird meeting in person after chatting for two years.",
+        "哈！我正想对你说同样的话。聊了两年后见面感觉好奇怪。"
+      ],
+      [
+        "B",
+        "Right? But also exciting! I feel like I already know you.",
+        "对吧？但又很兴奋！我感觉已经认识你了。"
+      ],
+      [
+        "A",
+        "The organizer did a great job picking this café. It's cozy and the WiFi is fast.",
+        "组织者选的这家咖啡馆不错。很温馨，WiFi也快。"
+      ],
+      [
+        "B",
+        "Perfect for a group of gamers! Want to join the Mario Kart tournament later?",
+        "适合一群游戏玩家！一会儿要参加马里奥赛车比赛吗？"
+      ],
+      [
+        "A",
+        "You're on! I've been practicing my rainbow road skills. Prepare to lose!",
+        "比就比！我一直在练彩虹之路。准备输吧！"
+      ],
+      [
+        "B",
+        "Bold words for someone I've never seen play! Let's settle this on the track!",
+        "对于一个我从没见过玩游戏的人来说，口气不小！我们赛道上见真章！"
+      ]
+    ],
+    "words": [
+      [
+        "avatar",
+        "/phrase/",
+        "头像、虚拟形象",
+        "Practice using \"avatar\" in a real conversation."
+      ],
+      [
+        "forum",
+        "/phrase/",
+        "论坛",
+        "Practice using \"forum\" in a real conversation."
+      ],
+      [
+        "tournament",
+        "/phrase/",
+        "锦标赛、比赛",
+        "Practice using \"tournament\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在朋友婚礼上当伴郎致辞",
+    "difficulty": "中高级",
+    "tip": "练习婚礼致辞的表达和情感把控。",
+    "lines": [
+      [
+        "A",
+        "(Tapping glass) May I have everyone's attention? I'd like to say a few words.",
+        "（敲杯子）请大家注意一下？我想说几句话。"
+      ],
+      [
+        "B",
+        "Here we go! The best man speech!",
+        "来了！伴郎致辞！"
+      ],
+      [
+        "A",
+        "I've known Mark since we were 6 years old. We've been through scraped knees, broken hearts, and questionable haircuts together.",
+        "我从6岁就认识马克了。我们一起经历了擦伤的膝盖、破碎的心和糟糕的发型。"
+      ],
+      [
+        "B",
+        "(Laughter from the crowd)",
+        "（宾客笑声）"
+      ],
+      [
+        "A",
+        "But the best decision he ever made was asking Sarah to marry him. She brings out the best in him.",
+        "但他做过的最好的决定就是向莎拉求婚。她激发了他最好的一面。"
+      ],
+      [
+        "B",
+        "(Sarah tears up)",
+        "（莎拉眼眶泛泪）"
+      ],
+      [
+        "A",
+        "To Mark and Sarah - may your love grow stronger with each passing year. Cheers!",
+        "敬马克和莎拉——愿你们的爱一年比一年深厚。干杯！"
+      ],
+      [
+        "B",
+        "Cheers! Great speech, man. You didn't even mention the embarrassing stories I told you not to!",
+        "干杯！说得太好了。你甚至没提那些我让你别说出去的糗事！"
+      ]
+    ],
+    "words": [
+      [
+        "best man",
+        "/phrase/",
+        "伴郎",
+        "Practice using \"best man\" in a real conversation."
+      ],
+      [
+        "speech",
+        "/phrase/",
+        "致辞",
+        "Practice using \"speech\" in a real conversation."
+      ],
+      [
+        "cheers",
+        "/phrase/",
+        "干杯",
+        "Practice using \"cheers\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在读书俱乐部讨论科幻小说",
+    "difficulty": "中高级",
+    "tip": "练习文学分析和观点表达。",
+    "lines": [
+      [
+        "A",
+        "This month's book is \"Dune.\" What did everyone think of the world-building?",
+        "这个月的书是《沙丘》。大家对世界观构建有什么看法？"
+      ],
+      [
+        "B",
+        "Incredible. Herbert created an entire ecosystem, culture, and political system. It feels real.",
+        "不可思议。赫伯特创造了一整个生态系统、文化和政治体系。感觉如此真实。"
+      ],
+      [
+        "A",
+        "I was fascinated by the Fremen culture. The way they adapted to the desert environment is genius.",
+        "我对弗雷曼人的文化着迷。他们适应沙漠环境的方式太天才了。"
+      ],
+      [
+        "B",
+        "And the spice melange! A substance that extends life and enables space travel. Such a creative concept.",
+        "还有香料混合物！一种延长寿命、实现太空旅行的物质。多么有创意的概念。"
+      ],
+      [
+        "A",
+        "The ecological themes are surprisingly relevant today. Climate change, resource wars...",
+        "生态主题在今天惊人地相关。气候变化、资源战争……"
+      ],
+      [
+        "B",
+        "That's what makes great sci-fi - it holds a mirror to our own world.",
+        "这就是伟大科幻小说的特质——它为我们自己的世界照镜子。"
+      ],
+      [
+        "A",
+        "I gave it 5 stars. Who's choosing next month's book?",
+        "我给五星好评。谁来选下个月的书？"
+      ],
+      [
+        "B",
+        "I nominate \"The Left Hand of Darkness\" by Ursula Le Guin. Gender politics in sci-fi!",
+        "我提名厄休拉·勒古恩的《黑暗的左手》。科幻中的性别政治！"
+      ]
+    ],
+    "words": [
+      [
+        "world-building",
+        "/phrase/",
+        "世界观构建",
+        "Practice using \"world-building\" in a real conversation."
+      ],
+      [
+        "sci-fi",
+        "/phrase/",
+        "科幻",
+        "Practice using \"sci-fi\" in a real conversation."
+      ],
+      [
+        "theme",
+        "/phrase/",
+        "主题",
+        "Practice using \"theme\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在皮肤科看痘痘（元宝13）",
+    "difficulty": "初中级",
+    "tip": "练习描述皮肤问题和护肤建议。",
+    "lines": [
+      [
+        "A",
+        "Doctor, I've been breaking out badly for months. Nothing seems to work.",
+        "医生，我这几个月痘痘爆发得很厉害。什么都没用。"
+      ],
+      [
+        "B",
+        "Let me examine your skin. It appears to be hormonal acne. Where on your cycle are you?",
+        "让我检查一下你的皮肤。看起来像是激素性痤疮。你在周期的什么阶段？"
+      ],
+      [
+        "A",
+        "About to start my period. It always gets worse around this time.",
+        "快要来月经了。每到这个时候就更严重。"
+      ],
+      [
+        "B",
+        "That confirms it. I'll prescribe a topical retinoid and an antibiotic gel. Use them consistently.",
+        "这证实了。我开外用维A酸和抗生素凝胶。坚持使用。"
+      ],
+      [
+        "A",
+        "Are there any side effects?",
+        "有副作用吗？"
+      ],
+      [
+        "B",
+        "Initial dryness and peeling are common. Start with every other night and moisturize well.",
+        "初期干燥脱皮是常见的。每隔一晚用一次，做好保湿。"
+      ],
+      [
+        "A",
+        "What about my skincare routine? Should I change anything?",
+        "我的护肤步骤呢？需要改变什么吗？"
+      ],
+      [
+        "B",
+        "Simplify. Gentle cleanser, your medication, and a non-comedogenic moisturizer. Avoid harsh exfoliants.",
+        "精简。温和洁面、你的药、以及不致痘的保湿霜。避免刺激性去角质产品。"
+      ]
+    ],
+    "words": [
+      [
+        "acne",
+        "/phrase/",
+        "痤疮、痘痘",
+        "Practice using \"acne\" in a real conversation."
+      ],
+      [
+        "retinoid",
+        "/phrase/",
+        "维A酸类",
+        "Practice using \"retinoid\" in a real conversation."
+      ],
+      [
+        "non-comedogenic",
+        "/phrase/",
+        "不致痘的",
+        "Practice using \"non-comedogenic\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在泌尿科看肾结石",
+    "difficulty": "中高级",
+    "tip": "练习描述剧烈疼痛和了解治疗方案。",
+    "lines": [
+      [
+        "A",
+        "Doctor, I have excruciating pain in my lower back that comes in waves.",
+        "医生，我下背部剧痛，一阵一阵的。"
+      ],
+      [
+        "B",
+        "That sounds like kidney stones. Let's do a CT scan to confirm.",
+        "听起来像肾结石。我们做个CT确认一下。"
+      ],
+      [
+        "A",
+        "I can barely stand. The pain is the worst I've ever felt.",
+        "我几乎站不住了。这是我经历过最剧烈的疼痛。"
+      ],
+      [
+        "B",
+        "I'll give you pain relief immediately. Once we know the size and location, we'll discuss treatment.",
+        "我马上给你止痛。一旦知道大小和位置，我们讨论治疗方案。"
+      ],
+      [
+        "A",
+        "(After scan) How big is it?",
+        "（扫描后）有多大？"
+      ],
+      [
+        "B",
+        "6mm. Small enough to pass naturally with medication. Drink 3 liters of water daily to flush it out.",
+        "6毫米。足够小，可以通过药物自然排出。每天喝3升水冲刷。"
+      ],
+      [
+        "A",
+        "How long will it take to pass?",
+        "排出来需要多久？"
+      ],
+      [
+        "B",
+        "Usually within a few days to a couple of weeks. Strain your urine to catch the stone for analysis.",
+        "通常几天到几周不等。用滤网接尿，接住石头做分析。"
+      ]
+    ],
+    "words": [
+      [
+        "kidney stone",
+        "/phrase/",
+        "肾结石",
+        "Practice using \"kidney stone\" in a real conversation."
+      ],
+      [
+        "CT scan",
+        "/phrase/",
+        "CT扫描",
+        "Practice using \"CT scan\" in a real conversation."
+      ],
+      [
+        "pass",
+        "/phrase/",
+        "排出",
+        "Practice using \"pass\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在社区戒烟比赛中获奖",
+    "difficulty": "初中级",
+    "tip": "练习分享戒烟成功经验和鼓励他人。",
+    "lines": [
+      [
+        "A",
+        "Congratulations! You won the \"Quit for Good\" challenge! 6 months smoke-free!",
+        "恭喜！你赢得了\"永久戒烟\"挑战赛！六个月无烟！"
+      ],
+      [
+        "B",
+        "I can't believe it! I never thought I'd be here a year ago.",
+        "不敢相信！一年前我从没想过我能走到这一步。"
+      ],
+      [
+        "A",
+        "What was the hardest moment?",
+        "最难熬的时刻是什么？"
+      ],
+      [
+        "B",
+        "The first two weeks were brutal. I chewed so much gum my jaw hurt! But after a month, it got easier.",
+        "头两周最难熬。我嚼了太多口香糖，下巴都疼了！但一个月后就好多了。"
+      ],
+      [
+        "A",
+        "What kept you going?",
+        "是什么让你坚持下来的？"
+      ],
+      [
+        "B",
+        "My kids. I promised them I'd be around to see them grow up. That promise meant more than any cigarette.",
+        "我的孩子们。我向他们保证我会活着看他们长大。那个承诺比任何香烟都重要。"
+      ],
+      [
+        "A",
+        "That's beautiful. Your story will inspire others in the program.",
+        "太感人了。你的故事会激励项目中的其他人。"
+      ],
+      [
+        "B",
+        "If I can do it, anyone can. One day at a time, and don't be too hard on yourself if you slip.",
+        "如果我能做到，任何人都能做到。一天一天来，如果不小心破戒了也别太苛责自己。"
+      ]
+    ],
+    "words": [
+      [
+        "smoke-free",
+        "/phrase/",
+        "无烟的",
+        "Practice using \"smoke-free\" in a real conversation."
+      ],
+      [
+        "challenge",
+        "/phrase/",
+        "挑战",
+        "Practice using \"challenge\" in a real conversation."
+      ],
+      [
+        "inspire",
+        "/phrase/",
+        "激励",
+        "Practice using \"inspire\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区门口取外卖",
+    "difficulty": "初级",
+    "tip": "练习取外卖和确认订单。",
+    "lines": [
+      [
+        "A",
+        "Hello, I have a delivery for Tom. Order number 4582.",
+        "你好，我有汤姆的外卖。订单号4582。"
+      ],
+      [
+        "B",
+        "That's me! Let me check the items. One beef burger, one Caesar salad, and two drinks. Correct?",
+        "是我！我核对一下。一个牛肉汉堡、一份凯撒沙拉和两杯饮料。对吗？"
+      ],
+      [
+        "A",
+        "All correct. Here's your order. Enjoy your meal!",
+        "全对。这是您的订单。请慢用！"
+      ],
+      [
+        "B",
+        "Thanks! Oh wait, I ordered extra ketchup. Is it in the bag?",
+        "谢谢！哦等等，我点了额外的番茄酱。在袋子里吗？"
+      ],
+      [
+        "A",
+        "Let me check... Yes, it's at the bottom. Sorry I didn't mention it earlier!",
+        "我看看……是的，在袋子底部。抱歉刚才没说！"
+      ],
+      [
+        "B",
+        "No problem! Thanks for being thorough. Have a great evening!",
+        "没事！谢谢你这么仔细。祝你晚上愉快！"
+      ],
+      [
+        "A",
+        "You too! Don't forget to rate the delivery on the app!",
+        "你也是！别忘了在App上给配送评分！"
+      ],
+      [
+        "B",
+        "Okay, thanks for explaining.",
+        "好的，谢谢你解释。"
+      ]
+    ],
+    "words": [
+      [
+        "delivery",
+        "/phrase/",
+        "外卖、配送",
+        "Practice using \"delivery\" in a real conversation."
+      ],
+      [
+        "order number",
+        "/phrase/",
+        "订单号",
+        "Practice using \"order number\" in a real conversation."
+      ],
+      [
+        "thorough",
+        "/phrase/",
+        "仔细的、周全的",
+        "Practice using \"thorough\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在社区图书馆借书逾期",
+    "difficulty": "初中级",
+    "tip": "练习处理逾期罚款和续借。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'd like to return these books. I think they might be overdue.",
+        "你好，我想还这些书。可能过期了。"
+      ],
+      [
+        "B",
+        "Let me check. Yes, three books are 10 days overdue. That's $1.50 in fines.",
+        "我查一下。是的，三本书过期10天。罚款1.5美元。"
+      ],
+      [
+        "A",
+        "I completely forgot about the due date. Can I renew them instead?",
+        "我完全忘了到期日。我能续借吗？"
+      ],
+      [
+        "B",
+        "Since they're overdue, renewal isn't possible. But you can check them out again after returning.",
+        "因为已经过期，不能续借了。但你可以还了之后再借。"
+      ],
+      [
+        "A",
+        "Fair enough. I'll pay the fine. Can I pay by card?",
+        "好吧。我交罚款。能刷卡吗？"
+      ],
+      [
+        "B",
+        "Cash only, I'm afraid. There's an ATM in the lobby.",
+        "恐怕只收现金。大厅里有取款机。"
+      ],
+      [
+        "A",
+        "(Returns) Here's $2. Keep the change as a donation to the library.",
+        "（回来）给你2美元。不用找了，捐给图书馆。"
+      ],
+      [
+        "B",
+        "That's very generous! Thank you for supporting your local library.",
+        "太慷慨了！感谢你支持社区图书馆。"
+      ]
+    ],
+    "words": [
+      [
+        "overdue",
+        "/phrase/",
+        "过期的",
+        "Practice using \"overdue\" in a real conversation."
+      ],
+      [
+        "fine",
+        "/phrase/",
+        "罚款",
+        "Practice using \"fine\" in a real conversation."
+      ],
+      [
+        "renew",
+        "/phrase/",
+        "续借",
+        "Practice using \"renew\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区花园里学跳广场舞",
+    "difficulty": "初中级",
+    "tip": "练习参与社区活动和向长辈学习。",
+    "lines": [
+      [
+        "A",
+        "Auntie, you all dance so gracefully! Is it difficult to learn?",
+        "阿姨，你们跳得真优美！难学吗？"
+      ],
+      [
+        "B",
+        "Not at all! Join us! We start with simple steps. Follow my lead.",
+        "一点也不！加入我们！我们从简单的步伐开始。跟着我做。"
+      ],
+      [
+        "A",
+        "Left, right, turn, and... oh, I'm two steps behind already!",
+        "左、右、转……哦，我已经慢了两拍了！"
+      ],
+      [
+        "B",
+        "Don't worry! The rhythm will come with practice. Listen to the music, feel the beat.",
+        "别担心！多练就有节奏感了。听音乐，感受节拍。"
+      ],
+      [
+        "A",
+        "This is actually fun! And great exercise too. My grandmom used to do this every evening.",
+        "这其实挺好玩的！还是很好的运动。我奶奶以前每天晚上都跳。"
+      ],
+      [
+        "B",
+        "Dancing keeps us young! You're doing great for a first-timer.",
+        "跳舞让我们保持年轻！作为初学者你跳得很好了。"
+      ],
+      [
+        "A",
+        "I'll come back tomorrow! Same time, same place?",
+        "我明天还来！同一时间，同一地点？"
+      ],
+      [
+        "B",
+        "7 PM sharp! We'll make a dancer out of you yet!",
+        "晚上7点准时！我们一定能把你培养成一个舞者！"
+      ]
+    ],
+    "words": [
+      [
+        "square dancing",
+        "/phrase/",
+        "广场舞",
+        "Practice using \"square dancing\" in a real conversation."
+      ],
+      [
+        "graceful",
+        "/phrase/",
+        "优美的",
+        "Practice using \"graceful\" in a real conversation."
+      ],
+      [
+        "rhythm",
+        "/phrase/",
+        "节奏",
+        "Practice using \"rhythm\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在新西兰蹦极",
+    "difficulty": "初中级",
+    "tip": "练习挑战极限运动和表达恐惧与兴奋。",
+    "lines": [
+      [
+        "A",
+        "This is the original bungee jump site! 43 meters above the Kawarau River.",
+        "这是最早的蹦极点！卡瓦劳河上方43米。"
+      ],
+      [
+        "B",
+        "I've been queuing for an hour and my legs are still shaking.",
+        "我排了一小时的队，腿还在抖。"
+      ],
+      [
+        "A",
+        "The staff are strapping me in. They said the hardest part is the jump itself.",
+        "工作人员在给我绑安全绳了。他们说最难的就是跳出去那一刻。"
+      ],
+      [
+        "B",
+        "Just don't look down! Or do look down? I don't know what's better.",
+        "别看下面！或者还是看下面？我也不知道哪个更好。"
+      ],
+      [
+        "A",
+        "(At the edge) Three, two, one... BUNGEE! (Jumps)",
+        "（站在边缘）三、二、一……蹦极！（跳下）"
+      ],
+      [
+        "B",
+        "(Watching) OH MY GOD HE ACTUALLY DID IT! He's bouncing back up!",
+        "（看着）天哪他真的跳了！他在弹回来了！"
+      ],
+      [
+        "A",
+        "(After being pulled up) THAT WAS THE BEST THING I'VE EVER DONE! You have to try it!",
+        "（被拉上来后）这是我做过最棒的事！你一定要试试！"
+      ],
+      [
+        "B",
+        "Okay okay okay! I'm going! Don't let me chicken out!",
+        "好好好！我跳！别让我临阵退缩！"
+      ]
+    ],
+    "words": [
+      [
+        "bungee",
+        "/phrase/",
+        "蹦极",
+        "Practice using \"bungee\" in a real conversation."
+      ],
+      [
+        "strap in",
+        "/phrase/",
+        "系好安全带",
+        "Practice using \"strap in\" in a real conversation."
+      ],
+      [
+        "bounce",
+        "/phrase/",
+        "弹跳",
+        "Practice using \"bounce\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在北海道滑雪场坐缆车",
+    "difficulty": "初级",
+    "tip": "练习乘坐缆车和欣赏雪景。",
+    "lines": [
+      [
+        "A",
+        "The chairlift is so peaceful. Just the sound of snowflakes landing.",
+        "缆车好宁静。只有雪花落下的声音。"
+      ],
+      [
+        "B",
+        "Look at the view! The entire mountain is covered in powder snow. Like a winter wonderland.",
+        "看那景色！整座山都被粉雪覆盖。像冬日仙境。"
+      ],
+      [
+        "A",
+        "I can see skiers carving down the slope below us. They look so graceful.",
+        "我能看到滑雪者在下方雪道上刻滑。他们看起来好优雅。"
+      ],
+      [
+        "B",
+        "That black diamond run looks terrifying. I'm sticking to the green slopes today.",
+        "那条黑道看起来好恐怖。我今天还是老老实实待绿道吧。"
+      ],
+      [
+        "A",
+        "Smart. No need to break a leg on the first day. How many runs have you done?",
+        "明智。没必要第一天就摔断腿。你滑了几趟了？"
+      ],
+      [
+        "B",
+        "Five so far. My thighs are burning but I can't stop.",
+        "五趟了。大腿在燃烧但停不下来。"
+      ],
+      [
+        "A",
+        "Same here! One more run and then hot chocolate at the lodge?",
+        "我也是！再滑一趟然后去小木屋喝热巧克力？"
+      ],
+      [
+        "B",
+        "Deal! Nothing beats apres-ski hot chocolate with a mountain view.",
+        "成交！没有什么比在山景中来一杯滑雪后的热巧克力更棒的了。"
+      ]
+    ],
+    "words": [
+      [
+        "chairlift",
+        "/phrase/",
+        "缆车",
+        "Practice using \"chairlift\" in a real conversation."
+      ],
+      [
+        "powder snow",
+        "/phrase/",
+        "粉雪",
+        "Practice using \"powder snow\" in a real conversation."
+      ],
+      [
+        "après-ski",
+        "/phrase/",
+        "滑雪后的休闲",
+        "Practice using \"après-ski\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在复活节岛看摩艾石像",
+    "difficulty": "初中级",
+    "tip": "练习探索古迹和表达敬畏之情。",
+    "lines": [
+      [
+        "A",
+        "There they are! The Moai statues! I've seen them in photos but in person they're overwhelming.",
+        "它们在那里！摩艾石像！我在照片里见过，但亲眼看到太震撼了。"
+      ],
+      [
+        "B",
+        "The scale is unbelievable. Some are over 10 meters tall and weigh 80 tons.",
+        "规模难以置信。有些超过10米高，重达80吨。"
+      ],
+      [
+        "A",
+        "How did the ancient Rapa Nui people move these across the island?",
+        "古代的拉帕努伊人是怎么把这些石像运到岛上的？"
+      ],
+      [
+        "B",
+        "That's the mystery! Theories include rolling logs, ropes, and even \"walking\" them upright.",
+        "这就是谜团所在！理论包括滚木、绳索，甚至让它们\"直立行走\"。"
+      ],
+      [
+        "A",
+        "Look at the expressions on their faces. Each one seems to have a different personality.",
+        "看它们脸上的表情。每一尊似乎都有不同的个性。"
+      ],
+      [
+        "B",
+        "They're believed to represent ancestral chiefs. Watching over the island for centuries.",
+        "人们认为它们代表祖先酋长。守护这座岛屿数个世纪。"
+      ],
+      [
+        "A",
+        "Standing here, I feel a connection to history that's hard to describe.",
+        "站在这里，我感受到一种难以描述的历史连结。"
+      ],
+      [
+        "B",
+        "That's the magic of Easter Island. It touches your soul in ways you don't expect.",
+        "这就是复活节岛的魔力。它以你意想不到的方式触动你的灵魂。"
+      ]
+    ],
+    "words": [
+      [
+        "Moai",
+        "/phrase/",
+        "摩艾石像",
+        "Practice using \"Moai\" in a real conversation."
+      ],
+      [
+        "statue",
+        "/phrase/",
+        "雕像",
+        "Practice using \"statue\" in a real conversation."
+      ],
+      [
+        "ancestor",
+        "/phrase/",
+        "祖先",
+        "Practice using \"ancestor\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室收到裁员通知",
+    "difficulty": "中高级",
+    "tip": "练习面对失业和规划下一步。",
+    "lines": [
+      [
+        "A",
+        "Tom, I'm sorry to inform you that your position has been eliminated due to restructuring.",
+        "汤姆，很抱歉通知你，由于重组，你的职位已被裁撤。"
+      ],
+      [
+        "B",
+        "I... I wasn't expecting this. Is there any possibility of reassignment?",
+        "我……我没想到会是这样。有可能调岗吗？"
+      ],
+      [
+        "A",
+        "Unfortunately not. We've explored all options. You'll receive a severance package and outplacement support.",
+        "很遗憾没有。我们已经考虑了所有方案。你会收到遣散费和再就业支持。"
+      ],
+      [
+        "B",
+        "How much time do I have?",
+        "我还有多少时间？"
+      ],
+      [
+        "A",
+        "Your last day is in two weeks. You can use this time to wrap up projects and attend career counseling.",
+        "你的最后工作日是两周后。你可以用这段时间交接项目和参加职业咨询。"
+      ],
+      [
+        "B",
+        "I understand. Thank you for telling me in person. I'll make sure my handover documents are complete.",
+        "我理解。谢谢你当面告诉我。我会确保交接文件齐全。"
+      ],
+      [
+        "A",
+        "You're handling this with great professionalism. I'll write you a strong recommendation letter.",
+        "你处理得非常专业。我会为你写一封有力的推荐信。"
+      ],
+      [
+        "B",
+        "I appreciate that. I'll take some time to reflect and then start looking for new opportunities.",
+        "非常感谢。我会花点时间反思，然后开始寻找新的机会。"
+      ]
+    ],
+    "words": [
+      [
+        "eliminate",
+        "/phrase/",
+        "裁撤",
+        "Practice using \"eliminate\" in a real conversation."
+      ],
+      [
+        "severance",
+        "/phrase/",
+        "遣散费",
+        "Practice using \"severance\" in a real conversation."
+      ],
+      [
+        "outplacement",
+        "/phrase/",
+        "再就业服务",
+        "Practice using \"outplacement\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室借用同事的笔记本电脑",
+    "difficulty": "初级",
+    "tip": "练习借用物品和遵守使用约定。",
+    "lines": [
+      [
+        "A",
+        "Hey, my laptop crashed right before the deadline. Can I borrow yours for an hour?",
+        "嘿，我的笔记本电脑在截止日期前死机了。能借你的用一个小时吗？"
+      ],
+      [
+        "B",
+        "Sure, here you go. Just don't close any of my open tabs - I have important research there.",
+        "当然，给你。别关我打开的标签页——我里面有重要的研究资料。"
+      ],
+      [
+        "A",
+        "Of course. I'll only use Word and email. I promise not to touch anything else.",
+        "当然。我只用Word和邮件。我保证不动其他东西。"
+      ],
+      [
+        "B",
+        "The charger is in the bag if you need it. Battery isn't great these days.",
+        "充电器在包里，需要的话自己拿。最近电池不太行了。"
+      ],
+      [
+        "A",
+        "Thanks! You're a lifesaver. I'll have it back to you before lunch.",
+        "谢谢！你真是救星。午饭前还你。"
+      ],
+      [
+        "B",
+        "No rush. I'm in meetings all morning anyway.",
+        "不急。反正我上午都在开会。"
+      ],
+      [
+        "A",
+        "(Returning) All done! Saved my project. I owe you coffee for a week!",
+        "（归还）搞定了！救了我的项目。我欠你一周的咖啡！"
+      ],
+      [
+        "B",
+        "Ha! I'll hold you to that. Glad I could help!",
+        "哈！我可记住了。很高兴能帮上忙！"
+      ]
+    ],
+    "words": [
+      [
+        "crash",
+        "/phrase/",
+        "死机、崩溃",
+        "Practice using \"crash\" in a real conversation."
+      ],
+      [
+        "borrow",
+        "/phrase/",
+        "借用",
+        "Practice using \"borrow\" in a real conversation."
+      ],
+      [
+        "deadline",
+        "/phrase/",
+        "截止日期",
+        "Practice using \"deadline\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室讨论弹性工作制",
+    "difficulty": "中高级",
+    "tip": "练习与管理层讨论工作安排。",
+    "lines": [
+      [
+        "A",
+        "I'd like to propose a flexible working arrangement. I believe it would benefit both me and the company.",
+        "我想提议弹性工作安排。我相信这对我和公司都有益。"
+      ],
+      [
+        "B",
+        "I'm open to hearing your proposal. What do you have in mind?",
+        "我愿意听取你的提议。你有什么想法？"
+      ],
+      [
+        "A",
+        "I'd like to work from home on Wednesdays and Fridays. My productivity is higher without commute interruptions.",
+        "我想周三和周五在家办公。没有通勤干扰，我的工作效率更高。"
+      ],
+      [
+        "B",
+        "How do you plan to stay connected with the team?",
+        "你打算如何与团队保持联系？"
+      ],
+      [
+        "A",
+        "I'll be fully available on Slack and video calls. I can also come in for important meetings when needed.",
+        "我会在Slack和视频通话上全天在线。有重要会议时我也会到公司参加。"
+      ],
+      [
+        "B",
+        "Let's try a 3-month trial. We'll review your output and team feedback afterward.",
+        "我们试行三个月。之后评估你的产出和团队反馈。"
+      ],
+      [
+        "A",
+        "Thank you for trusting me with this. I'll make sure it works.",
+        "谢谢你信任我。我会确保效果良好。"
+      ],
+      [
+        "B",
+        "If successful, we might roll this out to more team members. You're paving the way!",
+        "如果成功，我们可能会推广到更多团队成员。你在铺路！"
+      ]
+    ],
+    "words": [
+      [
+        "flexible",
+        "/phrase/",
+        "灵活的",
+        "Practice using \"flexible\" in a real conversation."
+      ],
+      [
+        "arrangement",
+        "/phrase/",
+        "安排",
+        "Practice using \"arrangement\" in a real conversation."
+      ],
+      [
+        "trial",
+        "/phrase/",
+        "试行",
+        "Practice using \"trial\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在埃塞俄比亚餐厅用手吃英吉拉",
+    "difficulty": "初中级",
+    "tip": "练习体验非洲饮食文化和分享食物。",
+    "lines": [
+      [
+        "A",
+        "This is my first Ethiopian meal! The injera bread looks like a spongy pancake.",
+        "这是我第一次吃埃塞俄比亚菜！英吉拉面包看起来像海绵状的薄饼。"
+      ],
+      [
+        "B",
+        "It's made from teff flour. It serves as both the plate and the utensil!",
+        "是用苔麸粉做的。它既是盘子又是餐具！"
+      ],
+      [
+        "A",
+        "So I tear off a piece and use it to pick up the stew?",
+        "所以我撕下一块，用它来舀炖菜？"
+      ],
+      [
+        "B",
+        "Exactly! Use only your right hand. Try the doro wat - spicy chicken stew.",
+        "完全正确！只用右手。试试多罗瓦特——辣味鸡肉炖菜。"
+      ],
+      [
+        "A",
+        "(Tastes) The flavors are so complex! Berbere spice is incredible.",
+        "（品尝）味道好有层次！柏柏尔香料太棒了。"
+      ],
+      [
+        "B",
+        "The platter is meant to be shared. In Ethiopian culture, feeding someone is a gesture of friendship.",
+        "大盘子是供分享的。在埃塞俄比亚文化中，喂食是友谊的表示。"
+      ],
+      [
+        "A",
+        "Let me feed you a piece then! Open wide!",
+        "那我来喂你一块！张嘴！"
+      ],
+      [
+        "B",
+        "(Laughs) You're adapting quickly! This is what makes dining here so special.",
+        "（笑）你适应得真快！这就是在这里用餐如此特别的原因。"
+      ]
+    ],
+    "words": [
+      [
+        "injera",
+        "/phrase/",
+        "英吉拉",
+        "Practice using \"injera\" in a real conversation."
+      ],
+      [
+        "stew",
+        "/phrase/",
+        "炖菜",
+        "Practice using \"stew\" in a real conversation."
+      ],
+      [
+        "spice",
+        "/phrase/",
+        "香料",
+        "Practice using \"spice\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在港式茶餐厅点鸳鸯奶茶",
+    "difficulty": "初级",
+    "tip": "练习点港式饮品和了解茶餐厅文化。",
+    "lines": [
+      [
+        "A",
+        "I'm exhausted from shopping. Let's sit at this cha chaan teng and recharge.",
+        "逛街逛累了。我们坐在这家茶餐厅歇歇脚。"
+      ],
+      [
+        "B",
+        "You have to try yuenyeung - half coffee, half milk tea. It's a Hong Kong classic.",
+        "你一定要试试鸳鸯——一半咖啡一半奶茶。香港经典。"
+      ],
+      [
+        "A",
+        "That sounds interesting! Is it sweet?",
+        "听起来有意思！甜吗？"
+      ],
+      [
+        "B",
+        "You can adjust the sweetness. I recommend \"less sweet\" to taste the blend of flavors.",
+        "可以调整甜度。我推荐\"少甜\"，才能尝到混合的风味。"
+      ],
+      [
+        "A",
+        "I'll have that. And a pineapple bun with butter.",
+        "我要一杯。再来一个菠萝油。"
+      ],
+      [
+        "B",
+        "Classic combo! The bun is freshly baked. The butter melts into the warm bread.",
+        "经典搭配！面包是现烤的。黄油融进热面包里。"
+      ],
+      [
+        "A",
+        "(Sips yuenyeung) This is perfect! The bitterness of coffee and silkiness of tea combined.",
+        "（喝一口鸳鸯）太完美了！咖啡的苦和茶的丝滑结合在一起。"
+      ],
+      [
+        "B",
+        "Welcome to Hong Kong! Cha chaan teng culture is UNESCO-recognized, you know.",
+        "欢迎来到香港！茶餐厅文化可是联合国教科文组织认可的。"
+      ]
+    ],
+    "words": [
+      [
+        "yuenyeung",
+        "/phrase/",
+        "鸳鸯",
+        "Practice using \"yuenyeung\" in a real conversation."
+      ],
+      [
+        "cha chaan teng",
+        "/phrase/",
+        "茶餐厅",
+        "Practice using \"cha chaan teng\" in a real conversation."
+      ],
+      [
+        "pineapple bun",
+        "/phrase/",
+        "菠萝包",
+        "Practice using \"pineapple bun\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在素食餐厅发现菜单有误",
+    "difficulty": "初中级",
+    "tip": "练习指出菜单错误和礼貌沟通。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, I ordered the vegan Buddha bowl, but this has feta cheese on it.",
+        "打扰一下，我点了纯素佛陀碗，但这上面有菲达芝士。"
+      ],
+      [
+        "B",
+        "Oh, I'm so sorry! Let me check the order slip. You're right - this is the vegetarian version.",
+        "哦，非常抱歉！我核对一下订单。您说得对——这是素食版。"
+      ],
+      [
+        "A",
+        "I specifically asked for vegan because I'm lactose intolerant.",
+        "我特别说了要纯素，因为我乳糖不耐受。"
+      ],
+      [
+        "B",
+        "I'll have the kitchen remake it immediately. Can I offer you a complimentary drink while you wait?",
+        "我让厨房立刻重做。等的时候我送您一杯免费饮品好吗？"
+      ],
+      [
+        "A",
+        "That would be nice. A fresh orange juice, please.",
+        "那好。一杯鲜榨橙汁。"
+      ],
+      [
+        "B",
+        "Coming right up. Again, I apologize for the mistake. We'll get it right this time.",
+        "马上来。再次为错误道歉。这次一定做好。"
+      ],
+      [
+        "A",
+        "(New bowl arrives) This is perfect! Thank you for handling it so professionally.",
+        "（新碗上桌）这次完美了！谢谢你处理得这么专业。"
+      ],
+      [
+        "B",
+        "It's the least I can do. Please enjoy your meal, and don't hesitate to flag anything else.",
+        "这是我应该做的。请慢用，有任何问题随时说。"
+      ]
+    ],
+    "words": [
+      [
+        "vegan",
+        "/phrase/",
+        "纯素的",
+        "Practice using \"vegan\" in a real conversation."
+      ],
+      [
+        "lactose intolerant",
+        "/phrase/",
+        "乳糖不耐受",
+        "Practice using \"lactose intolerant\" in a real conversation."
+      ],
+      [
+        "remake",
+        "/phrase/",
+        "重做",
+        "Practice using \"remake\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在花店为母亲节选花",
+    "difficulty": "初级",
+    "tip": "练习选花和了解花语。",
+    "lines": [
+      [
+        "A",
+        "Mother's Day is coming. I want to get a bouquet for my mom.",
+        "母亲节快到了。我想给我妈妈买一束花。"
+      ],
+      [
+        "B",
+        "Lovely! Carnations are traditional for Mother's Day. They symbolize love and gratitude.",
+        "太好了！康乃馨是母亲节的传统花卉。象征爱与感恩。"
+      ],
+      [
+        "A",
+        "My mom loves pink. Can you make a bouquet with pink carnations and roses?",
+        "我妈妈喜欢粉色。能用粉色康乃馨和玫瑰做一束吗？"
+      ],
+      [
+        "B",
+        "Absolutely. Pink roses represent admiration and appreciation. Perfect combination!",
+        "当然。粉玫瑰代表钦佩和感激。完美的组合！"
+      ],
+      [
+        "A",
+        "How much would that be?",
+        "多少钱？"
+      ],
+      [
+        "B",
+        "A medium bouquet with wrapping is $45. We also offer free delivery if ordered before noon.",
+        "中号花束含包装45美元。中午前下单免费配送。"
+      ],
+      [
+        "A",
+        "I'll order it for delivery on Sunday morning. Can I include a handwritten card?",
+        "我订周日早上配送。能附一张手写卡片吗？"
+      ],
+      [
+        "B",
+        "Of course. We have blank cards right here. Take your time writing your message.",
+        "当然。我们有空白卡片。慢慢写你的留言。"
+      ]
+    ],
+    "words": [
+      [
+        "bouquet",
+        "/phrase/",
+        "花束",
+        "Practice using \"bouquet\" in a real conversation."
+      ],
+      [
+        "carnation",
+        "/phrase/",
+        "康乃馨",
+        "Practice using \"carnation\" in a real conversation."
+      ],
+      [
+        "delivery",
+        "/phrase/",
+        "配送",
+        "Practice using \"delivery\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在体育用品店买跑鞋",
+    "difficulty": "初中级",
+    "tip": "练习选跑鞋和做步态分析。",
+    "lines": [
+      [
+        "A",
+        "I'm training for a marathon. I need proper running shoes.",
+        "我在为马拉松训练。我需要合适的跑鞋。"
+      ],
+      [
+        "B",
+        "Great! Let's analyze your gait on the treadmill first. This will tell us your pronation type.",
+        "太好了！我们先在跑步机上分析你的步态。这会告诉我们你的内旋类型。"
+      ],
+      [
+        "A",
+        "(After analysis) What did you find?",
+        "（分析后）你发现了什么？"
+      ],
+      [
+        "B",
+        "You have neutral pronation. You need a balanced shoe with moderate cushioning.",
+        "你是中性内旋。你需要一双平衡型、缓震适中的鞋。"
+      ],
+      [
+        "A",
+        "This pair feels comfortable. But is there enough arch support?",
+        "这双穿着舒服。但足弓支撑够吗？"
+      ],
+      [
+        "B",
+        "Try these insoles for extra support. Walk around the store and see how they feel.",
+        "试试这副鞋垫增加支撑。在店里走走感受一下。"
+      ],
+      [
+        "A",
+        "(Walks around) Much better! I'll take these. Do you have them in blue?",
+        "（走了一圈）好多了！我买这双。有蓝色的吗？"
+      ],
+      [
+        "B",
+        "Yes, blue or black. And I recommend replacing them after 500 kilometers for optimal performance.",
+        "有的，蓝色或黑色。建议500公里后更换以保证最佳性能。"
+      ]
+    ],
+    "words": [
+      [
+        "gait",
+        "/phrase/",
+        "步态",
+        "Practice using \"gait\" in a real conversation."
+      ],
+      [
+        "pronation",
+        "/phrase/",
+        "内旋",
+        "Practice using \"pronation\" in a real conversation."
+      ],
+      [
+        "cushioning",
+        "/phrase/",
+        "缓震",
+        "Practice using \"cushioning\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在珠宝店清洗旧首饰",
+    "difficulty": "初中级",
+    "tip": "练习询问保养服务和修复选项。",
+    "lines": [
+      [
+        "A",
+        "This necklace belonged to my grandmother. It's tarnished and the clasp is loose.",
+        "这条项链是我祖母的。它变黑了，搭扣也松了。"
+      ],
+      [
+        "B",
+        "Let me assess it. The silver can be polished to restore its shine. The clasp can be repaired.",
+        "让我评估一下。银饰可以抛光恢复光泽。搭扣可以修理。"
+      ],
+      [
+        "A",
+        "How much would cleaning and repair cost?",
+        "清洁和修理要多少钱？"
+      ],
+      [
+        "B",
+        "Cleaning is complimentary for items purchased here. For external items, it's 20. Clasp repair is 15.",
+        "在本店购买的物品免费清洁。外部物品20美元。搭扣修理15美元。"
+      ],
+      [
+        "A",
+        "It wasn't purchased here, but I'll pay for the service. How long will it take?",
+        "不是在这里买的，但我付费服务。需要多长时间？"
+      ],
+      [
+        "B",
+        "About 30 minutes. You can browse our collection while you wait.",
+        "大约30分钟。您可以在等候时浏览我们的商品。"
+      ],
+      [
+        "A",
+        "(Returns) It looks brand new! And the clasp is secure now. Thank you!",
+        "（回来）看起来像新的一样！搭扣也牢固了。谢谢！"
+      ],
+      [
+        "B",
+        "You're welcome. With proper care, this piece will last for generations.",
+        "不客气。好好保养的话，这件首饰可以传代。"
+      ]
+    ],
+    "words": [
+      [
+        "tarnish",
+        "/phrase/",
+        "失去光泽、氧化",
+        "Practice using \"tarnish\" in a real conversation."
+      ],
+      [
+        "clasp",
+        "/phrase/",
+        "搭扣、扣环",
+        "Practice using \"clasp\" in a real conversation."
+      ],
+      [
+        "polish",
+        "/phrase/",
+        "抛光",
+        "Practice using \"polish\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在宿舍楼下等室友送钥匙",
+    "difficulty": "初级",
+    "tip": "练习等待和应对突发状况。",
+    "lines": [
+      [
+        "A",
+        "I locked myself out again! My roommate is in class and not answering her phone.",
+        "我又把自己锁在外面了！我室友在上课，不接电话。"
+      ],
+      [
+        "B",
+        "That's tough. Do you have the resident assistant's number? They have master keys.",
+        "真糟糕。你有宿管的电话吗？他们有万能钥匙。"
+      ],
+      [
+        "A",
+        "I do! Let me call. (On phone) Hi, I'm locked out of Room 305. Can you help? C: I'll be there in 5 minutes. Wait by the door.",
+        "有的！我打一个。（打电话）你好，我被锁在305房间外面了。能帮忙吗？ C：我五分钟到。在门口等着。"
+      ],
+      [
+        "B",
+        "See? Problem solved. In the meantime, you can wait in the common room.",
+        "看？问题解决了。这期间你可以在公共休息室等。"
+      ],
+      [
+        "A",
+        "Thanks for the suggestion. I'm so absent-minded today. First my phone, now this.",
+        "谢谢建议。我今天太心不在焉了。先是手机，现在是这个。"
+      ],
+      [
+        "B",
+        "We all have those days. At least it's not raining!",
+        "谁都有这种日子。至少没下雨！"
+      ],
+      [
+        "A",
+        "(RA arrives) Thanks for coming so quickly! I owe you one.",
+        "（宿管来了）谢谢你这么快赶来！我欠你一次。"
+      ],
+      [
+        "B",
+        "C: Happens all the time. Get a spare key made at the campus shop!",
+        "C：常有的事。去校园小店配把备用钥匙！"
+      ]
+    ],
+    "words": [
+      [
+        "lock out",
+        "/phrase/",
+        "锁在外面",
+        "Practice using \"lock out\" in a real conversation."
+      ],
+      [
+        "master key",
+        "/phrase/",
+        "万能钥匙",
+        "Practice using \"master key\" in a real conversation."
+      ],
+      [
+        "spare key",
+        "/phrase/",
+        "备用钥匙",
+        "Practice using \"spare key\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园招聘会上投简历",
+    "difficulty": "中高级",
+    "tip": "练习与招聘官交谈和展示优势。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'm interested in the software engineering internship. Can you tell me more?",
+        "你好，我对软件工程实习岗位感兴趣。能详细介绍一下吗？"
+      ],
+      [
+        "B",
+        "Sure! It's a 3-month program with rotation across three teams. What year are you in?",
+        "当然！这是一个为期三个月的项目，在三个团队轮岗。你大几了？"
+      ],
+      [
+        "A",
+        "Junior. I've completed two personal projects and contributed to an open-source project.",
+        "大三。我完成了两个个人项目，并为开源项目做过贡献。"
+      ],
+      [
+        "B",
+        "Impressive. What tech stack are you most comfortable with?",
+        "很不错。你最熟悉的技术栈是什么？"
+      ],
+      [
+        "A",
+        "Python and React. I also have some experience with cloud deployment using AWS.",
+        "Python和React。我也有一些使用AWS云部署的经验。"
+      ],
+      [
+        "B",
+        "That aligns well with our needs. Scan this QR code to submit your application. Mention my name for referral.",
+        "这和我们的需求很吻合。扫这个二维码提交申请。提我的名字作为推荐。"
+      ],
+      [
+        "A",
+        "Thank you so much! I'll apply tonight. Looking forward to hearing from you!",
+        "非常感谢！我今晚就申请。期待您的回复！"
+      ],
+      [
+        "B",
+        "Good luck! Make sure your GitHub profile is up to date - we'll check it!",
+        "祝你好运！确保你的GitHub主页是最新的——我们会去看的！"
+      ]
+    ],
+    "words": [
+      [
+        "internship",
+        "/phrase/",
+        "实习",
+        "Practice using \"internship\" in a real conversation."
+      ],
+      [
+        "tech stack",
+        "/phrase/",
+        "技术栈",
+        "Practice using \"tech stack\" in a real conversation."
+      ],
+      [
+        "referral",
+        "/phrase/",
+        "推荐",
+        "Practice using \"referral\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园英语角和外教聊天",
+    "difficulty": "初中级",
+    "tip": "练习与外教交流和文化差异讨论。",
+    "lines": [
+      [
+        "A",
+        "Hi Professor! I'm practicing my English at the English Corner. Can I join you?",
+        "教授您好！我在英语角练习英语。能和您聊聊吗？"
+      ],
+      [
+        "B",
+        "Of course! What topics interest you?",
+        "当然！你对什么话题感兴趣？"
+      ],
+      [
+        "A",
+        "I'm curious about cultural differences between East and West. For example, attitudes toward family.",
+        "我对东西方文化差异很好奇。比如对家庭的态度。"
+      ],
+      [
+        "B",
+        "Great topic! In Western cultures, independence is emphasized early. Kids often move out at 18.",
+        "好话题！在西方文化中，独立性从小就被强调。孩子常常18岁就搬出去了。"
+      ],
+      [
+        "A",
+        "That's so different from China. We usually live with parents until marriage.",
+        "和中国很不一样。我们通常和父母住到结婚。"
+      ],
+      [
+        "B",
+        "Both have pros and cons. The key is understanding, not judging.",
+        "各有利弊。关键在于理解，而非评判。"
+      ],
+      [
+        "A",
+        "I agree. Talking to you helps me see things from a different perspective.",
+        "我同意。和您聊天让我学会从不同角度看问题。"
+      ],
+      [
+        "B",
+        "That's the beauty of language learning. It opens doors to new ways of thinking.",
+        "这就是语言学习的魅力。它为新的思维方式打开大门。"
+      ]
+    ],
+    "words": [
+      [
+        "cultural difference",
+        "/phrase/",
+        "文化差异",
+        "Practice using \"cultural difference\" in a real conversation."
+      ],
+      [
+        "perspective",
+        "/phrase/",
+        "视角",
+        "Practice using \"perspective\" in a real conversation."
+      ],
+      [
+        "independent",
+        "/phrase/",
+        "独立的",
+        "Practice using \"independent\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在健身房被陌生人纠正动作",
+    "difficulty": "初中级",
+    "tip": "练习接受建议和健身交流。",
+    "lines": [
+      [
+        "A",
+        "Hey, sorry to interrupt. I noticed your squat form - you might hurt your lower back.",
+        "嘿，抱歉打断一下。我注意到你的深蹲姿势——可能会伤到下背部。"
+      ],
+      [
+        "B",
+        "Oh really? I thought I was doing it right. What should I change?",
+        "是吗？我以为我做对了。需要改什么？"
+      ],
+      [
+        "A",
+        "Keep your chest up and push your hips back more. Think of sitting into a chair.",
+        "挺胸，臀部往后推更多。想象坐椅子的动作。"
+      ],
+      [
+        "B",
+        "Like this? It feels different but more stable.",
+        "这样吗？感觉不一样但更稳定了。"
+      ],
+      [
+        "A",
+        "Much better! Also, don't let your knees cave inward. Keep them aligned with your toes.",
+        "好多了！还有，不要让膝盖向内塌。保持和脚尖方向一致。"
+      ],
+      [
+        "B",
+        "Thanks man! I've been watching YouTube videos but having someone check in person helps.",
+        "谢谢哥们！我一直看YouTube视频，但有人当面纠正更有帮助。"
+      ],
+      [
+        "A",
+        "No problem! We all started somewhere. I'm Tom, by the way.",
+        "不客气！大家都是从头开始的。对了，我叫汤姆。"
+      ],
+      [
+        "B",
+        "I'm Mike. Thanks for looking out. Spot me on my next set?",
+        "我叫迈克。多谢关照。下一组能帮我保护吗？"
+      ]
+    ],
+    "words": [
+      [
+        "form",
+        "/phrase/",
+        "姿势、动作",
+        "Practice using \"form\" in a real conversation."
+      ],
+      [
+        "squat",
+        "/phrase/",
+        "深蹲",
+        "Practice using \"squat\" in a real conversation."
+      ],
+      [
+        "spot",
+        "/phrase/",
+        "保护、辅助",
+        "Practice using \"spot\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在同事告别宴上敬酒",
+    "difficulty": "初中级",
+    "tip": "练习真实场景下的英文表达、回应和确认信息。",
+    "lines": [
+      [
+        "A",
+        "I'd like to propose a toast to Lisa. She's been an incredible colleague and friend.",
+        "我想提议为丽莎干杯。她是一位了不起的同事和朋友。"
+      ],
+      [
+        "B",
+        "Hear, hear! Lisa, we'll miss your positive energy in the office.",
+        "说得对！丽莎，我们会想念你在办公室的正能量。"
+      ],
+      [
+        "A",
+        "Remember when she organized the team-building trip? She made sure everyone felt included.",
+        "还记得她组织的团建旅行吗？她确保每个人都感到被包容。"
+      ],
+      [
+        "B",
+        "And the birthday cakes! She never forgot anyone's special day.",
+        "还有生日蛋糕！她从不忘掉任何人的特别日子。"
+      ],
+      [
+        "A",
+        "To Lisa - may your new chapter be filled with success and happiness. Cheers!",
+        "敬丽莎——愿你的新篇章充满成功和幸福。干杯！"
+      ],
+      [
+        "B",
+        "(Lisa tears up) I'm going to miss you all so much. This team is family.",
+        "（丽莎眼眶泛泪）我会非常想念大家。这个团队就是家人。"
+      ],
+      [
+        "A",
+        "You'll always be part of this family. Let's stay connected!",
+        "你永远是这个家庭的一员。我们保持联系！"
+      ],
+      [
+        "B",
+        "I promise. And I expect visits! The door is always open.",
+        "我保证。而且你们要来看我！门永远敞开。"
+      ]
+    ],
+    "words": [
+      [
+        "toast",
+        "/phrase/",
+        "敬酒、干杯",
+        "Practice using \"toast\" in a real conversation."
+      ],
+      [
+        "propose",
+        "/phrase/",
+        "提议",
+        "Practice using \"propose\" in a real conversation."
+      ],
+      [
+        "chapter",
+        "/phrase/",
+        "篇章",
+        "Practice using \"chapter\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在周末烘焙课上认识新朋友",
+    "difficulty": "初中级",
+    "tip": "练习因共同兴趣交友和合作。",
+    "lines": [
+      [
+        "A",
+        "This is my first baking class. I hope I don't ruin the croissants!",
+        "这是我第一次上烘焙课。希望我不会毁了可颂！"
+      ],
+      [
+        "B",
+        "Don't worry! The instructor is great. And even ugly croissants taste delicious.",
+        "别担心！老师很棒。而且就算丑的可颂也很好吃。"
+      ],
+      [
+        "A",
+        "True! I'm Tom, by the way. What made you sign up for this class?",
+        "说得对！对了，我叫汤姆。你为什么报名这个课？"
+      ],
+      [
+        "B",
+        "I want to impress my girlfriend with homemade pastries. So far, I've only impressed the trash can.",
+        "我想用自制糕点给女朋友留下好印象。到目前为止，我只给垃圾桶留下了印象。"
+      ],
+      [
+        "A",
+        "Ha! We can be terrible bakers together then. Team disaster!",
+        "哈！那我们一起来做糟糕的烘焙师吧。灾难团队！"
+      ],
+      [
+        "B",
+        "Deal! Look, the butter is supposed to be cold when we fold it into the dough.",
+        "成交！看，黄油要在冷的时候叠入面团。"
+      ],
+      [
+        "A",
+        "(Later, admiring results) They actually look like croissants! Golden and flaky!",
+        "（稍后，欣赏成果）它们居然真的像可颂了！金黄酥脆！"
+      ],
+      [
+        "B",
+        "We did it! Want to exchange numbers? We can practice together next weekend.",
+        "我们成功了！要交换号码吗？下周末可以一起练习。"
+      ]
+    ],
+    "words": [
+      [
+        "baking",
+        "/phrase/",
+        "烘焙",
+        "Practice using \"baking\" in a real conversation."
+      ],
+      [
+        "croissant",
+        "/phrase/",
+        "可颂面包",
+        "Practice using \"croissant\" in a real conversation."
+      ],
+      [
+        "dough",
+        "/phrase/",
+        "面团",
+        "Practice using \"dough\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在风湿免疫科看类风湿关节炎",
+    "difficulty": "中高级",
+    "tip": "练习描述关节症状和长期管理方案。",
+    "lines": [
+      [
+        "A",
+        "Doctor, my knuckles have been swollen and painful for months. Especially in the morning.",
+        "医生，我的指关节肿痛好几个月了。尤其是早上。"
+      ],
+      [
+        "B",
+        "That sounds like rheumatoid arthritis. Let's do blood tests for inflammatory markers.",
+        "听起来像类风湿关节炎。我们验血查炎症指标。"
+      ],
+      [
+        "A",
+        "Is it hereditary? My aunt had similar issues.",
+        "是遗传的吗？我姨妈有类似的问题。"
+      ],
+      [
+        "B",
+        "There's a genetic component. Early diagnosis is key to preventing joint damage.",
+        "有遗传因素。早期诊断是防止关节损伤的关键。"
+      ],
+      [
+        "A",
+        "What treatments are available?",
+        "有什么治疗方法？"
+      ],
+      [
+        "B",
+        "Disease-modifying antirheumatic drugs can slow progression. Physical therapy helps maintain mobility.",
+        "改善病情抗风湿药可以减缓进展。物理治疗有助于维持活动能力。"
+      ],
+      [
+        "A",
+        "Will I be able to continue my job as a pianist?",
+        "我还能继续做钢琴师的工作吗？"
+      ],
+      [
+        "B",
+        "With proper treatment, many patients maintain their careers. We'll tailor a plan to protect your hand function.",
+        "通过适当治疗，许多患者能维持职业生涯。我们会量身定制方案来保护你的手部功能。"
+      ]
+    ],
+    "words": [
+      [
+        "rheumatoid arthritis",
+        "/phrase/",
+        "类风湿关节炎",
+        "Practice using \"rheumatoid arthritis\" in a real conversation."
+      ],
+      [
+        "inflammation",
+        "/phrase/",
+        "炎症",
+        "Practice using \"inflammation\" in a real conversation."
+      ],
+      [
+        "mobility",
+        "/phrase/",
+        "活动能力",
+        "Practice using \"mobility\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在精神科看抑郁症",
+    "difficulty": "中高级",
+    "tip": "练习表达情绪困扰和寻求专业帮助。",
+    "lines": [
+      [
+        "A",
+        "I've been feeling empty and unmotivated for months. Nothing brings me joy anymore.",
+        "我好几个月来一直感到空虚和没有动力。再也没有什么事情能让我开心了。"
+      ],
+      [
+        "B",
+        "I'm glad you reached out. These symptoms suggest depression. Let's talk more about what you're experiencing.",
+        "我很高兴你主动求助。这些症状提示抑郁。我们多聊聊你的感受。"
+      ],
+      [
+        "A",
+        "I can't sleep, I've lost my appetite, and I isolate myself from friends.",
+        "我睡不着，没有食欲，还把自己和朋友隔绝开来。"
+      ],
+      [
+        "B",
+        "Depression affects the whole body, not just mood. Have you had any thoughts of harming yourself?",
+        "抑郁症影响全身，不只是情绪。你有过伤害自己的想法吗？"
+      ],
+      [
+        "A",
+        "No, but I feel hopeless about the future.",
+        "没有，但我对未来感到绝望。"
+      ],
+      [
+        "B",
+        "That's the depression talking, not the truth. We have effective treatments - therapy and medication can help.",
+        "那是抑郁症在说话，不是事实。我们有有效的治疗方法——心理治疗和药物都会有帮助。"
+      ],
+      [
+        "A",
+        "I'm scared of medication side effects.",
+        "我害怕药物的副作用。"
+      ],
+      [
+        "B",
+        "We'll start with a low dose and monitor closely. Many people find the benefits far outweigh the side effects.",
+        "我们会从小剂量开始并密切监测。许多人发现益处远远大于副作用。"
+      ]
+    ],
+    "words": [
+      [
+        "depression",
+        "/phrase/",
+        "抑郁症",
+        "Practice using \"depression\" in a real conversation."
+      ],
+      [
+        "symptom",
+        "/phrase/",
+        "症状",
+        "Practice using \"symptom\" in a real conversation."
+      ],
+      [
+        "therapy",
+        "/phrase/",
+        "治疗、心理治疗",
+        "Practice using \"therapy\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在理疗科做运动损伤康复",
+    "difficulty": "初中级",
+    "tip": "练习描述运动损伤和配合康复训练。",
+    "lines": [
+      [
+        "A",
+        "I twisted my ankle playing basketball last week. The swelling has gone down but it's still weak.",
+        "我上周打篮球扭伤了脚踝。肿消了但还是没力气。"
+      ],
+      [
+        "B",
+        "Let's assess the range of motion and stability. Can you stand on that foot?",
+        "我们评估一下活动范围和稳定性。你能单脚站立吗？"
+      ],
+      [
+        "A",
+        "Barely. It wobbles when I try.",
+        "勉强能。我一站它就晃。"
+      ],
+      [
+        "B",
+        "Typical of Grade 2 sprain. We'll start with balance exercises to strengthen the surrounding muscles.",
+        "典型的二级扭伤。我们从平衡练习开始，加强周围肌肉。"
+      ],
+      [
+        "A",
+        "When can I play basketball again?",
+        "我什么时候能再打篮球？"
+      ],
+      [
+        "B",
+        "With consistent rehab, about 4-6 weeks. Don't rush back - re-injury is common.",
+        "坚持康复的话，大约4-6周。别急着回去——二次受伤很常见。"
+      ],
+      [
+        "A",
+        "What exercises can I do at home?",
+        "我可以在家做什么练习？"
+      ],
+      [
+        "B",
+        "Alphabet exercises - trace the letters of the alphabet with your foot. It improves mobility and strength.",
+        "字母练习——用脚在空中描字母。能改善活动能力和力量。"
+      ]
+    ],
+    "words": [
+      [
+        "sprain",
+        "/phrase/",
+        "扭伤",
+        "Practice using \"sprain\" in a real conversation."
+      ],
+      [
+        "rehabilitation",
+        "/phrase/",
+        "康复",
+        "Practice using \"rehabilitation\" in a real conversation."
+      ],
+      [
+        "stability",
+        "/phrase/",
+        "稳定性",
+        "Practice using \"stability\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区快递柜取件遇到问题",
+    "difficulty": "初级",
+    "tip": "练习取件故障处理和寻求客服帮助。",
+    "lines": [
+      [
+        "A",
+        "I entered the pickup code but the compartment won't open. It's blinking red.",
+        "我输入了取件码但柜门打不开。一直在闪红灯。"
+      ],
+      [
+        "B",
+        "Try scanning the QR code on the screen instead. Sometimes the manual code doesn't work.",
+        "试试扫屏幕上的二维码。有时候手动输入码不行。"
+      ],
+      [
+        "A",
+        "Still nothing. It says \"system error.\"",
+        "还是不行。显示\"系统错误\"。"
+      ],
+      [
+        "B",
+        "Call the customer service number on the machine. They can remotely open the compartment.",
+        "打机器上的客服电话。他们可以远程开柜。"
+      ],
+      [
+        "A",
+        "(On phone) Yes, my package is stuck in Locker 47. Can you help?",
+        "（打电话）是的，我的包裹卡在47号柜了。能帮忙吗？"
+      ],
+      [
+        "B",
+        "C: I've remotely unlocked it. Please check again within 30 seconds.",
+        "C：我已远程解锁。请在30秒内再试一次。"
+      ],
+      [
+        "A",
+        "(Door opens) Got it! Thank you so much for your help!",
+        "（门开了）拿到了！非常感谢你的帮助！"
+      ],
+      [
+        "B",
+        "Glad it worked out! These machines act up sometimes. At least you got your package!",
+        "很高兴解决了！这些机器偶尔会出问题。至少你拿到包裹了！"
+      ]
+    ],
+    "words": [
+      [
+        "pickup code",
+        "/phrase/",
+        "取件码",
+        "Practice using \"pickup code\" in a real conversation."
+      ],
+      [
+        "compartment",
+        "/phrase/",
+        "柜格",
+        "Practice using \"compartment\" in a real conversation."
+      ],
+      [
+        "remote",
+        "/phrase/",
+        "远程的",
+        "Practice using \"remote\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在社区理发店和老理发师聊天",
+    "difficulty": "初中级",
+    "tip": "练习真实场景下的英文表达、回应和确认信息。",
+    "lines": [
+      [
+        "A",
+        "How long have you been a barber? Your hands move so confidently.",
+        "你做理发师多久了？你的手好稳。"
+      ],
+      [
+        "B",
+        "42 years! Started when I was 16. Seen a lot of hairstyles come and go.",
+        "42年了！16岁开始干的。见证了无数发型来了又走。"
+      ],
+      [
+        "A",
+        "What's the most extreme hairstyle you've ever done?",
+        "你做过最夸张的发型是什么？"
+      ],
+      [
+        "B",
+        "Mohawks, mullets, even a full head shave for a cancer patient. Every haircut tells a story.",
+        "莫西干头、狼尾头，还给癌症患者剃过光头。每个发型都有一个故事。"
+      ],
+      [
+        "A",
+        "That's beautiful. Do you have regulars who've been coming for decades?",
+        "真感人。有几十年的老顾客吗？"
+      ],
+      [
+        "B",
+        "Lots! I cut a boy's hair when he was 5. Now he brings his own son. Three generations!",
+        "很多！我给一个男孩理发时他才5岁。现在他带自己的儿子来。三代人了！"
+      ],
+      [
+        "A",
+        "This is more than a barbershop. It's a community anchor.",
+        "这不只是一家理发店。这是社区的纽带。"
+      ],
+      [
+        "B",
+        "That's why I keep going. Not for the money, but for the connections. All done! How does it look?",
+        "这就是我坚持的原因。不为钱，为这些人情。好了！看看怎么样？"
+      ]
+    ],
+    "words": [
+      [
+        "barber",
+        "/phrase/",
+        "理发师",
+        "Practice using \"barber\" in a real conversation."
+      ],
+      [
+        "haircut",
+        "/phrase/",
+        "理发",
+        "Practice using \"haircut\" in a real conversation."
+      ],
+      [
+        "generation",
+        "/phrase/",
+        "一代人",
+        "Practice using \"generation\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区楼下等网约车时聊天",
+    "difficulty": "初级",
+    "tip": "练习等车时的闲聊和确认行程。",
+    "lines": [
+      [
+        "A",
+        "Are you waiting for a ride too? The app says 3 more minutes.",
+        "你也在等车吗？App显示还有3分钟。"
+      ],
+      [
+        "B",
+        "Yeah, heading to the airport. My flight's in 3 hours so I'm not stressed.",
+        "是的，去机场。还有3小时起飞，所以我不急。"
+      ],
+      [
+        "A",
+        "Business trip or vacation?",
+        "出差还是度假？"
+      ],
+      [
+        "B",
+        "Vacation! First time traveling alone in years. I'm a bit nervous but excited.",
+        "度假！多年来第一次独自旅行。有点紧张但很兴奋。"
+      ],
+      [
+        "A",
+        "Where are you headed?",
+        "去哪里？"
+      ],
+      [
+        "B",
+        "Tokyo! Always wanted to see the cherry blossoms. You?",
+        "东京！一直想看樱花。你呢？"
+      ],
+      [
+        "A",
+        "Just going to the office. Regular Tuesday. But hey, at least it's not raining!",
+        "去办公室而已。普通的星期二。但至少没下雨！"
+      ],
+      [
+        "B",
+        "Ha! Silver linings. My car's here. Have a great day at work!",
+        "哈！总算有好事。我的车来了。祝你工作愉快！"
+      ]
+    ],
+    "words": [
+      [
+        "ride",
+        "/phrase/",
+        "乘车",
+        "Practice using \"ride\" in a real conversation."
+      ],
+      [
+        "airport",
+        "/phrase/",
+        "机场",
+        "Practice using \"airport\" in a real conversation."
+      ],
+      [
+        "cherry blossom",
+        "/phrase/",
+        "樱花",
+        "Practice using \"cherry blossom\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在亚马逊雨林夜巡",
+    "difficulty": "初中级",
+    "tip": "练习夜间探险和观察野生动物。",
+    "lines": [
+      [
+        "A",
+        "Grab your flashlight and stay close. The jungle comes alive at night.",
+        "拿好手电筒，跟紧我。丛林在夜间苏醒过来了。"
+      ],
+      [
+        "B",
+        "I can hear so many sounds! Insects, frogs, and something bigger in the distance.",
+        "我听到好多声音！昆虫、青蛙，远处还有什么更大的东西。"
+      ],
+      [
+        "A",
+        "That's a howler monkey. Listen... there it goes again.",
+        "那是吼猴。听……又叫了。"
+      ],
+      [
+        "B",
+        "Look! Red eyes in the tree! What is that?",
+        "看！树上红色的眼睛！那是什么？"
+      ],
+      [
+        "A",
+        "A caiman. Don't worry, it's a small one. Stay on the trail.",
+        "凯门鳄。别担心，是小的。待在步道上。"
+      ],
+      [
+        "B",
+        "This is both terrifying and fascinating. I've never felt so connected to nature.",
+        "既恐怖又迷人。我从未感觉与大自然的连接如此紧密。"
+      ],
+      [
+        "A",
+        "The Amazon holds more species than anywhere on Earth. We've only seen a fraction tonight.",
+        "亚马逊拥有的物种比地球上任何地方都多。今晚我们只看到了一小部分。"
+      ],
+      [
+        "B",
+        "This experience has changed how I see the natural world. Thank you for guiding us.",
+        "这次经历改变了我看待自然世界的方式。谢谢你带领我们。"
+      ]
+    ],
+    "words": [
+      [
+        "jungle",
+        "/phrase/",
+        "丛林",
+        "Practice using \"jungle\" in a real conversation."
+      ],
+      [
+        "flashlight",
+        "/phrase/",
+        "手电筒",
+        "Practice using \"flashlight\" in a real conversation."
+      ],
+      [
+        "species",
+        "/phrase/",
+        "物种",
+        "Practice using \"species\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在约旦佩特拉古城骑马",
+    "difficulty": "初中级",
+    "tip": "练习骑马游览古迹和与当地向导交流。",
+    "lines": [
+      [
+        "A",
+        "Welcome to Petra! Would you like to ride a horse through the Siq to the Treasury?",
+        "欢迎来到佩特拉！您想骑马穿过蛇道前往卡兹尼神殿吗？"
+      ],
+      [
+        "B",
+        "That sounds amazing! I've never ridden a horse through a canyon before.",
+        "听起来太棒了！我从没骑过马穿越峡谷。"
+      ],
+      [
+        "A",
+        "The horse knows the way. Just hold the reins loosely and enjoy the view.",
+        "马认得路。轻轻握着缰绳，欣赏风景就好。"
+      ],
+      [
+        "B",
+        "The sandstone cliffs are incredible. The colors change as the sun moves.",
+        "砂岩峭壁太不可思议了。颜色随着太阳移动而变化。"
+      ],
+      [
+        "A",
+        "This canyon was carved by water over millions of years. The Nabataeans built their city here.",
+        "这条峡谷是数百万年来水流切割而成的。纳巴泰人在这里建造了他们的城市。"
+      ],
+      [
+        "B",
+        "And suddenly the Treasury appears through the narrow opening! It's breathtaking!",
+        "突然之间，卡兹尼神殿从狭窄的缝隙中显现出来！太震撼了！"
+      ],
+      [
+        "A",
+        "The photo doesn't do it justice. You have to see it with your own eyes.",
+        "照片无法展现它的美。你必须亲眼目睹。"
+      ],
+      [
+        "B",
+        "This is why I travel. Moments like this make everything worthwhile.",
+        "这就是我旅行的原因。这样的时刻让一切都值得。"
+      ]
+    ],
+    "words": [
+      [
+        "canyon",
+        "/phrase/",
+        "峡谷",
+        "Practice using \"canyon\" in a real conversation."
+      ],
+      [
+        "sandstone",
+        "/phrase/",
+        "砂岩",
+        "Practice using \"sandstone\" in a real conversation."
+      ],
+      [
+        "treasury",
+        "/phrase/",
+        "宝库、神殿",
+        "Practice using \"treasury\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "在芬兰圣诞老人村寄信",
+    "difficulty": "初级",
+    "tip": "练习寄出特别的信件和体验圣诞文化。",
+    "lines": [
+      [
+        "A",
+        "Welcome to Santa Claus Village! You're right on the Arctic Circle.",
+        "欢迎来到圣诞老人村！您现在就在北极圈上。"
+      ],
+      [
+        "B",
+        "I can't believe I'm actually here! Can I meet Santa?",
+        "不敢相信我真的在这里！我能见到圣诞老人吗？"
+      ],
+      [
+        "A",
+        "Of course! He's in his office. But first, you can send letters from the official Santa Post Office.",
+        "当然！他在办公室里。但首先，你可以从官方圣诞老人邮局寄信。"
+      ],
+      [
+        "B",
+        "I want to send a postcard to my niece. Will it have a special stamp?",
+        "我想给侄女寄一张明信片。会有特殊的邮戳吗？"
+      ],
+      [
+        "A",
+        "Yes! All mail gets the official Santa Claus postmark. It's a collector's item!",
+        "是的！所有邮件都会盖上正式的圣诞老人邮戳。是收藏品！"
+      ],
+      [
+        "B",
+        "Perfect! She'll be so excited. I'll also send one to myself as a souvenir.",
+        "完美！她会很兴奋的。我也给自己寄一张做纪念。"
+      ],
+      [
+        "A",
+        "Great idea! Letters mailed in December arrive before Christmas.",
+        "好主意！12月寄出的信件会在圣诞节前到达。"
+      ],
+      [
+        "B",
+        "This is the most magical place. I feel like a kid again!",
+        "这是最有魔力的地方。我感觉自己又变成了小孩！"
+      ]
+    ],
+    "words": [
+      [
+        "Santa Claus",
+        "/phrase/",
+        "圣诞老人",
+        "Practice using \"Santa Claus\" in a real conversation."
+      ],
+      [
+        "Arctic Circle",
+        "/phrase/",
+        "北极圈",
+        "Practice using \"Arctic Circle\" in a real conversation."
+      ],
+      [
+        "postmark",
+        "/phrase/",
+        "邮戳",
+        "Practice using \"postmark\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室参加反骚扰培训",
+    "difficulty": "中高级",
+    "tip": "练习了解职场政策和正确行为准则。",
+    "lines": [
+      [
+        "A",
+        "Today's training is on workplace harassment prevention. Please take notes - there will be a quiz.",
+        "今天的培训是关于职场骚扰防范。请做好笔记——之后有小测验。"
+      ],
+      [
+        "B",
+        "I've done this training before, but a refresher is always good.",
+        "我以前参加过这个培训，但复习一下总是好的。"
+      ],
+      [
+        "A",
+        "Let's start with definitions. Harassment can be verbal, physical, or visual.",
+        "我们从定义开始。骚扰可以是言语、肢体或视觉上的。"
+      ],
+      [
+        "B",
+        "What about microaggressions? Are those considered harassment?",
+        "微歧视呢？那些也算骚扰吗？"
+      ],
+      [
+        "A",
+        "Yes, repeated microaggressions can create a hostile work environment.",
+        "是的，反复的微歧视会制造敌对的工作环境。"
+      ],
+      [
+        "B",
+        "If I witness something inappropriate, what's the reporting process?",
+        "如果我目睹了不当行为，举报流程是什么？"
+      ],
+      [
+        "A",
+        "Report to HR, your manager, or use the anonymous hotline. Retaliation is strictly prohibited.",
+        "向人力资源部、你的经理报告，或使用匿名热线。严格禁止报复行为。"
+      ],
+      [
+        "B",
+        "Good to know. A safe workplace is everyone's responsibility.",
+        "知道了。安全的工作场所是每个人的责任。"
+      ]
+    ],
+    "words": [
+      [
+        "harassment",
+        "/phrase/",
+        "骚扰",
+        "Practice using \"harassment\" in a real conversation."
+      ],
+      [
+        "microaggression",
+        "/phrase/",
+        "微歧视",
+        "Practice using \"microaggression\" in a real conversation."
+      ],
+      [
+        "retaliation",
+        "/phrase/",
+        "报复",
+        "Practice using \"retaliation\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室为同事举办新生儿派对",
+    "difficulty": "初级",
+    "tip": "练习组织庆祝活动和送上祝福。",
+    "lines": [
+      [
+        "A",
+        "Surprise! Welcome back from maternity leave, Lisa!",
+        "惊喜！欢迎休完产假回来，丽莎！"
+      ],
+      [
+        "B",
+        "Oh my god! You decorated the break room and everything!",
+        "天哪！你们装饰了茶水间，什么都准备了！"
+      ],
+      [
+        "A",
+        "We wanted to celebrate your return and meet baby Emma! We have photos on the wall.",
+        "我们想庆祝你回来，也想看看宝宝艾玛！墙上挂了照片。"
+      ],
+      [
+        "B",
+        "(Looking at photos) She's gotten so big in three months! I miss her already.",
+        "（看照片）她三个月长大了好多！我已经开始想她了。"
+      ],
+      [
+        "A",
+        "We collected gifts from the team. Diapers, onesies, and a savings bond for her future.",
+        "我们收了团队的礼物。尿布、连体衣，还有给她的储蓄债券。"
+      ],
+      [
+        "B",
+        "You're all so generous! I'm tearing up. I didn't expect this at all.",
+        "你们太慷慨了！我眼泪都要出来了。我完全没想到。"
+      ],
+      [
+        "A",
+        "Welcome back! We're happy to have you. And we promise not to wake you up at 3 AM!",
+        "欢迎回来！我们很开心你回来了。我们保证不会凌晨3点把你吵醒！"
+      ],
+      [
+        "B",
+        "Ha! That's the one thing I won't miss about newborn life!",
+        "哈！那是我唯一不会怀念新生儿生活的地方！"
+      ]
+    ],
+    "words": [
+      [
+        "maternity leave",
+        "/phrase/",
+        "产假",
+        "Practice using \"maternity leave\" in a real conversation."
+      ],
+      [
+        "onesie",
+        "/phrase/",
+        "连体衣",
+        "Practice using \"onesie\" in a real conversation."
+      ],
+      [
+        "generous",
+        "/phrase/",
+        "慷慨的",
+        "Practice using \"generous\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "在办公室讨论是否引入AI工具",
+    "difficulty": "中高级",
+    "tip": "练习讨论新技术应用和利弊分析。",
+    "lines": [
+      [
+        "A",
+        "I'd like to propose adopting an AI writing assistant for our content team.",
+        "我想提议为我们的内容团队引入AI写作助手。"
+      ],
+      [
+        "B",
+        "Interesting. How would it improve our workflow?",
+        "有意思。它会如何改进我们的工作流程？"
+      ],
+      [
+        "A",
+        "It can generate drafts, summarize research, and suggest headlines. Could save us 10 hours per week.",
+        "它可以生成草稿、总结研究资料、建议标题。每周能节省10个小时。"
+      ],
+      [
+        "B",
+        "What about accuracy and originality? AI content can be generic.",
+        "准确性和原创性呢？AI内容可能很模板化。"
+      ],
+      [
+        "A",
+        "We'd use it as a starting point, not a final product. Human editing is essential.",
+        "我们把它作为起点，而非最终成品。人工编辑必不可少。"
+      ],
+      [
+        "B",
+        "Fair. What's the cost?",
+        "有道理。成本是多少？"
+      ],
+      [
+        "A",
+        "$50 per user per month. I've prepared a cost-benefit analysis. Let's pilot it with a small team first.",
+        "每位用户每月50美元。我做了成本效益分析。我们先在小团队试点。"
+      ],
+      [
+        "B",
+        "I'm cautiously optimistic. Set up a trial and report back in a month.",
+        "我持谨慎乐观态度。安排试用，一个月后汇报。"
+      ]
+    ],
+    "words": [
+      [
+        "AI",
+        "/phrase/",
+        "人工智能",
+        "Practice using \"AI\" in a real conversation."
+      ],
+      [
+        "workflow",
+        "/phrase/",
+        "工作流程",
+        "Practice using \"workflow\" in a real conversation."
+      ],
+      [
+        "pilot",
+        "/phrase/",
+        "试点",
+        "Practice using \"pilot\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在秘鲁餐厅尝试酸橘汁腌鱼",
+    "difficulty": "初中级",
+    "tip": "练习尝试生鱼料理和了解烹饪原理。",
+    "lines": [
+      [
+        "A",
+        "I'm a bit nervous about ceviche. Raw fish with citrus?",
+        "我对酸橘汁腌鱼有点紧张。生鱼加柑橘？"
+      ],
+      [
+        "B",
+        "The acidity of the lime juice \"cooks\" the fish without heat. It's perfectly safe in reputable restaurants.",
+        "青柠汁的酸性在不加热的情况下\"煮熟\"了鱼肉。在信誉好的餐厅吃完全安全。"
+      ],
+      [
+        "A",
+        "Okay, I'll trust you. What's in it besides fish?",
+        "好吧，我相信你。除了鱼还有什么？"
+      ],
+      [
+        "B",
+        "Red onion, chili, cilantro, and sweet potato on the side. The flavors are bright and fresh.",
+        "红洋葱、辣椒、香菜，配菜是红薯。味道清新明亮。"
+      ],
+      [
+        "A",
+        "(Tastes) Wow! The texture is firm but tender. And the citrus is refreshing, not overpowering.",
+        "（品尝）哇！口感紧实又嫩滑。柑橘味清爽，不霸道。"
+      ],
+      [
+        "B",
+        "See? Peruvian ceviche is world-famous for a reason. Want to try the spicy version next?",
+        "看吧？秘鲁酸橘汁腌鱼闻名世界是有原因的。接下来要试试辣味版吗？"
+      ],
+      [
+        "A",
+        "I'm converted! Bring it on. And another Pisco Sour to go with it!",
+        "我被征服了！尽管上。再来一杯皮斯科酸酒配着喝！"
+      ],
+      [
+        "B",
+        "Now you're eating like a true Peruvian! Salud!",
+        "你现在吃得像个真正的秘鲁人了！干杯！"
+      ]
+    ],
+    "words": [
+      [
+        "ceviche",
+        "/phrase/",
+        "酸橘汁腌鱼",
+        "Practice using \"ceviche\" in a real conversation."
+      ],
+      [
+        "citrus",
+        "/phrase/",
+        "柑橘类",
+        "Practice using \"citrus\" in a real conversation."
+      ],
+      [
+        "acidity",
+        "/phrase/",
+        "酸性",
+        "Practice using \"acidity\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在瑞士奶酪火锅店用餐",
+    "difficulty": "初中级",
+    "tip": "练习体验瑞士传统美食和用餐礼仪。",
+    "lines": [
+      [
+        "A",
+        "The fondue is here! Melted Gruyère and Emmental cheese - smells incredible!",
+        "奶酪火锅来了！融化的格鲁耶尔和埃曼塔尔奶酪——闻起来太香了！"
+      ],
+      [
+        "B",
+        "Use the long fork to spear a piece of bread and swirl it in the cheese. Don't lose your bread!",
+        "用长叉子叉一块面包，在奶酪里搅一圈。别把面包弄丢了！"
+      ],
+      [
+        "A",
+        "(Swirling) Like this? Oh, it fell off! Is that bad luck?",
+        "（搅拌）这样吗？哦，掉了！是不吉利吗？"
+      ],
+      [
+        "B",
+        "Tradition says you have to buy the next round of drinks! But don't worry, I'll cover you.",
+        "传统上说你要请下一轮酒！但别担心，我替你出。"
+      ],
+      [
+        "A",
+        "The cheese is so rich and creamy. And the crust at the bottom is the best part!",
+        "奶酪好浓郁好顺滑。底部的锅巴是最好吃的部分！"
+      ],
+      [
+        "B",
+        "That's called \"la religieuse\" - the nun. It's a delicacy!",
+        "那叫\"la religieuse\"——修女。是珍品！"
+      ],
+      [
+        "A",
+        "I could eat this every day in winter. So comforting and warming.",
+        "冬天我可以每天都吃这个。太治愈太暖和了。"
+      ],
+      [
+        "B",
+        "Pair it with some white wine and you have the perfect Swiss meal!",
+        "配上一杯白葡萄酒，就是完美的瑞士大餐！"
+      ]
+    ],
+    "words": [
+      [
+        "fondue",
+        "/phrase/",
+        "奶酪火锅",
+        "Practice using \"fondue\" in a real conversation."
+      ],
+      [
+        "melt",
+        "/phrase/",
+        "融化",
+        "Practice using \"melt\" in a real conversation."
+      ],
+      [
+        "swirl",
+        "/phrase/",
+        "搅拌、旋转",
+        "Practice using \"swirl\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "在餐厅发现食物中有异物",
+    "difficulty": "初中级",
+    "tip": "练习投诉食品安全问题和要求赔偿。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, I found a piece of plastic in my salad.",
+        "打扰一下，我在沙拉里发现了一块塑料。"
+      ],
+      [
+        "B",
+        "Oh my goodness! I'm so sorry. Let me take that away immediately.",
+        "天哪！非常抱歉。我马上把它拿走。"
+      ],
+      [
+        "A",
+        "This is really concerning. I could have choked on it.",
+        "这真的很让人担心。我差点噎到。"
+      ],
+      [
+        "B",
+        "You're absolutely right. I'll inform the manager right away. We'll comp your meal and offer a full refund.",
+        "您说得完全对。我马上通知经理。这顿饭免单，全额退款。"
+      ],
+      [
+        "A",
+        "I appreciate that. But I also want assurance that this won't happen again.",
+        "谢谢。但我也希望得到保证，这种事不会再发生。"
+      ],
+      [
+        "B",
+        "The manager will investigate the source. We take food safety very seriously. Here's a voucher for a free meal on your next visit.",
+        "经理会调查来源。我们非常重视食品安全。这是下次来访的免费餐券。"
+      ],
+      [
+        "A",
+        "Thank you. I'll give you another chance, but I'll be checking my food carefully.",
+        "谢谢。我会再给你们一次机会，但我会仔细检查食物。"
+      ],
+      [
+        "B",
+        "Completely understandable. We're committed to earning back your trust.",
+        "完全可以理解。我们致力于重新赢得您的信任。"
+      ]
+    ],
+    "words": [
+      [
+        "foreign object",
+        "/phrase/",
+        "异物",
+        "Practice using \"foreign object\" in a real conversation."
+      ],
+      [
+        "refund",
+        "/phrase/",
+        "退款",
+        "Practice using \"refund\" in a real conversation."
+      ],
+      [
+        "voucher",
+        "/phrase/",
+        "代金券",
+        "Practice using \"voucher\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在超市对比营养成分表",
+    "difficulty": "初中级",
+    "tip": "练习阅读食品标签和做出健康选择。",
+    "lines": [
+      [
+        "A",
+        "I'm trying to eat healthier, but I get confused by nutrition labels.",
+        "我在努力吃得更健康，但营养标签让我困惑。"
+      ],
+      [
+        "B",
+        "Start with serving size. Everything else is based on that. This granola seems healthy but has 22g of sugar per serving!",
+        "先从份量开始。其他所有数据都基于此。这个麦片看起来健康，但每份含22克糖！"
+      ],
+      [
+        "A",
+        "That's almost my daily limit! What about protein content?",
+        "那差不多是我一天的限额了！蛋白质含量呢？"
+      ],
+      [
+        "B",
+        "Look for at least 10g per serving for a substantial snack. This Greek yogurt has 15g.",
+        "作为充饥零食，每份至少要找10克蛋白质。这个希腊酸奶有15克。"
+      ],
+      [
+        "A",
+        "What's the difference between total carbs and fiber?",
+        "总碳水和膳食纤维有什么区别？"
+      ],
+      [
+        "B",
+        "Fiber is indigestible and good for digestion. Subtract fiber from total carbs to get net carbs.",
+        "纤维不可消化，对消化有益。总碳水减去纤维得到净碳水。"
+      ],
+      [
+        "A",
+        "This is so helpful! I'll start checking labels before buying.",
+        "太有帮助了！我以后买之前先看标签。"
+      ],
+      [
+        "B",
+        "Once you get the hang of it, it becomes second nature. Your body will thank you!",
+        "一旦掌握了，就会变成习惯。你的身体会感谢你的！"
+      ]
+    ],
+    "words": [
+      [
+        "nutrition label",
+        "/phrase/",
+        "营养标签",
+        "Practice using \"nutrition label\" in a real conversation."
+      ],
+      [
+        "serving size",
+        "/phrase/",
+        "每份含量",
+        "Practice using \"serving size\" in a real conversation."
+      ],
+      [
+        "fiber",
+        "/phrase/",
+        "膳食纤维",
+        "Practice using \"fiber\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在乐器店试弹吉他",
+    "difficulty": "初中级",
+    "tip": "练习试奏乐器和比较音色。",
+    "lines": [
+      [
+        "A",
+        "I'm looking for an acoustic guitar under $500. Any recommendations?",
+        "我在找500美元以下的民谣吉他。有什么推荐？"
+      ],
+      [
+        "B",
+        "This Yamaha is excellent for beginners. Solid top, good projection. Try it out.",
+        "这款雅马哈非常适合初学者。实木面板，共鸣好。试试看。"
+      ],
+      [
+        "A",
+        "(Plays a chord) The action is a bit high. Can it be adjusted?",
+        "（弹了一个和弦）弦距有点高。能调吗？"
+      ],
+      [
+        "B",
+        "Yes, we can lower the saddle and adjust the truss rod. Included in the purchase price.",
+        "可以，我们可以降低琴桥并调节琴颈钢筋。包含在购买价格内。"
+      ],
+      [
+        "A",
+        "What about this Martin? It's more expensive but sounds warmer.",
+        "这个马丁呢？更贵但音色更温暖。"
+      ],
+      [
+        "B",
+        "The Martin has a richer tone due to the solid rosewood back and sides. It's an investment piece.",
+        "马丁因为实木玫瑰木背板和侧板，音色更丰富。是值得投资的乐器。"
+      ],
+      [
+        "A",
+        "I'll go with the Yamaha for now and upgrade later. Can I get a gig bag included?",
+        "我先买雅马哈，以后再升级。能送一个琴包吗？"
+      ],
+      [
+        "B",
+        "I'll throw in a bag, a tuner, and a set of extra strings. Welcome to the guitar world!",
+        "我送你一个琴包、一个调音器和一套备用琴弦。欢迎来到吉他世界！"
+      ]
+    ],
+    "words": [
+      [
+        "acoustic",
+        "/phrase/",
+        "原声的、民谣的",
+        "Practice using \"acoustic\" in a real conversation."
+      ],
+      [
+        "action",
+        "/phrase/",
+        "弦距",
+        "Practice using \"action\" in a real conversation."
+      ],
+      [
+        "tone",
+        "/phrase/",
+        "音色",
+        "Practice using \"tone\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "在旧货市场发现宝藏",
+    "difficulty": "初中级",
+    "tip": "练习识别有价值的旧物和议价。",
+    "lines": [
+      [
+        "A",
+        "Look at this typewriter! It's a vintage Olivetti from the 1960s.",
+        "看这台打字机！是60年代的古董奥利维蒂。"
+      ],
+      [
+        "B",
+        "Does it still work? The keys look intact.",
+        "还能用吗？按键看起来完好无损。"
+      ],
+      [
+        "A",
+        "(Types a letter) It works perfectly! The bell even rings at the end of the line.",
+        "（打了一个字母）完全好用！换行铃还会响。"
+      ],
+      [
+        "B",
+        "How much is the seller asking?",
+        "卖家开价多少？"
+      ],
+      [
+        "A",
+        "80. I think I can negotiate down to 60. It's worth at least $200 to collectors.",
+        "80美元。我觉得可以砍到60美元。在收藏家手里至少值200美元。"
+      ],
+      [
+        "B",
+        "Go for it! I'll pretend to be uninterested while you bargain.",
+        "拿下！你砍价的时候我假装不感兴趣。"
+      ],
+      [
+        "A",
+        "(To seller) I'll give you $60 cash right now.",
+        "（对卖家说）我现在付60美元现金。"
+      ],
+      [
+        "B",
+        "C: Make it $70 and you have a deal.",
+        "C：70美元就成交。"
+      ]
+    ],
+    "words": [
+      [
+        "typewriter",
+        "/phrase/",
+        "打字机",
+        "Practice using \"typewriter\" in a real conversation."
+      ],
+      [
+        "vintage",
+        "/phrase/",
+        "复古的",
+        "Practice using \"vintage\" in a real conversation."
+      ],
+      [
+        "collector",
+        "/phrase/",
+        "收藏家",
+        "Practice using \"collector\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园操场参加运动会接力赛",
+    "difficulty": "初级",
+    "tip": "练习团队竞技和互相鼓励。",
+    "lines": [
+      [
+        "A",
+        "The relay is about to start! I'm running the third leg.",
+        "接力赛要开始了！我跑第三棒。"
+      ],
+      [
+        "B",
+        "I'm the anchor. Don't worry, I'll make up any ground we lose.",
+        "我是最后一棒。别担心，落后了我来追。"
+      ],
+      [
+        "A",
+        "The whistle blew! Sarah is off to a great start!",
+        "哨声响了！莎拉起跑很棒！"
+      ],
+      [
+        "B",
+        "She's passing to Tom! Smooth handoff! We're in second place!",
+        "她在传给汤姆了！交接流畅！我们暂列第二！"
+      ],
+      [
+        "A",
+        "(Receives baton) My turn! I'm giving it everything!",
+        "（接到棒）轮到我了！我全力以赴！"
+      ],
+      [
+        "B",
+        "(Cheering) GO GO GO! You're gaining on the leader!",
+        "（呐喊）冲冲冲！你在追上第一名了！"
+      ],
+      [
+        "A",
+        "(Passes baton) Anchor's up! You got this!",
+        "（交棒）最后一棒了！你可以的！"
+      ],
+      [
+        "B",
+        "(Crosses finish line first) WE WON! That was incredible teamwork!",
+        "（率先冲线）我们赢了！不可思议的团队合作！"
+      ]
+    ],
+    "words": [
+      [
+        "relay",
+        "/phrase/",
+        "接力赛",
+        "Practice using \"relay\" in a real conversation."
+      ],
+      [
+        "baton",
+        "/phrase/",
+        "接力棒",
+        "Practice using \"baton\" in a real conversation."
+      ],
+      [
+        "anchor",
+        "/phrase/",
+        "最后一棒",
+        "Practice using \"anchor\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在宿舍和室友讨论作息冲突",
+    "difficulty": "初中级",
+    "tip": "练习解决室友矛盾和达成共识。",
+    "lines": [
+      [
+        "A",
+        "Hey, can we talk about our schedules? I've been having trouble sleeping lately.",
+        "嘿，我们能聊聊作息时间吗？我最近睡眠不好。"
+      ],
+      [
+        "B",
+        "Is it because I stay up late studying? I try to be quiet.",
+        "是因为我熬夜学习吗？我尽量小声了。"
+      ],
+      [
+        "A",
+        "It's not just the noise. The desk lamp shines directly onto my bed.",
+        "不只是噪音。台灯直接照到我床上。"
+      ],
+      [
+        "B",
+        "I didn't realize! I can move my desk to the other corner or use a smaller lamp.",
+        "我没意识到！我可以把书桌移到另一个角落，或者用一盏小灯。"
+      ],
+      [
+        "A",
+        "That would help a lot. And maybe we can agree on quiet hours after 11 PM?",
+        "那会好很多。也许我们可以约定晚上11点后为安静时间？"
+      ],
+      [
+        "B",
+        "Fair. I'll use headphones for my videos and keep phone calls in the hallway.",
+        "合理。我看视频用耳机，打电话去走廊。"
+      ],
+      [
+        "A",
+        "Thanks for being understanding. I'll compromise too - I'll stop setting my alarm for 6 AM on weekends!",
+        "谢谢你理解。我也会妥协——周末不再设早上6点的闹钟了！"
+      ],
+      [
+        "B",
+        "Ha! That would be great! Compromise is key to roommate harmony.",
+        "哈！那太好了！妥协是室友和谐的关键。"
+      ]
+    ],
+    "words": [
+      [
+        "schedule",
+        "/phrase/",
+        "时间表",
+        "Practice using \"schedule\" in a real conversation."
+      ],
+      [
+        "quiet hours",
+        "/phrase/",
+        "安静时段",
+        "Practice using \"quiet hours\" in a real conversation."
+      ],
+      [
+        "compromise",
+        "/phrase/",
+        "妥协",
+        "Practice using \"compromise\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "在校园创业孵化器路演",
+    "difficulty": "中高级",
+    "tip": "练习向投资人展示创业项目。",
+    "lines": [
+      [
+        "A",
+        "Good morning, judges. Our project is \"EcoPack\" - biodegradable packaging from agricultural waste.",
+        "评委老师们早上好。我们的项目是\"EcoPack\"——用农业废弃物制成的生物降解包装。"
+      ],
+      [
+        "B",
+        "Interesting. What's your competitive advantage over existing bioplastics?",
+        "有意思。相比现有生物塑料，你们的竞争优势是什么？"
+      ],
+      [
+        "A",
+        "Our production cost is 30% lower because we use locally sourced rice husks and sugarcane fibers.",
+        "我们的生产成本低30%，因为我们使用本地采购的稻壳和甘蔗纤维。"
+      ],
+      [
+        "B",
+        "How scalable is this? Can you meet industrial demand?",
+        "可扩展性如何？能满足工业需求吗？"
+      ],
+      [
+        "A",
+        "We've partnered with three farms for raw materials. Our pilot factory can produce 5 tons per month.",
+        "我们已与三家农场合作获取原材料。试点工厂每月可生产5吨。"
+      ],
+      [
+        "B",
+        "What's your funding request?",
+        "你们的融资需求是多少？"
+      ],
+      [
+        "A",
+        "We're seeking $50,000 for equipment expansion. In return, we offer 10% equity.",
+        "我们寻求5万美元用于设备扩张。作为回报，我们提供10%的股权。"
+      ],
+      [
+        "B",
+        "Impressive presentation. We'll be in touch.",
+        "精彩的展示。我们会联系你们。"
+      ]
+    ],
+    "words": [
+      [
+        "biodegradable",
+        "/phrase/",
+        "可生物降解的",
+        "Practice using \"biodegradable\" in a real conversation."
+      ],
+      [
+        "scalable",
+        "/phrase/",
+        "可扩展的",
+        "Practice using \"scalable\" in a real conversation."
+      ],
+      [
+        "equity",
+        "/phrase/",
+        "股权",
+        "Practice using \"equity\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在朋友家看球赛直播",
+    "difficulty": "初级",
+    "tip": "练习看球时的互动和情绪表达。",
+    "lines": [
+      [
+        "A",
+        "Pizza's here! And the game is about to start! Perfect timing!",
+        "披萨到了！比赛马上开始！时机完美！"
+      ],
+      [
+        "B",
+        "If we lose tonight, we're out of the playoffs. No pressure!",
+        "今晚输了就出局了。没什么压力！"
+      ],
+      [
+        "A",
+        "Our striker has been on fire lately. Three goals in the last two games.",
+        "我们的前锋最近状态火热。过去两场进了三个球。"
+      ],
+      [
+        "B",
+        "(Goal scored) GOOOAL! Did you see that curveball?! The goalkeeper didn't stand a chance!",
+        "（进球）进球！你看到那个弧线球了吗？！守门员根本没办法！"
+      ],
+      [
+        "A",
+        "WHAT A SHOT! I jumped off the couch! More beer?",
+        "好球！我从沙发上跳起来了！再来点啤酒？"
+      ],
+      [
+        "B",
+        "Pass it over! (Half-time) We're up 2-1. But we need to tighten the defense.",
+        "递过来！（中场）我们2-1领先。但防守需要收紧。"
+      ],
+      [
+        "A",
+        "The second half is going to be intense. I can't take the suspense!",
+        "下半场会很激烈。我受不了这种悬念！"
+      ],
+      [
+        "B",
+        "(Final whistle) WE WON! Playoffs here we come! Best night ever!",
+        "（终场哨）我们赢了！季后赛我们来了！史上最棒的夜晚！"
+      ]
+    ],
+    "words": [
+      [
+        "playoff",
+        "/phrase/",
+        "季后赛",
+        "Practice using \"playoff\" in a real conversation."
+      ],
+      [
+        "striker",
+        "/phrase/",
+        "前锋",
+        "Practice using \"striker\" in a real conversation."
+      ],
+      [
+        "suspense",
+        "/phrase/",
+        "悬念",
+        "Practice using \"suspense\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在交友软件上第一次线下见面",
+    "difficulty": "初中级",
+    "tip": "练习网友初次见面的破冰和了解对方。",
+    "lines": [
+      [
+        "A",
+        "Hi! You must be Sarah. I'm Tom. You look exactly like your profile pictures!",
+        "嗨！你一定是莎拉。我是汤姆。你和照片上一模一样！"
+      ],
+      [
+        "B",
+        "Thanks! So do you. I was worried you'd be a catfish!",
+        "谢谢！你也是。我还担心你是照骗呢！"
+      ],
+      [
+        "A",
+        "Ha! No, I believe in honesty. Can I get you a coffee?",
+        "哈！不会，我相信诚实。给你点杯咖啡？"
+      ],
+      [
+        "B",
+        "A latte, please. So tell me, what's the most adventurous thing you've done this year?",
+        "一杯拿铁。跟我说说，你今年做过最冒险的事是什么？"
+      ],
+      [
+        "A",
+        "I quit my corporate job to start a food truck. Best decision ever!",
+        "我辞了公司工作去开餐车。有史以来最好的决定！"
+      ],
+      [
+        "B",
+        "That's brave! How's it going?",
+        "真有勇气！生意怎么样？"
+      ],
+      [
+        "A",
+        "Tough but rewarding. I'm learning so much. What about you?",
+        "艰难但有收获。我学到了很多。你呢？"
+      ],
+      [
+        "B",
+        "I just ran my first marathon. Training took over my life for six months!",
+        "我刚跑完第一个马拉松。训练占据了我六个月的生活！"
+      ]
+    ],
+    "words": [
+      [
+        "profile",
+        "/phrase/",
+        "个人资料",
+        "Practice using \"profile\" in a real conversation."
+      ],
+      [
+        "catfish",
+        "/phrase/",
+        "照骗、虚假身份",
+        "Practice using \"catfish\" in a real conversation."
+      ],
+      [
+        "adventurous",
+        "/phrase/",
+        "冒险的",
+        "Practice using \"adventurous\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "在周末登山活动中帮助体力不支的同伴",
+    "difficulty": "初中级",
+    "tip": "练习户外互助和鼓励他人。",
+    "lines": [
+      [
+        "A",
+        "I need to stop... I can't feel my legs anymore.",
+        "我需要停下来……我的腿已经没有知觉了。"
+      ],
+      [
+        "B",
+        "Here, sit on this rock and drink some water. We're halfway to the summit.",
+        "来，坐这块石头上喝点水。我们到半山腰了。"
+      ],
+      [
+        "A",
+        "I don't think I can make it. You guys go ahead without me.",
+        "我觉得我到不了了。你们先走吧，别管我。"
+      ],
+      [
+        "B",
+        "No way! We started together, we finish together. Take small steps and pace yourself.",
+        "不行！我们一起出发就要一起到达。小步走，调整节奏。"
+      ],
+      [
+        "A",
+        "(After resting) Okay, I'll try a little further. But I'm slow.",
+        "（休息后）好吧，我再走一段。但我走得很慢。"
+      ],
+      [
+        "B",
+        "That's fine! The view from the top is worth every step. I'll walk with you.",
+        "没关系！山顶的风景值得每一步。我陪你走。"
+      ],
+      [
+        "A",
+        "(Reaching summit) We made it! Oh my god, the view is incredible!",
+        "（到达山顶）我们到了！天哪，这景色太壮观了！"
+      ],
+      [
+        "B",
+        "Told you! Nothing beats the feeling of conquering a mountain with friends.",
+        "告诉过你！没有什么比和朋友一起征服一座山更棒的了。"
+      ]
+    ],
+    "words": [
+      [
+        "summit",
+        "/phrase/",
+        "山顶",
+        "Practice using \"summit\" in a real conversation."
+      ],
+      [
+        "pace",
+        "/phrase/",
+        "调整节奏",
+        "Practice using \"pace\" in a real conversation."
+      ],
+      [
+        "conquer",
+        "/phrase/",
+        "征服",
+        "Practice using \"conquer\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在口腔科做牙齿矫正咨询",
+    "difficulty": "中高级",
+    "tip": "练习咨询正畸方案和维护口腔卫生。",
+    "lines": [
+      [
+        "A",
+        "I've been insecure about my crooked teeth since childhood. Can braces help?",
+        "我从小就对歪牙感到不自信。牙套能帮忙吗？"
+      ],
+      [
+        "B",
+        "Let me examine your bite and alignment. You have overcrowding and a slight overbite.",
+        "让我检查一下你的咬合和排列。你有牙齿拥挤和轻微的覆颌。"
+      ],
+      [
+        "A",
+        "What are my options? I don't want traditional metal braces if possible.",
+        "我有什么选择？如果可以的话我不想要传统金属牙套。"
+      ],
+      [
+        "B",
+        "Clear aligners like Invisalign could work for your case. Treatment takes about 18 months.",
+        "隐形矫正器如隐适美适用于你的情况。治疗大约需要18个月。"
+      ],
+      [
+        "A",
+        "Does it hurt? I've heard horror stories.",
+        "疼吗？我听过一些可怕的故事。"
+      ],
+      [
+        "B",
+        "There's mild discomfort when switching to a new set of aligners. Over-the-counter pain relief helps.",
+        "换新一副矫正器时有轻微不适。非处方止痛药可以缓解。"
+      ],
+      [
+        "A",
+        "How much does it cost? Does insurance cover any of it?",
+        "费用是多少？保险能报销一部分吗？"
+      ],
+      [
+        "B",
+        "Around 5,000 total. Some dental insurance plans cover up to 1,500 for orthodontics.",
+        "总计约5000美元。一些牙科保险对正畸最多报销1500美元。"
+      ]
+    ],
+    "words": [
+      [
+        "braces",
+        "/phrase/",
+        "牙套",
+        "Practice using \"braces\" in a real conversation."
+      ],
+      [
+        "aligner",
+        "/phrase/",
+        "矫正器",
+        "Practice using \"aligner\" in a real conversation."
+      ],
+      [
+        "overbite",
+        "/phrase/",
+        "覆颌",
+        "Practice using \"overbite\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在急诊室陪朋友缝针",
+    "difficulty": "初中级",
+    "tip": "练习陪同就医和安抚情绪。",
+    "lines": [
+      [
+        "A",
+        "(In waiting room) You're going to be fine. The cut on your hand isn't that deep.",
+        "（在候诊室）你会没事的。手上的伤口没那么深。"
+      ],
+      [
+        "B",
+        "I've never had stitches before. I'm freaking out.",
+        "我从没缝过针。我快吓死了。"
+      ],
+      [
+        "A",
+        "They'll numb it first. You won't feel a thing. I'll be right here the whole time.",
+        "他们会先打麻药。你什么都感觉不到。我会一直在这里。"
+      ],
+      [
+        "B",
+        "(Nurse calls) They're ready for me. Don't leave, okay?",
+        "（护士叫号）轮到我了。别走开，好吗？"
+      ],
+      [
+        "A",
+        "I promise. (To nurse) He's a bit nervous. Can I stay with him? C: Of course. We encourage it. (During procedure) Doing great! Almost done.",
+        "我保证。（对护士说）他有点紧张。我能陪着他吗？ C：当然。我们鼓励家属陪同。（过程中）表现很好！快好了。"
+      ],
+      [
+        "B",
+        "(After) That wasn't so bad! The numbing shot was the worst part.",
+        "（结束后）没那么糟糕！打麻药针是最难受的部分。"
+      ],
+      [
+        "A",
+        "Told you! Now let's get you some ice cream. You earned it!",
+        "告诉过你！现在我们去吃冰淇淋。你应得的！"
+      ],
+      [
+        "B",
+        "With my non-stitched hand! Thanks for being here.",
+        "用我没缝针的那只手！谢谢你陪着我。"
+      ]
+    ],
+    "words": [
+      [
+        "stitches",
+        "/phrase/",
+        "缝针",
+        "Practice using \"stitches\" in a real conversation."
+      ],
+      [
+        "numb",
+        "/phrase/",
+        "麻木的",
+        "Practice using \"numb\" in a real conversation."
+      ],
+      [
+        "procedure",
+        "/phrase/",
+        "程序、操作",
+        "Practice using \"procedure\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "在体检中心做全身检查",
+    "difficulty": "中级",
+    "tip": "练习全面体检流程和咨询健康建议。",
+    "lines": [
+      [
+        "A",
+        "This is my first comprehensive health check-up. What does it include?",
+        "这是我第一次做全面体检。包括哪些项目？"
+      ],
+      [
+        "B",
+        "Blood work, urinalysis, ECG, chest X-ray, ultrasound, and physical examination.",
+        "血检、尿检、心电图、胸透、超声波和体格检查。"
+      ],
+      [
+        "A",
+        "Do I need to fast?",
+        "需要空腹吗？"
+      ],
+      [
+        "B",
+        "Yes, 8-10 hours fasting for accurate blood sugar and cholesterol readings. Water is allowed.",
+        "是的，空腹8-10小时以确保血糖和胆固醇读数准确。可以喝水。"
+      ],
+      [
+        "A",
+        "(After blood draw) I hate needles. Is that the worst part over?",
+        "（抽血后）我讨厌针头。最难的部分过去了吗？"
+      ],
+      [
+        "B",
+        "Almost! Just the ultrasound and ECG left. Those are painless.",
+        "快了！只剩超声波和心电图了。那些都不疼。"
+      ],
+      [
+        "A",
+        "(All done) That wasn't as bad as I expected. When will I get the results?",
+        "（全部完成）没有我想象的那么糟。什么时候能拿到结果？"
+      ],
+      [
+        "B",
+        "Within a week. We'll call you if anything needs attention. Otherwise, you can download the report online.",
+        "一周内。如果有需要关注的项目我们会打电话。否则你可以在线下载报告。"
+      ]
+    ],
+    "words": [
+      [
+        "comprehensive",
+        "/phrase/",
+        "全面的",
+        "Practice using \"comprehensive\" in a real conversation."
+      ],
+      [
+        "fasting",
+        "/phrase/",
+        "禁食的",
+        "Practice using \"fasting\" in a real conversation."
+      ],
+      [
+        "ultrasound",
+        "/phrase/",
+        "超声波",
+        "Practice using \"ultrasound\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区楼下教邻居用智能手机",
+    "difficulty": "初中级",
+    "tip": "练习耐心教学和帮助老年人跨越数字鸿沟。",
+    "lines": [
+      [
+        "A",
+        "Uncle, what do you need help with on your phone today?",
+        "叔叔，今天手机有什么需要帮忙的吗？"
+      ],
+      [
+        "B",
+        "My grandson sent a video but I can't find it. The icons keep changing!",
+        "孙子发了个视频但我找不到。图标老是变来变去！"
+      ],
+      [
+        "A",
+        "Let me show you. This green icon is WhatsApp. Tap it, then look for the chat with his name.",
+        "我教您。这个绿色图标是WhatsApp。点开它，然后找他的名字的聊天框。"
+      ],
+      [
+        "B",
+        "Ah, there it is! He's waving at me! How do I reply?",
+        "啊，在这里！他在跟我挥手！我怎么回复？"
+      ],
+      [
+        "A",
+        "Tap the microphone icon and hold it while you speak. Release to send.",
+        "点麦克风图标，按住说话。松开就发送了。"
+      ],
+      [
+        "B",
+        "(Records message) Testing, testing! I did it! You're a great teacher!",
+        "（录音）测试，测试！我成功了！你真是个好老师！"
+      ],
+      [
+        "A",
+        "You're a fast learner! Next time I'll show you how to video call.",
+        "您学得真快！下次我教您视频通话。"
+      ],
+      [
+        "B",
+        "I'll prepare questions! Technology is hard but having a patient neighbor makes it easier.",
+        "我会准备好问题！科技很难，但有个耐心的邻居就容易多了。"
+      ]
+    ],
+    "words": [
+      [
+        "icon",
+        "/phrase/",
+        "图标",
+        "Practice using \"icon\" in a real conversation."
+      ],
+      [
+        "chat",
+        "/phrase/",
+        "聊天",
+        "Practice using \"chat\" in a real conversation."
+      ],
+      [
+        "video call",
+        "/phrase/",
+        "视频通话",
+        "Practice using \"video call\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在社区活动中心参加书法班",
+    "difficulty": "初中级",
+    "tip": "练习学习传统书法和欣赏汉字之美。",
+    "lines": [
+      [
+        "A",
+        "I've always admired Chinese calligraphy but never tried it. Where do I start?",
+        "我一直很欣赏中国书法但从没试过。从哪里开始？"
+      ],
+      [
+        "B",
+        "Begin with basic strokes. Hold the brush vertically, wrist steady.",
+        "从基本笔画开始。毛笔垂直握持，手腕稳住。"
+      ],
+      [
+        "A",
+        "(Attempts a stroke) It's harder than it looks! My line is shaky.",
+        "（尝试一笔）比看起来难多了！我的线条在抖。"
+      ],
+      [
+        "B",
+        "That's normal. Practice the horizontal stroke - \"heng\" - until it's smooth.",
+        "正常。练习横画——直到线条平滑。"
+      ],
+      [
+        "A",
+        "How long does it take to write a complete character?",
+        "写一个完整的字需要多久？"
+      ],
+      [
+        "B",
+        "For beginners, mastering one character can take days. But the process is meditative.",
+        "对初学者来说，掌握一个字可能需要几天。但这个过程很禅意。"
+      ],
+      [
+        "A",
+        "(Writes \"peace\") It's imperfect, but I'm proud of it!",
+        "（写下\"和\"字）不完美，但我很自豪！"
+      ],
+      [
+        "B",
+        "The beauty of calligraphy lies in the imperfections. Each stroke reflects the writer's spirit.",
+        "书法的美在于不完美。每一笔都反映了书写者的心境。"
+      ]
+    ],
+    "words": [
+      [
+        "calligraphy",
+        "/phrase/",
+        "书法",
+        "Practice using \"calligraphy\" in a real conversation."
+      ],
+      [
+        "brush",
+        "/phrase/",
+        "毛笔",
+        "Practice using \"brush\" in a real conversation."
+      ],
+      [
+        "stroke",
+        "/phrase/",
+        "笔画",
+        "Practice using \"stroke\" in a real conversation."
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "在小区门口遇到发传单的推销员",
+    "difficulty": "初级",
+    "tip": "练习礼貌拒绝和不必要的推销。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, ma'am! Have you heard about our new fitness center? Grand opening special!",
+        "女士您好！您听说过我们新开的健身中心吗？开业特惠！"
+      ],
+      [
+        "B",
+        "I'm actually in a hurry right now. But thanks for the offer.",
+        "我现在确实赶时间。不过谢谢你的邀请。"
+      ],
+      [
+        "A",
+        "Just one minute! We have 50% off annual membership for the first 100 sign-ups!",
+        "就一分钟！前100名报名年卡五折！"
+      ],
+      [
+        "B",
+        "I appreciate it, but I already have a gym membership. I'm not interested.",
+        "谢谢，但我已经有健身卡了。我不感兴趣。"
+      ],
+      [
+        "A",
+        "Can I at least give you a flyer? You might change your mind!",
+        "至少让我给您一张传单吧？您也许会改变主意！"
+      ],
+      [
+        "B",
+        "Sure, I'll take it. But please don't follow me. I really need to go.",
+        "好吧，我拿着。但请不要跟着我。我真的要走了。"
+      ],
+      [
+        "A",
+        "No problem! Have a great day! If you change your mind, the offer is valid until Friday!",
+        "没问题！祝您愉快！如果您改变主意，优惠持续到周五！"
+      ],
+      [
+        "B",
+        "Thanks. I'll keep it in mind. Good luck with your promotion!",
+        "谢谢。我会记着的。祝你推广顺利！"
+      ]
+    ],
+    "words": [
+      [
+        "promotion",
+        "/phrase/",
+        "促销、推广",
+        "Practice using \"promotion\" in a real conversation."
+      ],
+      [
+        "membership",
+        "/phrase/",
+        "会员资格",
+        "Practice using \"membership\" in a real conversation."
+      ],
+      [
+        "flyer",
+        "/phrase/",
+        "传单",
+        "Practice using \"flyer\" in a real conversation."
+      ]
+    ]
   }
 ];
