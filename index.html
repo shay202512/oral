@@ -1,0 +1,771 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>英文口语对话卡片</title>
+  <style>
+    :root {
+      --bg: #f7f5ef;
+      --panel: #ffffff;
+      --ink: #202226;
+      --muted: #666b75;
+      --line: #dde1e7;
+      --accent: #126c62;
+      --accent-strong: #0a4f48;
+      --accent-soft: #dcefeb;
+      --warm: #d7753f;
+      --shadow: 0 18px 50px rgba(31, 36, 43, 0.12);
+      --radius: 8px;
+      font-family: "Inter", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background:
+        linear-gradient(145deg, rgba(18, 108, 98, 0.12), transparent 32%),
+        linear-gradient(315deg, rgba(215, 117, 63, 0.14), transparent 34%),
+        var(--bg);
+    }
+
+    button,
+    select,
+    input {
+      font: inherit;
+    }
+
+    button {
+      border: 0;
+      cursor: pointer;
+    }
+
+    .app {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 28px 0 36px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 4vw, 48px);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .select-wrap,
+    .search-wrap {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 42px;
+      padding: 0 12px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.76);
+    }
+
+    .select-wrap span {
+      color: var(--muted);
+      white-space: nowrap;
+      font-size: 14px;
+    }
+
+    .mode-wrap select {
+      min-width: 104px;
+    }
+
+    select,
+    input {
+      border: 0;
+      background: transparent;
+      color: var(--ink);
+      outline: 0;
+    }
+
+    select {
+      min-width: 128px;
+    }
+
+    input {
+      width: 170px;
+    }
+
+    .icon-btn,
+    .primary-btn {
+      min-height: 42px;
+      border-radius: var(--radius);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: transform 0.16s ease, background 0.16s ease;
+    }
+
+    .icon-btn {
+      width: 44px;
+      color: var(--accent-strong);
+      background: var(--accent-soft);
+    }
+
+    .primary-btn {
+      padding: 0 16px;
+      color: white;
+      background: var(--accent);
+      font-weight: 700;
+    }
+
+    .icon-btn:hover,
+    .primary-btn:hover,
+    .theme-btn:hover,
+    .theme-btn.active {
+      transform: translateY(-1px);
+    }
+
+    .theme-strip {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin: 18px 0;
+    }
+
+    .theme-btn {
+      min-height: 58px;
+      border-radius: var(--radius);
+      padding: 8px 10px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid var(--line);
+      color: var(--ink);
+      font-weight: 800;
+      transition: border 0.16s ease, background 0.16s ease, transform 0.16s ease;
+    }
+
+    .theme-btn span {
+      display: block;
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .theme-btn.active {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(300px, 0.7fr);
+      gap: 18px;
+      align-items: start;
+    }
+
+    .practice,
+    .side-panel {
+      background: rgba(255, 255, 255, 0.88);
+      border: 1px solid rgba(221, 225, 231, 0.8);
+      box-shadow: var(--shadow);
+      border-radius: var(--radius);
+    }
+
+    .practice {
+      overflow: hidden;
+    }
+
+    .card-head {
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-start;
+      background: linear-gradient(90deg, rgba(18, 108, 98, 0.1), rgba(215, 117, 63, 0.08));
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: var(--accent-strong);
+      font-size: 13px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    h2,
+    h3 {
+      margin: 0;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      font-size: clamp(22px, 3vw, 34px);
+      line-height: 1.15;
+    }
+
+    h3 {
+      font-size: 20px;
+    }
+
+    .difficulty {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 30px;
+      padding: 0 10px;
+      border-radius: 999px;
+      color: #7b3b16;
+      background: #ffe7d9;
+      font-size: 13px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .dialogue {
+      padding: 16px 20px 20px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .bottom-actions {
+      padding: 0 20px 20px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .bottom-actions .primary-btn {
+      width: min(100%, 320px);
+    }
+
+    .line {
+      display: grid;
+      grid-template-columns: 48px minmax(0, 1fr) 44px;
+      gap: 12px;
+      align-items: start;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+    }
+
+    .avatar {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      color: white;
+      background: var(--accent);
+      font-weight: 800;
+    }
+
+    .line:nth-child(even) .avatar {
+      background: var(--warm);
+    }
+
+    .sentence {
+      display: grid;
+      gap: 7px;
+      min-width: 0;
+    }
+
+    .english {
+      margin: 0;
+      font-size: 20px;
+      line-height: 1.45;
+      font-weight: 750;
+      overflow-wrap: anywhere;
+    }
+
+    .chinese,
+    .meaning,
+    .example,
+    .note,
+    .status {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.55;
+      font-size: 14px;
+    }
+
+    .chinese {
+      font-size: 15px;
+    }
+
+    .speak-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius);
+      color: var(--accent-strong);
+      background: #edf6f3;
+      display: grid;
+      place-items: center;
+    }
+
+    .side-panel {
+      padding: 18px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .panel-title,
+    .meta-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .word-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .word-card {
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      display: grid;
+      gap: 8px;
+    }
+
+    .word-top {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .word {
+      font-size: 19px;
+      font-weight: 850;
+    }
+
+    .phonetic {
+      color: var(--accent-strong);
+      font-size: 14px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .example {
+      color: #3d424a;
+    }
+
+    .footer-note {
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      text-align: center;
+    }
+
+    svg {
+      width: 20px;
+      height: 20px;
+      stroke: currentColor;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+    }
+
+    @media (max-width: 900px) {
+      .topbar,
+      .card-head {
+        display: grid;
+      }
+
+      .toolbar {
+        justify-content: stretch;
+      }
+
+      .select-wrap,
+      .search-wrap,
+      .primary-btn {
+        flex: 1 1 160px;
+      }
+
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .theme-strip {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 560px) {
+      .app {
+        width: min(100% - 20px, 1180px);
+        padding-top: 18px;
+      }
+
+      .line {
+        grid-template-columns: 38px minmax(0, 1fr) 38px;
+        gap: 9px;
+        padding: 12px;
+      }
+
+      .avatar {
+        width: 36px;
+        height: 36px;
+      }
+
+      .english {
+        font-size: 17px;
+      }
+
+      .theme-strip {
+        grid-template-columns: 1fr;
+      }
+    }
+    :root {
+      --bg: #f4f7fb;
+      --ink: #17202a;
+      --muted: #647083;
+      --line: #dbe3ee;
+      --accent: #2563eb;
+      --accent-strong: #1d4ed8;
+      --accent-soft: #e8f0ff;
+      --warm: #f97316;
+      --shadow: 0 18px 44px rgba(38, 55, 77, 0.12);
+    }
+
+    body {
+      background:
+        radial-gradient(circle at 12% 0%, rgba(37, 99, 235, 0.16), transparent 28%),
+        radial-gradient(circle at 92% 14%, rgba(15, 143, 114, 0.12), transparent 26%),
+        linear-gradient(180deg, #f9fbff 0%, #eef4f8 100%),
+        var(--bg);
+    }
+
+    .topbar {
+      padding: 18px;
+      border: 1px solid rgba(219, 227, 238, 0.76);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.74);
+      box-shadow: 0 10px 26px rgba(38, 55, 77, 0.08);
+      backdrop-filter: blur(14px);
+    }
+
+    .select-wrap,
+    .search-wrap {
+      min-height: 44px;
+      border-color: rgba(203, 213, 225, 0.9);
+      background: #ffffff;
+    }
+
+    .primary-btn {
+      min-height: 44px;
+      background: linear-gradient(135deg, var(--accent), #0f8f72);
+      box-shadow: 0 10px 18px rgba(37, 99, 235, 0.22);
+    }
+
+    .icon-btn,
+    .speak-btn {
+      color: var(--accent);
+      background: var(--accent-soft);
+    }
+
+    .theme-btn {
+      min-height: 62px;
+      padding: 10px 12px;
+      text-align: left;
+      background: rgba(255, 255, 255, 0.82);
+      border-color: rgba(219, 227, 238, 0.92);
+      box-shadow: 0 8px 18px rgba(38, 55, 77, 0.06);
+    }
+
+    .theme-btn.active {
+      color: var(--accent-strong);
+      background: linear-gradient(135deg, #ffffff, var(--accent-soft));
+      border-color: var(--accent);
+    }
+
+    .card-head {
+      background:
+        linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(15, 143, 114, 0.08)),
+        #ffffff;
+    }
+
+    .avatar {
+      border-radius: var(--radius);
+      background: linear-gradient(135deg, var(--accent), #1d4ed8);
+    }
+
+    .line:nth-child(even) .avatar {
+      background: linear-gradient(135deg, var(--warm), #ea580c);
+    }
+
+    .line,
+    .word-card {
+      border-color: rgba(219, 227, 238, 0.9);
+      box-shadow: 0 8px 20px rgba(38, 55, 77, 0.05);
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <section class="topbar">
+      <div>
+        <h1>英文口语对话卡片</h1>
+        <p class="subtitle">按主题推送真实场景表达，逐句听读、翻译和积累重点词。</p>
+      </div>
+      <div class="toolbar">
+        <label class="select-wrap">
+          <span>主题</span>
+          <select id="themeSelect" aria-label="选择主题"></select>
+        </label>
+        <label class="select-wrap mode-wrap">
+          <span>切换</span>
+          <select id="switchMode" aria-label="选择换一张方式">
+            <option value="sequential">顺序</option>
+            <option value="random">随机</option>
+          </select>
+        </label>
+        <label class="search-wrap">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+          <input id="searchInput" type="search" placeholder="搜索标题或英文">
+        </label>
+        <button class="primary-btn" id="randomBtn" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5"></path><path d="M4 20 21 3"></path><path d="M21 16v5h-5"></path><path d="M15 15l6 6"></path><path d="M4 4l5 5"></path></svg>
+          换一张
+        </button>
+        <button class="icon-btn" id="speakAllBtn" type="button" title="朗读整段对话" aria-label="朗读整段对话">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.5 8.5a5 5 0 0 1 0 7"></path><path d="M19 5a10 10 0 0 1 0 14"></path></svg>
+        </button>
+      </div>
+    </section>
+
+    <nav class="theme-strip" id="themeStrip" aria-label="主题快捷切换"></nav>
+
+    <section class="layout">
+      <article class="practice">
+        <div class="card-head">
+          <div>
+            <p class="eyebrow" id="themeName"></p>
+            <h2 id="cardTitle"></h2>
+          </div>
+          <div class="meta-row">
+            <span class="difficulty" id="difficulty"></span>
+            <span class="status" id="cardCounter"></span>
+          </div>
+        </div>
+        <div class="dialogue" id="dialogue"></div>
+        <div class="bottom-actions">
+          <button class="primary-btn" id="bottomRandomBtn" type="button">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5"></path><path d="M4 20 21 3"></path><path d="M21 16v5h-5"></path><path d="M15 15l6 6"></path><path d="M4 4l5 5"></path></svg>
+            换一张
+          </button>
+        </div>
+      </article>
+
+      <aside class="side-panel">
+        <div class="panel-title">
+          <h3>重点单词</h3>
+          <button class="icon-btn" id="wordSpeakBtn" type="button" title="朗读重点单词" aria-label="朗读重点单词">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2v20"></path><path d="m19 9-7-7-7 7"></path></svg>
+          </button>
+        </div>
+        <div class="word-list" id="wordList"></div>
+        <p class="note" id="tip"></p>
+      </aside>
+    </section>
+
+    <p class="footer-note">发音使用浏览器自带语音；如没有声音，请检查系统音量或浏览器语音支持。</p>
+  </main>
+
+  <script src="data/dialogues.js"></script>
+  <script>
+    const cards = window.dialogueCards || [];
+    const state = {
+      currentTheme: cards[0]?.theme || "",
+      currentIndex: 0,
+      query: "",
+      switchMode: "sequential"
+    };
+
+    const themeSelect = document.querySelector("#themeSelect");
+    const switchMode = document.querySelector("#switchMode");
+    const themeStrip = document.querySelector("#themeStrip");
+    const themeName = document.querySelector("#themeName");
+    const cardTitle = document.querySelector("#cardTitle");
+    const difficulty = document.querySelector("#difficulty");
+    const cardCounter = document.querySelector("#cardCounter");
+    const dialogue = document.querySelector("#dialogue");
+    const wordList = document.querySelector("#wordList");
+    const tip = document.querySelector("#tip");
+    const searchInput = document.querySelector("#searchInput");
+    const themes = [...new Set(cards.map(card => card.theme))];
+
+    function speak(text) {
+      if (!("speechSynthesis" in window)) return;
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = "en-US";
+      utterance.rate = 0.88;
+      utterance.pitch = 1;
+      window.speechSynthesis.speak(utterance);
+    }
+
+    function getThemeCards() {
+      const query = state.query.trim().toLowerCase();
+      return cards.filter(card => {
+        const inTheme = card.theme === state.currentTheme;
+        if (!query) return inTheme;
+        const text = `${card.title} ${card.lines.map(line => line[1]).join(" ")}`.toLowerCase();
+        return inTheme && text.includes(query);
+      });
+    }
+
+    function renderThemeControls() {
+      themeSelect.innerHTML = themes.map(theme => `<option value="${theme}">${theme}</option>`).join("");
+      themeStrip.innerHTML = themes.map(theme => {
+        const count = cards.filter(card => card.theme === theme).length;
+        return `<button class="theme-btn" type="button" data-theme="${theme}">${theme}<span>${count} 个对话</span></button>`;
+      }).join("");
+      themeSelect.value = state.currentTheme;
+      switchMode.value = state.switchMode;
+    }
+
+    function renderCard() {
+      const themeCards = getThemeCards();
+      document.querySelectorAll(".theme-btn").forEach(button => {
+        button.classList.toggle("active", button.dataset.theme === state.currentTheme);
+      });
+      themeSelect.value = state.currentTheme;
+
+      if (!themeCards.length) {
+        themeName.textContent = state.currentTheme;
+        cardTitle.textContent = "没有找到匹配的对话";
+        difficulty.textContent = "请换关键词";
+        cardCounter.textContent = "";
+        dialogue.innerHTML = "";
+        wordList.innerHTML = "";
+        tip.textContent = "可以搜索标题或英文句子，也可以清空搜索框继续练习。";
+        return;
+      }
+
+      state.currentIndex = state.currentIndex % themeCards.length;
+      const card = themeCards[state.currentIndex];
+      themeName.textContent = card.theme;
+      cardTitle.textContent = card.title;
+      difficulty.textContent = card.difficulty;
+      cardCounter.textContent = `${state.currentIndex + 1} / ${themeCards.length}`;
+      tip.textContent = card.tip;
+
+      dialogue.innerHTML = card.lines.map((line, index) => {
+        const [speaker, en, zh] = line;
+        return `
+          <section class="line">
+            <div class="avatar">${speaker}</div>
+            <div class="sentence">
+              <p class="english">${en}</p>
+              <p class="chinese">${zh}</p>
+            </div>
+            <button class="speak-btn" type="button" aria-label="朗读第 ${index + 1} 句" data-speak="${encodeURIComponent(en)}">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.5 8.5a5 5 0 0 1 0 7"></path></svg>
+            </button>
+          </section>
+        `;
+      }).join("");
+
+      wordList.innerHTML = card.words.map(word => {
+        const [term, phonetic, meaning, example] = word;
+        return `
+          <article class="word-card">
+            <div class="word-top">
+              <span class="word">${term}</span>
+              <span class="phonetic">${phonetic}</span>
+            </div>
+            <p class="meaning">${meaning}</p>
+            <p class="example">${example}</p>
+          </article>
+        `;
+      }).join("");
+    }
+
+    function switchTheme(theme) {
+      state.currentTheme = theme;
+      state.currentIndex = 0;
+      renderCard();
+    }
+
+    function nextCard() {
+      const themeCards = getThemeCards();
+      if (!themeCards.length) return;
+      if (state.switchMode === "random") {
+        if (themeCards.length === 1) {
+          state.currentIndex = 0;
+        } else {
+          let nextIndex = state.currentIndex;
+          while (nextIndex === state.currentIndex) {
+            nextIndex = Math.floor(Math.random() * themeCards.length);
+          }
+          state.currentIndex = nextIndex;
+        }
+      } else {
+        state.currentIndex = (state.currentIndex + 1) % themeCards.length;
+      }
+      renderCard();
+    }
+
+    themeSelect.addEventListener("change", event => switchTheme(event.target.value));
+    switchMode.addEventListener("change", event => {
+      state.switchMode = event.target.value;
+    });
+    themeStrip.addEventListener("click", event => {
+      const button = event.target.closest(".theme-btn");
+      if (button) switchTheme(button.dataset.theme);
+    });
+    searchInput.addEventListener("input", event => {
+      state.query = event.target.value;
+      state.currentIndex = 0;
+      renderCard();
+    });
+    document.querySelector("#randomBtn").addEventListener("click", nextCard);
+    document.querySelector("#bottomRandomBtn").addEventListener("click", nextCard);
+    document.querySelector("#speakAllBtn").addEventListener("click", () => {
+      const card = getThemeCards()[state.currentIndex];
+      if (card) speak(card.lines.map(line => line[1]).join(" "));
+    });
+    document.querySelector("#wordSpeakBtn").addEventListener("click", () => {
+      const card = getThemeCards()[state.currentIndex];
+      if (card) speak(card.words.map(word => `${word[0]}. ${word[3]}`).join(" "));
+    });
+    dialogue.addEventListener("click", event => {
+      const button = event.target.closest("[data-speak]");
+      if (button) speak(decodeURIComponent(button.dataset.speak));
+    });
+
+    renderThemeControls();
+    renderCard();
+  </script>
+</body>
+</html>
