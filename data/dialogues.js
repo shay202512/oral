@@ -31,19 +31,22 @@ window.dialogueCards = [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订；预约",
-        "I have a reservation for two nights."
+        "I have a reservation for two nights.",
+        "我订了两晚的房间。"
       ],
       [
         "early check-in",
         "/ˈɜːrli tʃek ɪn/",
         "提前入住",
-        "Early check-in is available for an extra fee."
+        "Early check-in is available for an extra fee.",
+        "提前入住需额外付费。"
       ],
       [
         "store",
         "/stɔːr/",
         "寄存；储存",
-        "Can you store my luggage until this afternoon?"
+        "Can you store my luggage until this afternoon?",
+        "能把行李存到下午吗？"
       ]
     ]
   },
@@ -79,19 +82,22 @@ window.dialogueCards = [
         "gate",
         "/ɡeɪt/",
         "登机口",
-        "Our flight leaves from Gate 18."
+        "Our flight leaves from Gate 18.",
+        "我们的航班在18号登机口。"
       ],
       [
         "boarding",
         "/ˈbɔːrdɪŋ/",
         "登机",
-        "Boarding starts in twenty minutes."
+        "Boarding starts in twenty minutes.",
+        "二十分钟后开始登机。"
       ],
       [
         "final call",
         "/ˈfaɪnl kɔːl/",
         "最后登机广播",
-        "This is the final call for Flight 286."
+        "This is the final call for Flight 286.",
+        "这是 286 次航班的最后一次登机广播。"
       ]
     ]
   },
@@ -127,19 +133,22 @@ window.dialogueCards = [
         "highway",
         "/ˈhaɪweɪ/",
         "高速公路",
-        "The highway is faster during rush hour."
+        "The highway is faster during rush hour.",
+        "高峰期走高速公路更快。"
       ],
       [
         "toll",
         "/toʊl/",
         "过路费；通行费",
-        "There is a toll on this road."
+        "There is a toll on this road.",
+        "这条路要收过路费。"
       ],
       [
         "faster",
         "/ˈfæstər/",
         "更快的",
-        "This route is faster than the city road."
+        "This route is faster than the city road.",
+        "这条路比市区那条快。"
       ]
     ]
   },
@@ -175,19 +184,22 @@ window.dialogueCards = [
         "priority",
         "/praɪˈɔːrəti/",
         "优先事项",
-        "This project is our top priority."
+        "This project is our top priority.",
+        "这个项目是我们的最高优先级。"
       ],
       [
         "due",
         "/duː/",
         "到期；截止",
-        "The report is due before noon."
+        "The report is due before noon.",
+        "报告要在中午之前提交。"
       ],
       [
         "draft",
         "/dræft/",
         "草稿",
-        "Please send me the first draft today."
+        "Please send me the first draft today.",
+        "请今天把初稿发给我。"
       ]
     ]
   },
@@ -223,19 +235,22 @@ window.dialogueCards = [
         "campaign",
         "/kæmˈpeɪn/",
         "活动；营销活动",
-        "The summer campaign starts next week."
+        "The summer campaign starts next week.",
+        "夏季活动下周开始。"
       ],
       [
         "concerned",
         "/kənˈsɜːrnd/",
         "担心的；关注的",
-        "I am concerned about the timeline."
+        "I am concerned about the timeline.",
+        "我担心时间进度。"
       ],
       [
         "error",
         "/ˈerər/",
         "错误",
-        "There is an error on the payment page."
+        "There is an error on the payment page.",
+        "付款页面上有个错误。"
       ]
     ]
   },
@@ -271,19 +286,22 @@ window.dialogueCards = [
         "hold up",
         "/hoʊld ʌp/",
         "耽误；延迟",
-        "The missing file is holding up the report."
+        "The missing file is holding up the report.",
+        "缺的那份文件拖住了报告的进度。"
       ],
       [
         "carefully",
         "/ˈkerfəli/",
         "仔细地",
-        "Please check the numbers carefully."
+        "Please check the numbers carefully.",
+        "请仔细核对数字。"
       ],
       [
         "final version",
         "/ˈfaɪnl ˈvɜːrʒn/",
         "最终版本",
-        "The final version is ready to send."
+        "The final version is ready to send.",
+        "最终版本可以发送了。"
       ]
     ]
   },
@@ -319,19 +337,22 @@ window.dialogueCards = [
         "recommend",
         "/ˌrekəˈmend/",
         "推荐",
-        "Can you recommend a local dish?"
+        "Can you recommend a local dish?",
+        "有什么本地菜推荐吗？"
       ],
       [
         "spicy",
         "/ˈspaɪsi/",
         "辣的",
-        "This sauce is too spicy for me."
+        "This sauce is too spicy for me.",
+        "这个酱对我来说太辣了。"
       ],
       [
         "come with",
         "/kʌm wɪð/",
         "附带；配有",
-        "The meal comes with a salad."
+        "The meal comes with a salad.",
+        "这份餐附带沙拉。"
       ]
     ]
   },
@@ -367,19 +388,22 @@ window.dialogueCards = [
         "mistake",
         "/mɪˈsteɪk/",
         "错误",
-        "There is a mistake on the bill."
+        "There is a mistake on the bill.",
+        "账单上有一处错误。"
       ],
       [
         "order",
         "/ˈɔːrdər/",
         "订单；点餐",
-        "I would like to change my order."
+        "I would like to change my order.",
+        "我想改一下订单。"
       ],
       [
         "replace",
         "/rɪˈpleɪs/",
         "更换",
-        "We will replace the dish right away."
+        "We will replace the dish right away.",
+        "我们马上给你换一道菜。"
       ]
     ]
   },
@@ -415,19 +439,22 @@ window.dialogueCards = [
         "separately",
         "/ˈseprətli/",
         "分别地；分开地",
-        "We would like to pay separately."
+        "We would like to pay separately.",
+        "我们想分开付。"
       ],
       [
         "split",
         "/splɪt/",
         "分摊；分开",
-        "Let's split the bill."
+        "Let's split the bill.",
+        "咱们分开付吧。"
       ],
       [
         "tap",
         "/tæp/",
         "轻触；刷卡感应",
-        "Tap your card on the reader."
+        "Tap your card on the reader.",
+        "把卡贴在读卡器上。"
       ]
     ]
   },
@@ -463,19 +490,22 @@ window.dialogueCards = [
         "size",
         "/saɪz/",
         "尺码；大小",
-        "What size do you usually wear?"
+        "What size do you usually wear?",
+        "你平时穿多大码？"
       ],
       [
         "try on",
         "/traɪ ɑːn/",
         "试穿",
-        "Can I try this jacket on?"
+        "Can I try this jacket on?",
+        "这件夹克能试穿吗？"
       ],
       [
         "fitting room",
         "/ˈfɪtɪŋ ruːm/",
         "试衣间",
-        "The fitting room is over there."
+        "The fitting room is over there.",
+        "试衣间在那边。"
       ]
     ]
   },
@@ -511,19 +541,22 @@ window.dialogueCards = [
         "return policy",
         "/rɪˈtɜːrn ˈpɑːləsi/",
         "退货政策",
-        "What is the return policy for this item?"
+        "What is the return policy for this item?",
+        "这件商品的退货政策是什么？"
       ],
       [
         "receipt",
         "/rɪˈsiːt/",
         "收据",
-        "Please keep your receipt."
+        "Please keep your receipt.",
+        "请收好您的收据。"
       ],
       [
         "accessory",
         "/əkˈsesəri/",
         "配件",
-        "The phone comes with several accessories."
+        "The phone comes with several accessories.",
+        "手机附带几样配件。"
       ]
     ]
   },
@@ -559,19 +592,22 @@ window.dialogueCards = [
         "choose between",
         "/tʃuːz bɪˈtwiːn/",
         "在两者之间选择",
-        "I need to choose between two plans."
+        "I need to choose between two plans.",
+        "我需要在两个方案中选一个。"
       ],
       [
         "battery life",
         "/ˈbætəri laɪf/",
         "电池续航",
-        "This laptop has great battery life."
+        "This laptop has great battery life.",
+        "这台笔记本电脑续航很好。"
       ],
       [
         "storage",
         "/ˈstɔːrɪdʒ/",
         "存储空间",
-        "I need more storage for photos."
+        "I need more storage for photos.",
+        "我需要更多照片存储空间。"
       ]
     ]
   },
@@ -607,19 +643,22 @@ window.dialogueCards = [
         "assignment",
         "/əˈsaɪnmənt/",
         "作业；任务",
-        "The assignment is due on Friday."
+        "The assignment is due on Friday.",
+        "作业周五截止。"
       ],
       [
         "at least",
         "/æt liːst/",
         "至少",
-        "Write at least three pages."
+        "Write at least three pages.",
+        "至少写三页。"
       ],
       [
         "source",
         "/sɔːrs/",
         "资料来源",
-        "Please include two reliable sources."
+        "Please include two reliable sources.",
+        "请引用两个可靠来源。"
       ]
     ]
   },
@@ -655,19 +694,22 @@ window.dialogueCards = [
         "divide",
         "/dɪˈvaɪd/",
         "分配；分开",
-        "Let's divide the work fairly."
+        "Let's divide the work fairly.",
+        "咱们公平分工吧。"
       ],
       [
         "be in charge of",
         "/bi ɪn tʃɑːrdʒ əv/",
         "负责",
-        "She is in charge of the introduction."
+        "She is in charge of the introduction.",
+        "她负责开场介绍。"
       ],
       [
         "summary",
         "/ˈsʌməri/",
         "总结",
-        "The final summary should be short."
+        "The final summary should be short.",
+        "最终总结要简短。"
       ]
     ]
   },
@@ -703,19 +745,22 @@ window.dialogueCards = [
         "renew",
         "/rɪˈnuː/",
         "续借；更新",
-        "Can I renew this book online?"
+        "Can I renew this book online?",
+        "这本书能在线续借吗？"
       ],
       [
         "account",
         "/əˈkaʊnt/",
         "账户",
-        "Please log in to your library account."
+        "Please log in to your library account.",
+        "请登录您的图书馆账户。"
       ],
       [
         "due date",
         "/duː deɪt/",
         "截止日期；到期日",
-        "The due date is next Friday."
+        "The due date is next Friday.",
+        "截止日期是下周五。"
       ]
     ]
   },
@@ -751,19 +796,22 @@ window.dialogueCards = [
         "meet",
         "/miːt/",
         "见面；认识",
-        "Nice to meet you."
+        "Nice to meet you.",
+        "很高兴认识你。"
       ],
       [
         "a friend of",
         "/ə frend əv/",
         "某人的朋友",
-        "She is a friend of my sister's."
+        "She is a friend of my sister's.",
+        "她是我姐姐的朋友。"
       ],
       [
         "used to",
         "/juːst tuː/",
         "过去常常",
-        "We used to work together."
+        "We used to work together.",
+        "我们以前是同事。"
       ]
     ]
   },
@@ -799,19 +847,22 @@ window.dialogueCards = [
         "invite",
         "/ɪnˈvaɪt/",
         "邀请",
-        "Thanks for inviting me."
+        "Thanks for inviting me.",
+        "谢谢你的邀请。"
       ],
       [
         "have plans",
         "/hæv plænz/",
         "有安排",
-        "I have plans this weekend."
+        "I have plans this weekend.",
+        "这周末有安排了。"
       ],
       [
         "next time",
         "/nekst taɪm/",
         "下次",
-        "Maybe we can meet next time."
+        "Maybe we can meet next time.",
+        "下次有机会再见面吧。"
       ]
     ]
   },
@@ -847,19 +898,22 @@ window.dialogueCards = [
         "free",
         "/friː/",
         "有空的",
-        "Are you free this evening?"
+        "Are you free this evening?",
+        "今晚有空吗？"
       ],
       [
         "have in mind",
         "/hæv ɪn maɪnd/",
         "心里有什么想法",
-        "What place do you have in mind?"
+        "What place do you have in mind?",
+        "你心里有想好什么地方吗？"
       ],
       [
         "grab coffee",
         "/ɡræb ˈkɔːfi/",
         "喝杯咖啡",
-        "Let's grab coffee after work."
+        "Let's grab coffee after work.",
+        "下班后一起喝杯咖啡。"
       ]
     ]
   },
@@ -895,19 +949,22 @@ window.dialogueCards = [
         "sore throat",
         "/sɔːr θroʊt/",
         "喉咙痛",
-        "A sore throat can make speaking difficult."
+        "A sore throat can make speaking difficult.",
+        "喉咙痛会影响说话。"
       ],
       [
         "swallow",
         "/ˈswɑːloʊ/",
         "吞咽",
-        "It hurts when I swallow."
+        "It hurts when I swallow.",
+        "我吞咽的时候疼。"
       ],
       [
         "take a look",
         "/teɪk ə lʊk/",
         "看一下",
-        "Let me take a look at your throat."
+        "Let me take a look at your throat.",
+        "让我看看你的喉咙。"
       ]
     ]
   },
@@ -943,19 +1000,22 @@ window.dialogueCards = [
         "runny nose",
         "/ˈrʌni noʊz/",
         "流鼻涕",
-        "I have a runny nose today."
+        "I have a runny nose today.",
+        "今天流鼻涕。"
       ],
       [
         "allergic",
         "/əˈlɜːrdʒɪk/",
         "过敏的",
-        "I am allergic to penicillin."
+        "I am allergic to penicillin.",
+        "我对青霉素过敏。"
       ],
       [
         "tablet",
         "/ˈtæblət/",
         "药片",
-        "Take one tablet with water."
+        "Take one tablet with water.",
+        "每次一片，用水送服。"
       ]
     ]
   },
@@ -991,19 +1051,22 @@ window.dialogueCards = [
         "strength",
         "/streŋθ/",
         "力量",
-        "This exercise helps build strength."
+        "This exercise helps build strength.",
+        "这个练习有助于增强力量。"
       ],
       [
         "knee pain",
         "/niː peɪn/",
         "膝盖疼痛",
-        "I have knee pain after running."
+        "I have knee pain after running.",
+        "我跑完膝盖疼。"
       ],
       [
         "high-impact",
         "/haɪ ˈɪmpækt/",
         "高冲击的",
-        "Avoid high-impact exercises if your knee hurts."
+        "Avoid high-impact exercises if your knee hurts.",
+        "膝盖疼的话避免高强度运动。"
       ]
     ]
   },
@@ -1039,19 +1102,22 @@ window.dialogueCards = [
         "meeting",
         "/ˈmiːtɪŋ/",
         "会议",
-        "He is in a meeting now."
+        "He is in a meeting now.",
+        "他现在在开会。"
       ],
       [
         "take a message",
         "/teɪk ə ˈmesɪdʒ/",
         "留言",
-        "May I take a message?"
+        "May I take a message?",
+        "需要我帮您留言吗？"
       ],
       [
         "appointment",
         "/əˈpɔɪntmənt/",
         "预约",
-        "I have an appointment tomorrow."
+        "I have an appointment tomorrow.",
+        "明天有个预约。"
       ]
     ]
   },
@@ -1087,19 +1153,22 @@ window.dialogueCards = [
         "bother",
         "/ˈbɑːðər/",
         "打扰",
-        "Sorry to bother you."
+        "Sorry to bother you.",
+        "抱歉打扰了。"
       ],
       [
         "borrow",
         "/ˈbɑːroʊ/",
         "借入",
-        "Can I borrow your charger?"
+        "Can I borrow your charger?",
+        "能借一下你的充电器吗？"
       ],
       [
         "bring back",
         "/brɪŋ bæk/",
         "带回；归还",
-        "I will bring it back soon."
+        "I will bring it back soon.",
+        "我很快还回来。"
       ]
     ]
   },
@@ -1135,19 +1204,22 @@ window.dialogueCards = [
         "washing machine",
         "/ˈwɑːʃɪŋ məˈʃiːn/",
         "洗衣机",
-        "The washing machine stopped working."
+        "The washing machine stopped working.",
+        "洗衣机坏了。"
       ],
       [
         "available",
         "/əˈveɪləbl/",
         "有空的；可用的",
-        "Are you available tomorrow afternoon?"
+        "Are you available tomorrow afternoon?",
+        "明天下午有空吗？"
       ],
       [
         "technician",
         "/tekˈnɪʃn/",
         "技术人员；维修人员",
-        "The technician will arrive at three."
+        "The technician will arrive at three.",
+        "技术员三点到。"
       ]
     ]
   },
@@ -1183,19 +1255,22 @@ window.dialogueCards = [
         "delayed",
         "/dɪˈleɪd/",
         "延误的；晚点的",
-        "The train is delayed by fifteen minutes."
+        "The train is delayed by fifteen minutes.",
+        "火车晚点十五分钟。"
       ],
       [
         "connection",
         "/kəˈnekʃn/",
         "换乘；衔接班次",
-        "I have a tight connection in Chicago."
+        "I have a tight connection in Chicago.",
+        "在芝加哥转机时间很紧。"
       ],
       [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ]
     ]
   },
@@ -1231,19 +1306,22 @@ window.dialogueCards = [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ],
       [
         "on track",
         "/ɑːn træk/",
         "按计划进行",
-        "The project is still on track."
+        "The project is still on track.",
+        "项目仍在按计划推进。"
       ],
       [
         "revised",
         "/rɪˈvaɪzd/",
         "修改后的",
-        "Please send the revised version."
+        "Please send the revised version.",
+        "请把修订版发过来。"
       ]
     ]
   },
@@ -1279,19 +1357,22 @@ window.dialogueCards = [
         "allergic",
         "/əˈlɜːrdʒɪk/",
         "过敏的",
-        "I am allergic to peanuts."
+        "I am allergic to peanuts.",
+        "我对花生过敏。"
       ],
       [
         "contain",
         "/kənˈteɪn/",
         "含有",
-        "Does this sauce contain nuts?"
+        "Does this sauce contain nuts?",
+        "这个酱汁含坚果吗？"
       ],
       [
         "instead",
         "/ɪnˈsted/",
         "代替；反而",
-        "I recommend the chicken instead."
+        "I recommend the chicken instead.",
+        "我建议换成鸡肉。"
       ]
     ]
   },
@@ -1327,19 +1408,22 @@ window.dialogueCards = [
         "status",
         "/ˈsteɪtəs/",
         "状态",
-        "What is the status of my order?"
+        "What is the status of my order?",
+        "我的订单状态如何？"
       ],
       [
         "tracking",
         "/ˈtrækɪŋ/",
         "物流追踪",
-        "The tracking has not updated."
+        "The tracking has not updated.",
+        "物流信息一直没有更新。"
       ],
       [
         "courier",
         "/ˈkʊriər/",
         "快递公司；快递员",
-        "The courier will deliver it tomorrow."
+        "The courier will deliver it tomorrow.",
+        "快递员明天送达。"
       ]
     ]
   },
@@ -1375,19 +1459,22 @@ window.dialogueCards = [
         "midterm",
         "/ˈmɪdtɜːrm/",
         "期中考试",
-        "The midterm is next week."
+        "The midterm is next week.",
+        "期中考试在下周。"
       ],
       [
         "cover",
         "/ˈkʌvər/",
         "涵盖；涉及",
-        "The exam will cover five chapters."
+        "The exam will cover five chapters.",
+        "考试范围包括五个章节。"
       ],
       [
         "focus on",
         "/ˈfoʊkəs ɑːn/",
         "专注于；重点看",
-        "Focus on the lecture slides."
+        "Focus on the lecture slides.",
+        "重点看讲义。"
       ]
     ]
   },
@@ -1423,19 +1510,22 @@ window.dialogueCards = [
         "How have you been?",
         "/haʊ hæv juː bɪn/",
         "你最近怎么样？",
-        "How have you been since graduation?"
+        "How have you been since graduation?",
+        "毕业后过得怎么样？"
       ],
       [
         "catch up",
         "/kætʃ ʌp/",
         "叙旧；补聊近况",
-        "Let us catch up over coffee."
+        "Let us catch up over coffee.",
+        "咱们喝杯咖啡叙叙旧吧。"
       ],
       [
         "properly",
         "/ˈprɑːpərli/",
         "认真地；好好地",
-        "We should talk properly sometime."
+        "We should talk properly sometime.",
+        "我们应该找时间好好聊聊。"
       ]
     ]
   },
@@ -1471,19 +1561,22 @@ window.dialogueCards = [
         "ankle",
         "/ˈæŋkl/",
         "脚踝",
-        "My ankle hurts when I walk."
+        "My ankle hurts when I walk.",
+        "我走路时脚踝疼。"
       ],
       [
         "twist",
         "/twɪst/",
         "扭伤；扭动",
-        "I twisted my ankle yesterday."
+        "I twisted my ankle yesterday.",
+        "昨天扭伤了脚踝。"
       ],
       [
         "ice",
         "/aɪs/",
         "冰敷",
-        "Ice the injury for ten minutes."
+        "Ice the injury for ten minutes.",
+        "受伤部位冰敷十分钟。"
       ]
     ]
   },
@@ -1519,19 +1612,22 @@ window.dialogueCards = [
         "dry-clean",
         "/ˌdraɪ ˈkliːn/",
         "干洗",
-        "I need to dry-clean this coat."
+        "I need to dry-clean this coat.",
+        "这件外套需要干洗。"
       ],
       [
         "stain",
         "/steɪn/",
         "污渍",
-        "There is a stain on my shirt."
+        "There is a stain on my shirt.",
+        "我的衬衫上有个污渍。"
       ],
       [
         "sleeve",
         "/sliːv/",
         "袖子",
-        "The left sleeve is dirty."
+        "The left sleeve is dirty.",
+        "左边袖子脏了。"
       ]
     ]
   },
@@ -1567,19 +1663,22 @@ window.dialogueCards = [
         "push back",
         "/pʊʃ bæk/",
         "推迟；延后",
-        "Our flight was pushed back to 8 p.m."
+        "Our flight was pushed back to 8 p.m.",
+        "我们的航班推迟到晚上八点了。"
       ],
       [
         "extend",
         "/ɪkˈstend/",
         "延长",
-        "We can extend your room until 2 p.m."
+        "We can extend your room until 2 p.m.",
+        "我们可以把你的房间延到下午两点。"
       ],
       [
         "store",
         "/stɔːr/",
         "寄存；储存",
-        "The front desk can store your luggage."
+        "The front desk can store your luggage.",
+        "前台可以寄存行李。"
       ]
     ]
   },
@@ -1615,19 +1714,22 @@ window.dialogueCards = [
         "runny nose",
         "/ˈrʌni noʊz/",
         "流鼻涕",
-        "I need something for a runny nose."
+        "I need something for a runny nose.",
+        "我需要治流鼻涕的药。"
       ],
       [
         "non-drowsy",
         "/nɑːn ˈdraʊzi/",
         "不嗜睡的",
-        "This is a non-drowsy medicine."
+        "This is a non-drowsy medicine.",
+        "这是不易引起嗜睡的药。"
       ],
       [
         "avoid",
         "/əˈvɔɪd/",
         "避免",
-        "Avoid mixing it with alcohol."
+        "Avoid mixing it with alcohol.",
+        "不要和酒一起服用。"
       ]
     ]
   },
@@ -1663,19 +1765,22 @@ window.dialogueCards = [
         "rushed",
         "/rʌʃt/",
         "仓促的",
-        "The timeline feels rushed."
+        "The timeline feels rushed.",
+        "这个时间安排感觉太赶了。"
       ],
       [
         "concern",
         "/kənˈsɜːrn/",
         "担忧；关切",
-        "My main concern is the payment page."
+        "My main concern is the payment page.",
+        "我主要担心的是支付页面。"
       ],
       [
         "announce",
         "/əˈnaʊns/",
         "宣布；发布",
-        "We will announce the launch on Monday."
+        "We will announce the launch on Monday.",
+        "我们将在周一宣布发布消息。"
       ]
     ]
   },
@@ -1711,19 +1816,22 @@ window.dialogueCards = [
         "flag",
         "/flæɡ/",
         "提醒；指出问题",
-        "I want to flag a timing issue."
+        "I want to flag a timing issue.",
+        "我想提一个时间安排的问题。"
       ],
       [
         "polish",
         "/ˈpɑːlɪʃ/",
         "润色；打磨",
-        "The charts need more time to polish."
+        "The charts need more time to polish.",
+        "图表还需要花时间打磨。"
       ],
       [
         "follow-up item",
         "/ˈfɑːloʊ ʌp ˈaɪtəm/",
         "后续事项",
-        "Mark it as a follow-up item."
+        "Mark it as a follow-up item.",
+        "标记为待跟进事项。"
       ]
     ]
   },
@@ -1759,19 +1867,22 @@ window.dialogueCards = [
         "mix-up",
         "/ˈmɪks ʌp/",
         "混淆；弄错",
-        "There may be a mix-up with our order."
+        "There may be a mix-up with our order.",
+        "我们的订单可能搞混了。"
       ],
       [
         "replace",
         "/rɪˈpleɪs/",
         "更换",
-        "I will replace it right away."
+        "I will replace it right away.",
+        "我马上换一个。"
       ],
       [
         "keep warm",
         "/kiːp wɔːrm/",
         "保温",
-        "We can keep your soup warm."
+        "We can keep your soup warm.",
+        "我们可以帮你把汤保温。"
       ]
     ]
   },
@@ -1807,19 +1918,22 @@ window.dialogueCards = [
         "split the bill",
         "/splɪt ðə bɪl/",
         "分摊账单",
-        "Let's split the bill evenly."
+        "Let's split the bill evenly.",
+        "咱们AA制平摊吧。"
       ],
       [
         "separately",
         "/ˈseprətli/",
         "分别地；分开地",
-        "We would like to pay separately."
+        "We would like to pay separately.",
+        "我们想分开付。"
       ],
       [
         "total",
         "/ˈtoʊtl/",
         "总额",
-        "Your total comes to twenty-six dollars."
+        "Your total comes to twenty-six dollars.",
+        "一共是二十六美元。"
       ]
     ]
   },
@@ -1855,19 +1969,22 @@ window.dialogueCards = [
         "delivered",
         "/dɪˈlɪvərd/",
         "已送达",
-        "The order says it was delivered."
+        "The order says it was delivered.",
+        "订单显示已送达。"
       ],
       [
         "mailroom",
         "/ˈmeɪlruːm/",
         "收发室",
-        "I checked the mailroom already."
+        "I checked the mailroom already.",
+        "我已经查过收发室了。"
       ],
       [
         "investigation",
         "/ɪnˌvestɪˈɡeɪʃn/",
         "调查",
-        "We will open an investigation."
+        "We will open an investigation.",
+        "我们将展开调查。"
       ]
     ]
   },
@@ -1903,19 +2020,22 @@ window.dialogueCards = [
         "return policy",
         "/rɪˈtɜːrn ˈpɑːləsi/",
         "退货政策",
-        "Could you explain the return policy?"
+        "Could you explain the return policy?",
+        "能解释一下退货政策吗？"
       ],
       [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware problems."
+        "The warranty covers hardware problems.",
+        "保修涵盖硬件故障。"
       ],
       [
         "accidental",
         "/ˌæksɪˈdentl/",
         "意外的",
-        "It does not cover accidental drops."
+        "It does not cover accidental drops.",
+        "意外摔落不在保障范围内。"
       ]
     ]
   },
@@ -1951,19 +2071,22 @@ window.dialogueCards = [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长",
-        "Could I ask for an extension?"
+        "Could I ask for an extension?",
+        "我能申请延期吗？"
       ],
       [
         "revision",
         "/rɪˈvɪʒn/",
         "修改；修订",
-        "I need time for the final revision."
+        "I need time for the final revision.",
+        "我需要时间做最终修订。"
       ],
       [
         "submit",
         "/səbˈmɪt/",
         "提交",
-        "Submit the final version tomorrow."
+        "Submit the final version tomorrow.",
+        "明天提交最终版本。"
       ]
     ]
   },
@@ -1999,19 +2122,22 @@ window.dialogueCards = [
         "take over",
         "/teɪk ˈoʊvər/",
         "接手；接管",
-        "I can take over the data slides."
+        "I can take over the data slides.",
+        "我可以接手数据部分的幻灯片。"
       ],
       [
         "conclusion",
         "/kənˈkluːʒn/",
         "结论",
-        "You can handle the conclusion."
+        "You can handle the conclusion.",
+        "你可以负责收尾部分。"
       ],
       [
         "rehearse",
         "/rɪˈhɜːrs/",
         "排练；演练",
-        "We need to rehearse once."
+        "We need to rehearse once.",
+        "我们需要排练一次。"
       ]
     ]
   },
@@ -2047,19 +2173,22 @@ window.dialogueCards = [
         "used to",
         "/juːst tuː/",
         "过去常常；曾经",
-        "We used to take a class together."
+        "We used to take a class together.",
+        "我们以前一起上过课。"
       ],
       [
         "be into",
         "/bi ˈɪntuː/",
         "喜欢；对……感兴趣",
-        "Are you into photography?"
+        "Are you into photography?",
+        "你喜欢摄影吗？"
       ],
       [
         "mostly",
         "/ˈmoʊstli/",
         "主要地",
-        "I mostly take pictures when I travel."
+        "I mostly take pictures when I travel.",
+        "我旅行时主要拍照。"
       ]
     ]
   },
@@ -2095,19 +2224,22 @@ window.dialogueCards = [
         "family plans",
         "/ˈfæməli plænz/",
         "家庭安排",
-        "I already have family plans."
+        "I already have family plans.",
+        "我已经有家庭安排了。"
       ],
       [
         "definitely",
         "/ˈdefɪnətli/",
         "当然；一定",
-        "Definitely, let's do it next week."
+        "Definitely, let's do it next week.",
+        "当然，下周办。"
       ],
       [
         "work",
         "/wɜːrk/",
         "可行；合适",
-        "That works for me."
+        "That works for me.",
+        "我没问题。"
       ]
     ]
   },
@@ -2143,19 +2275,22 @@ window.dialogueCards = [
         "upset stomach",
         "/ʌpˈset ˈstʌmək/",
         "胃不舒服",
-        "I have an upset stomach."
+        "I have an upset stomach.",
+        "我胃不舒服。"
       ],
       [
         "nauseous",
         "/ˈnɔːʃəs/",
         "恶心的",
-        "I still feel nauseous."
+        "I still feel nauseous.",
+        "我还是觉得恶心。"
       ],
       [
         "get worse",
         "/ɡet wɜːrs/",
         "变严重",
-        "Come back if the pain gets worse."
+        "Come back if the pain gets worse.",
+        "疼痛加重的话再过来。"
       ]
     ]
   },
@@ -2191,19 +2326,22 @@ window.dialogueCards = [
         "downhill",
         "/ˌdaʊnˈhɪl/",
         "下坡地；下坡的",
-        "My knee hurts when I run downhill."
+        "My knee hurts when I run downhill.",
+        "我跑下坡时膝盖疼。"
       ],
       [
         "train for",
         "/treɪn fɔːr/",
         "为……训练",
-        "I am training for a 10K race."
+        "I am training for a 10K race.",
+        "我在备战10公里比赛。"
       ],
       [
         "reduce",
         "/rɪˈduːs/",
         "减少",
-        "Reduce downhill running for now."
+        "Reduce downhill running for now.",
+        "暂时减少下坡跑步。"
       ]
     ]
   },
@@ -2239,19 +2377,22 @@ window.dialogueCards = [
         "leak",
         "/liːk/",
         "漏水；泄漏",
-        "My kitchen sink is leaking."
+        "My kitchen sink is leaking.",
+        "我家厨房水槽漏水。"
       ],
       [
         "technician",
         "/tekˈnɪʃn/",
         "维修人员；技术员",
-        "A technician will arrive tomorrow."
+        "A technician will arrive tomorrow.",
+        "技师明天会来。"
       ],
       [
         "valve",
         "/vælv/",
         "阀门",
-        "Turn off the valve under the sink."
+        "Turn off the valve under the sink.",
+        "关上水槽下面的阀门。"
       ]
     ]
   },
@@ -2287,19 +2428,22 @@ window.dialogueCards = [
         "wrong building",
         "/rɔːŋ ˈbɪldɪŋ/",
         "错误楼栋",
-        "The package went to the wrong building."
+        "The package went to the wrong building.",
+        "包裹送错楼了。"
       ],
       [
         "confirm",
         "/kənˈfɜːrm/",
         "确认",
-        "Can you confirm your address?"
+        "Can you confirm your address?",
+        "能确认一下你的地址吗？"
       ],
       [
         "catch",
         "/kætʃ/",
         "发现；注意到",
-        "Thanks for catching that."
+        "Thanks for catching that.",
+        "多谢你发现了这个问题。"
       ]
     ]
   },
@@ -2335,19 +2479,22 @@ window.dialogueCards = [
         "delay",
         "/dɪˈleɪ/",
         "延误；推迟",
-        "The flight delay changed our plan."
+        "The flight delay changed our plan.",
+        "航班延误打乱了我们的计划。"
       ],
       [
         "transfer",
         "/trænsˈfɜːr/",
         "转乘；转运",
-        "Your luggage will transfer automatically."
+        "Your luggage will transfer automatically.",
+        "你的行李会自动中转。"
       ],
       [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ]
     ]
   },
@@ -2383,19 +2530,22 @@ window.dialogueCards = [
         "transfer",
         "/trænsˈfɜːr/",
         "转乘；转运",
-        "Your luggage will transfer automatically."
+        "Your luggage will transfer automatically.",
+        "你的行李会自动中转。"
       ],
       [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ],
       [
         "lockbox",
         "/ˈlɑːkbɑːks/",
         "钥匙盒",
-        "The key is inside the lockbox."
+        "The key is inside the lockbox.",
+        "钥匙在密码锁盒里。"
       ]
     ]
   },
@@ -2431,19 +2581,22 @@ window.dialogueCards = [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ],
       [
         "lockbox",
         "/ˈlɑːkbɑːks/",
         "钥匙盒",
-        "The key is inside the lockbox."
+        "The key is inside the lockbox.",
+        "钥匙在密码锁盒里。"
       ],
       [
         "last entry",
         "/læst ˈentri/",
         "最后入场",
-        "Last entry is at five thirty."
+        "Last entry is at five thirty.",
+        "最晚入场时间是五点半。"
       ]
     ]
   },
@@ -2479,19 +2632,22 @@ window.dialogueCards = [
         "lockbox",
         "/ˈlɑːkbɑːks/",
         "钥匙盒",
-        "The key is inside the lockbox."
+        "The key is inside the lockbox.",
+        "钥匙在密码锁盒里。"
       ],
       [
         "last entry",
         "/læst ˈentri/",
         "最后入场",
-        "Last entry is at five thirty."
+        "Last entry is at five thirty.",
+        "最晚入场时间是五点半。"
       ],
       [
         "delay",
         "/dɪˈleɪ/",
         "延误；推迟",
-        "The flight delay changed our plan."
+        "The flight delay changed our plan.",
+        "航班延误打乱了我们的计划。"
       ]
     ]
   },
@@ -2527,19 +2683,22 @@ window.dialogueCards = [
         "last entry",
         "/læst ˈentri/",
         "最后入场",
-        "Last entry is at five thirty."
+        "Last entry is at five thirty.",
+        "最晚入场时间是五点半。"
       ],
       [
         "delay",
         "/dɪˈleɪ/",
         "延误；推迟",
-        "The flight delay changed our plan."
+        "The flight delay changed our plan.",
+        "航班延误打乱了我们的计划。"
       ],
       [
         "transfer",
         "/trænsˈfɜːr/",
         "转乘；转运",
-        "Your luggage will transfer automatically."
+        "Your luggage will transfer automatically.",
+        "你的行李会自动中转。"
       ]
     ]
   },
@@ -2575,19 +2734,22 @@ window.dialogueCards = [
         "delay",
         "/dɪˈleɪ/",
         "延误；推迟",
-        "The flight delay changed our plan."
+        "The flight delay changed our plan.",
+        "航班延误打乱了我们的计划。"
       ],
       [
         "transfer",
         "/trænsˈfɜːr/",
         "转乘；转运",
-        "Your luggage will transfer automatically."
+        "Your luggage will transfer automatically.",
+        "你的行李会自动中转。"
       ],
       [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ]
     ]
   },
@@ -2623,19 +2785,22 @@ window.dialogueCards = [
         "transfer",
         "/trænsˈfɜːr/",
         "转乘；转运",
-        "Your luggage will transfer automatically."
+        "Your luggage will transfer automatically.",
+        "你的行李会自动中转。"
       ],
       [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ],
       [
         "lockbox",
         "/ˈlɑːkbɑːks/",
         "钥匙盒",
-        "The key is inside the lockbox."
+        "The key is inside the lockbox.",
+        "钥匙在密码锁盒里。"
       ]
     ]
   },
@@ -2671,19 +2836,22 @@ window.dialogueCards = [
         "valid",
         "/ˈvælɪd/",
         "有效的",
-        "Your ticket is valid for the next train."
+        "Your ticket is valid for the next train.",
+        "你的票适用于下一班火车。"
       ],
       [
         "lockbox",
         "/ˈlɑːkbɑːks/",
         "钥匙盒",
-        "The key is inside the lockbox."
+        "The key is inside the lockbox.",
+        "钥匙在密码锁盒里。"
       ],
       [
         "last entry",
         "/læst ˈentri/",
         "最后入场",
-        "Last entry is at five thirty."
+        "Last entry is at five thirty.",
+        "最晚入场时间是五点半。"
       ]
     ]
   },
@@ -2719,19 +2887,22 @@ window.dialogueCards = [
         "clarify",
         "/ˈklærəfaɪ/",
         "澄清；说明",
-        "Could you clarify this point?"
+        "Could you clarify this point?",
+        "能澄清一下这一点吗？"
       ],
       [
         "stakeholder",
         "/ˈsteɪkhoʊldər/",
         "相关方；利益相关者",
-        "We need to update the stakeholders."
+        "We need to update the stakeholders.",
+        "我们需要向相关方通报进展。"
       ],
       [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ]
     ]
   },
@@ -2767,19 +2938,22 @@ window.dialogueCards = [
         "stakeholder",
         "/ˈsteɪkhoʊldər/",
         "相关方；利益相关者",
-        "We need to update the stakeholders."
+        "We need to update the stakeholders.",
+        "我们需要向相关方通报进展。"
       ],
       [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ],
       [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍事项",
-        "The missing data is our main blocker."
+        "The missing data is our main blocker.",
+        "缺失的数据是我们主要的阻碍。"
       ]
     ]
   },
@@ -2815,19 +2989,22 @@ window.dialogueCards = [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ],
       [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍事项",
-        "The missing data is our main blocker."
+        "The missing data is our main blocker.",
+        "缺失的数据是我们主要的阻碍。"
       ],
       [
         "handover",
         "/ˈhændoʊvər/",
         "交接",
-        "Please prepare a handover note."
+        "Please prepare a handover note.",
+        "请准备一份交接说明。"
       ]
     ]
   },
@@ -2863,19 +3040,22 @@ window.dialogueCards = [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍事项",
-        "The missing data is our main blocker."
+        "The missing data is our main blocker.",
+        "缺失的数据是我们主要的阻碍。"
       ],
       [
         "handover",
         "/ˈhændoʊvər/",
         "交接",
-        "Please prepare a handover note."
+        "Please prepare a handover note.",
+        "请准备一份交接说明。"
       ],
       [
         "clarify",
         "/ˈklærəfaɪ/",
         "澄清；说明",
-        "Could you clarify this point?"
+        "Could you clarify this point?",
+        "能澄清一下这一点吗？"
       ]
     ]
   },
@@ -2911,19 +3091,22 @@ window.dialogueCards = [
         "handover",
         "/ˈhændoʊvər/",
         "交接",
-        "Please prepare a handover note."
+        "Please prepare a handover note.",
+        "请准备一份交接说明。"
       ],
       [
         "clarify",
         "/ˈklærəfaɪ/",
         "澄清；说明",
-        "Could you clarify this point?"
+        "Could you clarify this point?",
+        "能澄清一下这一点吗？"
       ],
       [
         "stakeholder",
         "/ˈsteɪkhoʊldər/",
         "相关方；利益相关者",
-        "We need to update the stakeholders."
+        "We need to update the stakeholders.",
+        "我们需要向相关方通报进展。"
       ]
     ]
   },
@@ -2959,19 +3142,22 @@ window.dialogueCards = [
         "clarify",
         "/ˈklærəfaɪ/",
         "澄清；说明",
-        "Could you clarify this point?"
+        "Could you clarify this point?",
+        "能澄清一下这一点吗？"
       ],
       [
         "stakeholder",
         "/ˈsteɪkhoʊldər/",
         "相关方；利益相关者",
-        "We need to update the stakeholders."
+        "We need to update the stakeholders.",
+        "我们需要向相关方通报进展。"
       ],
       [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ]
     ]
   },
@@ -3007,19 +3193,22 @@ window.dialogueCards = [
         "stakeholder",
         "/ˈsteɪkhoʊldər/",
         "相关方；利益相关者",
-        "We need to update the stakeholders."
+        "We need to update the stakeholders.",
+        "我们需要向相关方通报进展。"
       ],
       [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ],
       [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍事项",
-        "The missing data is our main blocker."
+        "The missing data is our main blocker.",
+        "缺失的数据是我们主要的阻碍。"
       ]
     ]
   },
@@ -3055,19 +3244,22 @@ window.dialogueCards = [
         "timeline",
         "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "The timeline has changed slightly."
+        "The timeline has changed slightly.",
+        "时间安排有了一点调整。"
       ],
       [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍事项",
-        "The missing data is our main blocker."
+        "The missing data is our main blocker.",
+        "缺失的数据是我们主要的阻碍。"
       ],
       [
         "handover",
         "/ˈhændoʊvər/",
         "交接",
-        "Please prepare a handover note."
+        "Please prepare a handover note.",
+        "请准备一份交接说明。"
       ]
     ]
   },
@@ -3103,19 +3295,22 @@ window.dialogueCards = [
         "portion",
         "/ˈpɔːrʃn/",
         "份量",
-        "The portion is enough for two."
+        "The portion is enough for two.",
+        "这个分量够两个人吃。"
       ],
       [
         "substitute",
         "/ˈsʌbstɪtuːt/",
         "替换；替代品",
-        "Can I substitute rice for salad?"
+        "Can I substitute rice for salad?",
+        "能把米饭换成沙拉吗？"
       ],
       [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I would like to confirm my reservation."
+        "I would like to confirm my reservation.",
+        "我想确认一下预订。"
       ]
     ]
   },
@@ -3151,19 +3346,22 @@ window.dialogueCards = [
         "substitute",
         "/ˈsʌbstɪtuːt/",
         "替换；替代品",
-        "Can I substitute rice for salad?"
+        "Can I substitute rice for salad?",
+        "能把米饭换成沙拉吗？"
       ],
       [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I would like to confirm my reservation."
+        "I would like to confirm my reservation.",
+        "我想确认一下预订。"
       ],
       [
         "complimentary",
         "/ˌkɑːmplɪˈmentəri/",
         "免费的；赠送的",
-        "Dessert is complimentary tonight."
+        "Dessert is complimentary tonight.",
+        "今晚甜品免费。"
       ]
     ]
   },
@@ -3199,19 +3397,22 @@ window.dialogueCards = [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I would like to confirm my reservation."
+        "I would like to confirm my reservation.",
+        "我想确认一下预订。"
       ],
       [
         "complimentary",
         "/ˌkɑːmplɪˈmentəri/",
         "免费的；赠送的",
-        "Dessert is complimentary tonight."
+        "Dessert is complimentary tonight.",
+        "今晚甜品免费。"
       ],
       [
         "allergy",
         "/ˈælərdʒi/",
         "过敏",
-        "Please note my food allergy."
+        "Please note my food allergy.",
+        "请注意我的食物过敏情况。"
       ]
     ]
   },
@@ -3247,19 +3448,22 @@ window.dialogueCards = [
         "complimentary",
         "/ˌkɑːmplɪˈmentəri/",
         "免费的；赠送的",
-        "Dessert is complimentary tonight."
+        "Dessert is complimentary tonight.",
+        "今晚甜品免费。"
       ],
       [
         "allergy",
         "/ˈælərdʒi/",
         "过敏",
-        "Please note my food allergy."
+        "Please note my food allergy.",
+        "请注意我的食物过敏情况。"
       ],
       [
         "portion",
         "/ˈpɔːrʃn/",
         "份量",
-        "The portion is enough for two."
+        "The portion is enough for two.",
+        "这个分量够两个人吃。"
       ]
     ]
   },
@@ -3295,19 +3499,22 @@ window.dialogueCards = [
         "allergy",
         "/ˈælərdʒi/",
         "过敏",
-        "Please note my food allergy."
+        "Please note my food allergy.",
+        "请注意我的食物过敏情况。"
       ],
       [
         "portion",
         "/ˈpɔːrʃn/",
         "份量",
-        "The portion is enough for two."
+        "The portion is enough for two.",
+        "这个分量够两个人吃。"
       ],
       [
         "substitute",
         "/ˈsʌbstɪtuːt/",
         "替换；替代品",
-        "Can I substitute rice for salad?"
+        "Can I substitute rice for salad?",
+        "能把米饭换成沙拉吗？"
       ]
     ]
   },
@@ -3343,19 +3550,22 @@ window.dialogueCards = [
         "portion",
         "/ˈpɔːrʃn/",
         "份量",
-        "The portion is enough for two."
+        "The portion is enough for two.",
+        "这个分量够两个人吃。"
       ],
       [
         "substitute",
         "/ˈsʌbstɪtuːt/",
         "替换；替代品",
-        "Can I substitute rice for salad?"
+        "Can I substitute rice for salad?",
+        "能把米饭换成沙拉吗？"
       ],
       [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I would like to confirm my reservation."
+        "I would like to confirm my reservation.",
+        "我想确认一下预订。"
       ]
     ]
   },
@@ -3391,19 +3601,22 @@ window.dialogueCards = [
         "substitute",
         "/ˈsʌbstɪtuːt/",
         "替换；替代品",
-        "Can I substitute rice for salad?"
+        "Can I substitute rice for salad?",
+        "能把米饭换成沙拉吗？"
       ],
       [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I would like to confirm my reservation."
+        "I would like to confirm my reservation.",
+        "我想确认一下预订。"
       ],
       [
         "complimentary",
         "/ˌkɑːmplɪˈmentəri/",
         "免费的；赠送的",
-        "Dessert is complimentary tonight."
+        "Dessert is complimentary tonight.",
+        "今晚甜品免费。"
       ]
     ]
   },
@@ -3439,19 +3652,22 @@ window.dialogueCards = [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I would like to confirm my reservation."
+        "I would like to confirm my reservation.",
+        "我想确认一下预订。"
       ],
       [
         "complimentary",
         "/ˌkɑːmplɪˈmentəri/",
         "免费的；赠送的",
-        "Dessert is complimentary tonight."
+        "Dessert is complimentary tonight.",
+        "今晚甜品免费。"
       ],
       [
         "allergy",
         "/ˈælərdʒi/",
         "过敏",
-        "Please note my food allergy."
+        "Please note my food allergy.",
+        "请注意我的食物过敏情况。"
       ]
     ]
   },
@@ -3487,19 +3703,22 @@ window.dialogueCards = [
         "out of stock",
         "/aʊt əv stɑːk/",
         "缺货",
-        "This color is out of stock."
+        "This color is out of stock.",
+        "这个颜色没货了。"
       ],
       [
         "receipt",
         "/rɪˈsiːt/",
         "收据",
-        "Please keep your receipt."
+        "Please keep your receipt.",
+        "请收好您的收据。"
       ],
       [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware issues."
+        "The warranty covers hardware issues.",
+        "保修涵盖硬件问题。"
       ]
     ]
   },
@@ -3535,19 +3754,22 @@ window.dialogueCards = [
         "receipt",
         "/rɪˈsiːt/",
         "收据",
-        "Please keep your receipt."
+        "Please keep your receipt.",
+        "请收好您的收据。"
       ],
       [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware issues."
+        "The warranty covers hardware issues.",
+        "保修涵盖硬件问题。"
       ],
       [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "I would like to request a refund."
+        "I would like to request a refund.",
+        "我想申请退款。"
       ]
     ]
   },
@@ -3583,19 +3805,22 @@ window.dialogueCards = [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware issues."
+        "The warranty covers hardware issues.",
+        "保修涵盖硬件问题。"
       ],
       [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "I would like to request a refund."
+        "I would like to request a refund.",
+        "我想申请退款。"
       ],
       [
         "tracking",
         "/ˈtrækɪŋ/",
         "物流追踪",
-        "The tracking has not updated."
+        "The tracking has not updated.",
+        "物流信息一直没有更新。"
       ]
     ]
   },
@@ -3631,19 +3856,22 @@ window.dialogueCards = [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "I would like to request a refund."
+        "I would like to request a refund.",
+        "我想申请退款。"
       ],
       [
         "tracking",
         "/ˈtrækɪŋ/",
         "物流追踪",
-        "The tracking has not updated."
+        "The tracking has not updated.",
+        "物流信息一直没有更新。"
       ],
       [
         "out of stock",
         "/aʊt əv stɑːk/",
         "缺货",
-        "This color is out of stock."
+        "This color is out of stock.",
+        "这个颜色没货了。"
       ]
     ]
   },
@@ -3679,19 +3907,22 @@ window.dialogueCards = [
         "tracking",
         "/ˈtrækɪŋ/",
         "物流追踪",
-        "The tracking has not updated."
+        "The tracking has not updated.",
+        "物流信息一直没有更新。"
       ],
       [
         "out of stock",
         "/aʊt əv stɑːk/",
         "缺货",
-        "This color is out of stock."
+        "This color is out of stock.",
+        "这个颜色没货了。"
       ],
       [
         "receipt",
         "/rɪˈsiːt/",
         "收据",
-        "Please keep your receipt."
+        "Please keep your receipt.",
+        "请收好您的收据。"
       ]
     ]
   },
@@ -3727,19 +3958,22 @@ window.dialogueCards = [
         "out of stock",
         "/aʊt əv stɑːk/",
         "缺货",
-        "This color is out of stock."
+        "This color is out of stock.",
+        "这个颜色没货了。"
       ],
       [
         "receipt",
         "/rɪˈsiːt/",
         "收据",
-        "Please keep your receipt."
+        "Please keep your receipt.",
+        "请收好您的收据。"
       ],
       [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware issues."
+        "The warranty covers hardware issues.",
+        "保修涵盖硬件问题。"
       ]
     ]
   },
@@ -3775,19 +4009,22 @@ window.dialogueCards = [
         "receipt",
         "/rɪˈsiːt/",
         "收据",
-        "Please keep your receipt."
+        "Please keep your receipt.",
+        "请收好您的收据。"
       ],
       [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware issues."
+        "The warranty covers hardware issues.",
+        "保修涵盖硬件问题。"
       ],
       [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "I would like to request a refund."
+        "I would like to request a refund.",
+        "我想申请退款。"
       ]
     ]
   },
@@ -3823,19 +4060,22 @@ window.dialogueCards = [
         "warranty",
         "/ˈwɔːrənti/",
         "保修",
-        "The warranty covers hardware issues."
+        "The warranty covers hardware issues.",
+        "保修涵盖硬件问题。"
       ],
       [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "I would like to request a refund."
+        "I would like to request a refund.",
+        "我想申请退款。"
       ],
       [
         "tracking",
         "/ˈtrækɪŋ/",
         "物流追踪",
-        "The tracking has not updated."
+        "The tracking has not updated.",
+        "物流信息一直没有更新。"
       ]
     ]
   },
@@ -3871,19 +4111,22 @@ window.dialogueCards = [
         "rehearse",
         "/rɪˈhɜːrs/",
         "排练；演练",
-        "We should rehearse before class."
+        "We should rehearse before class.",
+        "我们应该课前排练一下。"
       ],
       [
         "source",
         "/sɔːrs/",
         "资料来源",
-        "Please include three reliable sources."
+        "Please include three reliable sources.",
+        "请引用三个可靠来源。"
       ],
       [
         "advisor",
         "/ədˈvaɪzər/",
         "导师；顾问",
-        "My advisor suggested a narrower topic."
+        "My advisor suggested a narrower topic.",
+        "导师建议我把选题范围缩小一些。"
       ]
     ]
   },
@@ -3919,19 +4162,22 @@ window.dialogueCards = [
         "source",
         "/sɔːrs/",
         "资料来源",
-        "Please include three reliable sources."
+        "Please include three reliable sources.",
+        "请引用三个可靠来源。"
       ],
       [
         "advisor",
         "/ədˈvaɪzər/",
         "导师；顾问",
-        "My advisor suggested a narrower topic."
+        "My advisor suggested a narrower topic.",
+        "导师建议我把选题范围缩小一些。"
       ],
       [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长",
-        "Could I ask for an extension?"
+        "Could I ask for an extension?",
+        "我能申请延期吗？"
       ]
     ]
   },
@@ -3967,19 +4213,22 @@ window.dialogueCards = [
         "advisor",
         "/ədˈvaɪzər/",
         "导师；顾问",
-        "My advisor suggested a narrower topic."
+        "My advisor suggested a narrower topic.",
+        "导师建议我把选题范围缩小一些。"
       ],
       [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长",
-        "Could I ask for an extension?"
+        "Could I ask for an extension?",
+        "我能申请延期吗？"
       ],
       [
         "rubric",
         "/ˈruːbrɪk/",
         "评分标准",
-        "The rubric explains how the paper is graded."
+        "The rubric explains how the paper is graded.",
+        "评分标准说明了论文的评分方式。"
       ]
     ]
   },
@@ -4015,19 +4264,22 @@ window.dialogueCards = [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长",
-        "Could I ask for an extension?"
+        "Could I ask for an extension?",
+        "我能申请延期吗？"
       ],
       [
         "rubric",
         "/ˈruːbrɪk/",
         "评分标准",
-        "The rubric explains how the paper is graded."
+        "The rubric explains how the paper is graded.",
+        "评分标准说明了论文的评分方式。"
       ],
       [
         "rehearse",
         "/rɪˈhɜːrs/",
         "排练；演练",
-        "We should rehearse before class."
+        "We should rehearse before class.",
+        "我们应该课前排练一下。"
       ]
     ]
   },
@@ -4063,19 +4315,22 @@ window.dialogueCards = [
         "rubric",
         "/ˈruːbrɪk/",
         "评分标准",
-        "The rubric explains how the paper is graded."
+        "The rubric explains how the paper is graded.",
+        "评分标准说明了论文的评分方式。"
       ],
       [
         "rehearse",
         "/rɪˈhɜːrs/",
         "排练；演练",
-        "We should rehearse before class."
+        "We should rehearse before class.",
+        "我们应该课前排练一下。"
       ],
       [
         "source",
         "/sɔːrs/",
         "资料来源",
-        "Please include three reliable sources."
+        "Please include three reliable sources.",
+        "请引用三个可靠来源。"
       ]
     ]
   },
@@ -4111,19 +4366,22 @@ window.dialogueCards = [
         "rehearse",
         "/rɪˈhɜːrs/",
         "排练；演练",
-        "We should rehearse before class."
+        "We should rehearse before class.",
+        "我们应该课前排练一下。"
       ],
       [
         "source",
         "/sɔːrs/",
         "资料来源",
-        "Please include three reliable sources."
+        "Please include three reliable sources.",
+        "请引用三个可靠来源。"
       ],
       [
         "advisor",
         "/ədˈvaɪzər/",
         "导师；顾问",
-        "My advisor suggested a narrower topic."
+        "My advisor suggested a narrower topic.",
+        "导师建议我把选题范围缩小一些。"
       ]
     ]
   },
@@ -4159,19 +4417,22 @@ window.dialogueCards = [
         "source",
         "/sɔːrs/",
         "资料来源",
-        "Please include three reliable sources."
+        "Please include three reliable sources.",
+        "请引用三个可靠来源。"
       ],
       [
         "advisor",
         "/ədˈvaɪzər/",
         "导师；顾问",
-        "My advisor suggested a narrower topic."
+        "My advisor suggested a narrower topic.",
+        "导师建议我把选题范围缩小一些。"
       ],
       [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长",
-        "Could I ask for an extension?"
+        "Could I ask for an extension?",
+        "我能申请延期吗？"
       ]
     ]
   },
@@ -4207,19 +4468,22 @@ window.dialogueCards = [
         "advisor",
         "/ədˈvaɪzər/",
         "导师；顾问",
-        "My advisor suggested a narrower topic."
+        "My advisor suggested a narrower topic.",
+        "导师建议我把选题范围缩小一些。"
       ],
       [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长",
-        "Could I ask for an extension?"
+        "Could I ask for an extension?",
+        "我能申请延期吗？"
       ],
       [
         "rubric",
         "/ˈruːbrɪk/",
         "评分标准",
-        "The rubric explains how the paper is graded."
+        "The rubric explains how the paper is graded.",
+        "评分标准说明了论文的评分方式。"
       ]
     ]
   },
@@ -4255,19 +4519,22 @@ window.dialogueCards = [
         "catch up",
         "/kætʃ ʌp/",
         "叙旧；聊近况",
-        "Let's catch up over coffee."
+        "Let's catch up over coffee.",
+        "喝杯咖啡聊聊近况吧。"
       ],
       [
         "make it",
         "/meɪk ɪt/",
         "能参加；赶到",
-        "I am sorry I cannot make it tonight."
+        "I am sorry I cannot make it tonight.",
+        "抱歉今晚来不了。"
       ],
       [
         "bring along",
         "/brɪŋ əˈlɔːŋ/",
         "带上；带来",
-        "Can I bring a friend along?"
+        "Can I bring a friend along?",
+        "我能带个朋友来吗？"
       ]
     ]
   },
@@ -4303,19 +4570,22 @@ window.dialogueCards = [
         "make it",
         "/meɪk ɪt/",
         "能参加；赶到",
-        "I am sorry I cannot make it tonight."
+        "I am sorry I cannot make it tonight.",
+        "抱歉今晚来不了。"
       ],
       [
         "bring along",
         "/brɪŋ əˈlɔːŋ/",
         "带上；带来",
-        "Can I bring a friend along?"
+        "Can I bring a friend along?",
+        "我能带个朋友来吗？"
       ],
       [
         "keep in touch",
         "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Let's keep in touch after the event."
+        "Let's keep in touch after the event.",
+        "活动结束后保持联系。"
       ]
     ]
   },
@@ -4351,19 +4621,22 @@ window.dialogueCards = [
         "bring along",
         "/brɪŋ əˈlɔːŋ/",
         "带上；带来",
-        "Can I bring a friend along?"
+        "Can I bring a friend along?",
+        "我能带个朋友来吗？"
       ],
       [
         "keep in touch",
         "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Let's keep in touch after the event."
+        "Let's keep in touch after the event.",
+        "活动结束后保持联系。"
       ],
       [
         "thoughtful",
         "/ˈθɔːtfl/",
         "体贴的；考虑周到的",
-        "That was very thoughtful of you."
+        "That was very thoughtful of you.",
+        "你想得真周到。"
       ]
     ]
   },
@@ -4399,19 +4672,22 @@ window.dialogueCards = [
         "keep in touch",
         "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Let's keep in touch after the event."
+        "Let's keep in touch after the event.",
+        "活动结束后保持联系。"
       ],
       [
         "thoughtful",
         "/ˈθɔːtfl/",
         "体贴的；考虑周到的",
-        "That was very thoughtful of you."
+        "That was very thoughtful of you.",
+        "你想得真周到。"
       ],
       [
         "catch up",
         "/kætʃ ʌp/",
         "叙旧；聊近况",
-        "Let's catch up over coffee."
+        "Let's catch up over coffee.",
+        "喝杯咖啡聊聊近况吧。"
       ]
     ]
   },
@@ -4447,19 +4723,22 @@ window.dialogueCards = [
         "thoughtful",
         "/ˈθɔːtfl/",
         "体贴的；考虑周到的",
-        "That was very thoughtful of you."
+        "That was very thoughtful of you.",
+        "你想得真周到。"
       ],
       [
         "catch up",
         "/kætʃ ʌp/",
         "叙旧；聊近况",
-        "Let's catch up over coffee."
+        "Let's catch up over coffee.",
+        "喝杯咖啡聊聊近况吧。"
       ],
       [
         "make it",
         "/meɪk ɪt/",
         "能参加；赶到",
-        "I am sorry I cannot make it tonight."
+        "I am sorry I cannot make it tonight.",
+        "抱歉今晚来不了。"
       ]
     ]
   },
@@ -4495,19 +4774,22 @@ window.dialogueCards = [
         "catch up",
         "/kætʃ ʌp/",
         "叙旧；聊近况",
-        "Let's catch up over coffee."
+        "Let's catch up over coffee.",
+        "喝杯咖啡聊聊近况吧。"
       ],
       [
         "make it",
         "/meɪk ɪt/",
         "能参加；赶到",
-        "I am sorry I cannot make it tonight."
+        "I am sorry I cannot make it tonight.",
+        "抱歉今晚来不了。"
       ],
       [
         "bring along",
         "/brɪŋ əˈlɔːŋ/",
         "带上；带来",
-        "Can I bring a friend along?"
+        "Can I bring a friend along?",
+        "我能带个朋友来吗？"
       ]
     ]
   },
@@ -4543,19 +4825,22 @@ window.dialogueCards = [
         "make it",
         "/meɪk ɪt/",
         "能参加；赶到",
-        "I am sorry I cannot make it tonight."
+        "I am sorry I cannot make it tonight.",
+        "抱歉今晚来不了。"
       ],
       [
         "bring along",
         "/brɪŋ əˈlɔːŋ/",
         "带上；带来",
-        "Can I bring a friend along?"
+        "Can I bring a friend along?",
+        "我能带个朋友来吗？"
       ],
       [
         "keep in touch",
         "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Let's keep in touch after the event."
+        "Let's keep in touch after the event.",
+        "活动结束后保持联系。"
       ]
     ]
   },
@@ -4591,19 +4876,22 @@ window.dialogueCards = [
         "bring along",
         "/brɪŋ əˈlɔːŋ/",
         "带上；带来",
-        "Can I bring a friend along?"
+        "Can I bring a friend along?",
+        "我能带个朋友来吗？"
       ],
       [
         "keep in touch",
         "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Let's keep in touch after the event."
+        "Let's keep in touch after the event.",
+        "活动结束后保持联系。"
       ],
       [
         "thoughtful",
         "/ˈθɔːtfl/",
         "体贴的；考虑周到的",
-        "That was very thoughtful of you."
+        "That was very thoughtful of you.",
+        "你想得真周到。"
       ]
     ]
   },
@@ -4639,19 +4927,22 @@ window.dialogueCards = [
         "follow-up",
         "/ˈfɑːloʊ ʌp/",
         "后续复诊；跟进",
-        "You need a follow-up visit next week."
+        "You need a follow-up visit next week.",
+        "你下周需要复诊。"
       ],
       [
         "light-headed",
         "/ˌlaɪt ˈhedɪd/",
         "头晕的",
-        "I feel light-headed when I stand up."
+        "I feel light-headed when I stand up.",
+        "我站起来时感觉头晕。"
       ],
       [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "When did the symptom start?"
+        "When did the symptom start?",
+        "症状是什么时候开始的？"
       ]
     ]
   },
@@ -4687,19 +4978,22 @@ window.dialogueCards = [
         "light-headed",
         "/ˌlaɪt ˈhedɪd/",
         "头晕的",
-        "I feel light-headed when I stand up."
+        "I feel light-headed when I stand up.",
+        "我站起来时感觉头晕。"
       ],
       [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "When did the symptom start?"
+        "When did the symptom start?",
+        "症状是什么时候开始的？"
       ],
       [
         "swollen",
         "/ˈswoʊlən/",
         "肿胀的",
-        "My ankle is swollen."
+        "My ankle is swollen.",
+        "我脚踝肿了。"
       ]
     ]
   },
@@ -4735,19 +5029,22 @@ window.dialogueCards = [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "When did the symptom start?"
+        "When did the symptom start?",
+        "症状是什么时候开始的？"
       ],
       [
         "swollen",
         "/ˈswoʊlən/",
         "肿胀的",
-        "My ankle is swollen."
+        "My ankle is swollen.",
+        "我脚踝肿了。"
       ],
       [
         "prescription",
         "/prɪˈskrɪpʃn/",
         "处方",
-        "The doctor gave me a prescription."
+        "The doctor gave me a prescription.",
+        "医生给我开了处方。"
       ]
     ]
   },
@@ -4783,19 +5080,22 @@ window.dialogueCards = [
         "swollen",
         "/ˈswoʊlən/",
         "肿胀的",
-        "My ankle is swollen."
+        "My ankle is swollen.",
+        "我脚踝肿了。"
       ],
       [
         "prescription",
         "/prɪˈskrɪpʃn/",
         "处方",
-        "The doctor gave me a prescription."
+        "The doctor gave me a prescription.",
+        "医生给我开了处方。"
       ],
       [
         "follow-up",
         "/ˈfɑːloʊ ʌp/",
         "后续复诊；跟进",
-        "You need a follow-up visit next week."
+        "You need a follow-up visit next week.",
+        "你下周需要复诊。"
       ]
     ]
   },
@@ -4831,19 +5131,22 @@ window.dialogueCards = [
         "prescription",
         "/prɪˈskrɪpʃn/",
         "处方",
-        "The doctor gave me a prescription."
+        "The doctor gave me a prescription.",
+        "医生给我开了处方。"
       ],
       [
         "follow-up",
         "/ˈfɑːloʊ ʌp/",
         "后续复诊；跟进",
-        "You need a follow-up visit next week."
+        "You need a follow-up visit next week.",
+        "你下周需要复诊。"
       ],
       [
         "light-headed",
         "/ˌlaɪt ˈhedɪd/",
         "头晕的",
-        "I feel light-headed when I stand up."
+        "I feel light-headed when I stand up.",
+        "我站起来时感觉头晕。"
       ]
     ]
   },
@@ -4879,19 +5182,22 @@ window.dialogueCards = [
         "follow-up",
         "/ˈfɑːloʊ ʌp/",
         "后续复诊；跟进",
-        "You need a follow-up visit next week."
+        "You need a follow-up visit next week.",
+        "你下周需要复诊。"
       ],
       [
         "light-headed",
         "/ˌlaɪt ˈhedɪd/",
         "头晕的",
-        "I feel light-headed when I stand up."
+        "I feel light-headed when I stand up.",
+        "我站起来时感觉头晕。"
       ],
       [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "When did the symptom start?"
+        "When did the symptom start?",
+        "症状是什么时候开始的？"
       ]
     ]
   },
@@ -4927,19 +5233,22 @@ window.dialogueCards = [
         "light-headed",
         "/ˌlaɪt ˈhedɪd/",
         "头晕的",
-        "I feel light-headed when I stand up."
+        "I feel light-headed when I stand up.",
+        "我站起来时感觉头晕。"
       ],
       [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "When did the symptom start?"
+        "When did the symptom start?",
+        "症状是什么时候开始的？"
       ],
       [
         "swollen",
         "/ˈswoʊlən/",
         "肿胀的",
-        "My ankle is swollen."
+        "My ankle is swollen.",
+        "我脚踝肿了。"
       ]
     ]
   },
@@ -4975,19 +5284,22 @@ window.dialogueCards = [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "When did the symptom start?"
+        "When did the symptom start?",
+        "症状是什么时候开始的？"
       ],
       [
         "swollen",
         "/ˈswoʊlən/",
         "肿胀的",
-        "My ankle is swollen."
+        "My ankle is swollen.",
+        "我脚踝肿了。"
       ],
       [
         "prescription",
         "/prɪˈskrɪpʃn/",
         "处方",
-        "The doctor gave me a prescription."
+        "The doctor gave me a prescription.",
+        "医生给我开了处方。"
       ]
     ]
   },
@@ -5023,19 +5335,22 @@ window.dialogueCards = [
         "front desk",
         "/frʌnt desk/",
         "前台",
-        "Please leave it at the front desk."
+        "Please leave it at the front desk.",
+        "请放在前台。"
       ],
       [
         "outage",
         "/ˈaʊtɪdʒ/",
         "中断；停供",
-        "There will be a water outage tomorrow."
+        "There will be a water outage tomorrow.",
+        "明天会停水。"
       ],
       [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "重新安排时间",
-        "Can we reschedule the appointment?"
+        "Can we reschedule the appointment?",
+        "能重新约时间吗？"
       ]
     ]
   },
@@ -5071,19 +5386,22 @@ window.dialogueCards = [
         "outage",
         "/ˈaʊtɪdʒ/",
         "中断；停供",
-        "There will be a water outage tomorrow."
+        "There will be a water outage tomorrow.",
+        "明天会停水。"
       ],
       [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "重新安排时间",
-        "Can we reschedule the appointment?"
+        "Can we reschedule the appointment?",
+        "能重新约时间吗？"
       ],
       [
         "drop off",
         "/drɑːp ɔːf/",
         "送到；放下",
-        "I will drop off the package tonight."
+        "I will drop off the package tonight.",
+        "今晚我把包裹送过去。"
       ]
     ]
   },
@@ -5119,19 +5437,22 @@ window.dialogueCards = [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "重新安排时间",
-        "Can we reschedule the appointment?"
+        "Can we reschedule the appointment?",
+        "能重新约时间吗？"
       ],
       [
         "drop off",
         "/drɑːp ɔːf/",
         "送到；放下",
-        "I will drop off the package tonight."
+        "I will drop off the package tonight.",
+        "今晚我把包裹送过去。"
       ],
       [
         "leak",
         "/liːk/",
         "漏水；泄漏",
-        "The kitchen sink is leaking."
+        "The kitchen sink is leaking.",
+        "厨房水槽在漏水。"
       ]
     ]
   },
@@ -5167,19 +5488,22 @@ window.dialogueCards = [
         "drop off",
         "/drɑːp ɔːf/",
         "送到；放下",
-        "I will drop off the package tonight."
+        "I will drop off the package tonight.",
+        "今晚我把包裹送过去。"
       ],
       [
         "leak",
         "/liːk/",
         "漏水；泄漏",
-        "The kitchen sink is leaking."
+        "The kitchen sink is leaking.",
+        "厨房水槽在漏水。"
       ],
       [
         "front desk",
         "/frʌnt desk/",
         "前台",
-        "Please leave it at the front desk."
+        "Please leave it at the front desk.",
+        "请放在前台。"
       ]
     ]
   },
@@ -5215,19 +5539,22 @@ window.dialogueCards = [
         "leak",
         "/liːk/",
         "漏水；泄漏",
-        "The kitchen sink is leaking."
+        "The kitchen sink is leaking.",
+        "厨房水槽在漏水。"
       ],
       [
         "front desk",
         "/frʌnt desk/",
         "前台",
-        "Please leave it at the front desk."
+        "Please leave it at the front desk.",
+        "请放在前台。"
       ],
       [
         "outage",
         "/ˈaʊtɪdʒ/",
         "中断；停供",
-        "There will be a water outage tomorrow."
+        "There will be a water outage tomorrow.",
+        "明天会停水。"
       ]
     ]
   },
@@ -5263,19 +5590,22 @@ window.dialogueCards = [
         "front desk",
         "/frʌnt desk/",
         "前台",
-        "Please leave it at the front desk."
+        "Please leave it at the front desk.",
+        "请放在前台。"
       ],
       [
         "outage",
         "/ˈaʊtɪdʒ/",
         "中断；停供",
-        "There will be a water outage tomorrow."
+        "There will be a water outage tomorrow.",
+        "明天会停水。"
       ],
       [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "重新安排时间",
-        "Can we reschedule the appointment?"
+        "Can we reschedule the appointment?",
+        "能重新约时间吗？"
       ]
     ]
   },
@@ -5311,19 +5641,22 @@ window.dialogueCards = [
         "outage",
         "/ˈaʊtɪdʒ/",
         "中断；停供",
-        "There will be a water outage tomorrow."
+        "There will be a water outage tomorrow.",
+        "明天会停水。"
       ],
       [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "重新安排时间",
-        "Can we reschedule the appointment?"
+        "Can we reschedule the appointment?",
+        "能重新约时间吗？"
       ],
       [
         "drop off",
         "/drɑːp ɔːf/",
         "送到；放下",
-        "I will drop off the package tonight."
+        "I will drop off the package tonight.",
+        "今晚我把包裹送过去。"
       ]
     ]
   },
@@ -5359,19 +5692,22 @@ window.dialogueCards = [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "重新安排时间",
-        "Can we reschedule the appointment?"
+        "Can we reschedule the appointment?",
+        "能重新约时间吗？"
       ],
       [
         "drop off",
         "/drɑːp ɔːf/",
         "送到；放下",
-        "I will drop off the package tonight."
+        "I will drop off the package tonight.",
+        "今晚我把包裹送过去。"
       ],
       [
         "leak",
         "/liːk/",
         "漏水；泄漏",
-        "The kitchen sink is leaking."
+        "The kitchen sink is leaking.",
+        "厨房水槽在漏水。"
       ]
     ]
   },
@@ -5407,19 +5743,22 @@ window.dialogueCards = [
         "requirement",
         "/rɪˈkwaɪərmənt/",
         "需求；要求",
-        "The client keeps changing their requirements."
+        "The client keeps changing their requirements.",
+        "客户一直在改需求。"
       ],
       [
         "finalize",
         "/ˈfaɪnəlaɪz/",
         "敲定；完成最终版",
-        "I can't finalize the proposal before the deadline."
+        "I can't finalize the proposal before the deadline.",
+        "我没法在截止日期前定稿提案。"
       ],
       [
         "narrow down",
         "重点表达",
         "缩小范围；筛选",
-        "We may need to narrow down the features."
+        "We may need to narrow down the features.",
+        "我们可能需要缩减功能范围。"
       ]
     ]
   },
@@ -5455,19 +5794,22 @@ window.dialogueCards = [
         "tough",
         "/tʌf/",
         "艰难的；费力的",
-        "That run was tougher than I expected."
+        "That run was tougher than I expected.",
+        "这次跑步比我想象的难。"
       ],
       [
         "hop in the shower",
         "重点表达",
         "赶紧去洗澡",
-        "I'll hop in the shower first."
+        "I'll hop in the shower first.",
+        "我先去冲个澡。"
       ],
       [
         "scroll",
         "/skroʊl/",
         "刷手机；滑动屏幕",
-        "I should stop scrolling on the couch."
+        "I should stop scrolling on the couch.",
+        "我不该再窝在沙发上刷手机了。"
       ]
     ]
   },
@@ -5503,19 +5845,22 @@ window.dialogueCards = [
         "service charge",
         "/ˈsɜːrvɪs tʃɑːrdʒ/",
         "服务费",
-        "The restaurant adds a service charge to the bill."
+        "The restaurant adds a service charge to the bill.",
+        "餐厅在账单上加收了服务费。"
       ],
       [
         "bill / check",
         "/bɪl/",
         "账单",
-        "Could we have the bill, please?"
+        "Could we have the bill, please?",
+        "麻烦买单。"
       ],
       [
         "tap your card",
         "重点表达",
         "刷卡；感应付款",
-        "You can tap your card here."
+        "You can tap your card here.",
+        "你可以在这里刷卡。"
       ]
     ]
   },
@@ -5551,19 +5896,22 @@ window.dialogueCards = [
         "be in the middle of",
         "重点表达",
         "正做到一半；正在忙某事",
-        "I'm right in the middle of a report."
+        "I'm right in the middle of a report.",
+        "我正忙着写一份报告。"
       ],
       [
         "crunch numbers",
         "重点表达",
         "处理数据；做运算",
-        "I need to crunch the numbers first."
+        "I need to crunch the numbers first.",
+        "我需要先算一下数字。"
       ],
       [
         "circle back",
         "重点表达",
         "稍后再回到这个话题",
-        "Let's circle back in twenty minutes."
+        "Let's circle back in twenty minutes.",
+        "二十分钟后我们再回来讨论。"
       ]
     ]
   },
@@ -5599,19 +5947,22 @@ window.dialogueCards = [
         "hit the sack",
         "重点表达",
         "上床睡觉",
-        "Before I hit the sack, I check my calendar."
+        "Before I hit the sack, I check my calendar.",
+        "睡觉前我看一眼日程表。"
       ],
       [
         "jot down",
         "重点表达",
         "快速记下",
-        "Jot down three things for tomorrow."
+        "Jot down three things for tomorrow.",
+        "把明天要做的三件事记下来。"
       ],
       [
         "scramble",
         "/ˈskræmbl/",
         "仓促慌乱地行动",
-        "I can start the day without scrambling."
+        "I can start the day without scrambling.",
+        "我可以从容地开始一天。"
       ]
     ]
   },
@@ -5647,19 +5998,22 @@ window.dialogueCards = [
         "stop by",
         "重点表达",
         "顺路去；短暂停留",
-        "I stopped by the supermarket after work."
+        "I stopped by the supermarket after work.",
+        "下班后顺路去了趟超市。"
       ],
       [
         "slab",
         "/slæb/",
         "厚实的一块",
-        "I bought a slab of pork belly."
+        "I bought a slab of pork belly.",
+        "我买了一块五花肉。"
       ],
       [
         "checkout line",
         "重点表达",
         "结账队伍",
-        "The checkout line was a bit long."
+        "The checkout line was a bit long.",
+        "结账队伍有点长。"
       ]
     ]
   },
@@ -5695,19 +6049,22 @@ window.dialogueCards = [
         "fitting room",
         "/ˈfɪtɪŋ ruːm/",
         "试衣间",
-        "The fitting room is at the back of the store."
+        "The fitting room is at the back of the store.",
+        "试衣间在店铺后面。"
       ],
       [
         "try on",
         "/traɪ ɑːn/",
         "试穿",
-        "You can try it on."
+        "You can try it on.",
+        "你可以试穿一下。"
       ],
       [
         "sleeve",
         "/sliːv/",
         "袖子",
-        "The sleeves are a bit short."
+        "The sleeves are a bit short.",
+        "袖子有点短。"
       ]
     ]
   },
@@ -5743,19 +6100,22 @@ window.dialogueCards = [
         "draft",
         "/dræft/",
         "草稿；起草",
-        "I just finished drafting the report."
+        "I just finished drafting the report.",
+        "我刚写完报告初稿。"
       ],
       [
         "take a quick look",
         "重点表达",
         "快速看一眼",
-        "Could you take a quick look?"
+        "Could you take a quick look?",
+        "能快速看一眼吗？"
       ],
       [
         "double-check",
         "/ˌdʌbl ˈtʃek/",
         "再次核对",
-        "Better to double-check now."
+        "Better to double-check now.",
+        "现在最好再确认一下。"
       ]
     ]
   },
@@ -5811,19 +6171,22 @@ window.dialogueCards = [
         "overweight",
         "重点表达",
         "超重的",
-        "My luggage is slightly overweight."
+        "My luggage is slightly overweight.",
+        "我的行李稍微超重了一点。"
       ],
       [
         "carry-on",
         "重点表达",
         "随身行李；手提行李",
-        "You can bring one carry-on bag for free."
+        "You can bring one carry-on bag for free.",
+        "你可以免费带一件随身行李。"
       ],
       [
         "within limit",
         "重点表达",
         "在规定范围内",
-        "Make sure your bag stays within the weight limit."
+        "Make sure your bag stays within the weight limit.",
+        "确保行李不超重。"
       ]
     ]
   },
@@ -5879,19 +6242,22 @@ window.dialogueCards = [
         "must-see",
         "重点表达",
         "必看的；不容错过的",
-        "The museum is a must-see attraction."
+        "The museum is a must-see attraction.",
+        "这个博物馆是必看的景点。"
       ],
       [
         "make a reservation",
         "重点表达",
         "预订；预约",
-        "I'd like to make a reservation for dinner."
+        "I'd like to make a reservation for dinner.",
+        "我想预订晚餐。"
       ],
       [
         "mix of both",
         "重点表达",
         "两者兼顾；混合搭配",
-        "I want a mix of both relaxation and adventure."
+        "I want a mix of both relaxation and adventure.",
+        "我想既有放松又有冒险。"
       ]
     ]
   },
@@ -5947,19 +6313,22 @@ window.dialogueCards = [
         "use your eyes on",
         "重点表达",
         "请某人帮忙审阅/过目",
-        "Could you use your eyes on this contract before I sign it?"
+        "Could you use your eyes on this contract before I sign it?",
+        "我签之前你能帮我看一下这份合同吗？"
       ],
       [
         "executive summary",
         "重点表达",
         "执行摘要；概要",
-        "The executive summary should be concise and compelling."
+        "The executive summary should be concise and compelling.",
+        "执行摘要要简洁有力。"
       ],
       [
         "polish",
         "重点表达",
         "润色；打磨",
-        "I need to polish my presentation before the meeting."
+        "I need to polish my presentation before the meeting.",
+        "开会前我得润色一下演示。"
       ]
     ]
   },
@@ -6015,19 +6384,22 @@ window.dialogueCards = [
         "hit a snag",
         "重点表达",
         "遇到麻烦/障碍",
-        "We hit a snag during the negotiations."
+        "We hit a snag during the negotiations.",
+        "谈判中我们遇到了一个麻烦。"
       ],
       [
         "back on track",
         "重点表达",
         "回到正轨",
-        "Let's get this project back on track."
+        "Let's get this project back on track.",
+        "让这个项目重回正轨吧。"
       ],
       [
         "keep me posted",
         "重点表达",
         "随时向我汇报/保持联系",
-        "Keep me posted on any changes."
+        "Keep me posted on any changes.",
+        "有任何变动随时告诉我。"
       ]
     ]
   },
@@ -6083,19 +6455,22 @@ window.dialogueCards = [
         "on the house",
         "重点表达",
         "店家免费提供",
-        "This round of drinks is on the house."
+        "This round of drinks is on the house.",
+        "这轮酒水算店里的。"
       ],
       [
         "I don't mean to complain",
         "重点表达",
         "我不想抱怨（委婉开场）",
-        "I don't mean to complain, but the room is a bit noisy."
+        "I don't mean to complain, but the room is a bit noisy.",
+        "我不是想抱怨，但这房间有点吵。"
       ],
       [
         "signature dish",
         "重点表达",
         "招牌菜",
-        "The grilled salmon is our signature dish."
+        "The grilled salmon is our signature dish.",
+        "烤三文鱼是我们的招牌菜。"
       ]
     ]
   },
@@ -6151,19 +6526,22 @@ window.dialogueCards = [
         "make a reservation",
         "重点表达",
         "预订（座位/房间等）",
-        "I'd like to make a reservation for two."
+        "I'd like to make a reservation for two.",
+        "我想订两个人的位子。"
       ],
       [
         "complimentary",
         "重点表达",
         "免费的；赠送的",
-        "Breakfast is complimentary for all guests."
+        "Breakfast is complimentary for all guests.",
+        "早餐对所有住客免费。"
       ],
       [
         "vegetarian alternative",
         "重点表达",
         "素食替代选项",
-        "Do you have a vegetarian alternative for this dish?"
+        "Do you have a vegetarian alternative for this dish?",
+        "这道菜有素食替代吗？"
       ]
     ]
   },
@@ -6219,19 +6597,22 @@ window.dialogueCards = [
         "defective item",
         "重点表达",
         "瑕疵品；有缺陷的商品",
-        "This is a defective item — the screen has dead pixels."
+        "This is a defective item — the screen has dead pixels.",
+        "这是件残次品——屏幕上有坏点。"
       ],
       [
         "full refund",
         "重点表达",
         "全额退款",
-        "You are entitled to a full refund within 30 days."
+        "You are entitled to a full refund within 30 days.",
+        "你可以在 30 天内获得全额退款。"
       ],
       [
         "prepaid return label",
         "重点表达",
         "预付退货运单",
-        "We'll send you a prepaid return label by email."
+        "We'll send you a prepaid return label by email.",
+        "我们会通过邮件发给你预付的退货标签。"
       ]
     ]
   },
@@ -6287,19 +6668,22 @@ window.dialogueCards = [
         "try on",
         "重点表达",
         "试穿",
-        "Can I try these jeans on?"
+        "Can I try these jeans on?",
+        "这条牛仔裤能试穿吗？"
       ],
       [
         "on sale",
         "重点表达",
         "打折；促销中",
-        "These shoes are on sale this week."
+        "These shoes are on sale this week.",
+        "这双鞋本周在打折。"
       ],
       [
         "I'll take them",
         "重点表达",
         "我要买这个",
-        "They fit perfectly — I'll take them."
+        "They fit perfectly — I'll take them.",
+        "穿着非常合脚——我买了。"
       ]
     ]
   },
@@ -6355,19 +6739,22 @@ window.dialogueCards = [
         "fall behind",
         "重点表达",
         "落后；跟不上进度",
-        "I fell behind on my assignments last week."
+        "I fell behind on my assignments last week.",
+        "上周我作业落下了。"
       ],
       [
         "grant an extension",
         "重点表达",
         "批准延期",
-        "The professor granted me a one-week extension."
+        "The professor granted me a one-week extension.",
+        "教授给了我一周的延期。"
       ],
       [
         "at the latest",
         "重点表达",
         "最迟；最晚",
-        "Please submit your report by Friday at the latest."
+        "Please submit your report by Friday at the latest.",
+        "请最迟周五提交报告。"
       ]
     ]
   },
@@ -6423,19 +6810,22 @@ window.dialogueCards = [
         "overdue",
         "重点表达",
         "逾期的；过期的",
-        "This book is three days overdue."
+        "This book is three days overdue.",
+        "这本书逾期三天了。"
       ],
       [
         "waive the fee",
         "重点表达",
         "免除费用",
-        "The bank agreed to waive the late payment fee."
+        "The bank agreed to waive the late payment fee.",
+        "银行同意免除滞纳金。"
       ],
       [
         "due date",
         "重点表达",
         "截止日期；到期日",
-        "What's the due date for this assignment?"
+        "What's the due date for this assignment?",
+        "这个作业的截止日期是什么时候？"
       ]
     ]
   },
@@ -6491,19 +6881,22 @@ window.dialogueCards = [
         "housewarming party",
         "重点表达",
         "乔迁派对",
-        "We're throwing a housewarming party next week."
+        "We're throwing a housewarming party next week.",
+        "我们下周要办乔迁派对。"
       ],
       [
         "make up for",
         "重点表达",
         "弥补",
-        "I'll work extra hours to make up for the delay."
+        "I'll work extra hours to make up for the delay.",
+        "我加班把延误的进度补回来。"
       ],
       [
         "catch up",
         "重点表达",
         "叙旧；聊聊近况",
-        "Let's grab coffee and catch up soon."
+        "Let's grab coffee and catch up soon.",
+        "改天一起喝咖啡叙叙旧。"
       ]
     ]
   },
@@ -6559,19 +6952,22 @@ window.dialogueCards = [
         "settle in",
         "重点表达",
         "适应新环境；安顿下来",
-        "It took me a month to settle in after moving."
+        "It took me a month to settle in after moving.",
+        "搬家后我花了一个月才安顿下来。"
       ],
       [
         "figure out",
         "重点表达",
         "弄明白；搞清楚",
-        "I'm still trying to figure out how this works."
+        "I'm still trying to figure out how this works.",
+        "我还在琢磨这东西怎么用。"
       ],
       [
         "have a lot in common",
         "重点表达",
         "有很多共同点",
-        "We discovered we have a lot in common."
+        "We discovered we have a lot in common.",
+        "我们发现彼此有很多共同点。"
       ]
     ]
   },
@@ -6627,19 +7023,22 @@ window.dialogueCards = [
         "persistent",
         "重点表达",
         "持续的；反复出现的",
-        "I've had a persistent cough for two weeks."
+        "I've had a persistent cough for two weeks.",
+        "我咳嗽两周了，一直没好。"
       ],
       [
         "over-the-counter",
         "重点表达",
         "非处方的（药物）",
-        "You can buy this over-the-counter at any pharmacy."
+        "You can buy this over-the-counter at any pharmacy.",
+        "这个在任何药店都可以直接买到，无需处方。"
       ],
       [
         "localized",
         "重点表达",
         "局部的；集中在某处的",
-        "The pain is localized in my lower back."
+        "The pain is localized in my lower back.",
+        "疼痛集中在下背部。"
       ]
     ]
   },
@@ -6695,19 +7094,22 @@ window.dialogueCards = [
         "hit a plateau",
         "重点表达",
         "遇到瓶颈；停滞不前",
-        "My weight loss has hit a plateau lately."
+        "My weight loss has hit a plateau lately.",
+        "我最近减肥进入平台期了。"
       ],
       [
         "proper form",
         "重点表达",
         "正确的动作姿势",
-        "Make sure you maintain proper form during squats."
+        "Make sure you maintain proper form during squats.",
+        "做深蹲时注意保持正确姿势。"
       ],
       [
         "complimentary trial",
         "重点表达",
         "免费试用/试课",
-        "We offer a complimentary trial of our software."
+        "We offer a complimentary trial of our software.",
+        "我们提供软件的免费试用。"
       ]
     ]
   },
@@ -6763,19 +7165,22 @@ window.dialogueCards = [
         "catch you at a bad time",
         "重点表达",
         "打扰到你不方便的时候",
-        "Sorry, am I catching you at a bad time?"
+        "Sorry, am I catching you at a bad time?",
+        "抱歉，我是不是来的不是时候？"
       ],
       [
         "carry through",
         "重点表达",
         "（声音）穿透；传到",
-        "The sound carries through these thin walls."
+        "The sound carries through these thin walls.",
+        "这些薄墙隔音很差，声音都传过来了。"
       ],
       [
         "mindful",
         "重点表达",
         "注意的；留心的",
-        "Please be mindful of the noise level after 10 p.m."
+        "Please be mindful of the noise level after 10 p.m.",
+        "晚上十点后请注意控制音量。"
       ]
     ]
   },
@@ -6831,19 +7236,22 @@ window.dialogueCards = [
         "shattered",
         "重点表达",
         "碎裂的；破碎的",
-        "The mirror was shattered into pieces."
+        "The mirror was shattered into pieces.",
+        "镜子碎成了碎片。"
       ],
       [
         "dead spots",
         "重点表达",
         "失灵区域；无响应点",
-        "There are dead spots on my phone screen."
+        "There are dead spots on my phone screen.",
+        "我的手机屏幕上有几个触控失灵的地方。"
       ],
       [
         "warranty",
         "重点表达",
         "保修；质保",
-        "This product comes with a one-year warranty."
+        "This product comes with a one-year warranty.",
+        "这款产品享有一年保修。"
       ]
     ]
   },
@@ -6889,19 +7297,22 @@ window.dialogueCards = [
         "scanner",
         "/ˈskænər/",
         "扫描仪",
-        "The scanner shows a metal tool."
+        "The scanner shows a metal tool.",
+        "扫描仪显示有一个金属工具。"
       ],
       [
         "tripod",
         "/ˈtraɪpɑːd/",
         "三脚架",
-        "I use a tripod for travel photos."
+        "I use a tripod for travel photos.",
+        "我拍旅行照用三脚架。"
       ],
       [
         "repack",
         "/ˌriːˈpæk/",
         "重新打包",
-        "Could I repack everything here?"
+        "Could I repack everything here?",
+        "能在这里重新打包吗？"
       ]
     ]
   },
@@ -6947,19 +7358,22 @@ window.dialogueCards = [
         "room key",
         "/ruːm kiː/",
         "房卡",
-        "My room key stopped working."
+        "My room key stopped working.",
+        "我的房卡失效了。"
       ],
       [
         "demagnetized",
         "/ˌdiːˈmæɡnətaɪzd/",
         "消磁的",
-        "The card may have been demagnetized."
+        "The card may have been demagnetized.",
+        "卡可能消磁了。"
       ],
       [
         "activate",
         "/ˈæktɪveɪt/",
         "激活",
-        "Could you activate two cards?"
+        "Could you activate two cards?",
+        "能激活两张卡吗？"
       ]
     ]
   },
@@ -7005,19 +7419,22 @@ window.dialogueCards = [
         "audio guide",
         "/ˈɔːdioʊ ɡaɪd/",
         "语音导览",
-        "Do you have audio guides in English?"
+        "Do you have audio guides in English?",
+        "有英文语音导览吗？"
       ],
       [
         "deposit",
         "/dɪˈpɑːzɪt/",
         "押金",
-        "Do I need to leave a deposit?"
+        "Do I need to leave a deposit?",
+        "需要付押金吗？"
       ],
       [
         "information desk",
         "/ˌɪnfərˈmeɪʃn desk/",
         "咨询台",
-        "Rent one at the information desk."
+        "Rent one at the information desk.",
+        "在服务台可以租一个。"
       ]
     ]
   },
@@ -7063,19 +7480,22 @@ window.dialogueCards = [
         "filling",
         "/ˈfɪlɪŋ/",
         "管饱的；有饱腹感的",
-        "Do you want something filling?"
+        "Do you want something filling?",
+        "想吃点管饱的吗？"
       ],
       [
         "spicy",
         "/ˈspaɪsi/",
         "辛辣的",
-        "I do not eat very spicy food."
+        "I do not eat very spicy food.",
+        "我不吃很辣的东西。"
       ],
       [
         "come with",
         "/kʌm wɪð/",
         "附带；配有",
-        "It comes with vegetables and rice."
+        "It comes with vegetables and rice.",
+        "配有蔬菜和米饭。"
       ]
     ]
   },
@@ -7121,19 +7541,22 @@ window.dialogueCards = [
         "dead",
         "/ded/",
         "没电的；停止运转的",
-        "My phone is almost dead."
+        "My phone is almost dead.",
+        "我手机快没电了。"
       ],
       [
         "USB-C",
         "/ˌjuː es biː ˈsiː/",
         "USB-C接口",
-        "I need a USB-C cable."
+        "I need a USB-C cable.",
+        "我需要一根USB-C线。"
       ],
       [
         "outlet",
         "/ˈaʊtlet/",
         "插座",
-        "There is an outlet next to the table."
+        "There is an outlet next to the table.",
+        "桌子旁边有一个插座。"
       ]
     ]
   },
@@ -7179,19 +7602,22 @@ window.dialogueCards = [
         "present",
         "/prɪˈzent/",
         "发言；展示",
-        "When should I present?"
+        "When should I present?",
+        "我该什么时候做展示？"
       ],
       [
         "under five minutes",
         "/ˈʌndər faɪv ˈmɪnɪts/",
         "五分钟以内",
-        "Keep it under five minutes."
+        "Keep it under five minutes.",
+        "控制在五分钟以内。"
       ],
       [
         "recommended",
         "/ˌrekəˈmendɪd/",
         "建议的；推荐的",
-        "Close with your recommended next steps."
+        "Close with your recommended next steps.",
+        "结尾给出你建议的下一步。"
       ]
     ]
   },
@@ -7237,19 +7663,22 @@ window.dialogueCards = [
         "urgent",
         "/ˈɜːrdʒənt/",
         "紧急的",
-        "The client sent an urgent email."
+        "The client sent an urgent email.",
+        "客户发了一封紧急邮件。"
       ],
       [
         "verify",
         "/ˈverɪfaɪ/",
         "核实；验证",
-        "We are verifying the data."
+        "We are verifying the data.",
+        "我们正在核实数据。"
       ],
       [
         "responsible",
         "/rɪˈspɑːnsəbl/",
         "负责的",
-        "That sounds responsible."
+        "That sounds responsible.",
+        "听起来很靠谱。"
       ]
     ]
   },
@@ -7295,19 +7724,22 @@ window.dialogueCards = [
         "priority",
         "/praɪˈɔːrəti/",
         "优先级；优先事项",
-        "The task priority has changed."
+        "The task priority has changed.",
+        "任务优先级变了。"
       ],
       [
         "onboarding",
         "/ˈɑːnbɔːrdɪŋ/",
         "新手引导；入门流程",
-        "They need the onboarding flow first."
+        "They need the onboarding flow first.",
+        "他们需要先把入职流程走通。"
       ],
       [
         "pause",
         "/pɔːz/",
         "暂停",
-        "Could you pause the chart work?"
+        "Could you pause the chart work?",
+        "能暂停一下图表的工作吗？"
       ]
     ]
   },
@@ -7353,19 +7785,22 @@ window.dialogueCards = [
         "feedback",
         "/ˈfiːdbæk/",
         "反馈",
-        "Could I ask for some feedback?"
+        "Could I ask for some feedback?",
+        "能给些反馈吗？"
       ],
       [
         "raise risks",
         "/reɪz rɪsks/",
         "提出风险",
-        "Raise risks a little earlier."
+        "Raise risks a little earlier.",
+        "风险要早一点提出来。"
       ],
       [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍事项",
-        "Mention blockers in the daily stand-up."
+        "Mention blockers in the daily stand-up.",
+        "每日站会上要提阻塞问题。"
       ]
     ]
   },
@@ -7411,19 +7846,22 @@ window.dialogueCards = [
         "time zone",
         "/taɪm zoʊn/",
         "时区",
-        "Add the time zone in the invite."
+        "Add the time zone in the invite.",
+        "在邀请里加上时区信息。"
       ],
       [
         "reasonable",
         "/ˈriːznəbl/",
         "合理的",
-        "That time sounds reasonable."
+        "That time sounds reasonable.",
+        "这个时间听起来合理。"
       ],
       [
         "backup option",
         "/ˈbækʌp ˈɑːpʃn/",
         "备用选项",
-        "Let's offer one backup option."
+        "Let's offer one backup option.",
+        "我们提供一个备选方案。"
       ]
     ]
   },
@@ -7469,19 +7907,22 @@ window.dialogueCards = [
         "contain",
         "/kənˈteɪn/",
         "含有",
-        "Does this dessert contain alcohol?"
+        "Does this dessert contain alcohol?",
+        "这个甜点含酒精吗？"
       ],
       [
         "rum",
         "/rʌm/",
         "朗姆酒",
-        "The sauce has a little rum."
+        "The sauce has a little rum.",
+        "酱汁里加了一点朗姆酒。"
       ],
       [
         "instead",
         "/ɪnˈsted/",
         "代替；改为",
-        "I will have that instead."
+        "I will have that instead.",
+        "那我就要那个吧。"
       ]
     ]
   },
@@ -7527,19 +7968,22 @@ window.dialogueCards = [
         "delivery",
         "/dɪˈlɪvəri/",
         "外卖；配送",
-        "My delivery is late."
+        "My delivery is late.",
+        "我的快递迟了。"
       ],
       [
         "cancel",
         "/ˈkænsl/",
         "取消",
-        "Could I cancel the order?"
+        "Could I cancel the order?",
+        "能取消订单吗？"
       ],
       [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "We can offer a refund."
+        "We can offer a refund.",
+        "我们可以退款。"
       ]
     ]
   },
@@ -7585,19 +8029,22 @@ window.dialogueCards = [
         "share",
         "/ʃer/",
         "分享；分着吃",
-        "Is this big enough to share?"
+        "Is this big enough to share?",
+        "这个够大，能分着吃吗？"
       ],
       [
         "portion",
         "/ˈpɔːrʃn/",
         "份量",
-        "It is a medium portion."
+        "It is a medium portion.",
+        "这是中份的。"
       ],
       [
         "dressing",
         "/ˈdresɪŋ/",
         "沙拉酱",
-        "It comes with lemon dressing."
+        "It comes with lemon dressing.",
+        "配的是柠檬沙拉汁。"
       ]
     ]
   },
@@ -7643,19 +8090,22 @@ window.dialogueCards = [
         "syrup",
         "/ˈsɪrəp/",
         "糖浆",
-        "I asked for half syrup."
+        "I asked for half syrup.",
+        "我要了半糖。"
       ],
       [
         "regular",
         "/ˈreɡjələr/",
         "正常的；常规的",
-        "It tastes like the regular one."
+        "It tastes like the regular one.",
+        "味道和普通款一样。"
       ],
       [
         "remake",
         "/ˌriːˈmeɪk/",
         "重做",
-        "I can remake it for you."
+        "I can remake it for you.",
+        "我可以给你重做。"
       ]
     ]
   },
@@ -7701,19 +8151,22 @@ window.dialogueCards = [
         "wait",
         "/weɪt/",
         "等待时间",
-        "How long is the wait?"
+        "How long is the wait?",
+        "要等多久？"
       ],
       [
         "bar seat",
         "/bɑːr siːt/",
         "吧台座位",
-        "There are two bar seats available."
+        "There are two bar seats available.",
+        "吧台还有两个空位。"
       ],
       [
         "full menu",
         "/fʊl ˈmenjuː/",
         "完整菜单",
-        "The full menu is available at the bar."
+        "The full menu is available at the bar.",
+        "吧台提供完整菜单。"
       ]
     ]
   },
@@ -7759,19 +8212,22 @@ window.dialogueCards = [
         "heel",
         "/hiːl/",
         "脚跟；鞋跟",
-        "They hurt my heels."
+        "They hurt my heels.",
+        "它们磨我的脚后跟。"
       ],
       [
         "sole",
         "/soʊl/",
         "鞋底",
-        "The soles are still clean."
+        "The soles are still clean.",
+        "鞋底还是干净的。"
       ],
       [
         "wider fit",
         "/ˈwaɪdər fɪt/",
         "更宽的版型",
-        "Could I try a wider fit?"
+        "Could I try a wider fit?",
+        "能试宽一点的版型吗？"
       ]
     ]
   },
@@ -7817,19 +8273,22 @@ window.dialogueCards = [
         "reschedule",
         "/ˌriːˈskedʒuːl/",
         "改期；重新安排",
-        "I need to reschedule the delivery."
+        "I need to reschedule the delivery.",
+        "我需要重新安排配送时间。"
       ],
       [
         "order number",
         "/ˈɔːrdər ˈnʌmbər/",
         "订单号",
-        "Could you give me your order number?"
+        "Could you give me your order number?",
+        "能提供一下你的订单号吗？"
       ],
       [
         "ahead",
         "/əˈhed/",
         "提前",
-        "The driver will call thirty minutes ahead."
+        "The driver will call thirty minutes ahead.",
+        "司机会提前三十分钟打电话。"
       ]
     ]
   },
@@ -7875,19 +8334,22 @@ window.dialogueCards = [
         "tester",
         "/ˈtestər/",
         "试用品",
-        "Do you have a tester?"
+        "Do you have a tester?",
+        "有试用品吗？"
       ],
       [
         "texture",
         "/ˈtekstʃər/",
         "质地",
-        "I want to check the texture."
+        "I want to check the texture.",
+        "我想看看质地。"
       ],
       [
         "fragrance-free",
         "/ˈfreɪɡrəns friː/",
         "无香型的",
-        "This one is fragrance-free."
+        "This one is fragrance-free.",
+        "这款是无香型的。"
       ]
     ]
   },
@@ -7933,19 +8395,22 @@ window.dialogueCards = [
         "mystery",
         "/ˈmɪstəri/",
         "悬疑；谜案",
-        "She likes mystery stories."
+        "She likes mystery stories.",
+        "她喜欢悬疑故事。"
       ],
       [
         "intermediate",
         "/ˌɪntərˈmiːdiət/",
         "中级的",
-        "Her English level is intermediate."
+        "Her English level is intermediate.",
+        "她的英语水平是中级。"
       ],
       [
         "a good fit",
         "/ə ɡʊd fɪt/",
         "合适的选择",
-        "This book is a good fit."
+        "This book is a good fit.",
+        "这本书很适合。"
       ]
     ]
   },
@@ -7991,19 +8456,22 @@ window.dialogueCards = [
         "self-checkout",
         "/ˌself ˈtʃekaʊt/",
         "自助结账",
-        "The self-checkout machine needs help."
+        "The self-checkout machine needs help.",
+        "自助结账机需要人工协助。"
       ],
       [
         "assistance",
         "/əˈsɪstəns/",
         "帮助；协助",
-        "The machine is asking for assistance."
+        "The machine is asking for assistance.",
+        "机器提示需要人工协助。"
       ],
       [
         "verification",
         "/ˌverɪfɪˈkeɪʃn/",
         "验证",
-        "Age verification is required."
+        "Age verification is required.",
+        "需要年龄验证。"
       ]
     ]
   },
@@ -8049,19 +8517,22 @@ window.dialogueCards = [
         "broad",
         "/brɔːd/",
         "宽泛的",
-        "My topic is too broad."
+        "My topic is too broad.",
+        "我的选题范围太大了。"
       ],
       [
         "focus on",
         "/ˈfoʊkəs ɑːn/",
         "聚焦于",
-        "Focus on short videos."
+        "Focus on short videos.",
+        "重点看短视频。"
       ],
       [
         "manageable",
         "/ˈmænɪdʒəbl/",
         "可管理的；可控的",
-        "That sounds more manageable."
+        "That sounds more manageable.",
+        "听起来更可行了。"
       ]
     ]
   },
@@ -8107,19 +8578,22 @@ window.dialogueCards = [
         "projector",
         "/prəˈdʒektər/",
         "投影仪",
-        "The laptop is not connecting to the projector."
+        "The laptop is not connecting to the projector.",
+        "笔记本电脑连不上投影仪。"
       ],
       [
         "adapter",
         "/əˈdæptər/",
         "转接头；适配器",
-        "Try the HDMI adapter."
+        "Try the HDMI adapter.",
+        "试试 HDMI 转接头。"
       ],
       [
         "set up",
         "/set ʌp/",
         "设置；准备",
-        "You need time to set up."
+        "You need time to set up.",
+        "你需要时间来准备。"
       ]
     ]
   },
@@ -8165,19 +8639,22 @@ window.dialogueCards = [
         "quiz",
         "/kwɪz/",
         "小测验",
-        "Do we have a quiz tomorrow?"
+        "Do we have a quiz tomorrow?",
+        "明天有测验吗？"
       ],
       [
         "cover",
         "/ˈkʌvər/",
         "涵盖；涉及",
-        "What will it cover?"
+        "What will it cover?",
+        "它涵盖哪些内容？"
       ],
       [
         "review sheet",
         "/rɪˈvjuː ʃiːt/",
         "复习资料",
-        "She posted a review sheet."
+        "She posted a review sheet.",
+        "她发了一份复习提纲。"
       ]
     ]
   },
@@ -8223,19 +8700,22 @@ window.dialogueCards = [
         "sink",
         "/sɪŋk/",
         "水槽",
-        "The sink is full of dishes."
+        "The sink is full of dishes.",
+        "水槽里堆满了碗碟。"
       ],
       [
         "schedule",
         "/ˈskedʒuːl/",
         "时间表；安排",
-        "We need a cleaning schedule."
+        "We need a cleaning schedule.",
+        "我们需要一个清洁排班表。"
       ],
       [
         "take turns",
         "/teɪk tɜːrnz/",
         "轮流",
-        "Let's take turns every other day."
+        "Let's take turns every other day.",
+        "咱们隔天轮一次吧。"
       ]
     ]
   },
@@ -8281,19 +8761,22 @@ window.dialogueCards = [
         "struggle with",
         "/ˈstrʌɡl wɪð/",
         "在……方面吃力",
-        "I struggle with problem sets."
+        "I struggle with problem sets.",
+        "我做习题集很吃力。"
       ],
       [
         "problem set",
         "/ˈprɑːbləm set/",
         "习题集",
-        "The problem set is difficult."
+        "The problem set is difficult.",
+        "这套习题很难。"
       ],
       [
         "office hours",
         "/ˈɔːfɪs ˈaʊərz/",
         "答疑时间；办公时间",
-        "Office hours can help."
+        "Office hours can help.",
+        "答疑时间会有帮助。"
       ]
     ]
   },
@@ -8339,19 +8822,22 @@ window.dialogueCards = [
         "run late",
         "/rʌn leɪt/",
         "迟到；晚点",
-        "I am running fifteen minutes late."
+        "I am running fifteen minutes late.",
+        "我要迟到十五分钟。"
       ],
       [
         "on my way",
         "/ɑːn maɪ weɪ/",
         "在路上",
-        "I am on my way now."
+        "I am on my way now.",
+        "我在路上了。"
       ],
       [
         "save a seat",
         "/seɪv ə siːt/",
         "留座位",
-        "We will save you a seat."
+        "We will save you a seat.",
+        "我们会帮你留个座位。"
       ]
     ]
   },
@@ -8397,19 +8883,22 @@ window.dialogueCards = [
         "bright",
         "/braɪt/",
         "明亮的",
-        "The apartment feels bright."
+        "The apartment feels bright.",
+        "这间公寓采光很好。"
       ],
       [
         "commute",
         "/kəˈmjuːt/",
         "通勤",
-        "How is the commute?"
+        "How is the commute?",
+        "通勤怎么样？"
       ],
       [
         "improvement",
         "/ɪmˈpruːvmənt/",
         "改善；提升",
-        "That is a huge improvement."
+        "That is a huge improvement.",
+        "进步非常大。"
       ]
     ]
   },
@@ -8455,19 +8944,22 @@ window.dialogueCards = [
         "last week",
         "/læst wiːk/",
         "最后一周",
-        "This is your last week here."
+        "This is your last week here.",
+        "这是你在这里的最后一周了。"
       ],
       [
         "pick up",
         "/pɪk ʌp/",
         "学会；上手",
-        "You picked things up fast."
+        "You picked things up fast.",
+        "你学得很快。"
       ],
       [
         "keep in touch",
         "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Let's keep in touch."
+        "Let's keep in touch.",
+        "保持联系。"
       ]
     ]
   },
@@ -8513,19 +9005,22 @@ window.dialogueCards = [
         "rough day",
         "/rʌf deɪ/",
         "糟糕的一天",
-        "I had a rough day."
+        "I had a rough day.",
+        "今天过得很糟。"
       ],
       [
         "company",
         "/ˈkʌmpəni/",
         "陪伴",
-        "I just need some company."
+        "I just need some company.",
+        "我只是需要有人陪。"
       ],
       [
         "solve",
         "/sɑːlv/",
         "解决",
-        "We do not have to solve anything tonight."
+        "We do not have to solve anything tonight.",
+        "我们今晚不需要解决任何问题。"
       ]
     ]
   },
@@ -8571,19 +9066,22 @@ window.dialogueCards = [
         "have someone over",
         "/hæv ˈsʌmwʌn ˈoʊvər/",
         "请某人来家里",
-        "Thank you for having me over."
+        "Thank you for having me over.",
+        "谢谢你邀请我来做客。"
       ],
       [
         "make yourself at home",
         "/meɪk jɔːrˈself æt hoʊm/",
         "请随意；别拘束",
-        "Please make yourself at home."
+        "Please make yourself at home.",
+        "请别拘束，就当在自己家。"
       ],
       [
         "thoughtful",
         "/ˈθɔːtfl/",
         "周到的；体贴的",
-        "That is very thoughtful."
+        "That is very thoughtful.",
+        "真贴心。"
       ]
     ]
   },
@@ -8629,19 +9127,22 @@ window.dialogueCards = [
         "blood test",
         "/blʌd test/",
         "验血",
-        "I have a blood test tomorrow."
+        "I have a blood test tomorrow.",
+        "明天要抽血检查。"
       ],
       [
         "fasting",
         "/ˈfæstɪŋ/",
         "空腹的；禁食的",
-        "It is a fasting blood test."
+        "It is a fasting blood test.",
+        "这是空腹验血。"
       ],
       [
         "plain water",
         "/pleɪn ˈwɔːtər/",
         "白水",
-        "Plain water is fine."
+        "Plain water is fine.",
+        "白开水就行。"
       ]
     ]
   },
@@ -8687,19 +9188,22 @@ window.dialogueCards = [
         "toothache",
         "/ˈtuːθeɪk/",
         "牙疼",
-        "I have a toothache."
+        "I have a toothache.",
+        "我牙疼。"
       ],
       [
         "constant",
         "/ˈkɑːnstənt/",
         "持续的",
-        "The pain is constant."
+        "The pain is constant.",
+        "疼痛一直没有停过。"
       ],
       [
         "cancellation",
         "/ˌkænsəˈleɪʃn/",
         "取消；取消出的空位",
-        "We had a cancellation at three."
+        "We had a cancellation at three.",
+        "三点有一个预约取消了。"
       ]
     ]
   },
@@ -8745,19 +9249,22 @@ window.dialogueCards = [
         "short of breath",
         "/ʃɔːrt əv breθ/",
         "气短；喘不上气",
-        "I felt short of breath."
+        "I felt short of breath.",
+        "我感觉喘不上气。"
       ],
       [
         "last",
         "/læst/",
         "持续",
-        "It lasted about ten minutes."
+        "It lasted about ten minutes.",
+        "持续了大概十分钟。"
       ],
       [
         "light-headed",
         "/ˌlaɪt ˈhedɪd/",
         "头晕的",
-        "I felt a little light-headed."
+        "I felt a little light-headed.",
+        "我感觉有点头晕。"
       ]
     ]
   },
@@ -8803,19 +9310,22 @@ window.dialogueCards = [
         "eye drops",
         "/aɪ drɑːps/",
         "眼药水",
-        "Do you have eye drops?"
+        "Do you have eye drops?",
+        "有眼药水吗？"
       ],
       [
         "dry eyes",
         "/draɪ aɪz/",
         "眼干",
-        "I need drops for dry eyes."
+        "I need drops for dry eyes.",
+        "我需要干眼症的眼药水。"
       ],
       [
         "contact lenses",
         "/ˈkɑːntækt ˈlenzɪz/",
         "隐形眼镜",
-        "Do you wear contact lenses?"
+        "Do you wear contact lenses?",
+        "你戴隐形眼镜吗？"
       ]
     ]
   },
@@ -8861,19 +9371,22 @@ window.dialogueCards = [
         "stiff",
         "/stɪf/",
         "僵硬的",
-        "My shoulder feels stiff."
+        "My shoulder feels stiff.",
+        "我肩膀感觉僵硬。"
       ],
       [
         "raise",
         "/reɪz/",
         "举起",
-        "Can you raise your arm?"
+        "Can you raise your arm?",
+        "能抬起手臂吗？"
       ],
       [
         "stretch",
         "/stretʃ/",
         "拉伸",
-        "Add this gentle stretch."
+        "Add this gentle stretch.",
+        "加上这个轻柔的拉伸动作。"
       ]
     ]
   },
@@ -8919,19 +9432,22 @@ window.dialogueCards = [
         "under maintenance",
         "/ˈʌndər ˈmeɪntənəns/",
         "正在维修",
-        "The elevator is under maintenance."
+        "The elevator is under maintenance.",
+        "电梯正在维修。"
       ],
       [
         "back in service",
         "/bæk ɪn ˈsɜːrvɪs/",
         "恢复使用",
-        "It will be back in service by six."
+        "It will be back in service by six.",
+        "六点前恢复运行。"
       ],
       [
         "courier",
         "/ˈkʊriər/",
         "快递员",
-        "Ask the courier to leave it at the front desk."
+        "Ask the courier to leave it at the front desk.",
+        "让快递员放在前台。"
       ]
     ]
   },
@@ -8977,19 +9493,22 @@ window.dialogueCards = [
         "bulb",
         "/bʌlb/",
         "灯泡",
-        "Try changing the bulb."
+        "Try changing the bulb.",
+        "试试换一下灯泡。"
       ],
       [
         "wiring",
         "/ˈwaɪərɪŋ/",
         "线路",
-        "It may be a wiring issue."
+        "It may be a wiring issue.",
+        "可能是线路问题。"
       ],
       [
         "electrician",
         "/ɪˌlekˈtrɪʃn/",
         "电工",
-        "I will send an electrician."
+        "I will send an electrician.",
+        "我会派电工过去。"
       ]
     ]
   },
@@ -9035,19 +9554,22 @@ window.dialogueCards = [
         "laundry",
         "/ˈlɔːndri/",
         "衣物；洗衣",
-        "Is this your laundry?"
+        "Is this your laundry?",
+        "这是你的换洗衣服吗？"
       ],
       [
         "washer",
         "/ˈwɑːʃər/",
         "洗衣机",
-        "The laundry is in the washer."
+        "The laundry is in the washer.",
+        "衣服在洗衣机里。"
       ],
       [
         "hold up",
         "/hoʊld ʌp/",
         "耽误；占用",
-        "Sorry for holding up the machine."
+        "Sorry for holding up the machine.",
+        "不好意思占用机器太久了。"
       ]
     ]
   },
@@ -9093,19 +9615,22 @@ window.dialogueCards = [
         "repair appointment",
         "/rɪˈper əˈpɔɪntmənt/",
         "维修预约",
-        "I need to change my repair appointment."
+        "I need to change my repair appointment.",
+        "我需要改维修预约时间。"
       ],
       [
         "original",
         "/əˈrɪdʒənl/",
         "原来的",
-        "What was the original time?"
+        "What was the original time?",
+        "原定的时间是什么时候？"
       ],
       [
         "available",
         "/əˈveɪləbl/",
         "有空的；可用的",
-        "Friday afternoon is available."
+        "Friday afternoon is available.",
+        "周五下午有空。"
       ]
     ]
   },
@@ -9151,19 +9676,22 @@ window.dialogueCards = [
         "package",
         "/ˈpækɪdʒ/",
         "包裹",
-        "Your package was outside my door."
+        "Your package was outside my door.",
+        "你的包裹在我门口。"
       ],
       [
         "apartment number",
         "/əˈpɑːrtmənt ˈnʌmbər/",
         "公寓房号",
-        "It has my apartment number."
+        "It has my apartment number.",
+        "上面有我的公寓号。"
       ],
       [
         "appreciate",
         "/əˈpriːʃieɪt/",
         "感激",
-        "I really appreciate it."
+        "I really appreciate it.",
+        "真的很感谢。"
       ]
     ]
   },
@@ -9199,19 +9727,22 @@ window.dialogueCards = [
         "recommend",
         "/ˌrekəˈmend/",
         "推荐；建议",
-        "Can you recommend a good restaurant near here?"
+        "Can you recommend a good restaurant near here?",
+        "附近有什么好餐厅推荐吗？"
       ],
       [
         "drowsy",
         "/ˈdraʊzi/",
         "困倦的；昏昏欲睡的",
-        "This medicine may make you drowsy."
+        "This medicine may make you drowsy.",
+        "这种药可能会让你犯困。"
       ],
       [
         "non-drowsy",
         "/ˌnɑːn ˈdraʊzi/",
         "不嗜睡的",
-        "This is a non-drowsy formula."
+        "This is a non-drowsy formula.",
+        "这是不易引起嗜睡的配方。"
       ]
     ]
   },
@@ -9247,19 +9778,22 @@ window.dialogueCards = [
         "chilly",
         "/ˈtʃɪli/",
         "冷飕飕的；有凉意的",
-        "It's a bit chilly outside, so wear a jacket."
+        "It's a bit chilly outside, so wear a jacket.",
+        "外面有点凉，穿件外套。"
       ],
       [
         "stay in",
         "/steɪ ɪn/",
         "待在家里；不出门",
-        "I’m going to stay in tonight."
+        "I’m going to stay in tonight.",
+        ""
       ],
       [
         "clear up",
         "/klɪr ʌp/",
         "天气转晴",
-        "The sky should clear up later."
+        "The sky should clear up later.",
+        "天气应该过会儿就会放晴。"
       ]
     ]
   },
@@ -9295,19 +9829,22 @@ window.dialogueCards = [
         "takeout",
         "/ˈteɪkaʊt/",
         "外卖；外带食物",
-        "We ordered takeout because it was raining."
+        "We ordered takeout because it was raining.",
+        "因为下雨，我们点了外卖。"
       ],
       [
         "delivery",
         "/dɪˈlɪvəri/",
         "递送；配送",
-        "The delivery arrived in 20 minutes."
+        "The delivery arrived in 20 minutes.",
+        "配送二十分钟就到了。"
       ],
       [
         "crave",
         "/kreɪv/",
         "特别想要；渴望",
-        "I'm craving pizza tonight."
+        "I'm craving pizza tonight.",
+        "今晚特别想吃披萨。"
       ]
     ]
   },
@@ -9343,19 +9880,22 @@ window.dialogueCards = [
         "wrap up",
         "/ræp ʌp/",
         "结束；收尾",
-        "The project is finally wrapped up."
+        "The project is finally wrapped up.",
+        "项目终于收尾了。"
       ],
       [
         "pick-me-up",
         "/ˈpɪk mi ʌp/",
         "提神的东西",
-        "Coffee is my afternoon pick-me-up."
+        "Coffee is my afternoon pick-me-up.",
+        "咖啡是我下午提神的法宝。"
       ],
       [
         "skip",
         "/skɪp/",
         "跳过；省去",
-        "I’m skipping cooking tonight."
+        "I’m skipping cooking tonight.",
+        ""
       ]
     ]
   },
@@ -9391,19 +9931,22 @@ window.dialogueCards = [
         "hobby",
         "/ˈhɑːbi/",
         "爱好；嗜好",
-        "Reading is my favorite hobby."
+        "Reading is my favorite hobby.",
+        "阅读是我最喜欢的爱好。"
       ],
       [
         "outdoor",
         "/ˌaʊtˈdɔːr/",
         "户外的",
-        "We did some outdoor activities last weekend."
+        "We did some outdoor activities last weekend.",
+        "我们上周末做了一些户外活动。"
       ],
       [
         "pick up",
         "/pɪk ʌp/",
         "开始学习；培养",
-        "I want to pick up a new hobby."
+        "I want to pick up a new hobby.",
+        "想培养个新爱好。"
       ]
     ]
   },
@@ -9439,19 +9982,22 @@ window.dialogueCards = [
         "sleep in",
         "/sliːp ɪn/",
         "睡懒觉；晚起",
-        "I slept in this morning."
+        "I slept in this morning.",
+        "今天早上睡过头了。"
       ],
       [
         "curled up",
         "/kɜːrld ʌp/",
         "蜷缩着；舒服地窝着",
-        "She curled up on the sofa."
+        "She curled up on the sofa.",
+        "她蜷缩在沙发上。"
       ],
       [
         "fulfilling",
         "/fʊlˈfɪlɪŋ/",
         "令人满足的；充实的",
-        "It was a fulfilling day off."
+        "It was a fulfilling day off.",
+        "休息日过得很充实。"
       ]
     ]
   },
@@ -9487,19 +10033,22 @@ window.dialogueCards = [
         "assignment",
         "/əˈsaɪnmənt/",
         "作业；任务",
-        "The teacher gave us a new reading assignment."
+        "The teacher gave us a new reading assignment.",
+        "老师给我们布置了新的阅读作业。"
       ],
       [
         "deadline",
         "/ˈdedlaɪn/",
         "截止日期",
-        "Please submit your report before the deadline."
+        "Please submit your report before the deadline.",
+        "请在截止日期前提交报告。"
       ],
       [
         "extension",
         "/ɪkˈstenʃn/",
         "延期；延长期",
-        "Can we ask for an extension?"
+        "Can we ask for an extension?",
+        "我们能申请延期吗？"
       ]
     ]
   },
@@ -9535,19 +10084,22 @@ window.dialogueCards = [
         "hiking",
         "/ˈhaɪkɪŋ/",
         "徒步；远足",
-        "We went hiking in the mountains."
+        "We went hiking in the mountains.",
+        "我们去山里徒步了。"
       ],
       [
         "authentic",
         "/ɔːˈθentɪk/",
         "正宗的；地道的",
-        "We had authentic local food."
+        "We had authentic local food.",
+        "我们吃了地道的本地美食。"
       ],
       [
         "recharge",
         "/ˌriːˈtʃɑːrdʒ/",
         "恢复精力；充电",
-        "I need to recharge this weekend."
+        "I need to recharge this weekend.",
+        "这周末我需要充充电。"
       ]
     ]
   },
@@ -9583,19 +10135,22 @@ window.dialogueCards = [
         "starving",
         "/ˈstɑːrvɪŋ/",
         "非常饿的",
-        "I skipped breakfast and now I'm starving."
+        "I skipped breakfast and now I'm starving.",
+        "没吃早饭，现在饿死了。"
       ],
       [
         "nearby",
         "/ˌnɪrˈbaɪ/",
         "在附近",
-        "There is a cafe nearby."
+        "There is a cafe nearby.",
+        "附近有家咖啡馆。"
       ],
       [
         "within walking distance",
         "/wɪˈðɪn ˈwɔːkɪŋ ˈdɪstəns/",
         "步行可达",
-        "Is the station within walking distance?"
+        "Is the station within walking distance?",
+        "车站走路能到吗？"
       ]
     ]
   },
@@ -9631,19 +10186,22 @@ window.dialogueCards = [
         "spirit",
         "/ˈspɪrɪt/",
         "精神；气质",
-        "The spirit of the day still inspires me."
+        "The spirit of the day still inspires me.",
+        "那一天的精神至今仍激励着我。"
       ],
       [
         "youthful",
         "/ˈjuːθfl/",
         "年轻有活力的",
-        "She has a youthful attitude."
+        "She has a youthful attitude.",
+        "她心态很年轻。"
       ],
       [
         "catch up with",
         "/kætʃ ʌp wɪð/",
         "和某人叙旧；了解近况",
-        "I’m catching up with old classmates."
+        "I’m catching up with old classmates.",
+        ""
       ]
     ]
   },
@@ -9679,19 +10237,22 @@ window.dialogueCards = [
         "try on",
         "/traɪ ɑːn/",
         "试穿",
-        "Can I try these shoes on?"
+        "Can I try these shoes on?",
+        "这双鞋能试穿吗？"
       ],
       [
         "fitting room",
         "/ˈfɪtɪŋ ruːm/",
         "试衣间",
-        "The fitting room is occupied."
+        "The fitting room is occupied.",
+        "试衣间有人。"
       ],
       [
         "size",
         "/saɪz/",
         "尺码；大小",
-        "Do you have this in a smaller size?"
+        "Do you have this in a smaller size?",
+        "这个有小一号的吗？"
       ]
     ]
   },
@@ -9737,19 +10298,22 @@ window.dialogueCards = [
         "plan",
         "/plæn/",
         "计划；安排",
-        "Do you have any plans for the weekend?"
+        "Do you have any plans for the weekend?",
+        "周末有什么安排吗？"
       ],
       [
         "free",
         "/friː/",
         "有空的；空闲的",
-        "I’m free this afternoon if you want to meet."
+        "I’m free this afternoon if you want to meet.",
+        ""
       ],
       [
         "I'll be there",
         "/aɪl bi ðer/",
         "我会到；我一定去",
-        "The party starts at seven, and I'll be there."
+        "The party starts at seven, and I'll be there.",
+        "派对七点开始，我会去的。"
       ]
     ]
   },
@@ -9785,19 +10349,22 @@ window.dialogueCards = [
         "reservation",
         "/ˌrezərˈveɪʃn/",
         "预订",
-        "I made a reservation under my name."
+        "I made a reservation under my name.",
+        "我用我的名字订了位。"
       ],
       [
         "king room",
         "/kɪŋ ruːm/",
         "大床房",
-        "We booked a king room for two nights."
+        "We booked a king room for two nights.",
+        "我们订了两晚的大床房。"
       ],
       [
         "serve",
         "/sɜːrv/",
         "提供；供应",
-        "Breakfast is served from 7 to 10."
+        "Breakfast is served from 7 to 10.",
+        "早餐供应时间是7点到10点。"
       ]
     ]
   },
@@ -9833,19 +10400,22 @@ window.dialogueCards = [
         "crash",
         "/kræʃ/",
         "崩溃；死机",
-        "My computer had a crash and I lost the file."
+        "My computer had a crash and I lost the file.",
+        "我电脑崩溃了，文件丢了。"
       ],
       [
         "back up",
         "/bæk ʌp/",
         "备份",
-        "You should back up your photos regularly."
+        "You should back up your photos regularly.",
+        "你应该定期备份照片。"
       ],
       [
         "reinstall",
         "/ˌriːɪnˈstɔːl/",
         "重新安装",
-        "I need to reinstall the system."
+        "I need to reinstall the system.",
+        "我需要重装系统。"
       ]
     ]
   },
@@ -9881,19 +10451,22 @@ window.dialogueCards = [
         "picnic",
         "/ˈpɪknɪk/",
         "野餐",
-        "We are having a picnic in the park."
+        "We are having a picnic in the park.",
+        "我们在公园里野餐。"
       ],
       [
         "join",
         "/dʒɔɪn/",
         "加入；参加",
-        "Would you like to join us?"
+        "Would you like to join us?",
+        "你想加入我们吗？"
       ],
       [
         "take care of",
         "/teɪk ker əv/",
         "负责；照料",
-        "I'll take care of the drinks."
+        "I'll take care of the drinks.",
+        "饮料我来负责。"
       ]
     ]
   },
@@ -9929,19 +10502,22 @@ window.dialogueCards = [
         "iced latte",
         "/aɪst ˈlɑːteɪ/",
         "冰拿铁",
-        "I’d like a large iced latte."
+        "I’d like a large iced latte.",
+        ""
       ],
       [
         "oat milk",
         "/oʊt mɪlk/",
         "燕麦奶",
-        "Can I have it with oat milk?"
+        "Can I have it with oat milk?",
+        "能换成燕麦奶吗？"
       ],
       [
         "for here",
         "/fɔːr hɪr/",
         "堂食；在店里用",
-        "A croissant for here, please."
+        "A croissant for here, please.",
+        "一个可颂，在这吃。"
       ]
     ]
   },
@@ -9977,19 +10553,22 @@ window.dialogueCards = [
         "nearest",
         "/ˈnɪrəst/",
         "最近的",
-        "Where is the nearest subway station?"
+        "Where is the nearest subway station?",
+        "最近的地铁站在哪里？"
       ],
       [
         "intersection",
         "/ˌɪntərˈsekʃn/",
         "十字路口；交叉路口",
-        "Turn right at the second intersection."
+        "Turn right at the second intersection.",
+        "在第二个路口右转。"
       ],
       [
         "quite close",
         "/kwaɪt kloʊs/",
         "很近",
-        "It's quite close from here."
+        "It's quite close from here.",
+        "离这儿挺近的。"
       ]
     ]
   },
@@ -10035,19 +10614,22 @@ window.dialogueCards = [
         "scattered showers",
         "/ˈskætərd ˈʃaʊərz/",
         "阵雨；分散性降雨",
-        "There will be scattered showers this afternoon."
+        "There will be scattered showers this afternoon.",
+        "今天下午有零星阵雨。"
       ],
       [
         "lighten up",
         "/ˈlaɪtn ʌp/",
         "减弱；变小",
-        "Let's wait for the rain to lighten up."
+        "Let's wait for the rain to lighten up.",
+        "等雨小一点再说吧。"
       ],
       [
         "soaked",
         "/soʊkt/",
         "湿透的；淋透的",
-        "I forgot my umbrella and got soaked."
+        "I forgot my umbrella and got soaked.",
+        "忘了带伞，全身淋透了。"
       ]
     ]
   },
@@ -10070,32 +10652,35 @@ window.dialogueCards = [
       [
         "A",
         "When you started talking about the algorithm, you lost me.",
-        "When you started talking about the algorithm, you lost me."
+        "当你开始讲算法的时候，我就跟不上了。"
       ],
       [
         "B",
         "You lost me at 'quantum physics'.",
-        "You lost me at 'quantum physics'."
+        "你讲到\"量子物理\"的时候我就懵了。"
       ]
     ],
     "words": [
       [
         "You lost me.",
-        "/phrase/",
+        "/juː lɒst miː/",
         "意思是“我没听懂 / 我跟不上了”。",
-        "When you started talking about the algorithm, you lost me."
+        "When you started talking about the algorithm, you lost me.",
+        "你开始讲那个算法的时候，我就跟不上了。"
       ],
       [
         "lost me at",
-        "/phrase/",
+        "/lɒst miː æt/",
         "从某个点开始就没听懂",
-        "You lost me at 'quantum physics'."
+        "He was explaining the math problem but lost me at the second step.",
+        "他在解释那道数学题，但从第二步开始我就没听懂了。"
       ],
       [
         "follow",
-        "/phrase/",
+        "/ˈfɑːloʊ/",
         "跟上理解或节奏",
-        "Use \"You lost me.\" when the situation fits."
+        "I can't follow what you're saying, please slow down.",
+        "我跟不上你说的话，请慢一点。"
       ]
     ]
   },
@@ -10118,32 +10703,35 @@ window.dialogueCards = [
       [
         "A",
         "Do you want more coffee? No, I'm good, thanks.",
-        "Do you want more coffee? No, I'm good, thanks."
+        "你还要咖啡吗？不用了，我够了，谢谢。"
       ],
       [
         "B",
         "Are you okay after the fall? Yeah, I'm good.",
-        "Are you okay after the fall? Yeah, I'm good."
+        "你摔了之后没事吧？嗯，我没事。"
       ]
     ],
     "words": [
       [
         "I'm good.",
-        "/phrase/",
+        "/aɪm ɡʊd/",
         "意思可以是“不用了 / 我够了”，也可以表示“我没事”。",
-        "Do you want more coffee? No, I'm good, thanks."
+        "\"Would you like some more cake?\" \"No thanks, I'm good.\"",
+        "\"再来点蛋糕吗？\"\"不用了谢谢，我够了。\""
       ],
       [
         "No, I'm good",
-        "/phrase/",
+        "/noʊ aɪm ɡʊd/",
         "礼貌拒绝额外提供",
-        "Are you okay after the fall? Yeah, I'm good."
+        "Would you like more coffee? — No, I'm good, thanks.",
+        "还要咖啡吗？——不用了，谢谢。"
       ],
       [
         "okay",
-        "/phrase/",
+        "/oʊˈkeɪ/",
         "状态还可以；没问题",
-        "Use \"I'm good.\" when the situation fits."
+        "Are you feeling okay today?",
+        "你今天感觉还好吗？"
       ]
     ]
   },
@@ -10166,32 +10754,35 @@ window.dialogueCards = [
       [
         "A",
         "Thanks for coming. Have a good one!",
-        "Thanks for coming. Have a good one!"
+        "谢谢你来。祝你过得愉快！"
       ],
       [
         "B",
         "See you tomorrow! Have a good one!",
-        "See you tomorrow! Have a good one!"
+        "明天见！祝你愉快！"
       ]
     ],
     "words": [
       [
         "Have a good one!",
-        "/phrase/",
+        "/hæv ə ɡʊd wʌn/",
         "意思是“祝你愉快”。",
-        "Thanks for coming. Have a good one!"
+        "Thanks for coming. Have a good one!",
+        "谢谢光临，祝您愉快！"
       ],
       [
         "good one",
-        "/phrase/",
+        "/ɡʊd wʌn/",
         "代指美好的一天、晚上或周末",
-        "See you tomorrow! Have a good one!"
+        "\"Have a good one!\" she said as I left the office.",
+        "\"祝你度过美好的一天！\"她在我离开办公室时说道。"
       ],
       [
         "see you",
-        "/phrase/",
+        "/ˈsiː juː/",
         "再见；回头见",
-        "Use \"Have a good one!\" when the situation fits."
+        "I have to go now — see you tomorrow!",
+        "我得走了——明天见！"
       ]
     ]
   },
@@ -10214,32 +10805,35 @@ window.dialogueCards = [
       [
         "A",
         "Can I help you find anything? No thanks, I'm just browsing.",
-        "Can I help you find anything? No thanks, I'm just browsing."
+        "需要帮忙找什么吗？不用了，谢谢，我就是随便看看。"
       ],
       [
         "B",
         "I'm just browsing, but I'll let you know if I need help.",
-        "I'm just browsing, but I'll let you know if I need help."
+        "我就是随便逛逛，需要帮忙的话我叫你。"
       ]
     ],
     "words": [
       [
         "I'm just browsing.",
-        "/phrase/",
+        "/aɪm dʒʌst ˈbraʊzɪŋ/",
         "意思是“我只是随便看看”。",
-        "Can I help you find anything? No thanks, I'm just browsing."
+        "The shop assistant asked if I needed help, but I told her I'm just browsing.",
+        "店员问我要不要帮忙，我告诉她我只是随便看看。"
       ],
       [
         "browsing",
-        "/phrase/",
+        "/ˈbraʊzɪŋ/",
         "随便看看；浏览",
-        "I'm just browsing, but I'll let you know if I need help."
+        "No thanks, I am just browsing — I will let you know if I need help.",
+        "不用了，谢谢，我只是随便看看，需要帮助我会叫你。"
       ],
       [
         "let you know",
-        "/phrase/",
+        "/let juː nəʊ/",
         "有需要时告知对方",
-        "Use \"I'm just browsing.\" when the situation fits."
+        "I'm not sure if I can make it yet — I'll let you know by Friday.",
+        "我还不确定能不能去——周五之前我会告诉你。"
       ]
     ]
   },
@@ -10262,32 +10856,35 @@ window.dialogueCards = [
       [
         "A",
         "This jacket was only twenty dollars. It's a steal.",
-        "This jacket was only twenty dollars. It's a steal."
+        "这件夹克才二十美元，简直太划算了。"
       ],
       [
         "B",
         "For a hotel this close to the station, it's a steal.",
-        "For a hotel this close to the station, it's a steal."
+        "离车站这么近的酒店，这个价格真是捡到宝了。"
       ]
     ],
     "words": [
       [
         "It's a steal.",
-        "/phrase/",
+        "/ɪts ə stiːl/",
         "意思是“太划算了 / 简直捡到便宜”。",
-        "This jacket was only twenty dollars. It's a steal."
+        "I got this designer bag for only $20 — it's a steal!",
+        "我花20美元就买到了这个设计师包——太划算了！"
       ],
       [
         "steal",
-        "/phrase/",
+        "/stiːl/",
         "超值便宜货",
-        "For a hotel this close to the station, it's a steal."
+        "This jacket was only ten dollars — what a steal!",
+        "这件夹克只要十美元，太划算了！"
       ],
       [
         "deal",
-        "/phrase/",
+        "/diːl/",
         "划算的交易",
-        "Use \"It's a steal.\" when the situation fits."
+        "I got a great deal on this jacket during the sale.",
+        "这件夹克我在打折时买得很划算。"
       ]
     ]
   },
@@ -10310,32 +10907,35 @@ window.dialogueCards = [
       [
         "A",
         "Level with me. Do you really like the plan?",
-        "Level with me. Do you really like the plan?"
+        "跟我说实话，你真的喜欢这个方案吗？"
       ],
       [
         "B",
         "Can you level with me about what happened?",
-        "Can you level with me about what happened?"
+        "你能如实告诉我到底发生了什么吗？"
       ]
     ],
     "words": [
       [
         "Level with me.",
-        "/phrase/",
+        "/ˈlevl wɪð miː/",
         "意思是“跟我说实话”。",
-        "Level with me. Do you really like the plan?"
+        "Level with me — do you really think this project will succeed?",
+        "跟我说实话——你真的觉得这个项目能成功吗？"
       ],
       [
         "level with",
-        "/phrase/",
+        "/ˈlevl wɪð/",
         "坦诚相告",
-        "Can you level with me about what happened?"
+        "I need you to level with me about what happened at the meeting.",
+        "我需要你坦诚告诉我会上发生了什么。"
       ],
       [
         "honest",
-        "/phrase/",
+        "/ˈɒnɪst/",
         "诚实的；坦率的",
-        "Use \"Level with me.\" when the situation fits."
+        "To be honest, I don't think this plan is going to work.",
+        "说实话，我觉得这个计划行不通。"
       ]
     ]
   },
@@ -10358,32 +10958,35 @@ window.dialogueCards = [
       [
         "A",
         "I skipped breakfast and now I'm starving.",
-        "I skipped breakfast and now I'm starving."
+        "我没吃早饭，现在饿坏了。"
       ],
       [
         "B",
         "I'm starving. What's for lunch?",
-        "I'm starving. What's for lunch?"
+        "我快饿死了，中午吃什么？"
       ]
     ],
     "words": [
       [
         "I'm starving.",
-        "/phrase/",
+        "/aɪm ˈstɑːvɪŋ/",
         "意思是“我快饿死了”。",
-        "I skipped breakfast and now I'm starving."
+        "When's dinner? I'm starving — I haven't eaten since breakfast.",
+        "晚饭什么时候好？我快饿死了——我从早饭后就一直没吃。"
       ],
       [
         "starving",
-        "/phrase/",
+        "/ˈstɑːrvɪŋ/",
         "非常饿的",
-        "I'm starving. What's for lunch?"
+        "I haven't eaten all day — I'm absolutely starving.",
+        "我一整天没吃东西了，快饿死了。"
       ],
       [
         "skip breakfast",
-        "/phrase/",
+        "/skɪp ˈbrekfəst/",
         "不吃早饭",
-        "Use \"I'm starving.\" when the situation fits."
+        "I usually skip breakfast because I'm not hungry in the morning.",
+        "我通常不吃早饭，因为早上不饿。"
       ]
     ]
   },
@@ -10406,32 +11009,35 @@ window.dialogueCards = [
       [
         "A",
         "I can't come tonight because I have to work. Fair enough.",
-        "I can't come tonight because I have to work. Fair enough."
+        "我今晚来不了，因为要加班。好吧，可以理解。"
       ],
       [
         "B",
         "Fair enough. Let's choose a cheaper restaurant.",
-        "Fair enough. Let's choose a cheaper restaurant."
+        "有道理，那我们选个便宜点的餐厅吧。"
       ]
     ],
     "words": [
       [
         "Fair enough.",
-        "/phrase/",
+        "/fɛr ɪˈnʌf/",
         "意思是“有道理 / 可以理解”。",
-        "I can't come tonight because I have to work. Fair enough."
+        "I can't come tonight because I have to work. Fair enough.",
+        "我今晚有工作来不了。理解。"
       ],
       [
         "fair",
-        "/phrase/",
+        "/fer/",
         "合理的；公平的",
-        "Fair enough. Let's choose a cheaper restaurant."
+        "That's a fair price for such high quality.",
+        "对于这样的高品质来说，这个价格是合理的。"
       ],
       [
         "enough",
-        "/phrase/",
+        "/ɪˈnʌf/",
         "足够；可以接受",
-        "Use \"Fair enough.\" when the situation fits."
+        "That's enough, we don't need any more.",
+        "够了，我们不需要更多了。"
       ]
     ]
   },
@@ -10454,32 +11060,35 @@ window.dialogueCards = [
       [
         "A",
         "Don't worry about the presentation. You got this.",
-        "Don't worry about the presentation. You got this."
+        "别担心演讲的事，你能行的。"
       ],
       [
         "B",
         "You studied all week. You got this.",
-        "You studied all week. You got this."
+        "你复习了一整周，肯定没问题。"
       ]
     ],
     "words": [
       [
         "You got this.",
-        "/phrase/",
+        "/juː ɡɒt ðɪs/",
         "意思是“你可以的”。",
-        "Don't worry about the presentation. You got this."
+        "Don't worry about the presentation. You got this.",
+        "别担心演示，你行的。"
       ],
       [
         "got this",
-        "/phrase/",
+        "/ɡɒt ðɪs/",
         "能搞定；能做到",
-        "You studied all week. You got this."
+        "Don't worry about the presentation — you got this!",
+        "别担心演讲——你能搞定的！"
       ],
       [
         "presentation",
-        "/phrase/",
+        "/ˌprɛzənˈteɪʃən/",
         "演讲；汇报",
-        "Use \"You got this.\" when the situation fits."
+        "I have to give a presentation to the team tomorrow.",
+        "我明天要给团队做一个汇报。"
       ]
     ]
   },
@@ -10502,32 +11111,35 @@ window.dialogueCards = [
       [
         "A",
         "Dear Mr. Smith, I hope this email finds you well.",
-        "Dear Mr. Smith, I hope this email finds you well."
+        "尊敬的Smith先生，见信好。"
       ],
       [
         "B",
         "I hope this email finds you well. I'm writing to follow up on our meeting.",
-        "I hope this email finds you well. I'm writing to follow up on our meeting."
+        "见信好，我写这封邮件是想跟进一下我们会面的事。"
       ]
     ],
     "words": [
       [
         "I hope this email finds you well.",
-        "/phrase/",
+        "/aɪ həʊp ðɪs ˈiːmeɪl faɪndz juː wel/",
         "意思是“希望您一切安好”。",
-        "Dear Mr. Smith, I hope this email finds you well."
+        "I hope this email finds you well. I'm writing to discuss the upcoming project.",
+        "希望您一切安好。我写信是想讨论一下即将开始的项目。"
       ],
       [
         "email opening",
-        "/phrase/",
+        "/ˈiːmeɪl ˈoʊpənɪŋ/",
         "邮件开场白",
-        "I hope this email finds you well. I'm writing to follow up on our meeting."
+        "A good email opening can grab the reader's attention.",
+        "好的邮件开场白能吸引读者的注意力。"
       ],
       [
         "follow up",
-        "/phrase/",
+        "/ˈfɑːloʊ ʌp/",
         "跟进",
-        "Use \"I hope this email finds you well.\" when the situation fits."
+        "I'll follow up with the client tomorrow.",
+        "我明天会跟进客户。"
       ]
     ]
   },
@@ -10550,32 +11162,35 @@ window.dialogueCards = [
       [
         "A",
         "It's almost 5 PM, so let's wrap up here and continue next week.",
-        "It's almost 5 PM, so let's wrap up here and continue next week."
+        "快五点了，我们今天就到这里吧，下周继续。"
       ],
       [
         "B",
         "We've covered all agenda items. Let's wrap up here.",
-        "We've covered all agenda items. Let's wrap up here."
+        "所有议题都讨论完了，今天就到这里吧。"
       ]
     ],
     "words": [
       [
         "Let's wrap up here.",
-        "/phrase/",
+        "/lets ræp ʌp hɪə/",
         "意思是“我们就到这里结束吧”。",
-        "It's almost 5 PM, so let's wrap up here and continue next week."
+        "I think we've covered everything — let's wrap up here.",
+        "我觉得该讲的都讲到了——我们就到这里结束吧。"
       ],
       [
         "wrap up",
-        "/phrase/",
+        "/ræp ʌp/",
         "结束；收尾",
-        "We've covered all agenda items. Let's wrap up here."
+        "Let's wrap up the meeting and summarize the key points.",
+        "我们结束会议，总结一下要点吧。"
       ],
       [
         "agenda item",
-        "/phrase/",
+        "/əˈdʒendə ˈaɪtəm/",
         "议程项目",
-        "Use \"Let's wrap up here.\" when the situation fits."
+        "The first agenda item is the budget review.",
+        "第一个议程项目是预算审核。"
       ]
     ]
   },
@@ -10598,32 +11213,35 @@ window.dialogueCards = [
       [
         "A",
         "I would appreciate it if you could send me the report by EOD.",
-        "I would appreciate it if you could send me the report by EOD."
+        "希望您能在今天下班前把报告发给我。"
       ],
       [
         "B",
         "I would appreciate it if you could clarify this point.",
-        "I would appreciate it if you could clarify this point."
+        "麻烦您就这一点做个说明。"
       ]
     ],
     "words": [
       [
         "I would appreciate it if you could...",
-        "/phrase/",
+        "/aɪ wʊd əˈpriːʃieɪt ɪt ɪf juː kʊd/",
         "意思是“如果您能……我将不胜感激”。",
-        "I would appreciate it if you could send me the report by EOD."
+        "I would appreciate it if you could send me the report by end of day.",
+        "如果您能在今天下班前把报告发给我，我将不胜感激。"
       ],
       [
         "appreciate",
-        "/phrase/",
+        "/əˈpriːʃieɪt/",
         "感激；感谢",
-        "I would appreciate it if you could clarify this point."
+        "I really appreciate your help with this project.",
+        "我非常感激你在这个项目上的帮助。"
       ],
       [
         "clarify",
-        "/phrase/",
+        "/ˈklærɪfaɪ/",
         "澄清；说明",
-        "Use \"I would appreciate it if you could...\" when the situation fits."
+        "Could you clarify what you meant by that comment?",
+        "你能澄清一下你那条评论的意思吗？"
       ]
     ]
   },
@@ -10646,32 +11264,35 @@ window.dialogueCards = [
       [
         "A",
         "We've done enough for today. Let's call it a day.",
-        "We've done enough for today. Let's call it a day."
+        "今天做得差不多了，收工吧。"
       ],
       [
         "B",
         "It's getting late, so let's call it a day.",
-        "It's getting late, so let's call it a day."
+        "时间不早了，今天就到这吧。"
       ]
     ],
     "words": [
       [
         "Let's call it a day.",
-        "/phrase/",
+        "/lets kɔːl ɪt ə deɪ/",
         "意思是“今天就到这里吧”。",
-        "We've done enough for today. Let's call it a day."
+        "We've been working for ten hours — let's call it a day.",
+        "我们已经工作了十个小时——今天就到这里吧。"
       ],
       [
         "call it a day",
-        "/phrase/",
+        "/kɔːl ɪt ə deɪ/",
         "收工；到此为止",
-        "It's getting late, so let's call it a day."
+        "It is already six o'clock — let's call it a day and continue tomorrow.",
+        "已经六点了，我们收工吧，明天继续。"
       ],
       [
         "getting late",
-        "/phrase/",
+        "/ˈɡetɪŋ leɪt/",
         "时间不早了",
-        "Use \"Let's call it a day.\" when the situation fits."
+        "It's getting late, I should head home.",
+        "时间不早了，我该回家了。"
       ]
     ]
   },
@@ -10694,32 +11315,35 @@ window.dialogueCards = [
       [
         "A",
         "I can't join the call right now. I'm swamped.",
-        "I can't join the call right now. I'm swamped."
+        "我现在没法参加电话会议，忙得不可开交。"
       ],
       [
         "B",
         "I'm swamped this week, but I can help on Friday.",
-        "I'm swamped this week, but I can help on Friday."
+        "我这周忙得焦头烂额，但周五可以帮忙。"
       ]
     ],
     "words": [
       [
         "I'm swamped.",
-        "/phrase/",
+        "/aɪm swɒmpt/",
         "意思是“我忙得不可开交”。",
-        "I can't join the call right now. I'm swamped."
+        "I'd love to help, but I'm swamped with work this week.",
+        "我很想帮忙，但这周工作忙得不可开交。"
       ],
       [
         "swamped",
-        "/phrase/",
+        "/swɑːmpt/",
         "忙得不可开交",
-        "I'm swamped this week, but I can help on Friday."
+        "I'm swamped with work this week — can we meet next week?",
+        "这周我忙得不可开交，能下周再见面吗？"
       ],
       [
         "join the call",
-        "/phrase/",
+        "/dʒɔɪn ðə kɔːl/",
         "参加电话会议",
-        "Use \"I'm swamped.\" when the situation fits."
+        "I'm running a few minutes late — I'll join the call at 2:05.",
+        "我会晚几分钟——我2:05参加电话会议。"
       ]
     ]
   },
@@ -10742,32 +11366,35 @@ window.dialogueCards = [
       [
         "A",
         "Please keep me posted on the client feedback.",
-        "Please keep me posted on the client feedback."
+        "客户反馈有消息了随时告诉我。"
       ],
       [
         "B",
         "Keep me posted if anything changes.",
-        "Keep me posted if anything changes."
+        "有什么变化随时通知我。"
       ]
     ],
     "words": [
       [
-        "Keep me posted.",
-        "/phrase/",
+        "keep me posted",
+        "/kiːp miː ˈpəʊstɪd/",
         "意思是“随时告诉我进展”。",
-        "Please keep me posted on the client feedback."
+        "Keep me posted on how the interview goes — I'm rooting for you!",
+        "面试情况随时告诉我——我支持你！"
       ],
       [
         "posted",
-        "/phrase/",
+        "/ˈpoʊstɪd/",
         "被告知最新情况",
-        "Keep me posted if anything changes."
+        "Keep me posted if anything changes.",
+        "有什么变动随时通知我。"
       ],
       [
         "client feedback",
-        "/phrase/",
+        "/ˈklaɪənt ˈfiːdbæk/",
         "客户反馈",
-        "Use \"Keep me posted.\" when the situation fits."
+        "We received positive client feedback on the new design.",
+        "我们收到了客户对新设计的正面反馈。"
       ]
     ]
   },
@@ -10790,32 +11417,35 @@ window.dialogueCards = [
       [
         "A",
         "Everyone is here, so let's get started.",
-        "Everyone is here, so let's get started."
+        "大家都到了，那我们开始吧。"
       ],
       [
         "B",
         "Let's get started with a quick review.",
-        "Let's get started with a quick review."
+        "我们先快速回顾一下，开始吧。"
       ]
     ],
     "words": [
       [
         "Let's get started.",
-        "/phrase/",
+        "/lets ɡet ˈstɑːtɪd/",
         "意思是“我们开始吧”。",
-        "Everyone is here, so let's get started."
+        "Everyone's here now, so let's get started with the meeting.",
+        "大家都到齐了，我们开始开会吧。"
       ],
       [
         "get started",
-        "/phrase/",
+        "/ɡet ˈstɑːrtɪd/",
         "开始",
-        "Let's get started with a quick review."
+        "Let's get started on the project right away.",
+        "我们马上开始这个项目吧。"
       ],
       [
         "quick review",
-        "/phrase/",
+        "/kwɪk rɪˈvjuː/",
         "快速回顾",
-        "Use \"Let's get started.\" when the situation fits."
+        "Let's do a quick review of the main points before we end the meeting.",
+        "我们在会议结束前快速回顾一下要点吧。"
       ]
     ]
   },
@@ -10838,32 +11468,35 @@ window.dialogueCards = [
       [
         "A",
         "I'm writing to follow up on yesterday's meeting.",
-        "I'm writing to follow up on yesterday's meeting."
+        "我写这封邮件是想跟进一下昨天的会议。"
       ],
       [
         "B",
         "I'm writing to follow up on the proposal I sent last week.",
-        "I'm writing to follow up on the proposal I sent last week."
+        "我来跟进一下上周发的提案。"
       ]
     ],
     "words": [
       [
         "I'm writing to follow up on...",
-        "/phrase/",
+        "/aɪm ˈraɪtɪŋ tə ˈfɒləʊ ʌp ɒn/",
         "意思是“我写信是想跟进……”。",
-        "I'm writing to follow up on yesterday's meeting."
+        "I'm writing to follow up on our conversation from last week's meeting.",
+        "我写信是想跟进我们上周会议上的讨论。"
       ],
       [
         "follow up on",
-        "/phrase/",
+        "/ˈfɑːloʊ ʌp ɑːn/",
         "跟进某事",
-        "I'm writing to follow up on the proposal I sent last week."
+        "Can you follow up on that email I sent last week?",
+        "你能跟进一下我上周发的那封邮件吗？"
       ],
       [
         "proposal",
-        "/phrase/",
+        "/prəˈpoʊzəl/",
         "提案；方案",
-        "Use \"I'm writing to follow up on...\" when the situation fits."
+        "The committee will review your proposal next week.",
+        "委员会下周将审阅你的提案。"
       ]
     ]
   },
@@ -10886,32 +11519,35 @@ window.dialogueCards = [
       [
         "A",
         "I see your point, but we may need more data.",
-        "I see your point, but we may need more data."
+        "我明白你的意思，但我们可能还需要更多数据。"
       ],
       [
         "B",
         "I see your point, but the timeline is still too tight.",
-        "I see your point, but the timeline is still too tight."
+        "我理解你的观点，但时间线还是太紧了。"
       ]
     ],
     "words": [
       [
         "I see your point, but...",
-        "/phrase/",
+        "/aɪ siː jɔː pɔɪnt bʌt/",
         "意思是“我理解你的观点，不过……”。",
-        "I see your point, but we may need more data."
+        "I see your point, but I think we should consider a different approach.",
+        "我理解你的观点，不过我觉得我们应该考虑另一种方法。"
       ],
       [
         "see your point",
-        "/phrase/",
+        "/siː jɔːr pɔɪnt/",
         "理解你的观点",
-        "I see your point, but the timeline is still too tight."
+        "OK, I see your point — maybe we should reconsider.",
+        "好吧，我理解你的观点——也许我们该重新考虑。"
       ],
       [
         "timeline",
-        "/phrase/",
+        "/ˈtaɪmlaɪn/",
         "时间表；进度安排",
-        "Use \"I see your point, but...\" when the situation fits."
+        "Let's set a clear timeline for completing each phase of the project.",
+        "我们为项目的每个阶段设定一个明确的时间表吧。"
       ]
     ]
   },
@@ -10934,32 +11570,35 @@ window.dialogueCards = [
       [
         "A",
         "You said you had big news. I'm all ears.",
-        "You said you had big news. I'm all ears."
+        "你说有重大消息，我洗耳恭听。"
       ],
       [
         "B",
         "If you have a better idea, I'm all ears.",
-        "If you have a better idea, I'm all ears."
+        "如果你有更好的想法，我洗耳恭听。"
       ]
     ],
     "words": [
       [
         "I'm all ears.",
-        "/phrase/",
+        "/aɪm ɔːl ɪəz/",
         "意思是“我洗耳恭听”。",
-        "You said you had big news. I'm all ears."
+        "You said you have an idea? I'm all ears.",
+        "你说你有个想法？我洗耳恭听。"
       ],
       [
         "all ears",
-        "/phrase/",
+        "/ɔːl ɪərz/",
         "非常愿意听",
-        "If you have a better idea, I'm all ears."
+        "Tell me your idea — I'm all ears!",
+        "跟我说说你的想法，我洗耳恭听！"
       ],
       [
         "big news",
-        "/phrase/",
+        "/bɪɡ nuːz/",
         "重要消息",
-        "Use \"I'm all ears.\" when the situation fits."
+        "I have some big news — I'm getting married!",
+        "我有个重要消息——我要结婚了！"
       ]
     ]
   },
@@ -10982,32 +11621,35 @@ window.dialogueCards = [
       [
         "A",
         "Sorry, it slipped my mind. I'll send it now.",
-        "Sorry, it slipped my mind. I'll send it now."
+        "抱歉，我给忘了，我现在就发。"
       ],
       [
         "B",
         "The meeting completely slipped my mind.",
-        "The meeting completely slipped my mind."
+        "那个会议我完全忘得一干二净了。"
       ]
     ],
     "words": [
       [
         "It slipped my mind.",
-        "/phrase/",
+        "/ɪt slɪpt maɪ maɪnd/",
         "意思是“我忘了”。",
-        "Sorry, it slipped my mind. I'll send it now."
+        "Sorry I forgot your birthday — it completely slipped my mind.",
+        "抱歉忘了你的生日——我完全忘记了。"
       ],
       [
         "slip",
-        "/phrase/",
+        "/slɪp/",
         "滑走；溜走",
-        "The meeting completely slipped my mind."
+        "Be careful not to slip on the wet floor.",
+        "小心别在湿滑的地板上滑倒。"
       ],
       [
         "completely",
-        "/phrase/",
+        "/kəmˈpliːtli/",
         "完全地",
-        "Use \"It slipped my mind.\" when the situation fits."
+        "I completely forgot about our meeting today.",
+        "我完全忘记了今天开会的事。"
       ]
     ]
   },
@@ -11030,32 +11672,35 @@ window.dialogueCards = [
       [
         "A",
         "This week has been exhausting. You can say that again.",
-        "This week has been exhausting. You can say that again."
+        "这周真是累死了。可不是嘛。"
       ],
       [
         "B",
         "The traffic is terrible today. You can say that again.",
-        "The traffic is terrible today. You can say that again."
+        "今天交通太糟糕了。谁说不是呢。"
       ]
     ],
     "words": [
       [
         "You can say that again.",
-        "/phrase/",
+        "/juː kən seɪ ðæt əˈɡen/",
         "意思是“你说得太对了”。",
-        "This week has been exhausting. You can say that again."
+        "This week has been exhausting. You can say that again.",
+        "这周真是累坏了。谁说不是呢。"
       ],
       [
         "say that again",
-        "/phrase/",
+        "/seɪ ðæt əˈɡen/",
         "完全同意",
-        "The traffic is terrible today. You can say that again."
+        "You think the movie was amazing? I'll say that again!",
+        "你觉得那部电影很精彩？我完全同意！"
       ],
       [
         "exhausting",
-        "/phrase/",
+        "/ɪɡˈzɔːstɪŋ/",
         "令人疲惫的",
-        "Use \"You can say that again.\" when the situation fits."
+        "Moving all the furniture by myself was absolutely exhausting.",
+        "独自搬所有家具真是太令人疲惫了。"
       ]
     ]
   },
@@ -11078,32 +11723,35 @@ window.dialogueCards = [
       [
         "A",
         "Let's get the ball rolling with a quick update.",
-        "Let's get the ball rolling with a quick update."
+        "我们先快速更新一下进展，开始行动吧。"
       ],
       [
         "B",
         "Once the budget is approved, we can get the ball rolling.",
-        "Once the budget is approved, we can get the ball rolling."
+        "等预算批下来，我们就可以启动了。"
       ]
     ],
     "words": [
       [
         "Let's get the ball rolling.",
-        "/phrase/",
+        "/lets ɡet ðə bɔːl ˈrəʊlɪŋ/",
         "意思是“我们开始推进吧”。",
-        "Let's get the ball rolling with a quick update."
+        "Let's get the ball rolling by introducing ourselves to the team.",
+        "我们先向团队做个自我介绍，开始推进吧。"
       ],
       [
         "get the ball rolling",
-        "/phrase/",
+        "/ɡet ðə bɔːl ˈroʊlɪŋ/",
         "启动；开始推进",
-        "Once the budget is approved, we can get the ball rolling."
+        "Once the budget is approved, we can get the ball rolling.",
+        "预算一批下来，我们就可以启动了。"
       ],
       [
         "approved",
-        "/phrase/",
+        "/əˈpruːvd/",
         "被批准的",
-        "Use \"Let's get the ball rolling.\" when the situation fits."
+        "All approved applications will receive a confirmation email.",
+        "所有已批准的申请都将收到确认邮件。"
       ]
     ]
   },
@@ -11126,32 +11774,35 @@ window.dialogueCards = [
       [
         "A",
         "The report has some discrepancies. Thanks for flagging it. I'll look into it.",
-        "The report has some discrepancies. Thanks for flagging it. I'll look into it."
+        "报告里有些数据不一致。谢谢你指出，我来查一下。"
       ],
       [
         "B",
         "I'll look into it and get back to you tomorrow.",
-        "I'll look into it and get back to you tomorrow."
+        "我来查查，明天回复你。"
       ]
     ],
     "words": [
       [
         "I'll look into it.",
-        "/phrase/",
+        "/aɪl lʊk ˈɪntə ɪt/",
         "意思是“我会去查一下 / 我来跟进”。",
-        "The report has some discrepancies. Thanks for flagging it. I'll look into it."
+        "I don't know the answer right now, but I'll look into it.",
+        "我现在还不知道答案，但我会去查一下。"
       ],
       [
         "look into",
-        "/phrase/",
+        "/lʊk ˈɪntə/",
         "调查；查看",
-        "I'll look into it and get back to you tomorrow."
+        "The manager promised to look into the complaint and get back to me.",
+        "经理答应会调查这个投诉并给我回复。"
       ],
       [
         "discrepancy",
-        "/phrase/",
+        "/dɪˈskrepənsi/",
         "差异；不一致",
-        "Use \"I'll look into it.\" when the situation fits."
+        "There is a discrepancy between the two reports.",
+        "这两份报告之间存在差异。"
       ]
     ]
   },
@@ -11174,32 +11825,35 @@ window.dialogueCards = [
       [
         "A",
         "That's a valid point. We should consider the delivery risk.",
-        "That's a valid point. We should consider the delivery risk."
+        "这个观点很有道理，我们确实应该考虑交付风险。"
       ],
       [
         "B",
         "That's a valid point, and we can add it to the plan.",
-        "That's a valid point, and we can add it to the plan."
+        "这个观点很合理，我们可以加到计划里。"
       ]
     ],
     "words": [
       [
         "That's a valid point.",
-        "/phrase/",
+        "/ðæts ə ˈvæl.ɪd pɔɪnt/",
         "意思是“这个观点有道理”。",
-        "That's a valid point. We should consider the delivery risk."
+        "That's a valid point. We should consider the delivery risk.",
+        "这点说得对，我们应该考虑交付风险。"
       ],
       [
         "valid",
-        "/phrase/",
+        "/ˈvæl.ɪd/",
         "合理的；有效的",
-        "That's a valid point, and we can add it to the plan."
+        "That's a valid point, and we can add it to the plan.",
+        "说得有道理，我们可以加进计划里。"
       ],
       [
         "consider",
-        "/phrase/",
+        "/kənˈsɪdər/",
         "考虑",
-        "Use \"That's a valid point.\" when the situation fits."
+        "Use \"That's a valid point.\" when the situation fits.",
+        "在合适的场合使用\"这个观点有道理。\"。"
       ]
     ]
   },
@@ -11222,32 +11876,35 @@ window.dialogueCards = [
       [
         "A",
         "Are you ready to go? Yep, I'm all set.",
-        "Are you ready to go? Yep, I'm all set."
+        "你准备好了吗？嗯，我都准备好了。"
       ],
       [
         "B",
         "Thanks, but I'm all set for now.",
-        "Thanks, but I'm all set for now."
+        "谢谢，我暂时不需要什么了。"
       ]
     ],
     "words": [
       [
         "I'm all set.",
-        "/phrase/",
+        "/aɪm ɔːl set/",
         "意思是“我准备好了 / 我这边都搞定了”。",
-        "Are you ready to go? Yep, I'm all set."
+        "No more coffee for me, thanks — I'm all set.",
+        "我不需要咖啡了，谢谢——我这边都好了。"
       ],
       [
         "all set",
-        "/phrase/",
+        "/ɔːl sɛt/",
         "准备好了；都搞定了",
-        "Thanks, but I'm all set for now."
+        "I've packed everything — we're all set to go.",
+        "我已经打包好所有东西——我们准备好了，可以出发了。"
       ],
       [
         "for now",
-        "/phrase/",
+        "/fɔːr naʊ/",
         "目前；暂时",
-        "Use \"I'm all set.\" when the situation fits."
+        "That's all for now, let's continue tomorrow.",
+        "暂时就这些，我们明天继续。"
       ]
     ]
   },
@@ -11270,32 +11927,35 @@ window.dialogueCards = [
       [
         "A",
         "Should we get pizza or sushi? It's up to you.",
-        "Should we get pizza or sushi? It's up to you."
+        "我们是吃披萨还是寿司？你来决定。"
       ],
       [
         "B",
         "It's up to you. I'm easy.",
-        "It's up to you. I'm easy."
+        "随你吧，我都可以。"
       ]
     ],
     "words": [
       [
         "It's up to you.",
-        "/phrase/",
+        "/ɪts ʌp tə juː/",
         "意思是“你决定吧 / 听你的”。",
-        "Should we get pizza or sushi? It's up to you."
+        "I don't mind where we go — it's up to you.",
+        "去哪儿我都可以——你决定吧。"
       ],
       [
         "up to you",
-        "/phrase/",
+        "/ʌp tə juː/",
         "由你决定",
-        "It's up to you. I'm easy."
+        "It's up to you. I'm easy.",
+        "你定吧，我无所谓。"
       ],
       [
         "I'm easy",
-        "/phrase/",
+        "/aɪm ˈiːzi/",
         "我都可以",
-        "Use \"It's up to you.\" when the situation fits."
+        "\"Where do you want to eat?\" \"I'm easy — you pick.\"",
+        "\"你想去哪儿吃？\"\"我都可以——你选吧。\""
       ]
     ]
   },
@@ -11318,32 +11978,35 @@ window.dialogueCards = [
       [
         "A",
         "You ate the last cookie? Just kidding! It's in the cupboard.",
-        "You ate the last cookie? Just kidding! It's in the cupboard."
+        "你把最后一块饼干吃了吗？开玩笑的！在柜子里呢。"
       ],
       [
         "B",
         "Relax, I was just kidding.",
-        "Relax, I was just kidding."
+        "别紧张，我就是开个玩笑。"
       ]
     ],
     "words": [
       [
         "Just kidding!",
-        "/phrase/",
+        "/dʒʌst ˈkɪdɪŋ/",
         "意思是“开玩笑的”。",
-        "You ate the last cookie? Just kidding! It's in the cupboard."
+        "I ate the last slice of pizza... just kidding! There's still plenty left.",
+        "我把最后一块披萨吃了……开玩笑的！还剩很多呢。"
       ],
       [
         "kidding",
-        "/phrase/",
+        "/ˈkɪdɪŋ/",
         "开玩笑",
-        "Relax, I was just kidding."
+        "Are you kidding? There's no way we can finish this by tomorrow.",
+        "你在开玩笑吧？我们明天之前根本做不完。"
       ],
       [
         "cupboard",
-        "/phrase/",
+        "/ˈkʌbərd/",
         "橱柜",
-        "Use \"Just kidding!\" when the situation fits."
+        "Use \"Just kidding!\" when the situation fits.",
+        "在合适的场合使用\"开个玩笑！\"。"
       ]
     ]
   },
@@ -11366,32 +12029,35 @@ window.dialogueCards = [
       [
         "A",
         "That covers the budget. Let's move on to the next item.",
-        "That covers the budget. Let's move on to the next item."
+        "预算这块就讨论完了，我们进入下一项。"
       ],
       [
         "B",
         "Let's move on to the next item: marketing strategy.",
-        "Let's move on to the next item: marketing strategy."
+        "我们进入下一项：营销策略。"
       ]
     ],
     "words": [
       [
         "Let's move on to the next item.",
-        "/phrase/",
+        "/lets muːv ɒn tə ðə nekst ˈaɪtəm/",
         "意思是“我们进入下一项议程”。",
-        "That covers the budget. Let's move on to the next item."
+        "That covers the budget — let's move on to the next item on the agenda.",
+        "预算部分讲完了——我们进入下一项议程。"
       ],
       [
         "move on",
-        "/phrase/",
+        "/muːv ɑːn/",
         "继续；进入下一项",
-        "Let's move on to the next item: marketing strategy."
+        "It's time to move on and forget about the past.",
+        "是时候翻篇，忘记过去了。"
       ],
       [
         "marketing strategy",
-        "/phrase/",
+        "/ˈmɑːrkɪtɪŋ ˈstrætədʒi/",
         "营销策略",
-        "Use \"Let's move on to the next item.\" when the situation fits."
+        "The company developed a new marketing strategy to attract younger customers.",
+        "公司制定了一项新的营销策略来吸引年轻客户。"
       ]
     ]
   },
@@ -11414,32 +12080,35 @@ window.dialogueCards = [
       [
         "A",
         "I'm reaching out to schedule a brief call about the project timeline.",
-        "I'm reaching out to schedule a brief call about the project timeline."
+        "我想联系您，约个简短电话聊聊项目时间线的事。"
       ],
       [
         "B",
         "I'm reaching out to ask whether you have time next week.",
-        "I'm reaching out to ask whether you have time next week."
+        "我来联系一下，问问你下周有没有时间。"
       ]
     ],
     "words": [
       [
         "I'm reaching out to...",
-        "/phrase/",
+        "/aɪm ˈriːtʃɪŋ aʊt tə/",
         "意思是“我联系你是为了……”。",
-        "I'm reaching out to schedule a brief call about the project timeline."
+        "I'm reaching out to see if you'd be interested in collaborating on this project.",
+        "我联系你是想看看你有没有兴趣合作这个项目。"
       ],
       [
         "reach out",
-        "/phrase/",
+        "/riːtʃ aʊt/",
         "联系；主动沟通",
-        "I'm reaching out to ask whether you have time next week."
+        "Feel free to reach out if you have any questions.",
+        "如果你有任何问题，随时联系我。"
       ],
       [
         "brief call",
-        "/phrase/",
+        "/briːf kɔːl/",
         "简短电话会议",
-        "Use \"I'm reaching out to...\" when the situation fits."
+        "I just need a brief call to confirm the details.",
+        "我只需要一个简短通话确认细节。"
       ]
     ]
   },
@@ -11462,32 +12131,35 @@ window.dialogueCards = [
       [
         "A",
         "Don't get me wrong, I like the idea, but it may be expensive.",
-        "Don't get me wrong, I like the idea, but it may be expensive."
+        "别误会，我挺喜欢这个想法，但成本可能会很高。"
       ],
       [
         "B",
         "Don't get me wrong. I just need more time to think.",
-        "Don't get me wrong. I just need more time to think."
+        "别误会我的意思，我只是需要更多时间考虑。"
       ]
     ],
     "words": [
       [
         "Don't get me wrong.",
-        "/phrase/",
+        "/doʊnt ɡet miː rɔːŋ/",
         "意思是“别误会我的意思”。",
-        "Don't get me wrong, I like the idea, but it may be expensive."
+        "Don't get me wrong, I really appreciate your help.",
+        "别误会我的意思，我真的很感激你的帮助。"
       ],
       [
         "get me wrong",
-        "/phrase/",
+        "/ɡet miː rɔːŋ/",
         "误解我的意思",
-        "Don't get me wrong. I just need more time to think."
+        "Please don't get me wrong, I'm just trying to help.",
+        "请不要误解我，我只是想帮忙。"
       ],
       [
         "expensive",
-        "/phrase/",
+        "/ɪkˈspensɪv/",
         "昂贵的",
-        "Use \"Don't get me wrong.\" when the situation fits."
+        "This restaurant is too expensive for everyday dining.",
+        "这家餐厅对于日常用餐来说太贵了。"
       ]
     ]
   },
@@ -11510,32 +12182,35 @@ window.dialogueCards = [
       [
         "A",
         "You are leaving early? How come?",
-        "You are leaving early? How come?"
+        "你要早走？怎么啦？"
       ],
       [
         "B",
         "How come nobody told me about the change?",
-        "How come nobody told me about the change?"
+        "怎么没人告诉我这个变动？"
       ]
     ],
     "words": [
       [
         "How come?",
-        "/phrase/",
+        "/haʊ kʌm/",
         "意思是“为什么会这样？”。",
-        "You are leaving early? How come?"
+        "How come you didn't tell me about the meeting earlier?",
+        "你怎么不早点告诉我开会的事？"
       ],
       [
-        "how come",
-        "/phrase/",
+        "How come?",
+        "/haʊ kʌm/",
         "为什么；怎么会",
-        "How come nobody told me about the change?"
+        "How come you didn't tell me about the meeting earlier?",
+        "你怎么不早点告诉我开会的事？"
       ],
       [
         "change",
-        "/phrase/",
+        "/tʃeɪndʒ/",
         "变化；变动",
-        "Use \"How come?\" when the situation fits."
+        "Do you have change for a twenty-dollar bill?",
+        "你有二十美元的零钱吗？"
       ]
     ]
   },
@@ -11558,32 +12233,35 @@ window.dialogueCards = [
       [
         "A",
         "I'd love to join you for dinner, but I have to finish this report tonight.",
-        "I'd love to join you for dinner, but I have to finish this report tonight."
+        "我很想和你一起吃晚饭，但我今晚得把这份报告赶完。"
       ],
       [
         "B",
         "I'd love to, but I already have plans.",
-        "I'd love to, but I already have plans."
+        "我很想去，但我已经有安排了。"
       ]
     ],
     "words": [
       [
         "I'd love to, but...",
-        "/phrase/",
+        "/aɪd lʌv tə bʌt/",
         "意思是“我很想去/做，不过……”。",
-        "I'd love to join you for dinner, but I have to finish this report tonight."
+        "I'd love to join you for dinner, but I have to finish this report tonight.",
+        "我很想和你一起吃晚饭，但今晚得赶完这份报告。"
       ],
       [
         "love to",
-        "/phrase/",
+        "/ˈlʌv tu/",
         "很愿意",
-        "I'd love to, but I already have plans."
+        "I'd love to, but I already have plans.",
+        "我很想去，但已经有安排了。"
       ],
       [
         "already have plans",
-        "/phrase/",
+        "/ɔːlˈrɛdi hæv plænz/",
         "已经有安排",
-        "Use \"I'd love to, but...\" when the situation fits."
+        "Sorry, I can't join you for dinner — I already have plans.",
+        "抱歉，我不能和你一起吃晚饭——我已经有安排了。"
       ]
     ]
   },
@@ -11606,32 +12284,35 @@ window.dialogueCards = [
       [
         "A",
         "Let's kick things off with a quick review of last week's action items.",
-        "Let's kick things off with a quick review of last week's action items."
+        "我们先快速回顾一下上周的行动事项，开始吧。"
       ],
       [
         "B",
         "We'll kick things off by introducing the new timeline.",
-        "We'll kick things off by introducing the new timeline."
+        "我们先介绍一下新的时间线，正式开始。"
       ]
     ],
     "words": [
       [
         "Let's kick things off.",
-        "/phrase/",
+        "/lets kɪk θɪŋz ɔːf/",
         "意思是“我们开始吧”。",
-        "Let's kick things off with a quick review of last week's action items."
+        "Let's kick things off with a quick review of last week's action items.",
+        "咱们先快速回顾一下上周的行动项。"
       ],
       [
         "kick off",
-        "/phrase/",
+        "/kɪk ɔːf/",
         "开始；启动",
-        "We'll kick things off by introducing the new timeline."
+        "The conference will kick off with a keynote speech at 9 AM.",
+        "会议将于上午9点以主题演讲开始。"
       ],
       [
         "action item",
-        "/phrase/",
+        "/ˈækʃən ˈaɪtəm/",
         "行动项",
-        "Use \"Let's kick things off.\" when the situation fits."
+        "The manager listed three action items for the team to complete this week.",
+        "经理列出了团队本周需要完成的三个行动项。"
       ]
     ]
   },
@@ -11654,32 +12335,35 @@ window.dialogueCards = [
       [
         "A",
         "From my perspective, we should focus on the European market first.",
-        "From my perspective, we should focus on the European market first."
+        "在我看来，我们应该先聚焦欧洲市场。"
       ],
       [
         "B",
         "From my perspective, the current plan needs a clearer timeline.",
-        "From my perspective, the current plan needs a clearer timeline."
+        "从我的角度来看，目前的方案需要一个更清晰的时间表。"
       ]
     ],
     "words": [
       [
         "From my perspective.",
-        "/phrase/",
+        "/frʌm maɪ pərˈspektɪv/",
         "意思是“从我的角度来看”。",
-        "From my perspective, we should focus on the European market first."
+        "From my perspective, we should focus on the European market first.",
+        "在我看来，我们应该先聚焦欧洲市场。"
       ],
       [
         "perspective",
-        "/phrase/",
+        "/pərˈspektɪv/",
         "角度；观点",
-        "From my perspective, the current plan needs a clearer timeline."
+        "Traveling to different countries really changed my perspective on life.",
+        "去不同国家旅行真的改变了我对生活的视角。"
       ],
       [
         "focus on",
-        "/phrase/",
+        "/ˈfoʊkəs ɒn/",
         "专注于",
-        "Use \"From my perspective.\" when the situation fits."
+        "Try to focus on your studies instead of checking your phone every five minutes.",
+        "试着专注于学习，而不是每五分钟就看一次手机。"
       ]
     ]
   },
@@ -11702,32 +12386,35 @@ window.dialogueCards = [
       [
         "A",
         "I need to check with the legal team first. I'll circle back to you by tomorrow.",
-        "I need to check with the legal team first. I'll circle back to you by tomorrow."
+        "我得先跟法务团队确认一下，明天之前给你回复。"
       ],
       [
         "B",
         "I'll circle back to you once I have the numbers.",
-        "I'll circle back to you once I have the numbers."
+        "等我拿到数据了再回复你。"
       ]
     ],
     "words": [
       [
         "I'll circle back to you.",
-        "/phrase/",
+        "/aɪl ˈsɜːrkəl bæk tə juː/",
         "意思是“我稍后再回复你”。",
-        "I need to check with the legal team first. I'll circle back to you by tomorrow."
+        "I need to check with the legal team first. I'll circle back to you by tomorrow.",
+        "我需要先跟法务团队确认，明天再回复你。"
       ],
       [
         "circle back",
-        "/phrase/",
+        "/ˈsɜrkəl bæk/",
         "稍后回到这个话题；跟进",
-        "I'll circle back to you once I have the numbers."
+        "I'll circle back to you once I have the numbers.",
+        "拿到数据后我再回复你。"
       ],
       [
         "legal team",
-        "/phrase/",
+        "/ˈliːɡəl tiːm/",
         "法务团队",
-        "Use \"I'll circle back to you.\" when the situation fits."
+        "Use \"I'll circle back to you.\" when the situation fits.",
+        "在合适的场合使用\"我会回头再找你。\"。"
       ]
     ]
   },
@@ -11763,19 +12450,22 @@ window.dialogueCards = [
         "reflective",
         "/rɪˈflektɪv/",
         "沉思的；反思的",
-        "He was in a reflective mood after reading the news."
+        "He was in a reflective mood after reading the news.",
+        "看完新闻后他陷入了沉思。"
       ],
       [
         "extinguisher",
         "/ɪkˈstɪŋɡwɪʃər/",
         "灭火器",
-        "Grab the fire extinguisher in case of emergency."
+        "Grab the fire extinguisher in case of emergency.",
+        "紧急情况就拿灭火器。"
       ],
       [
         "honor",
         "/ˈɑːnər/",
         "向……致敬；尊重",
-        "Today was about honoring life."
+        "Today was about honoring life.",
+        "今天是为了缅怀生命。"
       ]
     ]
   },
@@ -11811,19 +12501,22 @@ window.dialogueCards = [
         "hump day",
         "/hʌmp deɪ/",
         "周三；一周的中间点",
-        "Everyone is a bit more cheerful on hump day."
+        "Everyone is a bit more cheerful on hump day.",
+        "周三大家都稍微开心一点。"
       ],
       [
         "haunt",
         "/hɔːnt/",
         "萦绕；缠扰",
-        "Work stress haunted my sleep."
+        "Work stress haunted my sleep.",
+        "工作压力让我睡不安稳。"
       ],
       [
         "treat myself",
         "/triːt maɪˈself/",
         "犒劳自己",
-        "I treated myself to an ice cream."
+        "I treated myself to an ice cream.",
+        "犒劳自己吃了个冰淇淋。"
       ]
     ]
   },
@@ -11859,19 +12552,22 @@ window.dialogueCards = [
         "plan",
         "/plæn/",
         "计划；打算",
-        "We are planning a trip to Japan next month."
+        "We are planning a trip to Japan next month.",
+        "我们计划下个月去日本旅行。"
       ],
       [
         "hiking",
         "/ˈhaɪkɪŋ/",
         "徒步；远足",
-        "They go hiking in the mountains every autumn."
+        "They go hiking in the mountains every autumn.",
+        "他们每年秋天都去山里徒步。"
       ],
       [
         "let me know",
         "/let mi noʊ/",
         "告诉我；通知我",
-        "Just let me know when you decide."
+        "Just let me know when you decide.",
+        "你决定了告诉我一声就行。"
       ]
     ]
   },
@@ -11907,19 +12603,22 @@ window.dialogueCards = [
         "drowsy",
         "/ˈdraʊzi/",
         "困倦的；昏昏欲睡的",
-        "The medicine made him feel drowsy."
+        "The medicine made him feel drowsy.",
+        "这药让他感到昏昏欲睡。"
       ],
       [
         "burn the midnight oil",
         "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
         "熬夜；开夜车",
-        "She had to burn the midnight oil to prepare for the exam."
+        "She had to burn the midnight oil to prepare for the exam.",
+        "她不得不熬夜备考。"
       ],
       [
         "keep me going",
         "/kiːp mi ˈɡoʊɪŋ/",
         "支撑我继续下去",
-        "Coffee kept me going all afternoon."
+        "Coffee kept me going all afternoon.",
+        "靠咖啡撑了一下午。"
       ]
     ]
   },
@@ -11955,19 +12654,22 @@ window.dialogueCards = [
         "renew",
         "/rɪˈnuː/",
         "续借；更新",
-        "I need to renew my library books online."
+        "I need to renew my library books online.",
+        "我需要在线续借图书馆的书。"
       ],
       [
         "call number",
         "/kɔːl ˈnʌmbər/",
         "索书号",
-        "Write down the call number before you go to the shelves."
+        "Write down the call number before you go to the shelves.",
+        "去书架之前先把索书号记下来。"
       ],
       [
         "artificial intelligence",
         "/ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns/",
         "人工智能",
-        "This book is about artificial intelligence."
+        "This book is about artificial intelligence.",
+        "这本书讲的是人工智能。"
       ]
     ]
   },
@@ -12003,19 +12705,22 @@ window.dialogueCards = [
         "muscle",
         "/ˈmʌsl/",
         "肌肉",
-        "Regular exercise helps build strong muscles."
+        "Regular exercise helps build strong muscles.",
+        "坚持锻炼有助于增强肌肉力量。"
       ],
       [
         "bench press",
         "/bentʃ pres/",
         "卧推",
-        "He does bench press twice a week."
+        "He does bench press twice a week.",
+        "他每周做两次卧推。"
       ],
       [
         "spot me",
         "/spɑːt mi/",
         "健身时帮我保护",
-        "Could you spot me for this set?"
+        "Could you spot me for this set?",
+        "这组能帮我保护一下吗？"
       ]
     ]
   },
@@ -12051,19 +12756,22 @@ window.dialogueCards = [
         "bouquet",
         "/buˈkeɪ/",
         "花束",
-        "He surprised her with a bouquet of roses."
+        "He surprised her with a bouquet of roses.",
+        "他送了一束玫瑰给她惊喜。"
       ],
       [
         "home-cooked",
         "/ˌhoʊm ˈkʊkt/",
         "家里做的；家常的",
-        "Nothing beats a home-cooked meal after a long day."
+        "Nothing beats a home-cooked meal after a long day.",
+        "忙了一天，没什么比一顿家常菜更治愈了。"
       ],
       [
         "rarely",
         "/ˈrerli/",
         "很少；难得",
-        "I rarely get a quiet evening at home."
+        "I rarely get a quiet evening at home.",
+        "我在家难得有个安静的晚上。"
       ]
     ]
   },
@@ -12099,19 +12807,22 @@ window.dialogueCards = [
         "virus",
         "/ˈvaɪrəs/",
         "病毒",
-        "My phone got a virus from that app."
+        "My phone got a virus from that app.",
+        "我手机因为那个应用中病毒了。"
       ],
       [
         "antivirus",
         "/ˌæntiˈvaɪrəs/",
         "杀毒软件",
-        "You should update your antivirus regularly."
+        "You should update your antivirus regularly.",
+        "你应该定期更新杀毒软件。"
       ],
       [
         "pop up",
         "/pɑːp ʌp/",
         "弹出；突然出现",
-        "Ads keep popping up on my screen."
+        "Ads keep popping up on my screen.",
+        "广告一直在我屏幕上弹出来。"
       ]
     ]
   },
@@ -12147,19 +12858,22 @@ window.dialogueCards = [
         "appointment",
         "/əˈpɔɪntmənt/",
         "预约；约会",
-        "I need to make an appointment with the dentist."
+        "I need to make an appointment with the dentist.",
+        "我需要预约牙医。"
       ],
       [
         "sore throat",
         "/sɔːr θroʊt/",
         "喉咙痛",
-        "Drink warm water if you have a sore throat."
+        "Drink warm water if you have a sore throat.",
+        "喉咙痛的话喝温水。"
       ],
       [
         "opening",
         "/ˈoʊpənɪŋ/",
         "空档；可预约时间",
-        "We have an opening tomorrow morning."
+        "We have an opening tomorrow morning.",
+        "明天上午有一个空位。"
       ]
     ]
   },
@@ -12195,19 +12909,22 @@ window.dialogueCards = [
         "takeout",
         "/ˈteɪkaʊt/",
         "外卖",
-        "We ordered takeout because we didn't want to cook."
+        "We ordered takeout because we didn't want to cook.",
+        "我们不想做饭，所以点了外卖。"
       ],
       [
         "topping",
         "/ˈtɑːpɪŋ/",
         "披萨等食物上的配料",
-        "My favorite pizza topping is pepperoni."
+        "My favorite pizza topping is pepperoni.",
+        "我最喜欢的披萨配料是意式香肠。"
       ],
       [
         "delivery",
         "/dɪˈlɪvəri/",
         "配送；外卖送达",
-        "How long is the delivery?"
+        "How long is the delivery?",
+        "配送要多久？"
       ]
     ]
   },
@@ -12243,19 +12960,22 @@ window.dialogueCards = [
         "double-check",
         "/ˌdʌbl ˈtʃek/",
         "复核；再次确认",
-        "Please double-check the report before sending it."
+        "Please double-check the report before sending it.",
+        "发送前请再仔细检查一遍报告。"
       ],
       [
         "draft",
         "/dræft/",
         "草稿；初稿",
-        "This is just the first draft of my presentation."
+        "This is just the first draft of my presentation.",
+        "这只是我演示文稿的初稿。"
       ],
       [
         "go through",
         "/ɡoʊ θruː/",
         "仔细查看；过一遍",
-        "Let's go through the details together."
+        "Let's go through the details together.",
+        "咱们一起过一遍细节。"
       ]
     ]
   },
@@ -12291,19 +13011,22 @@ window.dialogueCards = [
         "unleaded",
         "/ʌnˈledɪd/",
         "无铅的",
-        "Most cars today use unleaded gasoline."
+        "Most cars today use unleaded gasoline.",
+        "现在大多数汽车都用无铅汽油。"
       ],
       [
         "quart",
         "/kwɔːrt/",
         "夸脱；液体计量单位",
-        "The recipe calls for a quart of milk."
+        "The recipe calls for a quart of milk.",
+        "食谱需要一夸脱牛奶。"
       ],
       [
         "fill it up",
         "/fɪl ɪt ʌp/",
         "加满油",
-        "Fill it up with regular unleaded, please."
+        "Fill it up with regular unleaded, please.",
+        "加满普通无铅汽油。"
       ]
     ]
   },
@@ -12339,19 +13062,22 @@ window.dialogueCards = [
         "diversity",
         "/daɪˈvɜːrsəti/",
         "多样性",
-        "Cultural diversity makes the workplace richer."
+        "Cultural diversity makes the workplace richer.",
+        "文化多样性让职场更丰富。"
       ],
       [
         "refreshing",
         "/rɪˈfreʃɪŋ/",
         "清爽的；提神的",
-        "Green tea is refreshing in the morning."
+        "Green tea is refreshing in the morning.",
+        "早上喝绿茶很提神。"
       ],
       [
         "respect",
         "/rɪˈspekt/",
         "尊重",
-        "We should respect cultural differences."
+        "We should respect cultural differences.",
+        "我们应该尊重文化差异。"
       ]
     ]
   },
@@ -12387,19 +13113,22 @@ window.dialogueCards = [
         "power bank",
         "/ˈpaʊər bæŋk/",
         "充电宝",
-        "I always carry a power bank when traveling."
+        "I always carry a power bank when traveling.",
+        "我出门总带着充电宝。"
       ],
       [
         "scan",
         "/skæn/",
         "扫描",
-        "Scan the QR code to pay."
+        "Scan the QR code to pay.",
+        "扫码支付。"
       ],
       [
         "return",
         "/rɪˈtɜːrn/",
         "归还",
-        "Return the power bank at any station."
+        "Return the power bank at any station.",
+        "充电宝可以在任意站点归还。"
       ]
     ]
   },
@@ -12435,19 +13164,22 @@ window.dialogueCards = [
         "trim",
         "/trɪm/",
         "修剪",
-        "I just need a trim to tidy up the ends."
+        "I just need a trim to tidy up the ends.",
+        "只需要修一下发尾。"
       ],
       [
         "bangs",
         "/bæŋz/",
         "刘海",
-        "She has straight bangs that cover her forehead."
+        "She has straight bangs that cover her forehead.",
+        "她留着齐刘海，遮住了额头。"
       ],
       [
         "blow-dry",
         "/ˈbloʊ draɪ/",
         "吹干头发",
-        "I need a wash, cut, and blow-dry."
+        "I need a wash, cut, and blow-dry.",
+        "我需要洗剪吹。"
       ]
     ]
   },
@@ -12493,19 +13225,22 @@ window.dialogueCards = [
         "showing",
         "/ˈʃoʊɪŋ/",
         "电影场次；放映",
-        "What time is the next showing?"
+        "What time is the next showing?",
+        "下一场是几点？"
       ],
       [
         "medium",
         "/ˈmiːdiəm/",
         "中号的",
-        "Please get me a medium popcorn."
+        "Please get me a medium popcorn.",
+        "请给我一份中份爆米花。"
       ],
       [
         "go for",
         "/ɡoʊ fɔːr/",
         "选择",
-        "Let's go for the 7:20 one."
+        "Let's go for the 7:20 one.",
+        "咱们选七点二十那班吧。"
       ]
     ]
   },
@@ -12541,19 +13276,22 @@ window.dialogueCards = [
         "tissue",
         "/ˈtɪʃuː/",
         "纸巾；面巾纸",
-        "Could you pass me a tissue?"
+        "Could you pass me a tissue?",
+        "能递张纸巾给我吗？"
       ],
       [
         "run out",
         "/rʌn aʊt/",
         "用完；耗尽",
-        "We're running out of time."
+        "We're running out of time.",
+        "我们快没时间了。"
       ],
       [
         "shopping cart",
         "/ˈʃɑːpɪŋ kɑːrt/",
         "购物车",
-        "Grab a shopping cart at the entrance."
+        "Grab a shopping cart at the entrance.",
+        "入口处拿辆购物车。"
       ]
     ]
   },
@@ -12589,19 +13327,22 @@ window.dialogueCards = [
         "switch things up",
         "/swɪtʃ θɪŋz ʌp/",
         "换换花样；改变一下",
-        "I'm tired of the same routine; let's switch things up."
+        "I'm tired of the same routine; let's switch things up.",
+        "天天重复我腻了，咱们换点花样吧。"
       ],
       [
         "sleep in",
         "/sliːp ɪn/",
         "睡懒觉",
-        "On Sundays, I usually sleep in until 10 a.m."
+        "On Sundays, I usually sleep in until 10 a.m.",
+        "周日我通常睡到上午十点。"
       ],
       [
         "put out of my mind",
         "/pʊt aʊt əv maɪ maɪnd/",
         "暂时不去想",
-        "I want to put work out of my mind tonight."
+        "I want to put work out of my mind tonight.",
+        "今晚不想想工作的事。"
       ]
     ]
   },
@@ -12637,19 +13378,22 @@ window.dialogueCards = [
         "sci-fi",
         "/ˈsaɪ faɪ/",
         "科幻小说；科幻片",
-        "I'm a big fan of sci-fi novels."
+        "I'm a big fan of sci-fi novels.",
+        "我特别喜欢科幻小说。"
       ],
       [
         "count me in",
         "/kaʊnt mi ɪn/",
         "算我一个",
-        "If you're ordering pizza, count me in."
+        "If you're ordering pizza, count me in.",
+        "你要是点披萨，算我一个。"
       ],
       [
         "show",
         "/ʃoʊ/",
         "演出；电影场次",
-        "There are tickets for the 3 p.m. show."
+        "There are tickets for the 3 p.m. show.",
+        "下午三点的场次还有票。"
       ]
     ]
   },
@@ -12685,19 +13429,22 @@ window.dialogueCards = [
         "leak",
         "/liːk/",
         "泄漏；漏水",
-        "The roof leaks whenever it rains heavily."
+        "The roof leaks whenever it rains heavily.",
+        "只要下大雨屋顶就漏水。"
       ],
       [
         "puddle",
         "/ˈpʌdl/",
         "水坑；积水",
-        "The kids are jumping in the puddles after the rain."
+        "The kids are jumping in the puddles after the rain.",
+        "孩子们在雨后的水坑里跳来跳去。"
       ],
       [
         "property management",
         "/ˈprɑːpərti ˈmænɪdʒmənt/",
         "物业管理",
-        "I'll contact the property management right away."
+        "I'll contact the property management right away.",
+        "我马上联系物业。"
       ]
     ]
   },
@@ -12733,19 +13480,22 @@ window.dialogueCards = [
         "reference book",
         "/ˈrefərəns bʊk/",
         "参考书；通常仅供馆内查阅",
-        "Reference books are for library use only."
+        "Reference books are for library use only.",
+        "参考书仅供馆内阅览。"
       ],
       [
         "reading room",
         "/ˈriːdɪŋ ruːm/",
         "阅览室",
-        "The reading room is very quiet."
+        "The reading room is very quiet.",
+        "阅览室里非常安静。"
       ],
       [
         "check out",
         "/tʃek aʊt/",
         "借出；办理借阅",
-        "This book cannot be checked out."
+        "This book cannot be checked out.",
+        "这本书不能外借。"
       ]
     ]
   },
@@ -12781,19 +13531,22 @@ window.dialogueCards = [
         "thrilled",
         "/θrɪld/",
         "非常兴奋的；极为激动的",
-        "She was thrilled to receive the gift."
+        "She was thrilled to receive the gift.",
+        "收到礼物她高兴极了。"
       ],
       [
         "cozy",
         "/ˈkoʊzi/",
         "温暖舒适的",
-        "We spent a cozy evening at home."
+        "We spent a cozy evening at home.",
+        "我们在家度过了一个温馨的夜晚。"
       ],
       [
         "niece",
         "/niːs/",
         "侄女；外甥女",
-        "I sent a red packet to my niece."
+        "I sent a red packet to my niece.",
+        "我给侄女发了红包。"
       ]
     ]
   },
@@ -12829,19 +13582,22 @@ window.dialogueCards = [
         "small talk",
         "/smɔːl tɔːk/",
         "闲聊；寒暄",
-        "Small talk helps build rapport."
+        "Small talk helps build rapport.",
+        "闲聊有助于拉近关系。"
       ],
       [
         "genuine curiosity",
         "/ˈdʒenjuɪn ˌkjʊriˈɑːsəti/",
         "真诚的好奇心",
-        "Genuine curiosity makes conversations easier."
+        "Genuine curiosity makes conversations easier.",
+        "真正的求知欲让交流更顺畅。"
       ],
       [
         "rapport",
         "/ræˈpɔːr/",
         "融洽关系",
-        "Small talk can build rapport with coworkers."
+        "Small talk can build rapport with coworkers.",
+        "闲聊有助于和同事建立融洽关系。"
       ]
     ]
   },
@@ -12877,19 +13633,22 @@ window.dialogueCards = [
         "constant anxiety",
         "/ˈkɑːnstənt æŋˈzaɪəti/",
         "持续焦虑",
-        "The inbox became a source of constant anxiety."
+        "The inbox became a source of constant anxiety.",
+        "收件箱成了持续焦虑的来源。"
       ],
       [
         "batch-check",
         "/bætʃ tʃek/",
         "批量查看",
-        "I batch-check emails twice a day."
+        "I batch-check emails twice a day.",
+        "我每天集中看两次邮件。"
       ],
       [
         "archive",
         "/ˈɑːrkaɪv/",
         "归档",
-        "Archive messages after you process them."
+        "Archive messages after you process them.",
+        "处理完消息后归档。"
       ]
     ]
   },
@@ -12925,19 +13684,22 @@ window.dialogueCards = [
         "decision fatigue",
         "/dɪˈsɪʒn fəˈtiːɡ/",
         "决策疲劳",
-        "Decision fatigue can make people avoid choices."
+        "Decision fatigue can make people avoid choices.",
+        "决策疲劳会让人回避做选择。"
       ],
       [
         "good-enough principle",
         "/ɡʊd ɪˈnʌf ˈprɪnsəpl/",
         "足够好原则",
-        "The good-enough principle saves time."
+        "The good-enough principle saves time.",
+        "够用就好原则能节省时间。"
       ],
       [
         "cognitive resources",
         "/ˈkɑːɡnətɪv ˈriːsɔːrsɪz/",
         "认知资源",
-        "Save your cognitive resources for important decisions."
+        "Save your cognitive resources for important decisions.",
+        "把精力留给重要决策。"
       ]
     ]
   },
@@ -12960,32 +13722,35 @@ window.dialogueCards = [
       [
         "A",
         "Tea or coffee? I’m easy, you choose.",
-        "Tea or coffee? I’m easy, you choose."
+        "喝茶还是咖啡？我随便，你定。"
       ],
       [
         "B",
         "I’m easy, whatever you’re having.",
-        "I’m easy, whatever you’re having."
+        "我都可以，你喝什么我就喝什么。"
       ]
     ],
     "words": [
       [
-        "I’m easy.",
-        "/phrase/",
+        "I'm easy",
+        "/aɪm ˈiːzi/",
         "意思是“我都行 / 随便”。",
-        "Tea or coffee? I’m easy, you choose."
+        "\"Where do you want to eat?\" \"I'm easy — you pick.\"",
+        "\"你想去哪儿吃？\"\"我都可以——你选吧。\""
       ],
       [
         "whatever",
-        "/phrase/",
+        "/wɒtˈev.ər/",
         "随便什么都可以",
-        "I’m easy, whatever you’re having."
+        "I’m easy, whatever you’re having.",
+        ""
       ],
       [
         "choose",
-        "/phrase/",
+        "/tʃuːz/",
         "选择",
-        "Use \"I’m easy.\" when the situation fits."
+        "You need to choose between the two options.",
+        "你需要在两个选项之间做出选择。"
       ]
     ]
   },
@@ -13008,32 +13773,35 @@ window.dialogueCards = [
       [
         "A",
         "Don’t worry about the bill. It’s on me tonight.",
-        "Don’t worry about the bill. It’s on me tonight."
+        "别管账单了，今晚我请客。"
       ],
       [
         "B",
         "Coffee is on me today.",
-        "Coffee is on me today."
+        "今天的咖啡我请了。"
       ]
     ],
     "words": [
       [
-        "It’s on me.",
-        "/phrase/",
+        "It's on me.",
+        "/ɪts ɒn miː/",
         "意思是“我请客”。",
-        "Don’t worry about the bill. It’s on me tonight."
+        "Put your wallet away — dinner is on me tonight.",
+        "把钱包收起来——今晚晚饭我来请。"
       ],
       [
         "bill",
-        "/phrase/",
+        "/bɪl/",
         "账单",
-        "Coffee is on me today."
+        "Could we have the bill, please?",
+        "请给我们账单好吗？"
       ],
       [
         "tonight",
-        "/phrase/",
+        "/təˈnaɪt/",
         "今晚",
-        "Use \"It’s on me.\" when the situation fits."
+        "Use \"It’s on me.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -13056,32 +13824,35 @@ window.dialogueCards = [
       [
         "A",
         "It took me a while to get the hang of driving a manual car.",
-        "It took me a while to get the hang of driving a manual car."
+        "我花了些时间才掌握开手动挡车的窍门。"
       ],
       [
         "B",
         "Once you practice, you'll get the hang of it.",
-        "Once you practice, you'll get the hang of it."
+        "多练练，你就能上手了。"
       ]
     ],
     "words": [
       [
         "Get the hang of it.",
-        "/phrase/",
+        "/ɡet ðə hæŋ əv ɪt/",
         "意思是“掌握窍门 / 上手”。",
-        "It took me a while to get the hang of driving a manual car."
+        "It took me a while to get the hang of driving a manual car.",
+        "我花了一段时间才掌握手动挡车的开法。"
       ],
       [
         "manual car",
-        "/phrase/",
+        "/ˈmænjuəl kɑr/",
         "手动挡汽车",
-        "Once you practice, you'll get the hang of it."
+        "Once you practice, you'll get the hang of it.",
+        "多练练就上手了。"
       ],
       [
         "practice",
-        "/phrase/",
+        "/ˈpræktɪs/",
         "练习",
-        "Use \"Get the hang of it.\" when the situation fits."
+        "You need more practice to improve your English speaking.",
+        "你需要更多练习来提高英语口语。"
       ]
     ]
   },
@@ -13104,32 +13875,35 @@ window.dialogueCards = [
       [
         "A",
         "Let’s touch base next Monday to review the project status.",
-        "Let’s touch base next Monday to review the project status."
+        "我们下周一碰个头，回顾一下项目进展。"
       ],
       [
         "B",
         "Can we touch base after lunch?",
-        "Can we touch base after lunch?"
+        "午饭后我们碰一下？"
       ]
     ],
     "words": [
       [
         "Let’s touch base.",
-        "/phrase/",
+        "",
         "意思是“我们沟通一下进度”。",
-        "Let’s touch base next Monday to review the project status."
+        "Let’s touch base next Monday to review the project status.",
+        ""
       ],
       [
         "project status",
-        "/phrase/",
+        "/ˈprɑdʒɛkt ˈsteɪtəs/",
         "项目状态",
-        "Can we touch base after lunch?"
+        "Can we touch base after lunch?",
+        "午饭后碰一下可以吗？"
       ],
       [
         "review",
-        "/phrase/",
+        "/rɪˈvjuː/",
         "回顾；检查",
-        "Use \"Let’s touch base.\" when the situation fits."
+        "The manager will review our performance at the end of each quarter.",
+        "经理会在每个季度末评估我们的表现。"
       ]
     ]
   },
@@ -13152,32 +13926,35 @@ window.dialogueCards = [
       [
         "A",
         "I need to check with the legal team. I’ll get back to you by EOD.",
-        "I need to check with the legal team. I’ll get back to you by EOD."
+        "我得先跟法务团队确认一下，今天下班前回复你。"
       ],
       [
         "B",
         "I'll get back to you once I have an answer.",
-        "I'll get back to you once I have an answer."
+        "我有答案了再回复你。"
       ]
     ],
     "words": [
       [
         "I’ll get back to you.",
-        "/phrase/",
+        "",
         "意思是“我稍后回复你”。",
-        "I need to check with the legal team. I’ll get back to you by EOD."
+        "I need to check with the legal team. I’ll get back to you by EOD.",
+        ""
       ],
       [
         "EOD",
-        "/phrase/",
+        "/i oʊ di/",
         "当天结束前",
-        "I'll get back to you once I have an answer."
+        "I'll get back to you once I have an answer.",
+        "有了答复我马上回复你。"
       ],
       [
         "legal team",
-        "/phrase/",
+        "/ˈliːɡəl tiːm/",
         "法务团队",
-        "Use \"I’ll get back to you.\" when the situation fits."
+        "Use \"I’ll get back to you.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -13200,32 +13977,35 @@ window.dialogueCards = [
       [
         "A",
         "Just to make sure we’re on the same page, the deadline is next Friday.",
-        "Just to make sure we’re on the same page, the deadline is next Friday."
+        "确认一下我们理解一致，截止日期是下周五。"
       ],
       [
         "B",
         "Great, we are on the same page now.",
-        "Great, we are on the same page now."
+        "太好了，我们现在意见统一了。"
       ]
     ],
     "words": [
       [
         "We’re on the same page.",
-        "/phrase/",
+        "",
         "意思是“我们达成共识 / 理解一致”。",
-        "Just to make sure we’re on the same page, the deadline is next Friday."
+        "Just to make sure we’re on the same page, the deadline is next Friday.",
+        ""
       ],
       [
         "deadline",
-        "/phrase/",
+        "/ˈdɛdlaɪn/",
         "截止日期",
-        "Great, we are on the same page now."
+        "The deadline for submitting the report is Friday at 5 p.m.",
+        "提交报告的截止日期是周五下午五点。"
       ],
       [
         "understanding",
-        "/phrase/",
+        "/ˌʌn.dəˈstæn.dɪŋ/",
         "理解",
-        "Use \"We’re on the same page.\" when the situation fits."
+        "Use \"We’re on the same page.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -13248,32 +14028,35 @@ window.dialogueCards = [
       [
         "A",
         "What's new with you? Same old, same old.",
-        "What's new with you? Same old, same old."
+        "你最近怎么样？老样子。"
       ],
       [
         "B",
         "Same old, same old. Just busy with work.",
-        "Same old, same old. Just busy with work."
+        "老样子，就是工作忙。"
       ]
     ],
     "words": [
       [
         "Same old, same old.",
-        "/phrase/",
+        "/seɪm oʊld seɪm oʊld/",
         "意思是“老样子，没什么特别的”。",
-        "What's new with you? Same old, same old."
+        "What's new with you? Same old, same old.",
+        "最近怎么样？还是老样子。"
       ],
       [
         "what's new",
-        "/phrase/",
+        "/wɒts njuː/",
         "最近有什么新鲜事",
-        "Same old, same old. Just busy with work."
+        "Same old, same old. Just busy with work.",
+        "老样子，工作忙。"
       ],
       [
         "busy with work",
-        "/phrase/",
+        "/ˈbɪzi wɪð wɜrk/",
         "忙于工作",
-        "Use \"Same old, same old.\" when the situation fits."
+        "Use \"Same old, same old.\" when the situation fits.",
+        "在合适的场合使用\"老样子，老样子。\"。"
       ]
     ]
   },
@@ -13296,32 +14079,35 @@ window.dialogueCards = [
       [
         "A",
         "I'm still on the fence about which university to choose.",
-        "I'm still on the fence about which university to choose."
+        "我还在纠结选哪所大学。"
       ],
       [
         "B",
         "I'm on the fence about buying a new phone.",
-        "I'm on the fence about buying a new phone."
+        "我还在犹豫要不要买新手机。"
       ]
     ],
     "words": [
       [
         "I'm on the fence.",
-        "/phrase/",
+        "/aɪm ɑːn ðə fens/",
         "意思是“犹豫不决，拿不定主意”。",
-        "I'm still on the fence about which university to choose."
+        "I'm still on the fence about which university to choose.",
+        "选哪所大学我还在犹豫。"
       ],
       [
         "choose",
-        "/phrase/",
+        "/tʃuːz/",
         "选择",
-        "I'm on the fence about buying a new phone."
+        "You need to choose between the two options.",
+        "你需要在两个选项之间做出选择。"
       ],
       [
         "decision",
-        "/phrase/",
+        "/dɪˈsɪʒən/",
         "决定",
-        "Use \"I'm on the fence.\" when the situation fits."
+        "It was a difficult decision but I think it's the right one.",
+        "这是一个艰难的决定但我认为是对的。"
       ]
     ]
   },
@@ -13344,32 +14130,35 @@ window.dialogueCards = [
       [
         "A",
         "I'm thinking of starting my own business. Go for it!",
-        "I'm thinking of starting my own business. Go for it!"
+        "我在考虑自己创业。那就去干啊！"
       ],
       [
         "B",
         "If you really want the job, go for it.",
-        "If you really want the job, go for it."
+        "如果你真的想要这份工作，就去争取吧。"
       ]
     ],
     "words": [
       [
         "Go for it.",
-        "/phrase/",
+        "/ɡoʊ fɔːr ɪt/",
         "意思是“放手去做 / 抓住机会”。",
-        "I'm thinking of starting my own business. Go for it!"
+        "I'm thinking of starting my own business. Go for it!",
+        "我在考虑自己创业。放手去干吧！"
       ],
       [
         "start a business",
-        "/phrase/",
+        "/stɑːt ə ˈbɪz.nɪs/",
         "创业",
-        "If you really want the job, go for it."
+        "If you really want the job, go for it.",
+        "如果你真想要这份工作，就去争取吧。"
       ],
       [
         "encourage",
-        "/phrase/",
+        "/ɪnˈkɜːrɪdʒ/",
         "鼓励",
-        "Use \"Go for it.\" when the situation fits."
+        "Teachers should encourage students to ask questions.",
+        "老师应该鼓励学生提问。"
       ]
     ]
   },
@@ -13392,32 +14181,35 @@ window.dialogueCards = [
       [
         "A",
         "Could you elaborate on the risk assessment for this project?",
-        "Could you elaborate on the risk assessment for this project?"
+        "能请您详细说明一下这个项目的风险评估吗？"
       ],
       [
         "B",
         "Could you elaborate on your timeline?",
-        "Could you elaborate on your timeline?"
+        "能详细说说你的时间安排吗？"
       ]
     ],
     "words": [
       [
         "Could you elaborate on...?",
-        "/phrase/",
+        "/kʊd ju ɪˈlæbəˌreɪt ɑn/",
         "意思是“你能详细说明一下……吗？”。",
-        "Could you elaborate on the risk assessment for this project?"
+        "Could you elaborate on the risk assessment for this project?",
+        "能详细说一下这个项目的风险评估吗？"
       ],
       [
         "elaborate",
-        "/phrase/",
+        "/ɪˈlæbəˌreɪt/",
         "详细说明",
-        "Could you elaborate on your timeline?"
+        "Could you elaborate on your timeline?",
+        "能详细说明一下你的时间线吗？"
       ],
       [
         "risk assessment",
-        "/phrase/",
+        "/rɪsk əˈsɛsmənt/",
         "风险评估",
-        "Use \"Could you elaborate on...?\" when the situation fits."
+        "Use \"Could you elaborate on...?\" when the situation fits.",
+        "在合适的场合使用\"你能详细说说……吗？\"。"
       ]
     ]
   },
@@ -13440,32 +14232,35 @@ window.dialogueCards = [
       [
         "A",
         "Are you going to the party? It depends on the weather.",
-        "Are you going to the party? It depends on the weather."
+        "你会去派对吗？看天气再说吧。"
       ],
       [
         "B",
         "It depends on how busy I am tomorrow.",
-        "It depends on how busy I am tomorrow."
+        "得看我明天忙不忙。"
       ]
     ],
     "words": [
       [
-        "It depends.",
-        "/phrase/",
+        "it depends",
+        "/ɪt dɪˈpendz/",
         "意思是“看情况”。",
-        "Are you going to the party? It depends on the weather."
+        "\"Will you come to the party?\" \"It depends on how much work I have.\"",
+        "\"你会来派对吗？\"\"看情况，取决于我有多少工作。\""
       ],
       [
         "weather",
-        "/phrase/",
+        "/ˈweðər/",
         "天气",
-        "It depends on how busy I am tomorrow."
+        "The weather forecast says it will rain tomorrow.",
+        "天气预报说明天会下雨。"
       ],
       [
         "condition",
-        "/phrase/",
+        "/kənˈdɪʃən/",
         "条件",
-        "Use \"It depends.\" when the situation fits."
+        "The car is in excellent condition despite its age.",
+        "尽管车龄不短但这辆车状况极好。"
       ]
     ]
   },
@@ -13488,32 +14283,35 @@ window.dialogueCards = [
       [
         "A",
         "Let’s summarize the key action items before we finish.",
-        "Let’s summarize the key action items before we finish."
+        "结束之前，我们总结一下关键的行动事项。"
       ],
       [
         "B",
         "Let's summarize what we agreed on.",
-        "Let's summarize what we agreed on."
+        "我们把达成一致的内容总结一下。"
       ]
     ],
     "words": [
       [
         "Let’s summarize.",
-        "/phrase/",
+        "",
         "意思是“我们来总结一下”。",
-        "Let’s summarize the key action items before we finish."
+        "Let’s summarize the key action items before we finish.",
+        ""
       ],
       [
         "action item",
-        "/phrase/",
+        "/ˈækʃən ˈaɪtəm/",
         "行动项",
-        "Let's summarize what we agreed on."
+        "The manager listed three action items for the team to complete this week.",
+        "经理列出了团队本周需要完成的三个行动项。"
       ],
       [
         "agree on",
-        "/phrase/",
+        "/əˈɡriː ɒn/",
         "就……达成一致",
-        "Use \"Let’s summarize.\" when the situation fits."
+        "The two companies finally agreed on the price after weeks of negotiation.",
+        "经过数周谈判，两家公司终于就价格达成了一致。"
       ]
     ]
   },
@@ -13536,32 +14334,35 @@ window.dialogueCards = [
       [
         "A",
         "I’ll double-check the figures and get back to you.",
-        "I’ll double-check the figures and get back to you."
+        "我再核实一下数据，然后回复你。"
       ],
       [
         "B",
         "Thanks for the numbers. I’ll double-check them.",
-        "Thanks for the numbers. I’ll double-check them."
+        "谢谢这些数字，我再核对一下。"
       ]
     ],
     "words": [
       [
         "I’ll double-check.",
-        "/phrase/",
+        "",
         "意思是“我会再确认一遍”。",
-        "I’ll double-check the figures and get back to you."
+        "I’ll double-check the figures and get back to you.",
+        ""
       ],
       [
         "figures",
-        "/phrase/",
+        "/ˈfɪɡjərz/",
         "数据；数字",
-        "Thanks for the numbers. I’ll double-check them."
+        "Thanks for the numbers. I’ll double-check them.",
+        ""
       ],
       [
         "get back to you",
-        "/phrase/",
+        "/ɡet bæk tə juː/",
         "回复你",
-        "Use \"I’ll double-check.\" when the situation fits."
+        "Use \"I’ll double-check.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -13584,32 +14385,35 @@ window.dialogueCards = [
       [
         "A",
         "The plan is approved. Please proceed.",
-        "The plan is approved. Please proceed."
+        "方案已经批准了，请推进吧。"
       ],
       [
         "B",
         "Please proceed with the next step.",
-        "Please proceed with the next step."
+        "请继续下一步。"
       ]
     ],
     "words": [
       [
         "Please proceed.",
-        "/phrase/",
+        "/pliz prəˈsid/",
         "意思是“请继续 / 请推进”。",
-        "The plan is approved. Please proceed."
+        "The plan is approved. Please proceed.",
+        "计划已批准，请继续推进。"
       ],
       [
         "approved",
-        "/phrase/",
+        "/əˈpruːvd/",
         "已批准的",
-        "Please proceed with the next step."
+        "All approved applications will receive a confirmation email.",
+        "所有已批准的申请都将收到确认邮件。"
       ],
       [
         "next step",
-        "/phrase/",
+        "/nɛkst stɛp/",
         "下一步",
-        "Use \"Please proceed.\" when the situation fits."
+        "Use \"Please proceed.\" when the situation fits.",
+        "在合适的场合使用\"请继续。\"。"
       ]
     ]
   },
@@ -13632,32 +14436,35 @@ window.dialogueCards = [
       [
         "A",
         "Don’t worry about spilling the drink. It’s not a big deal.",
-        "Don’t worry about spilling the drink. It’s not a big deal."
+        "别在意饮料洒了的事，没什么大不了的。"
       ],
       [
         "B",
         "It's not a big deal. We can fix it.",
-        "It's not a big deal. We can fix it."
+        "小事情，我们能搞定。"
       ]
     ],
     "words": [
       [
         "It’s not a big deal.",
-        "/phrase/",
+        "",
         "意思是“没什么大不了的”。",
-        "Don’t worry about spilling the drink. It’s not a big deal."
+        "Don’t worry about spilling the drink. It’s not a big deal.",
+        ""
       ],
       [
         "spill",
-        "/phrase/",
+        "/spɪl/",
         "洒出",
-        "It's not a big deal. We can fix it."
+        "Be careful not to spill coffee on your laptop.",
+        "小心别把咖啡洒到笔记本电脑上。"
       ],
       [
         "fix",
-        "/phrase/",
+        "/fɪks/",
         "修复",
-        "Use \"It’s not a big deal.\" when the situation fits."
+        "Can you help me fix my computer?",
+        "你能帮我修一下电脑吗？"
       ]
     ]
   },
@@ -13680,32 +14487,35 @@ window.dialogueCards = [
       [
         "A",
         "You got the promotion? You’re pulling my leg!",
-        "You got the promotion? You’re pulling my leg!"
+        "你升职了？你在逗我吧！"
       ],
       [
         "B",
         "You won the lottery? You're pulling my leg!",
-        "You won the lottery? You're pulling my leg!"
+        "你中彩票了？别开玩笑了！"
       ]
     ],
     "words": [
       [
         "You’re pulling my leg.",
-        "/phrase/",
+        "",
         "意思是“你在开玩笑吧 / 逗我玩呢”。",
-        "You got the promotion? You’re pulling my leg!"
+        "You got the promotion? You’re pulling my leg!",
+        ""
       ],
       [
         "promotion",
-        "/phrase/",
+        "/prəˈmoʊʃən/",
         "升职",
-        "You won the lottery? You're pulling my leg!"
+        "The store is running a big promotion on electronics this weekend.",
+        "这家商店本周末正在进行电子产品大促销。"
       ],
       [
         "lottery",
-        "/phrase/",
+        "/ˈlɑtəri/",
         "彩票",
-        "Use \"You’re pulling my leg.\" when the situation fits."
+        "Use \"You’re pulling my leg.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -13728,32 +14538,35 @@ window.dialogueCards = [
       [
         "A",
         "Before we present to the client, let’s align on this.",
-        "Before we present to the client, let’s align on this."
+        "在给客户演示之前，我们先统一一下口径。"
       ],
       [
         "B",
         "Let's align on the message before the meeting.",
-        "Let's align on the message before the meeting."
+        "开会前我们先对齐一下要传达的信息。"
       ]
     ],
     "words": [
       [
         "Let’s align on this.",
-        "/phrase/",
+        "",
         "意思是“我们在这个问题上统一一下意见”。",
-        "Before we present to the client, let’s align on this."
+        "Before we present to the client, let’s align on this.",
+        ""
       ],
       [
         "align",
-        "/phrase/",
+        "/əˈlaɪn/",
         "对齐；统一",
-        "Let's align on the message before the meeting."
+        "Make sure the columns in the table are properly aligned.",
+        "确保表格中的列已正确对齐。"
       ],
       [
         "client",
-        "/phrase/",
+        "/ˈklaɪənt/",
         "客户",
-        "Use \"Let’s align on this.\" when the situation fits."
+        "We need to prepare a proposal for a potential client.",
+        "我们需要为潜在客户准备一份提案。"
       ]
     ]
   },
@@ -13776,32 +14589,35 @@ window.dialogueCards = [
       [
         "A",
         "We’re running behind schedule, so we need to work overtime this weekend.",
-        "We’re running behind schedule, so we need to work overtime this weekend."
+        "我们进度落后了，这个周末得加班。"
       ],
       [
         "B",
         "The team is running behind schedule.",
-        "The team is running behind schedule."
+        "团队进度已经落后了。"
       ]
     ],
     "words": [
       [
         "We’re running behind schedule.",
-        "/phrase/",
+        "",
         "意思是“我们进度落后了”。",
-        "We’re running behind schedule, so we need to work overtime this weekend."
+        "We’re running behind schedule, so we need to work overtime this weekend.",
+        ""
       ],
       [
         "behind schedule",
-        "/phrase/",
+        "/bɪˈhaɪnd ˈʃedjuːl/",
         "落后于计划",
-        "The team is running behind schedule."
+        "The train is running behind schedule due to bad weather.",
+        "由于天气恶劣，火车运行落后于计划。"
       ],
       [
         "overtime",
-        "/phrase/",
+        "/ˈoʊvərˌtaɪm/",
         "加班",
-        "Use \"We’re running behind schedule.\" when the situation fits."
+        "I've been working overtime all week to finish this project.",
+        "我整周都在加班完成这个项目。"
       ]
     ]
   },
@@ -13824,32 +14640,35 @@ window.dialogueCards = [
       [
         "A",
         "My bad, I forgot to send you the file.",
-        "My bad, I forgot to send you the file."
+        "我的错，忘了给你发文件了。"
       ],
       [
         "B",
         "Sorry, my bad. I clicked the wrong button.",
-        "Sorry, my bad. I clicked the wrong button."
+        "抱歉，怪我，我点错按钮了。"
       ]
     ],
     "words": [
       [
-        "My bad.",
-        "/phrase/",
+        "my bad",
+        "/maɪ bæd/",
         "意思是“我的错”。",
-        "My bad, I forgot to send you the file."
+        "Sorry I forgot your birthday — my bad!",
+        "抱歉忘了你的生日——我的错！"
       ],
       [
         "forgot",
-        "/phrase/",
+        "/fərˈɡɑːt/",
         "忘记了",
-        "Sorry, my bad. I clicked the wrong button."
+        "Sorry, my bad. I clicked the wrong button.",
+        "抱歉，我的锅，点错按钮了。"
       ],
       [
         "wrong button",
-        "/phrase/",
+        "/rɒŋ ˈbʌt.ən/",
         "错误按钮",
-        "Use \"My bad.\" when the situation fits."
+        "Use \"My bad.\" when the situation fits.",
+        "在合适的场合使用\"是我的错。\"。"
       ]
     ]
   },
@@ -13872,32 +14691,35 @@ window.dialogueCards = [
       [
         "A",
         "The exam is almost over. Hang in there!",
-        "The exam is almost over. Hang in there!"
+        "考试快结束了，再坚持一下！"
       ],
       [
         "B",
         "Hang in there. The busy season is nearly done.",
-        "Hang in there. The busy season is nearly done."
+        "坚持住，忙季快过去了。"
       ]
     ],
     "words": [
       [
         "Hang in there.",
-        "/phrase/",
+        "/hæŋ ɪn ðer/",
         "意思是“坚持一下”。",
-        "The exam is almost over. Hang in there!"
+        "The exam is almost over. Hang in there!",
+        "考试快结束了，坚持住！"
       ],
       [
         "nearly",
-        "/phrase/",
+        "/ˈnɪrli/",
         "几乎；快要",
-        "Hang in there. The busy season is nearly done."
+        "Hang in there. The busy season is nearly done.",
+        "坚持住，旺季快过去了。"
       ],
       [
         "busy season",
-        "/phrase/",
+        "/ˈbɪzi ˈsizən/",
         "忙季",
-        "Use \"Hang in there.\" when the situation fits."
+        "Use \"Hang in there.\" when the situation fits.",
+        "在合适的场合使用\"坚持住。\"。"
       ]
     ]
   },
@@ -13920,32 +14742,35 @@ window.dialogueCards = [
       [
         "A",
         "Before you send the email, run it by me.",
-        "Before you send the email, run it by me."
+        "发邮件之前先让我过一遍。"
       ],
       [
         "B",
         "Run the plan by me tomorrow morning.",
-        "Run the plan by me tomorrow morning."
+        "明天早上把方案给我看看。"
       ]
     ],
     "words": [
       [
         "Run it by me.",
-        "/phrase/",
+        "/rʌn ɪt baɪ mi/",
         "意思是“先给我过目 / 跟我讲一遍”。",
-        "Before you send the email, run it by me."
+        "Before you send the email, run it by me.",
+        "发邮件之前先给我看一眼。"
       ],
       [
         "send the email",
-        "/phrase/",
+        "/send ðə ˈiː.meɪl/",
         "发送邮件",
-        "Run the plan by me tomorrow morning."
+        "Run the plan by me tomorrow morning.",
+        "明天上午把方案给我过一遍。"
       ],
       [
         "plan",
-        "/phrase/",
+        "/plæn/",
         "计划",
-        "Use \"Run it by me.\" when the situation fits."
+        "What's your plan for the weekend?",
+        "你周末有什么计划？"
       ]
     ]
   },
@@ -13968,32 +14793,35 @@ window.dialogueCards = [
       [
         "A",
         "We need to get buy-in from the legal team.",
-        "We need to get buy-in from the legal team."
+        "我们需要获得法务团队的认可。"
       ],
       [
         "B",
         "Get buy-in from leadership before we proceed.",
-        "Get buy-in from leadership before we proceed."
+        "推进之前先争取领导层的支持。"
       ]
     ],
     "words": [
       [
         "Get buy-in from.",
-        "/phrase/",
+        "/ɡet ˈbaɪɪn frʌm/",
         "意思是“争取某人的支持或同意”。",
-        "We need to get buy-in from the legal team."
+        "We need to get buy-in from the legal team.",
+        "我们需要取得法务团队的认可。"
       ],
       [
         "leadership",
-        "/phrase/",
+        "/ˈliːdərʃɪp/",
         "管理层",
-        "Get buy-in from leadership before we proceed."
+        "Get buy-in from leadership before we proceed.",
+        "推进之前先争取领导层的支持。"
       ],
       [
         "proceed",
-        "/phrase/",
+        "/prəˈsid/",
         "继续推进",
-        "Use \"Get buy-in from.\" when the situation fits."
+        "Use \"Get buy-in from.\" when the situation fits.",
+        "在合适的场合使用\"取得……的认可。\"。"
       ]
     ]
   },
@@ -14016,32 +14844,35 @@ window.dialogueCards = [
       [
         "A",
         "We have a new feature in the pipeline for Q3.",
-        "We have a new feature in the pipeline for Q3."
+        "我们第三季度有一个新功能正在筹备中。"
       ],
       [
         "B",
         "Several updates are in the pipeline.",
-        "Several updates are in the pipeline."
+        "有几个更新正在推进中。"
       ]
     ],
     "words": [
       [
         "In the pipeline.",
-        "/phrase/",
+        "/ɪn ðə ˈpaɪplaɪn/",
         "意思是“正在筹备 / 计划中”。",
-        "We have a new feature in the pipeline for Q3."
+        "We have a new feature in the pipeline for Q3.",
+        "我们有一个新功能预计在第三季度推出。"
       ],
       [
         "feature",
-        "/phrase/",
+        "/ˈfiːtʃər/",
         "功能",
-        "Several updates are in the pipeline."
+        "This phone has a great camera feature.",
+        "这款手机有一个很棒的相机功能。"
       ],
       [
         "Q3",
-        "/phrase/",
+        "/kju θri/",
         "第三季度",
-        "Use \"In the pipeline.\" when the situation fits."
+        "Use \"In the pipeline.\" when the situation fits.",
+        "在合适的场合使用\"正在筹备中。\"。"
       ]
     ]
   },
@@ -14064,32 +14895,35 @@ window.dialogueCards = [
       [
         "A",
         "Thanks for dinner, but I’m stuffed.",
-        "Thanks for dinner, but I’m stuffed."
+        "谢谢你的晚餐，我吃撑了。"
       ],
       [
         "B",
         "That was a huge meal. I’m stuffed.",
-        "That was a huge meal. I’m stuffed."
+        "这顿饭量太大了，我吃撑了。"
       ]
     ],
     "words": [
       [
         "I’m stuffed.",
-        "/phrase/",
+        "",
         "意思是“我吃撑了”。",
-        "Thanks for dinner, but I’m stuffed."
+        "Thanks for dinner, but I’m stuffed.",
+        ""
       ],
       [
         "huge meal",
-        "/phrase/",
+        "/hjuːdʒ miːl/",
         "大餐",
-        "That was a huge meal. I’m stuffed."
+        "That was a huge meal. I’m stuffed.",
+        ""
       ],
       [
         "another bite",
-        "/phrase/",
+        "/əˈnʌðər baɪt/",
         "再吃一口",
-        "Use \"I’m stuffed.\" when the situation fits."
+        "The cake was so delicious that I had to have another bite.",
+        "蛋糕太好吃了，我忍不住又吃了一口。"
       ]
     ]
   },
@@ -14112,32 +14946,35 @@ window.dialogueCards = [
       [
         "A",
         "You’re moving to Paris? Are you kidding me?",
-        "You’re moving to Paris? Are you kidding me?"
+        "你要搬去巴黎？真的假的？"
       ],
       [
         "B",
         "Are you kidding me? That's amazing!",
-        "Are you kidding me? That's amazing!"
+        "真的假的？太棒了！"
       ]
     ],
     "words": [
       [
         "Are you kidding me?",
-        "/phrase/",
+        "/ɑːr juː ˈkɪdɪŋ miː/",
         "意思是“你在开玩笑吗 / 真的假的”。",
-        "You’re moving to Paris? Are you kidding me?"
+        "You won the lottery? Are you kidding me?",
+        "你中了彩票？你在开玩笑吗？"
       ],
       [
         "move to",
-        "/phrase/",
+        "/muv tu/",
         "搬去",
-        "Are you kidding me? That's amazing!"
+        "Are you kidding me? That's amazing!",
+        "你在开玩笑吧？太厉害了！"
       ],
       [
         "amazing",
-        "/phrase/",
+        "/əˈmeɪzɪŋ/",
         "惊人的",
-        "Use \"Are you kidding me?\" when the situation fits."
+        "The view from the top of the mountain was absolutely amazing.",
+        "山顶的景色绝对令人惊叹。"
       ]
     ]
   },
@@ -14160,32 +14997,35 @@ window.dialogueCards = [
       [
         "A",
         "After the small talk, he said, let’s get down to business.",
-        "After the small talk, he said, let’s get down to business."
+        "寒暄完之后，他说，我们谈正事吧。"
       ],
       [
         "B",
         "Let's get down to business and review the contract.",
-        "Let's get down to business and review the contract."
+        "我们开始谈正事，过一下合同。"
       ]
     ],
     "words": [
       [
         "Let’s get down to business.",
-        "/phrase/",
+        "",
         "意思是“我们言归正传”。",
-        "After the small talk, he said, let’s get down to business."
+        "After the small talk, he said, let’s get down to business.",
+        ""
       ],
       [
         "small talk",
-        "/phrase/",
+        "/ˈsmɔːl tɔːk/",
         "寒暄",
-        "Let's get down to business and review the contract."
+        "Let's get down to business and review the contract.",
+        "咱们言归正传，来审一下合同。"
       ],
       [
         "contract",
-        "/phrase/",
+        "/ˈkɒntrækt/",
         "合同",
-        "Use \"Let’s get down to business.\" when the situation fits."
+        "We need to sign the contract before starting the project.",
+        "我们需要在项目开始前签署合同。"
       ]
     ]
   },
@@ -14208,32 +15048,35 @@ window.dialogueCards = [
       [
         "A",
         "That’s a good question. Let me check the data and get back to you.",
-        "That’s a good question. Let me check the data and get back to you."
+        "这个问题问得好，我查一下数据再回复你。"
       ],
       [
         "B",
         "That's a good question, and I don't want to guess.",
-        "That's a good question, and I don't want to guess."
+        "这个问题问得好，我不想瞎猜。"
       ]
     ],
     "words": [
       [
         "That’s a good question.",
-        "/phrase/",
+        "",
         "意思是“这是个好问题”。",
-        "That’s a good question. Let me check the data and get back to you."
+        "That’s a good question. Let me check the data and get back to you.",
+        ""
       ],
       [
         "check the data",
-        "/phrase/",
+        "/tʃɛk ðə ˈdeɪtə/",
         "查看数据",
-        "That's a good question, and I don't want to guess."
+        "That's a good question, and I don't want to guess.",
+        "问得好，我不想瞎猜。"
       ],
       [
         "guess",
-        "/phrase/",
+        "/ɡes/",
         "猜测",
-        "Use \"That’s a good question.\" when the situation fits."
+        "Can you guess how many people came to the party?",
+        "你能猜到有多少人来了派对吗？"
       ]
     ]
   },
@@ -14256,32 +15099,35 @@ window.dialogueCards = [
       [
         "A",
         "Regarding the new policy, we’re open to suggestions.",
-        "Regarding the new policy, we’re open to suggestions."
+        "关于新政策，我们欢迎大家提建议。"
       ],
       [
         "B",
         "We're open to suggestions from the whole team.",
-        "We're open to suggestions from the whole team."
+        "我们愿意听取全团队的建议。"
       ]
     ],
     "words": [
       [
         "We’re open to suggestions.",
-        "/phrase/",
+        "",
         "意思是“我们愿意听取建议”。",
-        "Regarding the new policy, we’re open to suggestions."
+        "Regarding the new policy, we’re open to suggestions.",
+        ""
       ],
       [
         "policy",
-        "/phrase/",
+        "/ˈpɑːləsi/",
         "政策",
-        "We're open to suggestions from the whole team."
+        "The company has a strict no-smoking policy.",
+        "公司有严格的禁烟规定。"
       ],
       [
         "whole team",
-        "/phrase/",
+        "/həʊl tiːm/",
         "整个团队",
-        "Use \"We’re open to suggestions.\" when the situation fits."
+        "Use \"We’re open to suggestions.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -14304,32 +15150,35 @@ window.dialogueCards = [
       [
         "A",
         "A free phone? What's the catch?",
-        "A free phone? What's the catch?"
+        "免费手机？这里面有什么坑？"
       ],
       [
         "B",
         "The offer sounds great, but what's the catch?",
-        "The offer sounds great, but what's the catch?"
+        "这个优惠听起来很棒，但有什么猫腻吗？"
       ]
     ],
     "words": [
       [
         "What's the catch?",
-        "/phrase/",
+        "/wɒts ðə kætʃ/",
         "意思是“有什么隐藏条件 / 哪有这么好的事”。",
-        "A free phone? What's the catch?"
+        "A free phone? What's the catch?",
+        "免费手机？有什么陷阱吧。"
       ],
       [
         "offer",
-        "/phrase/",
+        "/ˈɔːfər/",
         "提议；优惠",
-        "The offer sounds great, but what's the catch?"
+        "They offered me a great job opportunity.",
+        "他们给了我一个很好的工作机会。"
       ],
       [
         "free",
-        "/phrase/",
+        "/friː/",
         "免费的",
-        "Use \"What's the catch?\" when the situation fits."
+        "Use \"What's the catch?\" when the situation fits.",
+        "在合适的场合使用\"有什么陷阱？\"。"
       ]
     ]
   },
@@ -14352,32 +15201,35 @@ window.dialogueCards = [
       [
         "A",
         "I'd like to propose a different approach for this campaign.",
-        "I'd like to propose a different approach for this campaign."
+        "我想为这次活动提出一个不同的方案。"
       ],
       [
         "B",
         "I'd like to propose a different approach to reduce cost.",
-        "I'd like to propose a different approach to reduce cost."
+        "我想提出一个不同的方法来降低成本。"
       ]
     ],
     "words": [
       [
         "I'd like to propose a different approach.",
-        "/phrase/",
+        "/aɪd laɪk tə prəˈpoʊz ə ˈdɪfərənt əˈproʊtʃ/",
         "意思是“我想提出一个不同的方案”。",
-        "I'd like to propose a different approach for this campaign."
+        "I'd like to propose a different approach for this campaign.",
+        "我想对这个活动提出一个不同的方案。"
       ],
       [
         "approach",
-        "/phrase/",
+        "/əˈproʊtʃ/",
         "方法；方案",
-        "I'd like to propose a different approach to reduce cost."
+        "We need a new approach to solve this problem.",
+        "我们需要一种新的方法来解决这个问题。"
       ],
       [
         "campaign",
-        "/phrase/",
+        "/kæmˈpeɪn/",
         "活动；项目",
-        "Use \"I'd like to propose a different approach.\" when the situation fits."
+        "The marketing campaign increased sales by thirty percent.",
+        "这次营销活动使销售额提高了百分之三十。"
       ]
     ]
   },
@@ -14400,32 +15252,35 @@ window.dialogueCards = [
       [
         "A",
         "Is there any room for negotiation on the price?",
-        "Is there any room for negotiation on the price?"
+        "价格上还有商量的余地吗？"
       ],
       [
         "B",
         "Is there any room for negotiation on the deadline?",
-        "Is there any room for negotiation on the deadline?"
+        "截止日期上还有商量的余地吗？"
       ]
     ],
     "words": [
       [
         "Is there any room for negotiation?",
-        "/phrase/",
+        "/ɪz ðer ˈeni ruːm fɔːr nɪˌɡoʊʃiˈeɪʃən/",
         "意思是“还有商量空间吗？”。",
-        "Is there any room for negotiation on the price?"
+        "Is there any room for negotiation on the price?",
+        "价格还有商量余地吗？"
       ],
       [
         "negotiation",
-        "/phrase/",
+        "/nɪˌɡoʊʃiˈeɪʃən/",
         "谈判；协商",
-        "Is there any room for negotiation on the deadline?"
+        "Is there any room for negotiation on the deadline?",
+        "截止日期还有商量余地吗？"
       ],
       [
         "price",
-        "/phrase/",
+        "/praɪs/",
         "价格",
-        "Use \"Is there any room for negotiation?\" when the situation fits."
+        "The price of gas has gone up again.",
+        "油价又涨了。"
       ]
     ]
   },
@@ -14448,32 +15303,35 @@ window.dialogueCards = [
       [
         "A",
         "We're willing to compromise if the timeline is realistic.",
-        "We're willing to compromise if the timeline is realistic."
+        "如果时间安排合理的话，我们可以让步。"
       ],
       [
         "B",
         "We’re willing to compromise on some minor points.",
-        "We’re willing to compromise on some minor points."
+        "我们可以在一些细节上做出让步。"
       ]
     ],
     "words": [
       [
         "We’re willing to compromise.",
-        "/phrase/",
+        "",
         "意思是“我们愿意妥协 / 让步”。",
-        "We're willing to compromise if the timeline is realistic."
+        "We're willing to compromise if the timeline is realistic.",
+        "如果时间安排合理，我们愿意妥协。"
       ],
       [
         "compromise",
-        "/phrase/",
+        "/ˈkɒmprəmaɪz/",
         "妥协；让步",
-        "We’re willing to compromise on some minor points."
+        "A good marriage requires both partners to compromise from time to time.",
+        "好的婚姻需要双方时不时地做出妥协。"
       ],
       [
         "realistic",
-        "/phrase/",
+        "/ˌriːəˈlɪstɪk/",
         "现实的",
-        "Use \"We’re willing to compromise.\" when the situation fits."
+        "We need to set realistic goals for this project.",
+        "我们需要为这个项目设定现实的目标。"
       ]
     ]
   },
@@ -14496,32 +15354,35 @@ window.dialogueCards = [
       [
         "A",
         "You think I'll clean your room for you? You wish!",
-        "You think I'll clean your room for you? You wish!"
+        "你觉得我会帮你打扫房间？想得美！"
       ],
       [
         "B",
         "You wish! I'm not paying for everyone.",
-        "You wish! I'm not paying for everyone."
+        "想得美！我才不会请所有人吃饭呢。"
       ]
     ],
     "words": [
       [
         "You wish!",
-        "/phrase/",
+        "/juː wɪʃ/",
         "意思是“想得美”。",
-        "You think I'll clean your room for you? You wish!"
+        "You think I'll clean your room for you? You wish!",
+        "你以为我会帮你打扫房间？想得美！"
       ],
       [
         "clean your room",
-        "/phrase/",
+        "/klin jʊr rum/",
         "打扫你的房间",
-        "You wish! I'm not paying for everyone."
+        "You wish! I'm not paying for everyone.",
+        "想得美！我才不会替所有人买单。"
       ],
       [
         "pay for",
-        "/phrase/",
+        "/peɪ fɔr/",
         "为……付款",
-        "Use \"You wish!\" when the situation fits."
+        "Use \"You wish!\" when the situation fits.",
+        "在合适的场合使用\"想得美！\"。"
       ]
     ]
   },
@@ -14544,32 +15405,35 @@ window.dialogueCards = [
       [
         "A",
         "You met someone interesting? Do tell.",
-        "You met someone interesting? Do tell."
+        "你遇到了有意思的人？快说说。"
       ],
       [
         "B",
         "Do tell. What happened after that?",
-        "Do tell. What happened after that?"
+        "快说说，后来发生了什么？"
       ]
     ],
     "words": [
       [
         "Do tell.",
-        "/phrase/",
+        "/du tɛl/",
         "意思是“快说说 / 详细讲讲”。",
-        "You met someone interesting? Do tell."
+        "You met someone interesting? Do tell.",
+        "你遇到了有意思的人？快说说。"
       ],
       [
         "interesting",
-        "/phrase/",
+        "/ˈɪntrəstɪŋ/",
         "有趣的",
-        "Do tell. What happened after that?"
+        "That's an interesting point — I hadn't thought of it that way.",
+        "这个观点很有趣——我之前没想到这一点。"
       ],
       [
         "what happened",
-        "/phrase/",
+        "/wɒt ˈhæp.ənd/",
         "发生了什么",
-        "Use \"Do tell.\" when the situation fits."
+        "Use \"Do tell.\" when the situation fits.",
+        "在合适的场合使用\"快说说看。\"。"
       ]
     ]
   },
@@ -14592,32 +15456,35 @@ window.dialogueCards = [
       [
         "A",
         "The concert was canceled? That's a bummer.",
-        "The concert was canceled? That's a bummer."
+        "演唱会取消了？那太扫兴了。"
       ],
       [
         "B",
         "That's a bummer. I hope you feel better soon.",
-        "That's a bummer. I hope you feel better soon."
+        "真扫兴，希望你早点好起来。"
       ]
     ],
     "words": [
       [
         "That's a bummer.",
-        "/phrase/",
+        "/ðæts ə ˈbʌm.ər/",
         "意思是“真扫兴 / 太倒霉了”。",
-        "The concert was canceled? That's a bummer."
+        "The concert was canceled? That's a bummer.",
+        "演唱会取消了？真扫兴。"
       ],
       [
         "canceled",
-        "/phrase/",
+        "/ˈkænsəld/",
         "被取消的",
-        "That's a bummer. I hope you feel better soon."
+        "That's a bummer. I hope you feel better soon.",
+        "真可惜，希望你早日康复。"
       ],
       [
         "feel better",
-        "/phrase/",
+        "/fil ˈbɛtər/",
         "感觉好些",
-        "Use \"That's a bummer.\" when the situation fits."
+        "Use \"That's a bummer.\" when the situation fits.",
+        "在合适的场合使用\"真扫兴。\"。"
       ]
     ]
   },
@@ -14640,32 +15507,35 @@ window.dialogueCards = [
       [
         "A",
         "Sorry for the delay. No worries, we've got time.",
-        "Sorry for the delay. No worries, we've got time."
+        "抱歉来晚了。没事，我们有的是时间。"
       ],
       [
         "B",
         "No worries. Happy to help.",
-        "No worries. Happy to help."
+        "没事，很乐意帮忙。"
       ]
     ],
     "words": [
       [
         "No worries.",
-        "/phrase/",
+        "/noʊ ˈwɜriz/",
         "意思是“没事儿 / 别放在心上”。",
-        "Sorry for the delay. No worries, we've got time."
+        "Sorry for the delay. No worries, we've got time.",
+        "抱歉耽搁了。没事，来得及。"
       ],
       [
         "delay",
-        "/phrase/",
+        "/dɪˈleɪ/",
         "延迟",
-        "No worries. Happy to help."
+        "The flight was delayed by two hours due to bad weather.",
+        "航班因恶劣天气延误了两小时。"
       ],
       [
         "happy to help",
-        "/phrase/",
+        "/ˈhæpi tə help/",
         "乐意帮忙",
-        "Use \"No worries.\" when the situation fits."
+        "Use \"No worries.\" when the situation fits.",
+        "在合适的场合使用\"没关系。\"。"
       ]
     ]
   },
@@ -14688,32 +15558,35 @@ window.dialogueCards = [
       [
         "A",
         "If we leave now, we can avoid the traffic. That makes sense.",
-        "If we leave now, we can avoid the traffic. That makes sense."
+        "如果我们现在出发，就能避开堵车。有道理。"
       ],
       [
         "B",
         "That makes sense. Let's do it that way.",
-        "That makes sense. Let's do it that way."
+        "有道理，咱们就这么办。"
       ]
     ],
     "words": [
       [
         "That makes sense.",
-        "/phrase/",
+        "/ðæt meɪks sens/",
         "意思是“有道理 / 说得通”。",
-        "If we leave now, we can avoid the traffic. That makes sense."
+        "If we leave now, we can avoid the traffic. That makes sense.",
+        "现在走能避开堵车。有道理。"
       ],
       [
         "avoid traffic",
-        "/phrase/",
+        "/əˈvɔɪd ˈtræfɪk/",
         "避开交通拥堵",
-        "That makes sense. Let's do it that way."
+        "Let's leave early to avoid traffic.",
+        "我们早点出发以避开交通拥堵。"
       ],
       [
         "do it that way",
-        "/phrase/",
+        "/du ɪt ðæt weɪ/",
         "那样做",
-        "Use \"That makes sense.\" when the situation fits."
+        "Use \"That makes sense.\" when the situation fits.",
+        "在合适的场合使用\"有道理。\"。"
       ]
     ]
   },
@@ -14736,32 +15609,35 @@ window.dialogueCards = [
       [
         "A",
         "Want to grab dinner later? I'm down.",
-        "Want to grab dinner later? I'm down."
+        "一会儿想去吃晚饭吗？好啊。"
       ],
       [
         "B",
         "I'm down for a movie this weekend.",
-        "I'm down for a movie this weekend."
+        "我周末想去看电影。"
       ]
     ],
     "words": [
       [
         "I’m down.",
-        "/phrase/",
+        "",
         "意思是“我愿意 / 我加入”。",
-        "Want to grab dinner later? I'm down."
+        "Want to grab dinner later? I'm down.",
+        "待会儿一起吃晚饭？我乐意去。"
       ],
       [
         "grab dinner",
-        "/phrase/",
+        "/ɡræb ˈdɪnər/",
         "去吃晚饭",
-        "I'm down for a movie this weekend."
+        "I'm down for a movie this weekend.",
+        "这周末看电影，我参加。"
       ],
       [
         "this weekend",
-        "/phrase/",
+        "/ðɪs ˌwiːkˈend/",
         "这个周末",
-        "Use \"I’m down.\" when the situation fits."
+        "Use \"I’m down.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -14784,32 +15660,35 @@ window.dialogueCards = [
       [
         "A",
         "The constant noise drives me up the wall.",
-        "The constant noise drives me up the wall."
+        "没完没了的噪音让我烦透了。"
       ],
       [
         "B",
         "Slow internet drives me up the wall.",
-        "Slow internet drives me up the wall."
+        "网速慢让我烦透了。"
       ]
     ],
     "words": [
       [
         "It drives me up the wall.",
-        "/phrase/",
+        "/ɪt draɪvz miː ʌp ðə wɔːl/",
         "意思是“这让我抓狂”。",
-        "The constant noise drives me up the wall."
+        "The constant noise drives me up the wall.",
+        "持续的噪音让我快疯了。"
       ],
       [
         "constant noise",
-        "/phrase/",
+        "/ˈkɑnstənt nɔɪz/",
         "持续噪音",
-        "Slow internet drives me up the wall."
+        "Slow internet drives me up the wall.",
+        "网速慢得让我抓狂。"
       ],
       [
         "slow internet",
-        "/phrase/",
+        "/sləʊ ˈɪn.tə.net/",
         "慢网速",
-        "Use \"It drives me up the wall.\" when the situation fits."
+        "Use \"It drives me up the wall.\" when the situation fits.",
+        "在合适的场合使用\"快把我逼疯了。\"。"
       ]
     ]
   },
@@ -14832,32 +15711,35 @@ window.dialogueCards = [
       [
         "A",
         "This week has been exhausting. You're telling me!",
-        "This week has been exhausting. You're telling me!"
+        "这周真够累的。可不是嘛！"
       ],
       [
         "B",
         "The traffic is terrible. You're telling me!",
-        "The traffic is terrible. You're telling me!"
+        "这交通太堵了。就是说啊！"
       ]
     ],
     "words": [
       [
         "You’re telling me!",
-        "/phrase/",
+        "",
         "意思是“可不是嘛 / 我太懂了”。",
-        "This week has been exhausting. You're telling me!"
+        "This week has been exhausting. You're telling me!",
+        "这周真是累坏了。还用你说！"
       ],
       [
         "exhausting",
-        "/phrase/",
+        "/ɪɡˈzɔːstɪŋ/",
         "令人疲惫的",
-        "The traffic is terrible. You're telling me!"
+        "Moving all the furniture by myself was absolutely exhausting.",
+        "独自搬所有家具真是太令人疲惫了。"
       ],
       [
         "traffic",
-        "/phrase/",
+        "/ˈtræf.ɪk/",
         "交通",
-        "Use \"You’re telling me!\" when the situation fits."
+        "Use \"You’re telling me!\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -14880,32 +15762,35 @@ window.dialogueCards = [
       [
         "A",
         "I’d be happy to assist with that if you send me the files.",
-        "I’d be happy to assist with that if you send me the files."
+        "你把文件发给我，我很乐意帮你处理。"
       ],
       [
         "B",
         "I’d be happy to assist with the presentation.",
-        "I’d be happy to assist with the presentation."
+        "我很乐意协助做演示文稿。"
       ]
     ],
     "words": [
       [
         "I’d be happy to assist with that.",
-        "/phrase/",
+        "",
         "意思是“我很乐意协助”。",
-        "I’d be happy to assist with that if you send me the files."
+        "I’d be happy to assist with that if you send me the files.",
+        ""
       ],
       [
         "assist",
-        "/phrase/",
+        "/əˈsɪst/",
         "协助",
-        "I’d be happy to assist with the presentation."
+        "Can you assist me with moving these boxes?",
+        "你能帮我搬这些箱子吗？"
       ],
       [
         "presentation",
-        "/phrase/",
+        "/ˌprɛzənˈteɪʃən/",
         "汇报；演示",
-        "Use \"I’d be happy to assist with that.\" when the situation fits."
+        "I have to give a presentation to the team tomorrow.",
+        "我明天要给团队做一个汇报。"
       ]
     ]
   },
@@ -14928,32 +15813,35 @@ window.dialogueCards = [
       [
         "A",
         "Our vacation plans are still up in the air.",
-        "Our vacation plans are still up in the air."
+        "我们的假期计划还没定下来。"
       ],
       [
         "B",
         "The trip is up in the air until we get the budget.",
-        "The trip is up in the air until we get the budget."
+        "在拿到预算之前，这趟旅行还悬而未决。"
       ]
     ],
     "words": [
       [
         "It’s up in the air.",
-        "/phrase/",
+        "",
         "意思是“还没定 / 悬而未决”。",
-        "Our vacation plans are still up in the air."
+        "Our vacation plans are still up in the air.",
+        "我们的度假计划还没定。"
       ],
       [
         "vacation plans",
-        "/phrase/",
+        "/veɪˈkeɪ.ʃən plænz/",
         "假期计划",
-        "The trip is up in the air until we get the budget."
+        "The trip is up in the air until we get the budget.",
+        "在预算批下来之前，这趟行程还没有定数。"
       ],
       [
         "budget",
-        "/phrase/",
+        "/ˈbʌdʒɪt/",
         "预算",
-        "Use \"It’s up in the air.\" when the situation fits."
+        "We need to set a budget for the wedding.",
+        "我们需要为婚礼制定预算。"
       ]
     ]
   },
@@ -14976,32 +15864,35 @@ window.dialogueCards = [
       [
         "A",
         "Can you help me move this chair? No sweat.",
-        "Can you help me move this chair? No sweat."
+        "能帮我搬一下这把椅子吗？没问题。"
       ],
       [
         "B",
         "No sweat. I can finish it today.",
-        "No sweat. I can finish it today."
+        "没问题，我今天能搞定。"
       ]
     ],
     "words": [
       [
         "No sweat.",
-        "/phrase/",
+        "/noʊ swɛt/",
         "意思是“没问题 / 小意思”。",
-        "Can you help me move this chair? No sweat."
+        "Can you help me move this chair? No sweat.",
+        "能帮我搬一下这把椅子吗？没问题。"
       ],
       [
         "help me",
-        "/phrase/",
+        "/help miː/",
         "帮我",
-        "No sweat. I can finish it today."
+        "No sweat. I can finish it today.",
+        "没问题，我今天能做完。"
       ],
       [
         "finish",
-        "/phrase/",
+        "/ˈfɪnɪʃ/",
         "完成",
-        "Use \"No sweat.\" when the situation fits."
+        "Use \"No sweat.\" when the situation fits.",
+        "在合适的场合使用\"小事一桩。\"。"
       ]
     ]
   },
@@ -15024,32 +15915,35 @@ window.dialogueCards = [
       [
         "A",
         "You look excited. Spill the tea!",
-        "You look excited. Spill the tea!"
+        "你看起来好兴奋。快说说怎么回事！"
       ],
       [
         "B",
         "Come on, spill the tea. What happened?",
-        "Come on, spill the tea. What happened?"
+        "快说说，到底发生了什么？"
       ]
     ],
     "words": [
       [
         "Spill the tea.",
-        "/phrase/",
+        "/spɪl ðə tiː/",
         "意思是“聊八卦 / 快爆料”。",
-        "You look excited. Spill the tea!"
+        "You look excited. Spill the tea!",
+        "你看起来很兴奋，快说说八卦！"
       ],
       [
         "tea",
-        "/phrase/",
+        "/tiː/",
         "八卦；爆料",
-        "Come on, spill the tea. What happened?"
+        "Come on, spill the tea. What happened?",
+        "快说嘛，到底发生了什么？"
       ],
       [
         "excited",
-        "/phrase/",
+        "/ɪkˈsaɪtɪd/",
         "兴奋的",
-        "Use \"Spill the tea.\" when the situation fits."
+        "The kids are very excited about the trip.",
+        "孩子们对这次旅行非常兴奋。"
       ]
     ]
   },
@@ -15072,32 +15966,35 @@ window.dialogueCards = [
       [
         "A",
         "I can't go shopping this week. I'm broke.",
-        "I can't go shopping this week. I'm broke."
+        "我这周不能去逛街了，我穷得叮当响。"
       ],
       [
         "B",
         "Let's cook at home. I'm broke.",
-        "Let's cook at home. I'm broke."
+        "咱们在家做饭吧，我没钱了。"
       ]
     ],
     "words": [
       [
         "I'm broke.",
-        "/phrase/",
+        "/aɪm broʊk/",
         "意思是“我没钱了 / 手头紧”。",
-        "I can't go shopping this week. I'm broke."
+        "I can't go shopping this week. I'm broke.",
+        "这周不能逛街了，没钱了。"
       ],
       [
         "go shopping",
-        "/phrase/",
+        "/ɡoʊ ˈʃɑːpɪŋ/",
         "去购物",
-        "Let's cook at home. I'm broke."
+        "Let's cook at home. I'm broke.",
+        "在家做饭吧，我手头紧。"
       ],
       [
         "cook at home",
-        "/phrase/",
+        "/kʊk æt hoʊm/",
         "在家做饭",
-        "Use \"I'm broke.\" when the situation fits."
+        "Use \"I'm broke.\" when the situation fits.",
+        "在合适的场合使用\"我穷了。\"。"
       ]
     ]
   },
@@ -15120,32 +16017,35 @@ window.dialogueCards = [
       [
         "A",
         "I totally agree with you on that point.",
-        "I totally agree with you on that point."
+        "这一点我完全同意你。"
       ],
       [
         "B",
         "I totally agree with you on that point, especially about the timeline.",
-        "I totally agree with you on that point, especially about the timeline."
+        "我完全同意你的看法，尤其是关于时间安排这块。"
       ]
     ],
     "words": [
       [
         "I totally agree with you on that point.",
-        "/phrase/",
+        "/aɪ ˈtoʊtəli əˈɡriː wɪð juː ɑːn ðæt pɔɪnt/",
         "意思是“在这一点上我完全赞同”。",
-        "I totally agree with you on that point."
+        "I totally agree with you on that point.",
+        "在那一点上我完全同意你。"
       ],
       [
         "agree",
-        "/phrase/",
+        "/əˈɡriː/",
         "赞同",
-        "I totally agree with you on that point, especially about the timeline."
+        "I completely agree with your suggestion.",
+        "我完全赞同你的建议。"
       ],
       [
         "on that point",
-        "/phrase/",
+        "/ɑn ðæt pɔɪnt/",
         "在那一点上",
-        "Use \"I totally agree with you on that point.\" when the situation fits."
+        "Use \"I totally agree with you on that point.\" when the situation fits.",
+        "在合适的场合使用\"在这一点上我完全同意你的看法。\"。"
       ]
     ]
   },
@@ -15168,32 +16068,35 @@ window.dialogueCards = [
       [
         "A",
         "If I may suggest, we could consider a smaller launch.",
-        "If I may suggest, we could consider a smaller launch."
+        "如果可以建议的话，我们可以考虑小规模上线。"
       ],
       [
         "B",
         "If I may suggest, we could consider another supplier.",
-        "If I may suggest, we could consider another supplier."
+        "如果可以建议的话，我们可以考虑换一家供应商。"
       ]
     ],
     "words": [
       [
         "If I may suggest, we could consider...",
-        "/phrase/",
+        "/ɪf aɪ meɪ səˈdʒest wiː kʊd kənˈsɪdər/",
         "意思是“如果可以建议的话，我们可以考虑……”。",
-        "If I may suggest, we could consider a smaller launch."
+        "If I may suggest, we could consider a smaller launch.",
+        "容我建议，可以考虑小范围发布。"
       ],
       [
         "suggest",
-        "/phrase/",
+        "/səˈdʒest/",
         "建议",
-        "If I may suggest, we could consider another supplier."
+        "I suggest we take a break and continue later.",
+        "我建议我们休息一下，稍后再继续。"
       ],
       [
         "consider",
-        "/phrase/",
+        "/kənˈsɪdər/",
         "考虑",
-        "Use \"If I may suggest, we could consider...\" when the situation fits."
+        "Use \"If I may suggest, we could consider...\" when the situation fits.",
+        "在合适的场合使用\"如果可以的话，我建议我们可以考虑……\"。"
       ]
     ]
   },
@@ -15216,32 +16119,35 @@ window.dialogueCards = [
       [
         "A",
         "I'd like to take some time to think it over before we decide.",
-        "I'd like to take some time to think it over before we decide."
+        "我想花点时间好好考虑一下再做决定。"
       ],
       [
         "B",
         "This is important, so I'd like to take some time to think it over.",
-        "This is important, so I'd like to take some time to think it over."
+        "这件事很重要，所以我想花点时间再想想。"
       ]
     ],
     "words": [
       [
         "I'd like to take some time to think it over.",
-        "/phrase/",
+        "/aɪd laɪk tə teɪk sʌm taɪm tə θɪŋk ɪt ˈoʊvər/",
         "意思是“我想花点时间考虑一下”。",
-        "I'd like to take some time to think it over before we decide."
+        "I'd like to take some time to think it over before we decide.",
+        "我想花点时间考虑一下再做决定。"
       ],
       [
         "think it over",
-        "/phrase/",
+        "/θɪŋk ɪt ˈəʊ.vər/",
         "仔细考虑",
-        "This is important, so I'd like to take some time to think it over."
+        "This is important, so I'd like to take some time to think it over.",
+        "这事很重要，我想花点时间好好考虑一下。"
       ],
       [
         "before we decide",
-        "/phrase/",
+        "/bɪˈfɔː wiː dɪˈsaɪd/",
         "在我们决定前",
-        "Use \"I'd like to take some time to think it over.\" when the situation fits."
+        "Let's review all the options before we decide.",
+        "在我们决定前，让我们先审视所有选项。"
       ]
     ]
   },
@@ -15297,19 +16203,22 @@ window.dialogueCards = [
         "check in",
         "/tʃek ɪn/",
         "办理登机或入住手续",
-        "I need to check in for my flight."
+        "I need to check in for my flight.",
+        "我需要办理航班值机。"
       ],
       [
         "boarding pass",
         "/ˈbɔːrdɪŋ pæs/",
         "登机牌",
-        "Here is your boarding pass."
+        "Here is your boarding pass.",
+        "这是你的登机牌。"
       ],
       [
         "gate",
         "/ɡeɪt/",
         "登机口",
-        "Please proceed to Gate 15."
+        "Please proceed to Gate 15.",
+        "请前往15号登机口。"
       ]
     ]
   },
@@ -15365,19 +16274,22 @@ window.dialogueCards = [
         "late check-out",
         "/leɪt tʃek aʊt/",
         "延迟退房",
-        "I'd like to request a late check-out."
+        "I'd like to request a late check-out.",
+        "我想申请延迟退房。"
       ],
       [
         "extend",
         "/ɪkˈstend/",
         "延长",
-        "We can extend your stay until 1 PM."
+        "We can extend your stay until 1 PM.",
+        "我们可以把你的入住时间延到下午一点。"
       ],
       [
         "extra charge",
         "/ˈekstrə tʃɑːrdʒ/",
         "额外费用",
-        "Is there an extra charge?"
+        "Is there an extra charge?",
+        "需要额外收费吗？"
       ]
     ]
   },
@@ -15433,19 +16345,22 @@ window.dialogueCards = [
         "have trouble with",
         "/hæv ˈtrʌbl wɪð/",
         "在……上有困难",
-        "I'm having trouble with this report."
+        "I'm having trouble with this report.",
+        "这份报告我遇到点麻烦。"
       ],
       [
         "update",
         "/ˌʌpˈdeɪt/",
         "更新",
-        "How do I update the data?"
+        "How do I update the data?",
+        "怎么更新数据？"
       ],
       [
         "let me know",
         "/let mi noʊ/",
         "告诉我",
-        "Let me know if you need anything else."
+        "Let me know if you need anything else.",
+        "还有什么需要随时告诉我。"
       ]
     ]
   },
@@ -15501,19 +16416,22 @@ window.dialogueCards = [
         "check in",
         "/tʃek ɪn/",
         "确认；跟进",
-        "I'm checking in about tomorrow's meeting."
+        "I'm checking in about tomorrow's meeting.",
+        "我来确认一下明天的会议。"
       ],
       [
         "double-check",
         "/ˌdʌbl ˈtʃek/",
         "再次确认",
-        "Let me double-check my calendar."
+        "Let me double-check my calendar.",
+        "我再确认一下我的日程。"
       ],
       [
         "works for me",
         "/wɜːrks fɔːr mi/",
         "对我来说可以",
-        "11 AM works for me."
+        "11 AM works for me.",
+        "上午11点我没问题。"
       ]
     ]
   },
@@ -15569,19 +16487,22 @@ window.dialogueCards = [
         "combo",
         "/ˈkɑːmboʊ/",
         "套餐",
-        "I'd like a cheeseburger combo."
+        "I'd like a cheeseburger combo.",
+        "我要一份芝士汉堡套餐。"
       ],
       [
         "for here",
         "/fɔːr hɪr/",
         "堂食；在店里吃",
-        "For here, please."
+        "For here, please.",
+        "在这吃。"
       ],
       [
         "to go",
         "/tə ɡoʊ/",
         "打包带走",
-        "Is this for here or to go?"
+        "Is this for here or to go?",
+        "在这儿吃还是打包？"
       ]
     ]
   },
@@ -15637,19 +16558,22 @@ window.dialogueCards = [
         "check",
         "/tʃek/",
         "账单",
-        "Could we get the check, please?"
+        "Could we get the check, please?",
+        "麻烦买单。"
       ],
       [
         "leftovers",
         "/ˈleftoʊvərz/",
         "剩菜",
-        "Could you box up the leftovers?"
+        "Could you box up the leftovers?",
+        "能把剩菜打包吗？"
       ],
       [
         "service charge",
         "/ˈsɜːrvɪs tʃɑːrdʒ/",
         "服务费",
-        "The service charge is included."
+        "The service charge is included.",
+        "服务费已包含在内。"
       ]
     ]
   },
@@ -15705,19 +16629,22 @@ window.dialogueCards = [
         "medium",
         "/ˈmiːdiəm/",
         "中号；中码",
-        "Do you have this shirt in a medium?"
+        "Do you have this shirt in a medium?",
+        "这件衬衫有中号吗？"
       ],
       [
         "fitting room",
         "/ˈfɪtɪŋ ruːm/",
         "试衣间",
-        "Where is the fitting room?"
+        "Where is the fitting room?",
+        "试衣间在哪里？"
       ],
       [
         "size",
         "/saɪz/",
         "尺码",
-        "Let me know if you need another size."
+        "Let me know if you need another size.",
+        "需要换尺码跟我说。"
       ]
     ]
   },
@@ -15773,19 +16700,22 @@ window.dialogueCards = [
         "aisle",
         "/aɪl/",
         "通道；过道",
-        "Olive oil is in Aisle 6."
+        "Olive oil is in Aisle 6.",
+        "橄榄油在6号通道。"
       ],
       [
         "shelf",
         "/ʃelf/",
         "货架；架子",
-        "It is on the middle shelf."
+        "It is on the middle shelf.",
+        "在中间那层架子上。"
       ],
       [
         "organic",
         "/ɔːrˈɡænɪk/",
         "有机的",
-        "Do you sell organic honey?"
+        "Do you sell organic honey?",
+        "有有机蜂蜜卖吗？"
       ]
     ]
   },
@@ -15841,19 +16771,22 @@ window.dialogueCards = [
         "take notes",
         "/teɪk noʊts/",
         "记笔记",
-        "Did you take notes in class?"
+        "Did you take notes in class?",
+        "课上做笔记了吗？"
       ],
       [
         "miss class",
         "/mɪs klæs/",
         "缺课；错过课程",
-        "I missed class because I was sick."
+        "I missed class because I was sick.",
+        "我生病缺课了。"
       ],
       [
         "appreciate",
         "/əˈpriːʃieɪt/",
         "感激",
-        "I really appreciate it."
+        "I really appreciate it.",
+        "真的很感谢。"
       ]
     ]
   },
@@ -15909,19 +16842,22 @@ window.dialogueCards = [
         "catalog",
         "/ˈkætəlɔːɡ/",
         "目录；馆藏目录",
-        "Let me search the catalog."
+        "Let me search the catalog.",
+        "我搜一下目录。"
       ],
       [
         "checked out",
         "/tʃekt aʊt/",
         "已被借出",
-        "All copies are checked out."
+        "All copies are checked out.",
+        "所有副本都借出去了。"
       ],
       [
         "place a hold",
         "/pleɪs ə hoʊld/",
         "预约；预留",
-        "I'll place a hold for you."
+        "I'll place a hold for you.",
+        "我帮你预约保留一下。"
       ]
     ]
   },
@@ -15977,19 +16913,22 @@ window.dialogueCards = [
         "free",
         "/friː/",
         "有空的",
-        "Are you free this Saturday night?"
+        "Are you free this Saturday night?",
+        "这周六晚上有空吗？"
       ],
       [
         "join",
         "/dʒɔɪn/",
         "加入；参加",
-        "Do you want to join?"
+        "Do you want to join?",
+        "想一起吗？"
       ],
       [
         "count me in",
         "/kaʊnt mi ɪn/",
         "算我一个",
-        "Sure, count me in."
+        "Sure, count me in.",
+        "当然，算我一个。"
       ]
     ]
   },
@@ -16045,19 +16984,22 @@ window.dialogueCards = [
         "we've met",
         "/wiːv met/",
         "我们见过",
-        "I don't think we've met."
+        "I don't think we've met.",
+        "我们好像没见过。"
       ],
       [
         "classmate",
         "/ˈklæsmeɪt/",
         "同学",
-        "We were classmates in college."
+        "We were classmates in college.",
+        "我们大学时是同学。"
       ],
       [
         "marketing",
         "/ˈmɑːrkɪtɪŋ/",
         "市场营销",
-        "I work in marketing."
+        "I work in marketing.",
+        "我做市场方面的工作。"
       ]
     ]
   },
@@ -16113,19 +17055,22 @@ window.dialogueCards = [
         "cough",
         "/kɔːf/",
         "咳嗽",
-        "I have a cough and a runny nose."
+        "I have a cough and a runny nose.",
+        "我又咳嗽又流鼻涕。"
       ],
       [
         "sore throat",
         "/sɔːr θroʊt/",
         "喉咙痛",
-        "I have a sore throat."
+        "I have a sore throat.",
+        "我喉咙痛。"
       ],
       [
         "tablet",
         "/ˈtæblət/",
         "药片",
-        "Take two tablets after meals."
+        "Take two tablets after meals.",
+        "饭后服用两片。"
       ]
     ]
   },
@@ -16181,19 +17126,22 @@ window.dialogueCards = [
         "appointment",
         "/əˈpɔɪntmənt/",
         "预约",
-        "I'd like to make an appointment."
+        "I'd like to make an appointment.",
+        "我想预约。"
       ],
       [
         "stomach pain",
         "/ˈstʌmək peɪn/",
         "胃痛；腹痛",
-        "I've had stomach pain since yesterday."
+        "I've had stomach pain since yesterday.",
+        "我从昨天开始胃疼。"
       ],
       [
         "opening",
         "/ˈoʊpənɪŋ/",
         "空档；可预约时间",
-        "We have an opening at 9:30."
+        "We have an opening at 9:30.",
+        "九点半有一个空位。"
       ]
     ]
   },
@@ -16249,19 +17197,22 @@ window.dialogueCards = [
         "screwdriver",
         "/ˈskruːdraɪvər/",
         "螺丝刀",
-        "Do you have a screwdriver I could borrow?"
+        "Do you have a screwdriver I could borrow?",
+        "你有螺丝刀能借我用一下吗？"
       ],
       [
         "loose",
         "/luːs/",
         "松动的",
-        "I need to fix a loose handle."
+        "I need to fix a loose handle.",
+        "我需要修一下松动的把手。"
       ],
       [
         "borrow",
         "/ˈbɑːroʊ/",
         "借入；借用",
-        "Could I borrow your screwdriver?"
+        "Could I borrow your screwdriver?",
+        "能借一下你的螺丝刀吗？"
       ]
     ]
   },
@@ -16317,19 +17268,22 @@ window.dialogueCards = [
         "transfer",
         "/trænsˈfɜːr/",
         "换乘",
-        "Do I need to transfer?"
+        "Do I need to transfer?",
+        "需要转车吗？"
       ],
       [
         "direct train",
         "/dəˈrekt treɪn/",
         "直达列车",
-        "It's a direct train."
+        "It's a direct train.",
+        "这是直达列车。"
       ],
       [
         "platform",
         "/ˈplætfɔːrm/",
         "站台",
-        "Which platform should I use?"
+        "Which platform should I use?",
+        "我该用哪个平台？"
       ]
     ]
   },
@@ -16383,21 +17337,24 @@ window.dialogueCards = [
     "words": [
       [
         "check in",
-        "/phrase/",
+        "/tʃek ɪn/",
         "办理登机手续",
-        "Practice using \"check in\" in a real conversation."
+        "We need to check in two hours before the flight.",
+        "我们需要在起飞前两小时办理登机。"
       ],
       [
         "boarding pass",
-        "/phrase/",
+        "/ˈbɔːdɪŋ pɑːs/",
         "登机牌",
-        "Practice using \"boarding pass\" in a real conversation."
+        "Please have your boarding pass and ID ready at the gate.",
+        "请在登机口准备好登机牌和身份证件。"
       ],
       [
         "gate",
-        "/phrase/",
+        "/ɡeɪt/",
         "登机口",
-        "Practice using \"gate\" in a real conversation."
+        "Our flight departs from gate 42, so we should head there now.",
+        "我们的航班从42号登机口出发，我们现在就该过去了。"
       ]
     ]
   },
@@ -16451,21 +17408,24 @@ window.dialogueCards = [
     "words": [
       [
         "late check-out",
-        "/phrase/",
+        "/leɪt ˈtʃekaʊt/",
         "延迟退房",
-        "Practice using \"late check-out\" in a real conversation."
+        "We requested a late check-out so we could enjoy the pool for a few more hours.",
+        "我们申请了延迟退房，以便能多享受几个小时的游泳池。"
       ],
       [
         "extend",
-        "/phrase/",
+        "/ɪkˈstɛnd/",
         "延长",
-        "Practice using \"extend\" in a real conversation."
+        "I'd like to extend my stay for two more nights.",
+        "我想把入住时间再延长两晚。"
       ],
       [
         "extra charge",
-        "/phrase/",
+        "/ˈekstrə tʃɑːrdʒ/",
         "额外费用",
-        "Practice using \"extra charge\" in a real conversation."
+        "There is an extra charge for room service.",
+        "客房服务需要额外收费。"
       ]
     ]
   },
@@ -16519,21 +17479,24 @@ window.dialogueCards = [
     "words": [
       [
         "one-way",
-        "/phrase/",
+        "/ˈwʌn ˈweɪ/",
         "单程",
-        "Practice using \"one-way\" in a real conversation."
+        "I bought a one-way ticket to Shanghai.",
+        "我买了一张去上海的单程票。"
       ],
       [
         "round trip",
-        "/phrase/",
+        "/raʊnd trɪp/",
         "往返",
-        "Practice using \"round trip\" in a real conversation."
+        "I booked a round trip ticket to Beijing.",
+        "我订了一张去北京的往返票。"
       ],
       [
         "platform",
-        "/phrase/",
+        "/ˈplætˌfɔːrm/",
         "站台",
-        "Practice using \"platform\" in a real conversation."
+        "The train will depart from platform 3.",
+        "火车将从三号站台出发。"
       ]
     ]
   },
@@ -16587,21 +17550,24 @@ window.dialogueCards = [
     "words": [
       [
         "have trouble with",
-        "/phrase/",
+        "/hæv ˈtrʌbəl wɪð/",
         "在……方面有困难",
-        "Practice using \"have trouble with\" in a real conversation."
+        "I have trouble with understanding the local accent sometimes.",
+        "我有时在理解当地口音方面有困难。"
       ],
       [
         "update",
-        "/phrase/",
+        "/ʌpˈdeɪt/",
         "更新",
-        "Practice using \"update\" in a real conversation."
+        "Please keep me updated on the progress of the project.",
+        "请随时向我更新项目进展。"
       ],
       [
         "let me know",
-        "/phrase/",
+        "/let miː noʊ/",
         "告诉我",
-        "Practice using \"let me know\" in a real conversation."
+        "Let me know if you need any help with the move this weekend.",
+        "这个周末搬家需要帮忙的话，告诉我一声。"
       ]
     ]
   },
@@ -16655,21 +17621,24 @@ window.dialogueCards = [
     "words": [
       [
         "check in",
-        "/phrase/",
+        "/tʃek ɪn/",
         "确认、跟进",
-        "Practice using \"check in\" in a real conversation."
+        "We need to check in two hours before the flight.",
+        "我们需要在起飞前两小时办理登机。"
       ],
       [
         "double-check",
-        "/phrase/",
+        "/ˌdʌbəl ˈtʃek/",
         "再次核对",
-        "Practice using \"double-check\" in a real conversation."
+        "Let me double-check the numbers before we submit.",
+        "提交前让我再核对一下数字。"
       ],
       [
         "works for me",
-        "/phrase/",
+        "/wɜːks fə miː/",
         "对我来说没问题",
-        "Practice using \"works for me\" in a real conversation."
+        "\"Let's meet at noon instead of eleven.\" \"Works for me — see you then!\"",
+        "\"我们中午十二点见吧，不是十一点。\"\"对我来说没问题，到时候见！\""
       ]
     ]
   },
@@ -16723,21 +17692,24 @@ window.dialogueCards = [
     "words": [
       [
         "request a day off",
-        "/phrase/",
+        "/rɪˈkwɛst ə deɪ ɔf/",
         "请一天假",
-        "Practice using \"request a day off\" in a real conversation."
+        "I need to request a day off next Friday for a doctor's appointment.",
+        "我需要下周五请一天假去看医生。"
       ],
       [
         "reschedule",
-        "/phrase/",
+        "/riːˈskɛdʒuːl/",
         "重新安排时间",
-        "Practice using \"reschedule\" in a real conversation."
+        "We need to reschedule the meeting for next Tuesday.",
+        "我们需要把会议改到下周二。"
       ],
       [
         "approve",
-        "/phrase/",
+        "/əˈpruːv/",
         "批准",
-        "Practice using \"approve\" in a real conversation."
+        "The committee will need to approve the budget before we proceed.",
+        "委员会需要先批准预算，我们才能继续。"
       ]
     ]
   },
@@ -16791,21 +17763,24 @@ window.dialogueCards = [
     "words": [
       [
         "meal",
-        "/phrase/",
+        "/mil/",
         "套餐",
-        "Practice using \"meal\" in a real conversation."
+        "I ordered the teriyaki chicken meal which came with rice, miso soup, and a side salad.",
+        "我点了照烧鸡肉套餐，配有米饭、味噌汤和一份沙拉。"
       ],
       [
         "fries",
-        "/phrase/",
+        "/fraɪz/",
         "薯条",
-        "Practice using \"fries\" in a real conversation."
+        "I'll have a cheeseburger with a side of fries, please.",
+        "我要一个芝士汉堡配一份薯条，谢谢。"
       ],
       [
         "counter",
-        "/phrase/",
+        "/ˈkaʊntər/",
         "柜台",
-        "Practice using \"counter\" in a real conversation."
+        "You can pick up your order at the front counter.",
+        "你可以在前台柜台取货。"
       ]
     ]
   },
@@ -16859,21 +17834,24 @@ window.dialogueCards = [
     "words": [
       [
         "check",
-        "/phrase/",
+        "/tʃɛk/",
         "账单",
-        "Practice using \"check\" in a real conversation."
+        "Could we have the check, please?",
+        "请给我们账单好吗？"
       ],
       [
         "doggy bag",
-        "/phrase/",
+        "/ˈdɔɡi bæɡ/",
         "打包袋",
-        "Practice using \"doggy bag\" in a real conversation."
+        "The portion was huge, so I asked for a doggy bag to take the rest home.",
+        "分量太大了，所以我问服务员要了打包袋把剩下的带回家。"
       ],
       [
         "leftovers",
-        "/phrase/",
+        "/ˈleftoʊvərz/",
         "剩菜",
-        "Practice using \"leftovers\" in a real conversation."
+        "We had leftovers from last night's dinner for lunch today.",
+        "我们今天午饭吃了昨晚的剩菜。"
       ]
     ]
   },
@@ -16927,21 +17905,24 @@ window.dialogueCards = [
     "words": [
       [
         "make a reservation",
-        "/phrase/",
+        "/meɪk ə ˌrɛzərˈveɪʃən/",
         "预订",
-        "Practice using \"make a reservation\" in a real conversation."
+        "I'd like to make a reservation for two at 7 p.m.",
+        "我想预订晚上七点两人用餐。"
       ],
       [
         "smoking",
-        "/phrase/",
+        "/ˈsməʊ.kɪŋ/",
         "吸烟区",
-        "Practice using \"smoking\" in a real conversation."
+        "Is there a designated smoking area anywhere near this terminal?",
+        "这个航站楼附近有指定的吸烟区吗？"
       ],
       [
         "non-smoking",
-        "/phrase/",
+        "/ˌnɑn ˈsmoʊkɪŋ/",
         "无烟区",
-        "Practice using \"non-smoking\" in a real conversation."
+        "I'd like a table for two in the non-smoking section, please.",
+        "请给我一张无烟区的两人桌。"
       ]
     ]
   },
@@ -16995,21 +17976,24 @@ window.dialogueCards = [
     "words": [
       [
         "fitting room",
-        "/phrase/",
+        "/ˈfɪtɪŋ ruːm/",
         "试衣间",
-        "Practice using \"fitting room\" in a real conversation."
+        "The fitting room is in the back — let me know if you need a different size.",
+        "试衣间在后面——需要换尺码的话告诉我。"
       ],
       [
         "in a small",
-        "/phrase/",
+        "/ɪn ə smɔːl/",
         "小号",
-        "Practice using \"in a small\" in a real conversation."
+        "Do you have this shirt in a small? This medium is too loose on me.",
+        "这件衬衫有小号的吗？这件中号我穿太松了。"
       ],
       [
         "I'll pass",
-        "/phrase/",
+        "/aɪl pæs/",
         "我就不要了",
-        "Practice using \"I'll pass\" in a real conversation."
+        "Thanks for offering me dessert, but I'll pass — I'm too full.",
+        "谢谢你的甜点，不过我就不要了——我太饱了。"
       ]
     ]
   },
@@ -17063,21 +18047,24 @@ window.dialogueCards = [
     "words": [
       [
         "look for",
-        "/phrase/",
+        "/lʊk fɔː/",
         "寻找",
-        "Practice using \"look for\" in a real conversation."
+        "I'm looking for a new apartment closer to my office.",
+        "我正在找一间离办公室更近的新公寓。"
       ],
       [
         "aisle",
-        "/phrase/",
+        "/aɪl/",
         "货架通道",
-        "Practice using \"aisle\" in a real conversation."
+        "The pasta is in aisle three, next to the sauces.",
+        "意大利面在第三排货架通道，酱料旁边。"
       ],
       [
         "refrigerated section",
-        "/phrase/",
+        "/rɪˈfrɪdʒəˌreɪtɪd ˈsɛkʃən/",
         "冷藏区",
-        "Practice using \"refrigerated section\" in a real conversation."
+        "You'll find the fresh pasta in the refrigerated section near the dairy products.",
+        "新鲜的意面在乳制品旁边的冷藏区。"
       ]
     ]
   },
@@ -17131,21 +18118,24 @@ window.dialogueCards = [
     "words": [
       [
         "return",
-        "/phrase/",
+        "/rɪˈtɜːrn/",
         "退货",
-        "Practice using \"return\" in a real conversation."
+        "You can return the item within 30 days for a full refund.",
+        "你可以在30天内退回商品并获得全额退款。"
       ],
       [
         "receipt",
-        "/phrase/",
+        "/rɪˈsit/",
         "收据",
-        "Practice using \"receipt\" in a real conversation."
+        "Please keep your receipt in case you need to return the item.",
+        "请保留好收据，万一需要退货的话用得上。"
       ],
       [
         "refund",
-        "/phrase/",
+        "/ˈriːfʌnd/",
         "退款",
-        "Practice using \"refund\" in a real conversation."
+        "The store issued a full refund after I returned the defective product.",
+        "我退回有缺陷的产品后，商店全额退款了。"
       ]
     ]
   },
@@ -17199,21 +18189,24 @@ window.dialogueCards = [
     "words": [
       [
         "borrow",
-        "/phrase/",
+        "/ˈbɑːroʊ/",
         "借入",
-        "Practice using \"borrow\" in a real conversation."
+        "Can I borrow your pen for a moment?",
+        "我能借你的笔用一下吗？"
       ],
       [
         "lend",
-        "/phrase/",
+        "/lend/",
         "借出",
-        "Practice using \"lend\" in a real conversation."
+        "Could you lend me your pen for a moment? I need to sign this form.",
+        "你能把笔借我用一下吗？我需要签这份表格。"
       ],
       [
         "lifesaver",
-        "/phrase/",
+        "/ˈlaɪfseɪvər/",
         "救星、帮了大忙的人",
-        "Practice using \"lifesaver\" in a real conversation."
+        "That GPS app was a lifesaver when I got lost in the unfamiliar city.",
+        "我在陌生城市迷路时，那个导航应用真是帮了大忙。"
       ]
     ]
   },
@@ -17267,21 +18260,24 @@ window.dialogueCards = [
     "words": [
       [
         "search",
-        "/phrase/",
+        "/sɜːtʃ/",
         "搜索",
-        "Practice using \"search\" in a real conversation."
+        "I did a quick search online and found the answer in seconds.",
+        "我在网上快速搜索了一下，几秒钟就找到了答案。"
       ],
       [
         "check out",
-        "/phrase/",
+        "/tʃek aʊt/",
         "借出",
-        "Practice using \"check out\" in a real conversation."
+        "What time do we need to check out of the hotel?",
+        "我们需要什么时候退房？"
       ],
       [
         "renew",
-        "/phrase/",
+        "/rɪˈnuː/",
         "续借",
-        "Practice using \"renew\" in a real conversation."
+        "I need to renew my library books before they are due tomorrow.",
+        "我需要在明天到期前续借图书馆的书。"
       ]
     ]
   },
@@ -17335,21 +18331,24 @@ window.dialogueCards = [
     "words": [
       [
         "lecture",
-        "/phrase/",
+        "/ˈlektʃər/",
         "讲课、讲座",
-        "Practice using \"lecture\" in a real conversation."
+        "She gave a fascinating lecture on the history of artificial intelligence.",
+        "她做了一场关于人工智能历史的精彩讲座。"
       ],
       [
         "confuse",
-        "/phrase/",
+        "/kənˈfjuz/",
         "使困惑",
-        "Practice using \"confuse\" in a real conversation."
+        "The instructions confused me — I had to read them three times.",
+        "说明书把我弄糊涂了——我不得不读了三遍。"
       ],
       [
         "make sense",
-        "/phrase/",
+        "/meɪk sɛns/",
         "说得通、有意义",
-        "Practice using \"make sense\" in a real conversation."
+        "What you said doesn't make sense to me.",
+        "你说的话对我来说说不通。"
       ]
     ]
   },
@@ -17403,21 +18402,24 @@ window.dialogueCards = [
     "words": [
       [
         "free",
-        "/phrase/",
+        "/friː/",
         "有空",
-        "Practice using \"free\" in a real conversation."
+        "Are you free for lunch tomorrow?",
+        "你明天中午有空一起吃午饭吗？"
       ],
       [
         "sounds good",
-        "/phrase/",
+        "/saʊndz ɡʊd/",
         "听起来不错",
-        "Practice using \"sounds good\" in a real conversation."
+        "Let's meet at 7 p.m. — Sounds good!",
+        "我们晚上七点见——听起来不错！"
       ],
       [
         "how about",
-        "/phrase/",
+        "/haʊ əˈbaʊt/",
         "……怎么样",
-        "Practice using \"how about\" in a real conversation."
+        "How about we meet for coffee this Saturday afternoon?",
+        "这个周六下午我们见面喝杯咖啡怎么样？"
       ]
     ]
   },
@@ -17471,21 +18473,24 @@ window.dialogueCards = [
     "words": [
       [
         "nice to meet you",
-        "/phrase/",
+        "/naɪs tə mit ju/",
         "很高兴认识你",
-        "Practice using \"nice to meet you\" in a real conversation."
+        "Nice to meet you! I've heard so many great things about your work.",
+        "很高兴认识你！久闻你在工作上的出色表现。"
       ],
       [
         "host",
-        "/phrase/",
+        "/həʊst/",
         "主人、东道主",
-        "Practice using \"host\" in a real conversation."
+        "Our company will host the annual tech conference this year.",
+        "我们公司今年将主办年度科技大会。"
       ],
       [
         "neighbor",
-        "/phrase/",
+        "/ˈneɪbər/",
         "邻居",
-        "Practice using \"neighbor\" in a real conversation."
+        "My neighbor kindly watered my plants while I was on vacation.",
+        "我度假期间，邻居好心帮我浇了花。"
       ]
     ]
   },
@@ -17539,21 +18544,24 @@ window.dialogueCards = [
     "words": [
       [
         "can't make it",
-        "/phrase/",
+        "/kænt meɪk ɪt/",
         "去不了、赶不上",
-        "Practice using \"can't make it\" in a real conversation."
+        "Sorry, I can't make it to the dinner tonight — something came up.",
+        "抱歉，今晚的晚餐我去不了了——临时有点事。"
       ],
       [
         "family comes first",
-        "/phrase/",
+        "/ˈfæmɪli kʌmz fɜrst/",
         "家人优先",
-        "Practice using \"family comes first\" in a real conversation."
+        "He turned down the promotion because it required relocating — family comes first for him.",
+        "他拒绝了升职，因为需要搬家——对他来说家人优先。"
       ],
       [
         "next time",
-        "/phrase/",
+        "/nɛkst taɪm/",
         "下次",
-        "Practice using \"next time\" in a real conversation."
+        "Let's meet earlier next time.",
+        "下次我们早点见面吧。"
       ]
     ]
   },
@@ -17607,21 +18615,24 @@ window.dialogueCards = [
     "words": [
       [
         "symptoms",
-        "/phrase/",
+        "/ˈsɪmp.təmz/",
         "症状",
-        "Practice using \"symptoms\" in a real conversation."
+        "If your symptoms get worse over the next few days, you should see a doctor.",
+        "如果接下来几天症状加重，你应该去看医生。"
       ],
       [
         "runny nose",
-        "/phrase/",
+        "/ˌrʌni ˈnoʊz/",
         "流鼻涕",
-        "Practice using \"runny nose\" in a real conversation."
+        "I've had a runny nose and a cough for three days now.",
+        "我流鼻涕和咳嗽已经三天了。"
       ],
       [
         "sore throat",
-        "/phrase/",
+        "/ˌsɔːr ˈθroʊt/",
         "喉咙痛",
-        "Practice using \"sore throat\" in a real conversation."
+        "I have a sore throat and it hurts to swallow.",
+        "我喉咙痛，吞咽都疼。"
       ]
     ]
   },
@@ -17675,21 +18686,24 @@ window.dialogueCards = [
     "words": [
       [
         "make an appointment",
-        "/phrase/",
+        "/meɪk ən əˈpɔɪntmənt/",
         "预约",
-        "Practice using \"make an appointment\" in a real conversation."
+        "I'd like to make an appointment with Dr. Chen for next Tuesday morning.",
+        "我想预约下周二上午看陈医生。"
       ],
       [
         "new patient",
-        "/phrase/",
+        "/nu ˈpeɪʃənt/",
         "新病人、初诊患者",
-        "Practice using \"new patient\" in a real conversation."
+        "As a new patient, you'll need to fill out some paperwork before seeing the doctor.",
+        "作为初诊患者，在看医生之前你需要填写一些表格。"
       ],
       [
         "opening",
-        "/phrase/",
+        "/ˈoʊpənɪŋ/",
         "空档、可预约的时间",
-        "Practice using \"opening\" in a real conversation."
+        "Do you have any opening for a haircut this Saturday?",
+        "这周六你们有空档可以剪头发吗？"
       ]
     ]
   },
@@ -17743,21 +18757,24 @@ window.dialogueCards = [
     "words": [
       [
         "membership",
-        "/phrase/",
+        "/ˈmɛmbərʃɪp/",
         "会员资格",
-        "Practice using \"membership\" in a real conversation."
+        "I renewed my gym membership for another year at a discounted rate.",
+        "我以折扣价续了一年的健身房会员资格。"
       ],
       [
         "plan",
-        "/phrase/",
+        "/plæn/",
         "方案、计划",
-        "Practice using \"plan\" in a real conversation."
+        "What's your plan for the weekend?",
+        "你周末有什么计划？"
       ],
       [
         "trial session",
-        "/phrase/",
+        "/ˈtraɪ.əl ˌseʃ.ən/",
         "体验课",
-        "Practice using \"trial session\" in a real conversation."
+        "The gym offers a free trial session so you can see if you like the classes before signing up.",
+        "健身房提供一节免费体验课，你可以在报名之前先看看喜不喜欢这个课。"
       ]
     ]
   },
@@ -17811,21 +18828,24 @@ window.dialogueCards = [
     "words": [
       [
         "borrow",
-        "/phrase/",
+        "/ˈbɑːroʊ/",
         "借",
-        "Practice using \"borrow\" in a real conversation."
+        "Can I borrow your pen for a moment?",
+        "我能借你的笔用一下吗？"
       ],
       [
         "return",
-        "/phrase/",
+        "/rɪˈtɜːrn/",
         "归还",
-        "Practice using \"return\" in a real conversation."
+        "You can return the item within 30 days for a full refund.",
+        "你可以在30天内退回商品并获得全额退款。"
       ],
       [
         "no rush",
-        "/phrase/",
+        "/noʊ rʌʃ/",
         "不着急",
-        "Practice using \"no rush\" in a real conversation."
+        "Take your time with the report — there's no rush, it's not due until next Friday.",
+        "慢慢写报告——不着急，下周五才截止。"
       ]
     ]
   },
@@ -17879,21 +18899,24 @@ window.dialogueCards = [
     "words": [
       [
         "line",
-        "/phrase/",
+        "/laɪn/",
         "线路",
-        "Practice using \"line\" in a real conversation."
+        "We had to stand in line for almost an hour to get concert tickets.",
+        "我们不得不排了将近一小时的队才买到演唱会门票。"
       ],
       [
         "stop",
-        "/phrase/",
+        "/stɑːp/",
         "站",
-        "Practice using \"stop\" in a real conversation."
+        "Please stop talking and listen to me.",
+        "请停止说话，听我说。"
       ],
       [
         "transfer",
-        "/phrase/",
+        "/trænsˈfɜːr/",
         "换乘",
-        "Practice using \"transfer\" in a real conversation."
+        "You'll need to transfer to another flight in Dubai.",
+        "你需要在迪拜转机。"
       ]
     ]
   },
@@ -17947,21 +18970,24 @@ window.dialogueCards = [
     "words": [
       [
         "by air",
-        "/phrase/",
+        "/baɪ ɛr/",
         "空运",
-        "Practice using \"by air\" in a real conversation."
+        "The package will be sent by air so it arrives within two days.",
+        "包裹会空运过去，两天内到达。"
       ],
       [
         "by sea",
-        "/phrase/",
+        "/baɪ si/",
         "海运",
-        "Practice using \"by sea\" in a real conversation."
+        "Shipping by sea is cheaper but takes much longer.",
+        "海运便宜些，但时间长很多。"
       ],
       [
         "customs form",
-        "/phrase/",
+        "/ˈkʌstəmz fɔrm/",
         "海关申报单",
-        "Practice using \"customs form\" in a real conversation."
+        "Fill out this customs form before you land — declare any items over the limit.",
+        "降落前填好这份海关申报单——超过限额的物品需要申报。"
       ]
     ]
   },
@@ -18015,21 +19041,24 @@ window.dialogueCards = [
     "words": [
       [
         "baggage claim tag",
-        "/phrase/",
+        "/ˈbæɡɪdʒ kleɪm tæɡ/",
         "行李牌",
-        "Practice using \"baggage claim tag\" in a real conversation."
+        "Make sure you keep your baggage claim tag until you leave the airport.",
+        "在离开机场前请务必保管好你的行李牌。"
       ],
       [
         "hard-shell suitcase",
-        "/phrase/",
+        "/ˈhɑːrd ʃel ˈsuːtkeɪs/",
         "硬壳行李箱",
-        "Practice using \"hard-shell suitcase\" in a real conversation."
+        "I prefer a hard-shell suitcase because it protects my belongings better during travel.",
+        "我更喜欢硬壳行李箱，因为旅行时它能更好地保护我的物品。"
       ],
       [
         "lost baggage form",
-        "/phrase/",
+        "/lɔst ˈbæɡɪdʒ fɔrm/",
         "行李遗失单",
-        "Practice using \"lost baggage form\" in a real conversation."
+        "My suitcase didn't arrive, so I had to fill out a lost baggage form at the airport.",
+        "我的行李箱没到，所以我不得不在机场填写行李遗失单。"
       ]
     ]
   },
@@ -18083,21 +19112,24 @@ window.dialogueCards = [
     "words": [
       [
         "discount",
-        "/phrase/",
+        "/ˈdɪskaʊnt/",
         "折扣",
-        "Practice using \"discount\" in a real conversation."
+        "This store is offering a 20% discount on all items.",
+        "这家店所有商品打八折。"
       ],
       [
         "cash only",
-        "/phrase/",
+        "/kæʃ ˈoʊnli/",
         "只收现金",
-        "Practice using \"cash only\" in a real conversation."
+        "This small shop is cash only, so I need to find an ATM.",
+        "这家小店只收现金，所以我得找个ATM。"
       ],
       [
         "hold",
-        "/phrase/",
+        "/hoʊld/",
         "保留",
-        "Practice using \"hold\" in a real conversation."
+        "Could you hold this table for us while we grab our food from the counter?",
+        "我们去柜台取餐的时候，你能帮我们保留这张桌子吗？"
       ]
     ]
   },
@@ -18151,21 +19183,24 @@ window.dialogueCards = [
     "words": [
       [
         "issue",
-        "/phrase/",
+        "/ˈɪʃuː/",
         "问题",
-        "Practice using \"issue\" in a real conversation."
+        "If you encounter any issue with your order, please contact customer service.",
+        "如果您的订单遇到任何问题，请联系客服。"
       ],
       [
         "inconvenience",
-        "/phrase/",
+        "/ˌɪnkənˈviːniəns/",
         "不便",
-        "Practice using \"inconvenience\" in a real conversation."
+        "We apologize for any inconvenience caused by the temporary road closure.",
+        "我们对临时封路给您带来的任何不便深表歉意。"
       ],
       [
         "technician",
-        "/phrase/",
+        "/tekˈnɪʃ.ən/",
         "技术人员",
-        "Practice using \"technician\" in a real conversation."
+        "The technician came over to fix our internet connection and had it working in ten minutes.",
+        "技术人员来修我们的网络连接，十分钟就搞定了。"
       ]
     ]
   },
@@ -18219,21 +19254,24 @@ window.dialogueCards = [
     "words": [
       [
         "jump in",
-        "/phrase/",
+        "/dʒʌmp ɪn/",
         "插话、加入讨论",
-        "Practice using \"jump in\" in a real conversation."
+        "Feel free to jump in if you have any questions during the presentation.",
+        "演讲过程中如果有任何问题，随时可以插话提问。"
       ],
       [
         "go ahead",
-        "/phrase/",
+        "/ɡoʊ əˈhed/",
         "请便、说吧",
-        "Practice using \"go ahead\" in a real conversation."
+        "Go ahead and start without me.",
+        "你们先开始吧，不用等我。"
       ],
       [
         "second that",
-        "/phrase/",
+        "/ˈsek.ənd ðæt/",
         "附议、赞同",
-        "Practice using \"second that\" in a real conversation."
+        "\"I think we should grab lunch first.\" \"I second that, I'm starving!\"",
+        "\"我觉得我们应该先去吃午饭。\"\"我附议，我快饿死了！\""
       ]
     ]
   },
@@ -18287,21 +19325,24 @@ window.dialogueCards = [
     "words": [
       [
         "confirm",
-        "/phrase/",
+        "/kənˈfɜːm/",
         "确认",
-        "Practice using \"confirm\" in a real conversation."
+        "Please confirm your attendance by Friday.",
+        "请在周五前确认你是否出席。"
       ],
       [
         "deadline",
-        "/phrase/",
+        "/ˈdɛdlaɪn/",
         "截止日期",
-        "Practice using \"deadline\" in a real conversation."
+        "The deadline for submitting the report is Friday at 5 p.m.",
+        "提交报告的截止日期是周五下午五点。"
       ],
       [
         "resource",
-        "/phrase/",
+        "/ˈrisɔrs/",
         "资源",
-        "Practice using \"resource\" in a real conversation."
+        "The library has excellent online resources for language learners.",
+        "图书馆有很棒的在线资源供语言学习者使用。"
       ]
     ]
   },
@@ -18355,21 +19396,24 @@ window.dialogueCards = [
     "words": [
       [
         "graduate from",
-        "/phrase/",
+        "/ˈɡrædʒueɪt frʌm/",
         "毕业于",
-        "Practice using \"graduate from\" in a real conversation."
+        "She will graduate from college next spring with a degree in engineering.",
+        "她明年春天就要大学毕业了，拿的是工程学位。"
       ],
       [
         "experience",
-        "/phrase/",
+        "/ɪkˈspɪriəns/",
         "经验",
-        "Practice using \"experience\" in a real conversation."
+        "I don't have much experience with public speaking, but I'm willing to try.",
+        "我没什么公开演讲的经验，但我愿意试试。"
       ],
       [
         "adaptable",
-        "/phrase/",
+        "/əˈdæptəbəl/",
         "适应力强的",
-        "Practice using \"adaptable\" in a real conversation."
+        "She is very adaptable and can work in any environment.",
+        "她适应力很强，在任何环境下都能工作。"
       ]
     ]
   },
@@ -18423,21 +19467,24 @@ window.dialogueCards = [
     "words": [
       [
         "recommend",
-        "/phrase/",
+        "/ˌrekəˈmend/",
         "推荐",
-        "Practice using \"recommend\" in a real conversation."
+        "Can you recommend a good restaurant nearby?",
+        "你能推荐附近一家好餐厅吗？"
       ],
       [
         "hot or iced",
-        "/phrase/",
+        "/hɑːt ɔːr aɪst/",
         "热的还是冰的",
-        "Practice using \"hot or iced\" in a real conversation."
+        "Would you like your coffee hot or iced today?",
+        "您今天的咖啡要热的还是冰的？"
       ],
       [
         "loyalty stamp",
-        "/phrase/",
+        "/ˈlɔɪəlti stæmp/",
         "积分印章",
-        "Practice using \"loyalty stamp\" in a real conversation."
+        "After collecting ten loyalty stamps on my card, I got a free coffee.",
+        "我的卡上集满十个积分印章后，获得了一杯免费咖啡。"
       ]
     ]
   },
@@ -18491,21 +19538,24 @@ window.dialogueCards = [
     "words": [
       [
         "medium-rare",
-        "/phrase/",
+        "/ˈmidiəm rɛr/",
         "三分熟",
-        "Practice using \"medium-rare\" in a real conversation."
+        "I'd like my steak medium-rare, please — pink in the middle but not bloody.",
+        "我的牛排要三分熟——中间粉红但不出血。"
       ],
       [
         "well-done",
-        "/phrase/",
+        "/ˌwel ˈdʌn/",
         "全熟",
-        "Practice using \"well-done\" in a real conversation."
+        "I'll have my steak well-done, please — no pink in the middle.",
+        "我的牛排要全熟，中间不能有一点粉色。"
       ],
       [
         "complimentary",
-        "/phrase/",
+        "/ˌkɒmplɪˈmentəri/",
         "免费赠送的",
-        "Practice using \"complimentary\" in a real conversation."
+        "The hotel offers complimentary breakfast to all guests.",
+        "酒店为所有客人提供免费赠送的早餐。"
       ]
     ]
   },
@@ -18559,21 +19609,24 @@ window.dialogueCards = [
     "words": [
       [
         "split the bill",
-        "/phrase/",
+        "/splɪt ðə bɪl/",
         "分摊账单",
-        "Practice using \"split the bill\" in a real conversation."
+        "We usually split the bill when we eat out together.",
+        "我们一起出去吃饭时通常AA制。"
       ],
       [
         "pay for what we ordered",
-        "/phrase/",
+        "/peɪ fɔr wʌt wi ˈɔrdərd/",
         "各付各的",
-        "Practice using \"pay for what we ordered\" in a real conversation."
+        "Let's just pay for what we ordered instead of splitting the bill evenly.",
+        "我们各付各的就好，不用均摊账单。"
       ],
       [
         "tip",
-        "/phrase/",
+        "/tɪp/",
         "小费",
-        "Practice using \"tip\" in a real conversation."
+        "It's customary to leave a 15% tip at restaurants.",
+        "在餐厅通常要留15%的小费。"
       ]
     ]
   },
@@ -18627,21 +19680,24 @@ window.dialogueCards = [
     "words": [
       [
         "in stock",
-        "/phrase/",
+        "/ɪn stɒk/",
         "有库存",
-        "Practice using \"in stock\" in a real conversation."
+        "The new iPhone model is finally in stock — I'm ordering one right now.",
+        "新款iPhone终于有货了——我马上订一台。"
       ],
       [
         "shipping",
-        "/phrase/",
+        "/ˈʃɪpɪŋ/",
         "配送、运费",
-        "Practice using \"shipping\" in a real conversation."
+        "The product is free, but you still have to pay for shipping.",
+        "产品是免费的，但您仍需支付运费。"
       ],
       [
         "tracking number",
-        "/phrase/",
+        "/ˈtræk.ɪŋ ˌnʌm.bər/",
         "追踪单号",
-        "Practice using \"tracking number\" in a real conversation."
+        "Once your order ships, we'll email you the tracking number so you can follow the delivery.",
+        "您的订单发货后，我们会把追踪单号发邮件给您，方便您跟踪物流。"
       ]
     ]
   },
@@ -18695,21 +19751,24 @@ window.dialogueCards = [
     "words": [
       [
         "asking for",
-        "/phrase/",
+        "/ˈæskɪŋ fɔːr/",
         "要价",
-        "Practice using \"asking for\" in a real conversation."
+        "They're asking for $500,000 for the house.",
+        "这栋房子他们要价50万美元。"
       ],
       [
         "used",
-        "/phrase/",
+        "/juːzd/",
         "二手的",
-        "Practice using \"used\" in a real conversation."
+        "I bought a used bicycle from a local shop for half the price of a new one.",
+        "我在一家本地店里买了辆二手自行车，价格只有新车的一半。"
       ],
       [
         "deal",
-        "/phrase/",
+        "/diːl/",
         "成交",
-        "Practice using \"deal\" in a real conversation."
+        "I got a great deal on this jacket during the sale.",
+        "这件夹克我在打折时买得很划算。"
       ]
     ]
   },
@@ -18763,21 +19822,24 @@ window.dialogueCards = [
     "words": [
       [
         "moisturizer",
-        "/phrase/",
+        "/ˈmɔɪstʃəˌraɪzər/",
         "保湿霜",
-        "Practice using \"moisturizer\" in a real conversation."
+        "Apply moisturizer after washing your face.",
+        "洗完脸后涂保湿霜。"
       ],
       [
         "sample",
-        "/phrase/",
+        "/ˈsæmpəl/",
         "样品、试用装",
-        "Practice using \"sample\" in a real conversation."
+        "Can I try a sample of this moisturizer before I buy the full size?",
+        "我买正装之前可以先试一下这个面霜的试用装吗？"
       ],
       [
         "promotion",
-        "/phrase/",
+        "/prəˈmoʊʃən/",
         "促销活动",
-        "Practice using \"promotion\" in a real conversation."
+        "The store is running a big promotion on electronics this weekend.",
+        "这家商店本周末正在进行电子产品大促销。"
       ]
     ]
   },
@@ -18831,21 +19893,24 @@ window.dialogueCards = [
     "words": [
       [
         "club",
-        "/phrase/",
+        "/klʌb/",
         "社团、俱乐部",
-        "Practice using \"club\" in a real conversation."
+        "I joined the photography club at school this semester.",
+        "这学期我加入了学校的摄影社团。"
       ],
       [
         "membership fee",
-        "/phrase/",
+        "/ˈmɛmbərʃɪp fi/",
         "会费",
-        "Practice using \"membership fee\" in a real conversation."
+        "The annual membership fee for the gym is due at the beginning of each year.",
+        "健身房的年度会费在每年年初缴纳。"
       ],
       [
         "sign up",
-        "/phrase/",
+        "/saɪn ʌp/",
         "报名",
-        "Practice using \"sign up\" in a real conversation."
+        "You need to sign up for an account before you can use the service.",
+        "你需要先注册一个账户才能使用这项服务。"
       ]
     ]
   },
@@ -18899,21 +19964,24 @@ window.dialogueCards = [
     "words": [
       [
         "quiet hours",
-        "/phrase/",
+        "/ˈkwaɪət ˈaʊərz/",
         "安静时段",
-        "Practice using \"quiet hours\" in a real conversation."
+        "The library observes quiet hours from 10 p.m. to 7 a.m.",
+        "图书馆从晚上十点到早上七点实行安静时段。"
       ],
       [
         "cleaning schedule",
-        "/phrase/",
+        "/ˈklinɪŋ ˈskɛdʒuːl/",
         "打扫安排",
-        "Practice using \"cleaning schedule\" in a real conversation."
+        "We have a cleaning schedule — it's my turn to mop the floor today.",
+        "我们有打扫安排——今天轮到我拖地。"
       ],
       [
         "stick to",
-        "/phrase/",
+        "/stɪk tuː/",
         "坚持遵守",
-        "Practice using \"stick to\" in a real conversation."
+        "If you want to succeed, you need to stick to your plan.",
+        "如果你想成功，就需要坚持你的计划。"
       ]
     ]
   },
@@ -18967,21 +20035,24 @@ window.dialogueCards = [
     "words": [
       [
         "stressed",
-        "/phrase/",
+        "/strest/",
         "焦虑的、有压力的",
-        "Practice using \"stressed\" in a real conversation."
+        "I've been feeling really stressed about the upcoming exams and haven't been sleeping well.",
+        "最近考试临近我感到非常焦虑，觉也睡不好。"
       ],
       [
         "flashcard",
-        "/phrase/",
+        "/ˈflæʃkɑːrd/",
         "闪卡、学习卡片",
-        "Practice using \"flashcard\" in a real conversation."
+        "I use flashcards to memorize new vocabulary every day.",
+        "我每天用学习卡片来记新单词。"
       ],
       [
         "study group",
-        "/phrase/",
+        "/ˈstʌd.i ɡruːp/",
         "学习小组",
-        "Practice using \"study group\" in a real conversation."
+        "We formed a study group to prepare for the final exam together every week.",
+        "我们组了一个学习小组，每周一起准备期末考试。"
       ]
     ]
   },
@@ -19035,21 +20106,24 @@ window.dialogueCards = [
     "words": [
       [
         "suit you",
-        "/phrase/",
+        "/suːt juː/",
         "适合你",
-        "Practice using \"suit you\" in a real conversation."
+        "That jacket really suits you — the color brings out your eyes.",
+        "那件夹克真的很适合你，颜色把你的眼睛衬托出来了。"
       ],
       [
         "amazing",
-        "/phrase/",
+        "/əˈmeɪzɪŋ/",
         "棒极了",
-        "Practice using \"amazing\" in a real conversation."
+        "The view from the top of the mountain was absolutely amazing.",
+        "山顶的景色绝对令人惊叹。"
       ],
       [
         "blush",
-        "/phrase/",
+        "/blʌʃ/",
         "脸红",
-        "Practice using \"blush\" in a real conversation."
+        "He blushed when she complimented him in front of everyone.",
+        "她在大家面前夸他时，他脸红了。"
       ]
     ]
   },
@@ -19103,21 +20177,24 @@ window.dialogueCards = [
     "words": [
       [
         "nice talking to you",
-        "/phrase/",
+        "/naɪs ˈtɔkɪŋ tə ju/",
         "和你聊天很开心",
-        "Practice using \"nice talking to you\" in a real conversation."
+        "It was nice talking to you — let's catch up again soon!",
+        "和你聊天很开心——我们改天再聚！"
       ],
       [
         "WeChat",
-        "/phrase/",
+        "/wiː tʃæt/",
         "微信",
-        "Practice using \"WeChat\" in a real conversation."
+        "She sent me the photos through WeChat.",
+        "她通过微信把照片发给了我。"
       ],
       [
         "QR code",
-        "/phrase/",
+        "/kju ɑr koʊd/",
         "二维码",
-        "Practice using \"QR code\" in a real conversation."
+        "Just scan the QR code on the table to see the menu.",
+        "扫一下桌上的二维码就能看到菜单。"
       ]
     ]
   },
@@ -19171,21 +20248,24 @@ window.dialogueCards = [
     "words": [
       [
         "down",
-        "/phrase/",
+        "/daʊn/",
         "情绪低落的",
-        "Practice using \"down\" in a real conversation."
+        "He's been feeling a bit down lately after losing his job.",
+        "他失业后最近一直情绪有些低落。"
       ],
       [
         "frustrated",
-        "/phrase/",
+        "/ˈfrʌstreɪtɪd/",
         "沮丧的",
-        "Practice using \"frustrated\" in a real conversation."
+        "I felt so frustrated when my computer crashed and I lost all my work.",
+        "电脑崩溃害我丢了所有工作时，我真是沮丧极了。"
       ],
       [
         "give up",
-        "/phrase/",
+        "/ɡɪv ʌp/",
         "放弃",
-        "Practice using \"give up\" in a real conversation."
+        "Don't give up just because things are difficult — keep trying!",
+        "不要因为事情困难就放弃——继续努力！"
       ]
     ]
   },
@@ -19239,21 +20319,24 @@ window.dialogueCards = [
     "words": [
       [
         "sharp pain",
-        "/phrase/",
+        "/ʃɑːp peɪn/",
         "剧痛、锐痛",
-        "Practice using \"sharp pain\" in a real conversation."
+        "I felt a sharp pain in my knee right after I twisted it playing basketball.",
+        "打篮球扭到膝盖后，我立刻感到一阵剧痛。"
       ],
       [
         "nausea",
-        "/phrase/",
+        "/ˈnɔziə/",
         "恶心",
-        "Practice using \"nausea\" in a real conversation."
+        "The motion of the boat caused severe nausea, so I had to lie down.",
+        "船的晃动引起严重恶心，我只好躺下来。"
       ],
       [
         "appendicitis",
-        "/phrase/",
+        "/əˌpɛndəˈsaɪtɪs/",
         "阑尾炎",
-        "Practice using \"appendicitis\" in a real conversation."
+        "He was rushed to the hospital with acute appendicitis.",
+        "他因急性阑尾炎被紧急送往医院。"
       ]
     ]
   },
@@ -19307,21 +20390,24 @@ window.dialogueCards = [
     "words": [
       [
         "floss",
-        "/phrase/",
+        "/flɔːs/",
         "用牙线清洁",
-        "Practice using \"floss\" in a real conversation."
+        "The dentist recommends that you floss at least once a day.",
+        "牙医建议你每天至少用牙线清洁一次牙齿。"
       ],
       [
         "gum disease",
-        "/phrase/",
+        "/ɡʌm dɪˈziːz/",
         "牙龈疾病",
-        "Practice using \"gum disease\" in a real conversation."
+        "Brushing and flossing regularly can help prevent gum disease.",
+        "定期刷牙和使用牙线有助于预防牙龈疾病。"
       ],
       [
         "gingivitis",
-        "/phrase/",
+        "/ˌdʒɪndʒɪˈvaɪtɪs/",
         "牙龈炎",
-        "Practice using \"gingivitis\" in a real conversation."
+        "If your gums bleed when you brush, you might have gingivitis.",
+        "刷牙时牙龈出血的话，你可能得了牙龈炎。"
       ]
     ]
   },
@@ -19375,21 +20461,24 @@ window.dialogueCards = [
     "words": [
       [
         "machine",
-        "/phrase/",
+        "/məˈʃiːn/",
         "健身器械",
-        "Practice using \"machine\" in a real conversation."
+        "This washing machine is very quiet.",
+        "这台洗衣机非常安静。"
       ],
       [
         "set",
-        "/phrase/",
+        "/set/",
         "组（训练单位）",
-        "Practice using \"set\" in a real conversation."
+        "I do three sets of squats with a one-minute rest between each set.",
+        "我做三组深蹲，每组之间休息一分钟。"
       ],
       [
         "rep",
-        "/phrase/",
+        "/rɛp/",
         "次数（repetition的缩写）",
-        "Practice using \"rep\" in a real conversation."
+        "Try doing three sets of twelve reps for this exercise.",
+        "这个动作试着做三组，每组十二次。"
       ]
     ]
   },
@@ -19443,21 +20532,24 @@ window.dialogueCards = [
     "words": [
       [
         "savings account",
-        "/phrase/",
+        "/ˈseɪ.vɪŋz əˈkaʊnt/",
         "储蓄账户",
-        "Practice using \"savings account\" in a real conversation."
+        "I opened a savings account to put aside money for my future travels.",
+        "我开了一个储蓄账户，为将来的旅行存钱。"
       ],
       [
         "proof of address",
-        "/phrase/",
+        "/pruf əv əˈdrɛs/",
         "地址证明",
-        "Practice using \"proof of address\" in a real conversation."
+        "To open a bank account, you'll need to provide proof of address such as a utility bill.",
+        "开设银行账户需要提供地址证明，比如水电费账单。"
       ],
       [
         "minimum deposit",
-        "/phrase/",
+        "/ˈmɪnɪməm dɪˈpɑzɪt/",
         "最低存款",
-        "Practice using \"minimum deposit\" in a real conversation."
+        "The bank requires a minimum deposit of one hundred dollars to open a savings account.",
+        "银行要求最低存款一百美元才能开设储蓄账户。"
       ]
     ]
   },
@@ -19511,21 +20603,24 @@ window.dialogueCards = [
     "words": [
       [
         "trim",
-        "/phrase/",
+        "/trɪm/",
         "修剪",
-        "Practice using \"trim\" in a real conversation."
+        "I just need a quick trim to clean up the split ends, nothing too dramatic.",
+        "我只需要简单修剪一下分叉，不用大动。"
       ],
       [
         "layer",
-        "/phrase/",
+        "/ˈleɪər/",
         "打层次",
-        "Practice using \"layer\" in a real conversation."
+        "I asked the hairdresser to layer my hair to give it more volume.",
+        "我让理发师给我的头发打层次，让头发更有蓬松感。"
       ],
       [
         "thin out",
-        "/phrase/",
+        "/θɪn aʊt/",
         "打薄",
-        "Practice using \"thin out\" in a real conversation."
+        "Can you just thin out the ends a bit? The bottom feels too heavy right now.",
+        "你能把发尾稍微打薄一点吗？现在发尾感觉太厚了。"
       ]
     ]
   },
@@ -19579,21 +20674,24 @@ window.dialogueCards = [
     "words": [
       [
         "stain",
-        "/phrase/",
+        "/steɪn/",
         "污渍",
-        "Practice using \"stain\" in a real conversation."
+        "I spilled coffee and now there's a stain on my shirt.",
+        "我洒了咖啡，现在衬衫上有一块污渍。"
       ],
       [
         "missing",
-        "/phrase/",
+        "/ˈmɪsɪŋ/",
         "缺失的",
-        "Practice using \"missing\" in a real conversation."
+        "Several files are missing from the project folder — have you moved them?",
+        "项目文件夹里少了好几个文件——你移动过它们吗？"
       ],
       [
         "compensation",
-        "/phrase/",
+        "/ˌkɒmpenˈseɪʃən/",
         "赔偿、补偿",
-        "Practice using \"compensation\" in a real conversation."
+        "The job offers excellent compensation, including a bonus and health insurance.",
+        "这份工作的薪酬很优厚，包括奖金和医疗保险。"
       ]
     ]
   },
@@ -19647,21 +20745,24 @@ window.dialogueCards = [
     "words": [
       [
         "bin",
-        "/phrase/",
+        "/bɪn/",
         "篮子、托盘",
-        "Practice using \"bin\" in a real conversation."
+        "Please put the recyclables in the blue bin.",
+        "请把可回收物放进蓝色篮子里。"
       ],
       [
         "remove",
-        "/phrase/",
+        "/rɪˈmuv/",
         "取下、脱掉",
-        "Practice using \"remove\" in a real conversation."
+        "Please remove your shoes before entering the house.",
+        "进屋前请脱掉鞋子。"
       ],
       [
         "proceed",
-        "/phrase/",
+        "/prəˈsid/",
         "继续前进",
-        "Practice using \"proceed\" in a real conversation."
+        "Once you have your boarding pass, you can proceed to the security checkpoint.",
+        "拿到登机牌后，您可以继续前往安检口。"
       ]
     ]
   },
@@ -19715,21 +20816,24 @@ window.dialogueCards = [
     "words": [
       [
         "reservation",
-        "/phrase/",
+        "/ˌrɛzərˈveɪʃən/",
         "预订",
-        "Practice using \"reservation\" in a real conversation."
+        "I made a reservation for two at the Italian restaurant downtown.",
+        "我在市中心的意大利餐厅预订了两人位。"
       ],
       [
         "check-out",
-        "/phrase/",
+        "/ˈtʃɛkˌaʊt/",
         "退房",
-        "Practice using \"check-out\" in a real conversation."
+        "Check-out is at eleven, so we should pack up soon.",
+        "退房时间是十一点，我们得赶紧收拾了。"
       ],
       [
         "password",
-        "/phrase/",
+        "/ˈpæswɜːrd/",
         "密码",
-        "Practice using \"password\" in a real conversation."
+        "For security reasons, you should change your password every few months.",
+        "出于安全考虑，你应该每隔几个月更换一次密码。"
       ]
     ]
   },
@@ -19783,21 +20887,24 @@ window.dialogueCards = [
     "words": [
       [
         "walk",
-        "/phrase/",
+        "/wɔːk/",
         "步行",
-        "Practice using \"walk\" in a real conversation."
+        "Let's go for a walk after dinner.",
+        "晚饭后我们去散步吧。"
       ],
       [
         "straight",
-        "/phrase/",
+        "/streɪt/",
         "直走",
-        "Practice using \"straight\" in a real conversation."
+        "Go straight ahead and you'll see the library on your left.",
+        "一直往前走，你会看到图书馆在你左边。"
       ],
       [
         "entrance fee",
-        "/phrase/",
+        "/ˈɛntrəns fi/",
         "门票费",
-        "Practice using \"entrance fee\" in a real conversation."
+        "The entrance fee for the museum is ten dollars.",
+        "博物馆的门票费是十美元。"
       ]
     ]
   },
@@ -19851,21 +20958,24 @@ window.dialogueCards = [
     "words": [
       [
         "grab lunch",
-        "/phrase/",
+        "/ɡræb lʌntʃ/",
         "随便吃点午饭",
-        "Practice using \"grab lunch\" in a real conversation."
+        "Want to grab lunch together? There's a new noodle place nearby.",
+        "想一起随便吃点午饭吗？附近新开了一家面馆。"
       ],
       [
         "cafeteria",
-        "/phrase/",
+        "/ˌkæfəˈtɪəriə/",
         "食堂、自助餐厅",
-        "Practice using \"cafeteria\" in a real conversation."
+        "Students line up in the cafeteria every day at noon for lunch.",
+        "学生们每天中午在食堂排队吃午饭。"
       ],
       [
         "lunch break",
-        "/phrase/",
+        "/ˈlʌntʃ breɪk/",
         "午休时间",
-        "Practice using \"lunch break\" in a real conversation."
+        "I usually take a walk during my lunch break to clear my mind.",
+        "午休时间我通常去散步，让头脑清醒一下。"
       ]
     ]
   },
@@ -19919,21 +21029,24 @@ window.dialogueCards = [
     "words": [
       [
         "update",
-        "/phrase/",
+        "/ʌpˈdeɪt/",
         "更新、汇报",
-        "Practice using \"update\" in a real conversation."
+        "Please keep me updated on the progress of the project.",
+        "请随时向我更新项目进展。"
       ],
       [
         "on track",
-        "/phrase/",
+        "/ɑːn træk/",
         "按计划进行",
-        "Practice using \"on track\" in a real conversation."
+        "The project is on track to be completed by June.",
+        "项目按计划将在六月前完成。"
       ],
       [
         "behind schedule",
-        "/phrase/",
+        "/bɪˈhaɪnd ˈʃedjuːl/",
         "落后于计划",
-        "Practice using \"behind schedule\" in a real conversation."
+        "The train is running behind schedule due to bad weather.",
+        "由于天气恶劣，火车运行落后于计划。"
       ]
     ]
   },
@@ -19987,21 +21100,24 @@ window.dialogueCards = [
     "words": [
       [
         "busy day",
-        "/phrase/",
+        "/ˈbɪzi deɪ/",
         "忙碌的一天",
-        "Practice using \"busy day\" in a real conversation."
+        "It's been a busy day — I haven't even had lunch yet.",
+        "真是忙碌的一天——我连午饭还没吃呢。"
       ],
       [
         "coffee break",
-        "/phrase/",
+        "/ˈkɔfi breɪk/",
         "咖啡休息时间",
-        "Practice using \"coffee break\" in a real conversation."
+        "Let's take a coffee break and continue the discussion after.",
+        "我们休息一下喝杯咖啡，然后再继续讨论。"
       ],
       [
         "hiking",
-        "/phrase/",
+        "/ˈhaɪkɪŋ/",
         "徒步、爬山",
-        "Practice using \"hiking\" in a real conversation."
+        "We went hiking in the national park and the views were breathtaking.",
+        "我们去国家公园徒步，那里的景色美得令人窒息。"
       ]
     ]
   },
@@ -20055,21 +21171,24 @@ window.dialogueCards = [
     "words": [
       [
         "soup base",
-        "/phrase/",
+        "/suːp beɪs/",
         "锅底",
-        "Practice using \"soup base\" in a real conversation."
+        "Shall we get the spicy mala soup base or the mild tomato one for hot pot?",
+        "我们火锅要麻辣锅底还是番茄锅底？"
       ],
       [
         "half-and-half",
-        "/phrase/",
+        "/ˌhæf ən ˈhæf/",
         "鸳鸯锅、一半一半",
-        "Practice using \"half-and-half\" in a real conversation."
+        "Let's get a half-and-half hot pot so we can enjoy both spicy and mild broth.",
+        "我们点个鸳鸯锅吧，这样辣的和不辣的汤底都能吃到。"
       ],
       [
         "dipping sauce",
-        "/phrase/",
+        "/ˈdɪpɪŋ sɔs/",
         "蘸料",
-        "Practice using \"dipping sauce\" in a real conversation."
+        "The dumplings come with a spicy dipping sauce on the side.",
+        "饺子配了一碟辣味蘸料。"
       ]
     ]
   },
@@ -20123,21 +21242,24 @@ window.dialogueCards = [
     "words": [
       [
         "to go",
-        "/phrase/",
+        "/tuː ɡoʊ/",
         "外带",
-        "Practice using \"to go\" in a real conversation."
+        "I'd like a large coffee to go, please.",
+        "我要一杯大杯咖啡，打包带走。"
       ],
       [
         "slice",
-        "/phrase/",
+        "/slaɪs/",
         "一片、一块",
-        "Practice using \"slice\" in a real conversation."
+        "Can I have another slice of pizza?",
+        "我可以再来一片披萨吗？"
       ],
       [
         "napkin",
-        "/phrase/",
+        "/ˈnæpkɪn/",
         "餐巾纸",
-        "Practice using \"napkin\" in a real conversation."
+        "Could you pass me a napkin? I spilled some coffee on the table.",
+        "能递给我一张餐巾纸吗？我把咖啡洒在桌子上了。"
       ]
     ]
   },
@@ -20191,21 +21313,24 @@ window.dialogueCards = [
     "words": [
       [
         "allergy",
-        "/phrase/",
+        "/ˈælərdʒi/",
         "过敏",
-        "Practice using \"allergy\" in a real conversation."
+        "I have a severe allergy to peanuts.",
+        "我对花生有严重的过敏反应。"
       ],
       [
         "avoid",
-        "/phrase/",
+        "/əˈvɔɪd/",
         "避免",
-        "Practice using \"avoid\" in a real conversation."
+        "I try to avoid eating too much sugar.",
+        "我尽量避免吃太多糖。"
       ],
       [
         "contain",
-        "/phrase/",
+        "/kənˈteɪn/",
         "含有",
-        "Practice using \"contain\" in a real conversation."
+        "This product may contain nuts.",
+        "本产品可能含有坚果。"
       ]
     ]
   },
@@ -20259,21 +21384,24 @@ window.dialogueCards = [
     "words": [
       [
         "size",
-        "/phrase/",
+        "/saɪz/",
         "尺码",
-        "Practice using \"size\" in a real conversation."
+        "What size do you wear? I'll get you the right one.",
+        "你穿什么尺寸？我给你拿合适的。"
       ],
       [
         "try on",
-        "/phrase/",
+        "/traɪ ɑːn/",
         "试穿",
-        "Practice using \"try on\" in a real conversation."
+        "You should try on the dress before you buy it to make sure it fits.",
+        "买之前你应该试穿一下这条裙子，确保合身。"
       ],
       [
         "on sale",
-        "/phrase/",
+        "/ɑːn seɪl/",
         "打折",
-        "Practice using \"on sale\" in a real conversation."
+        "These winter coats are on sale — you can get them for half the original price.",
+        "这些冬衣在打折——你可以半价买到。"
       ]
     ]
   },
@@ -20327,21 +21455,24 @@ window.dialogueCards = [
     "words": [
       [
         "budget",
-        "/phrase/",
+        "/ˈbʌdʒɪt/",
         "预算",
-        "Practice using \"budget\" in a real conversation."
+        "We need to set a budget for the wedding.",
+        "我们需要为婚礼制定预算。"
       ],
       [
         "pendant",
-        "/phrase/",
+        "/ˈpɛndənt/",
         "吊坠",
-        "Practice using \"pendant\" in a real conversation."
+        "She wore a beautiful silver pendant that her grandmother had given her.",
+        "她戴着一个漂亮的银吊坠，是她祖母送给她的。"
       ],
       [
         "gift-wrapped",
-        "/phrase/",
+        "/ˈɡɪft ræpt/",
         "礼品包装",
-        "Practice using \"gift-wrapped\" in a real conversation."
+        "The present was beautifully gift-wrapped with a red ribbon.",
+        "礼物用红色丝带精美地包装好了。"
       ]
     ]
   },
@@ -20395,21 +21526,24 @@ window.dialogueCards = [
     "words": [
       [
         "genuine leather",
-        "/phrase/",
+        "/ˈdʒenjuɪn ˈleðər/",
         "真皮",
-        "Practice using \"genuine leather\" in a real conversation."
+        "This wallet is made of genuine leather and will last for years.",
+        "这个钱包是真皮的，能用很多年。"
       ],
       [
         "dimension",
-        "/phrase/",
+        "/dɪˈmɛnʃən/",
         "尺寸",
-        "Practice using \"dimension\" in a real conversation."
+        "What are the dimensions of this bookshelf? I need to see if it fits.",
+        "这个书架的尺寸是多少？我需要看看能不能放得下。"
       ],
       [
         "delivery",
-        "/phrase/",
+        "/dɪˈlɪvəri/",
         "配送",
-        "Practice using \"delivery\" in a real conversation."
+        "I ordered pizza delivery because I was too tired to cook.",
+        "我点了披萨外卖，因为太累了不想做饭。"
       ]
     ]
   },
@@ -20463,21 +21597,24 @@ window.dialogueCards = [
     "words": [
       [
         "major",
-        "/phrase/",
+        "/ˈmeɪdʒər/",
         "专业",
-        "Practice using \"major\" in a real conversation."
+        "She decided to major in computer science at university.",
+        "她决定在大学主修计算机科学。"
       ],
       [
         "required course",
-        "/phrase/",
+        "/rɪˈkwaɪərd kɔrs/",
         "必修课",
-        "Practice using \"required course\" in a real conversation."
+        "Math 101 is a required course for all first-year students.",
+        "数学101是所有大一新生的必修课。"
       ],
       [
         "elective",
-        "/phrase/",
+        "/ɪˈlɛktɪv/",
         "选修课",
-        "Practice using \"elective\" in a real conversation."
+        "I'm taking photography as an elective this semester.",
+        "这学期我选了摄影作为选修课。"
       ]
     ]
   },
@@ -20531,21 +21668,24 @@ window.dialogueCards = [
     "words": [
       [
         "task",
-        "/phrase/",
+        "/tæsk/",
         "任务",
-        "Practice using \"task\" in a real conversation."
+        "My first task is to organize all these files.",
+        "我的第一个任务是整理所有这些文件。"
       ],
       [
         "data collection",
-        "/phrase/",
+        "/ˈdeɪtə kəˈlɛkʃən/",
         "数据收集",
-        "Practice using \"data collection\" in a real conversation."
+        "The first phase of the research is data collection through surveys.",
+        "研究的第一阶段是通过问卷调查进行数据收集。"
       ],
       [
         "analysis",
-        "/phrase/",
+        "/əˈnæləsɪs/",
         "分析",
-        "Practice using \"analysis\" in a real conversation."
+        "The data analysis revealed some surprising trends.",
+        "数据分析揭示了一些令人惊讶的趋势。"
       ]
     ]
   },
@@ -20599,21 +21739,24 @@ window.dialogueCards = [
     "words": [
       [
         "congratulations",
-        "/phrase/",
+        "/kənˌɡrætʃəˈleɪʃənz/",
         "恭喜",
-        "Practice using \"congratulations\" in a real conversation."
+        "Congratulations on your promotion — you really deserve it!",
+        "恭喜你升职——你真的当之无愧！"
       ],
       [
         "ceremony",
-        "/phrase/",
+        "/ˈsɛrəˌmoʊni/",
         "典礼、仪式",
-        "Practice using \"ceremony\" in a real conversation."
+        "The wedding ceremony was held in a beautiful garden.",
+        "婚礼典礼在一个美丽的花园里举行。"
       ],
       [
         "crooked",
-        "/phrase/",
+        "/ˈkrʊkɪd/",
         "歪的、不正的",
-        "Practice using \"crooked\" in a real conversation."
+        "That picture on the wall is crooked — can you straighten it?",
+        "墙上那幅画歪了——你能把它弄正吗？"
       ]
     ]
   },
@@ -20667,21 +21810,24 @@ window.dialogueCards = [
     "words": [
       [
         "amazing",
-        "/phrase/",
+        "/əˈmeɪzɪŋ/",
         "令人惊叹的",
-        "Practice using \"amazing\" in a real conversation."
+        "The view from the top of the mountain was absolutely amazing.",
+        "山顶的景色绝对令人惊叹。"
       ],
       [
         "recipe",
-        "/phrase/",
+        "/ˈresɪpi/",
         "食谱",
-        "Practice using \"recipe\" in a real conversation."
+        "I found an amazing chocolate cake recipe on a cooking blog.",
+        "我在一个烹饪博客上找到了一个很棒的巧克力蛋糕食谱。"
       ],
       [
         "compliment",
-        "/phrase/",
+        "/ˈkɒmplɪmənt/",
         "赞美、夸奖",
-        "Practice using \"compliment\" in a real conversation."
+        "She received many compliments on her new dress.",
+        "她的新裙子收到了很多赞美。"
       ]
     ]
   },
@@ -20735,21 +21881,24 @@ window.dialogueCards = [
     "words": [
       [
         "plot twist",
-        "/phrase/",
+        "/plɑt twɪst/",
         "情节反转",
-        "Practice using \"plot twist\" in a real conversation."
+        "The movie had an unexpected plot twist that completely changed how I saw the main character.",
+        "这部电影有一个出人意料的情节反转，彻底改变了我对主角的看法。"
       ],
       [
         "ending",
-        "/phrase/",
+        "/ˈɛndɪŋ/",
         "结局",
-        "Practice using \"ending\" in a real conversation."
+        "I didn't expect that ending — it totally surprised me.",
+        "我没想到那个结局——完全出乎我的意料。"
       ],
       [
         "relatable",
-        "/phrase/",
+        "/rɪˈleɪtəbəl/",
         "有共鸣的、能引起共鸣的",
-        "Practice using \"relatable\" in a real conversation."
+        "That movie about family relationships was so relatable that it made me cry.",
+        "那部讲家庭关系的电影太有共鸣了，看得我哭了。"
       ]
     ]
   },
@@ -20803,21 +21952,24 @@ window.dialogueCards = [
     "words": [
       [
         "propose a toast",
-        "/phrase/",
+        "/prəˈpoʊz ə toʊst/",
         "提议干杯",
-        "Practice using \"propose a toast\" in a real conversation."
+        "I'd like to propose a toast to the newlyweds — may you have a lifetime of happiness together!",
+        "我想提议为新人干杯——祝你们白头偕老，幸福一生！"
       ],
       [
         "happy couple",
-        "/phrase/",
+        "/ˈhæpi ˈkʌpəl/",
         "幸福的一对",
-        "Practice using \"happy couple\" in a real conversation."
+        "Everyone raised their glasses to toast the happy couple at the wedding.",
+        "婚礼上每个人都举杯祝福这对幸福的新人。"
       ],
       [
         "cheers",
-        "/phrase/",
+        "/tʃɪəz/",
         "干杯",
-        "Practice using \"cheers\" in a real conversation."
+        "Everyone raised their glasses and shouted \"Cheers!\" to celebrate the promotion.",
+        "大家举起酒杯，大喊\"干杯\"来庆祝晋升。"
       ]
     ]
   },
@@ -20871,21 +22023,24 @@ window.dialogueCards = [
     "words": [
       [
         "physical examination",
-        "/phrase/",
+        "/ˈfɪzɪkəl ɪɡˌzæmɪˈneɪʃən/",
         "体检",
-        "Practice using \"physical examination\" in a real conversation."
+        "The company requires all new employees to undergo a physical examination before starting work.",
+        "公司要求所有新员工入职前接受体检。"
       ],
       [
         "blood pressure",
-        "/phrase/",
+        "/blʌd ˈpreʃə/",
         "血压",
-        "Practice using \"blood pressure\" in a real conversation."
+        "The doctor checks my blood pressure at every visit.",
+        "医生每次就诊都会测量我的血压。"
       ],
       [
         "vital",
-        "/phrase/",
+        "/ˈvaɪ.təl/",
         "生命体征的",
-        "Practice using \"vital\" in a real conversation."
+        "The nurse checked my vital signs before the doctor came in for the appointment.",
+        "医生进来问诊之前，护士先检查了我的生命体征。"
       ]
     ]
   },
@@ -20939,21 +22094,24 @@ window.dialogueCards = [
     "words": [
       [
         "tense",
-        "/phrase/",
+        "/tens/",
         "紧张的、僵硬的",
-        "Practice using \"tense\" in a real conversation."
+        "My shoulders get really tense when I sit at the computer for too long.",
+        "在电脑前坐太久我的肩膀就会变得很僵硬。"
       ],
       [
         "pressure",
-        "/phrase/",
+        "/ˈprɛʃər/",
         "压力、力度",
-        "Practice using \"pressure\" in a real conversation."
+        "Apply gentle pressure to the wound with a clean cloth to stop the bleeding.",
+        "用干净的布对伤口轻轻施加压力以止血。"
       ],
       [
         "stretch",
-        "/phrase/",
+        "/stretʃ/",
         "拉伸、伸展",
-        "Practice using \"stretch\" in a real conversation."
+        "It's important to stretch before you exercise.",
+        "运动前做伸展运动很重要。"
       ]
     ]
   },
@@ -21007,21 +22165,24 @@ window.dialogueCards = [
     "words": [
       [
         "overwhelmed",
-        "/phrase/",
+        "/ˌoʊvərˈwɛlmd/",
         "不堪重负的",
-        "Practice using \"overwhelmed\" in a real conversation."
+        "I felt overwhelmed by the amount of work piled up after my week off.",
+        "休假一周回来后，面对堆积如山的工作，我感到不堪重负。"
       ],
       [
         "anxious",
-        "/phrase/",
+        "/ˈæŋkʃəs/",
         "焦虑的",
-        "Practice using \"anxious\" in a real conversation."
+        "Waiting for the test results made him increasingly anxious.",
+        "等待测试结果让他越来越紧张。"
       ],
       [
         "coping strategy",
-        "/phrase/",
+        "/ˈkoʊpɪŋ ˈstrætədʒi/",
         "应对策略",
-        "Practice using \"coping strategy\" in a real conversation."
+        "Exercise has become my main coping strategy for dealing with stress.",
+        "运动已经成了我应对压力的主要策略。"
       ]
     ]
   },
@@ -21075,21 +22236,24 @@ window.dialogueCards = [
     "words": [
       [
         "adopt",
-        "/phrase/",
+        "/əˈdɒpt/",
         "领养",
-        "Practice using \"adopt\" in a real conversation."
+        "They decided to adopt a child from the local orphanage.",
+        "他们决定从当地孤儿院领养一个孩子。"
       ],
       [
         "breed",
-        "/phrase/",
+        "/briːd/",
         "品种",
-        "Practice using \"breed\" in a real conversation."
+        "Golden Retrievers are a very popular dog breed.",
+        "金毛寻回犬是一种非常受欢迎的犬种。"
       ],
       [
         "vaccinated",
-        "/phrase/",
+        "/ˈvæk.sɪ.neɪ.tɪd/",
         "接种过疫苗的",
-        "Practice using \"vaccinated\" in a real conversation."
+        "Make sure you're fully vaccinated before traveling to countries with different health risks.",
+        "去有不同健康风险的国家旅行前，确保你已经完全接种过疫苗。"
       ]
     ]
   },
@@ -21143,21 +22307,24 @@ window.dialogueCards = [
     "words": [
       [
         "crack",
-        "/phrase/",
+        "/kræk/",
         "碎裂",
-        "Practice using \"crack\" in a real conversation."
+        "I dropped my phone and the screen cracked.",
+        "我手机掉地上，屏幕碎裂了。"
       ],
       [
         "repair",
-        "/phrase/",
+        "/rɪˈpɛr/",
         "修理",
-        "Practice using \"repair\" in a real conversation."
+        "The repair shop said my phone screen can be fixed within an hour.",
+        "修理店说我的手机屏幕一小时内就能修好。"
       ],
       [
         "labor",
-        "/phrase/",
+        "/ˈleɪbər/",
         "人工费",
-        "Practice using \"labor\" in a real conversation."
+        "The parts were cheap, but the labor cost was quite high.",
+        "零件很便宜，但人工费相当高。"
       ]
     ]
   },
@@ -21211,21 +22378,24 @@ window.dialogueCards = [
     "words": [
       [
         "library card",
-        "/phrase/",
+        "/ˈlaɪbreri kɑːrd/",
         "借书证",
-        "Practice using \"library card\" in a real conversation."
+        "You can apply for a library card online or in person at the front desk.",
+        "你可以在线或在图书馆前台现场办理借书证。"
       ],
       [
         "borrow",
-        "/phrase/",
+        "/ˈbɑːroʊ/",
         "借",
-        "Practice using \"borrow\" in a real conversation."
+        "Can I borrow your pen for a moment?",
+        "我能借你的笔用一下吗？"
       ],
       [
         "late fee",
-        "/phrase/",
+        "/leɪt fiː/",
         "逾期罚款",
-        "Practice using \"late fee\" in a real conversation."
+        "The library charges a late fee of fifty cents per day for overdue books.",
+        "图书馆对逾期图书收取每天五毛钱的逾期罚款。"
       ]
     ]
   },
@@ -21279,21 +22449,24 @@ window.dialogueCards = [
     "words": [
       [
         "delayed",
-        "/phrase/",
+        "/dɪˈleɪd/",
         "延误的",
-        "Practice using \"delayed\" in a real conversation."
+        "My flight was delayed by three hours due to heavy fog.",
+        "我的航班因大雾延误了三个小时。"
       ],
       [
         "connecting flight",
-        "/phrase/",
+        "/kəˈnɛktɪŋ flaɪt/",
         "中转航班",
-        "Practice using \"connecting flight\" in a real conversation."
+        "We have a connecting flight in Dubai, with a two-hour layover.",
+        "我们在迪拜有一趟中转航班，停留两个小时。"
       ],
       [
         "rebook",
-        "/phrase/",
+        "/riˈbʊk/",
         "重新订票、改签",
-        "Practice using \"rebook\" in a real conversation."
+        "My flight was cancelled so I had to rebook for the next morning.",
+        "我的航班被取消了，只好改签到第二天早上。"
       ]
     ]
   },
@@ -21347,21 +22520,24 @@ window.dialogueCards = [
     "words": [
       [
         "menu",
-        "/phrase/",
+        "/ˈmenjuː/",
         "菜单",
-        "Practice using \"menu\" in a real conversation."
+        "The waiter brought the menu and recommended the daily specials.",
+        "服务员拿来了菜单，推荐了每日特色菜。"
       ],
       [
         "recommendation",
-        "/phrase/",
+        "/ˌrɛkəmənˈdeɪʃən/",
         "推荐",
-        "Practice using \"recommendation\" in a real conversation."
+        "I found this restaurant through a friend's recommendation.",
+        "我是通过朋友的推荐找到这家餐厅的。"
       ],
       [
         "signature dish",
-        "/phrase/",
+        "/ˈsɪɡnətʃər dɪʃ/",
         "招牌菜",
-        "Practice using \"signature dish\" in a real conversation."
+        "The spicy noodles are the chef's signature dish here.",
+        "辣味面条是这里厨师的招牌菜。"
       ]
     ]
   },
@@ -21415,21 +22591,24 @@ window.dialogueCards = [
     "words": [
       [
         "share a room",
-        "/phrase/",
+        "/ʃeər ə ruːm/",
         "拼房、合住",
-        "Practice using \"share a room\" in a real conversation."
+        "To cut costs on the trip, my colleague and I decided to share a room.",
+        "为了节省旅行开支，我和同事决定拼房。"
       ],
       [
         "twin bed",
-        "/phrase/",
+        "/twɪn bed/",
         "双床、单人床两张",
-        "Practice using \"twin bed\" in a real conversation."
+        "The hotel room comes with two twin beds, which is perfect for friends traveling together.",
+        "酒店房间配有两张单人床，对结伴出游的朋友来说再合适不过了。"
       ],
       [
         "split",
-        "/phrase/",
+        "/splɪt/",
         "分摊",
-        "Practice using \"split\" in a real conversation."
+        "Let's split the bill equally among all of us.",
+        "我们大家平摊账单吧。"
       ]
     ]
   },
@@ -21483,21 +22662,24 @@ window.dialogueCards = [
     "words": [
       [
         "overtime",
-        "/phrase/",
+        "/ˈoʊvərˌtaɪm/",
         "加班",
-        "Practice using \"overtime\" in a real conversation."
+        "I've been working overtime all week to finish this project.",
+        "我整周都在加班完成这个项目。"
       ],
       [
         "comp day",
-        "/phrase/",
+        "/kɑmp deɪ/",
         "调休日",
-        "Practice using \"comp day\" in a real conversation."
+        "I worked over the weekend so I'm taking a comp day this Friday.",
+        "我周末加班了，所以这周五休调休日。"
       ],
       [
         "flexible",
-        "/phrase/",
+        "/ˈflɛksɪbəl/",
         "灵活的",
-        "Practice using \"flexible\" in a real conversation."
+        "My boss is very flexible about when I start and finish work.",
+        "我的老板对我上下班的时间非常灵活。"
       ]
     ]
   },
@@ -21551,21 +22733,24 @@ window.dialogueCards = [
     "words": [
       [
         "team",
-        "/phrase/",
+        "/tiːm/",
         "团队",
-        "Practice using \"team\" in a real conversation."
+        "We work together as a team to achieve our goals.",
+        "我们作为一个团队一起努力实现目标。"
       ],
       [
         "relay race",
-        "/phrase/",
+        "/ˈriː.leɪ reɪs/",
         "接力赛",
-        "Practice using \"relay race\" in a real conversation."
+        "Our school won the 4×100 meter relay race at the sports meet.",
+        "我们学校在运动会上赢得了4×100米接力赛。"
       ],
       [
         "give it my best shot",
-        "/phrase/",
+        "/ɡɪv ɪt maɪ best ʃɑːt/",
         "全力以赴",
-        "Practice using \"give it my best shot\" in a real conversation."
+        "I've never done this before, but I'll give it my best shot.",
+        "我以前没做过这个，但我会全力以赴。"
       ]
     ]
   },
@@ -21619,21 +22804,24 @@ window.dialogueCards = [
     "words": [
       [
         "handover",
-        "/phrase/",
+        "/ˈhændoʊvər/",
         "交接",
-        "Practice using \"handover\" in a real conversation."
+        "The outgoing manager spent a week preparing a smooth handover for her replacement.",
+        "即将离职的经理花了一周时间为接替者准备顺利的交接。"
       ],
       [
         "ongoing",
-        "/phrase/",
+        "/ˈɑnˌɡoʊɪŋ/",
         "进行中的",
-        "Practice using \"ongoing\" in a real conversation."
+        "The investigation is still ongoing, so we can't share any details yet.",
+        "调查仍在进行中，所以我们暂时还不能透露任何细节。"
       ],
       [
         "follow up",
-        "/phrase/",
+        "/ˈfɑːloʊ ʌp/",
         "跟进",
-        "Practice using \"follow up\" in a real conversation."
+        "I'll follow up with the client tomorrow.",
+        "我明天会跟进客户。"
       ]
     ]
   },
@@ -21687,21 +22875,24 @@ window.dialogueCards = [
     "words": [
       [
         "build your own",
-        "/phrase/",
+        "/bɪld jʊr oʊn/",
         "自行搭配",
-        "Practice using \"build your own\" in a real conversation."
+        "You can build your own salad with any ingredients you like.",
+        "你可以用任何喜欢的食材自行搭配沙拉。"
       ],
       [
         "crust",
-        "/phrase/",
+        "/krʌst/",
         "饼底",
-        "Practice using \"crust\" in a real conversation."
+        "This pizza has a thin, crispy crust — just the way I like it.",
+        "这个披萨的饼底又薄又脆——正是我喜欢的样子。"
       ],
       [
         "topping",
-        "/phrase/",
+        "/ˈtɒpɪŋ/",
         "配料",
-        "Practice using \"topping\" in a real conversation."
+        "What toppings would you like on your pizza?",
+        "你的披萨上想要什么配料？"
       ]
     ]
   },
@@ -21755,21 +22946,24 @@ window.dialogueCards = [
     "words": [
       [
         "buffet",
-        "/phrase/",
+        "/bəˈfeɪ/",
         "自助餐",
-        "Practice using \"buffet\" in a real conversation."
+        "The hotel offers a breakfast buffet with over fifty dishes.",
+        "酒店提供超过五十道菜的自助早餐。"
       ],
       [
         "salad bar",
-        "/phrase/",
+        "/ˈsæləd bɑr/",
         "沙拉吧",
-        "Practice using \"salad bar\" in a real conversation."
+        "The salad bar at this supermarket has over thirty different toppings to choose from.",
+        "这家超市的沙拉吧有三十多种配料可以选。"
       ],
       [
         "dessert",
-        "/phrase/",
+        "/dɪˈzɜːt/",
         "甜点",
-        "Practice using \"dessert\" in a real conversation."
+        "For dessert, we had a rich chocolate lava cake with vanilla ice cream.",
+        "甜点我们吃了浓郁的巧克力熔岩蛋糕配香草冰淇淋。"
       ]
     ]
   },
@@ -21823,21 +23017,24 @@ window.dialogueCards = [
     "words": [
       [
         "cocktail",
-        "/phrase/",
+        "/ˈkɑkˌteɪl/",
         "鸡尾酒",
-        "Practice using \"cocktail\" in a real conversation."
+        "She ordered a tropical cocktail with pineapple and coconut.",
+        "她点了一杯有菠萝和椰子味的热带鸡尾酒。"
       ],
       [
         "strong",
-        "/phrase/",
+        "/strɔːŋ/",
         "烈的、度数高的",
-        "Practice using \"strong\" in a real conversation."
+        "She has a strong desire to succeed.",
+        "她有强烈的成功欲望。"
       ],
       [
         "tab",
-        "/phrase/",
+        "/tæb/",
         "赊账、挂账",
-        "Practice using \"tab\" in a real conversation."
+        "Just put my drinks on my tab and I'll settle it before I leave.",
+        "把酒记我账上就行，走之前我会结清。"
       ]
     ]
   },
@@ -21891,21 +23088,24 @@ window.dialogueCards = [
     "words": [
       [
         "freshly picked",
-        "/phrase/",
+        "/ˈfreʃli pɪkt/",
         "新鲜采摘的",
-        "Practice using \"freshly picked\" in a real conversation."
+        "These strawberries are freshly picked from the farm this morning.",
+        "这些草莓是今天早上从农场新鲜采摘的。"
       ],
       [
         "box",
-        "/phrase/",
+        "/bɑks/",
         "盒、箱",
-        "Practice using \"box\" in a real conversation."
+        "Could you help me carry this box to the car?",
+        "你能帮我把这个箱子搬到车上吗？"
       ],
       [
         "buy one get one free",
-        "/phrase/",
+        "/baɪ wʌn ɡɛt wʌn fri/",
         "买一送一",
-        "Practice using \"buy one get one free\" in a real conversation."
+        "These sneakers are buy one get one free this weekend.",
+        "这个周末这些运动鞋买一送一。"
       ]
     ]
   },
@@ -21959,21 +23159,24 @@ window.dialogueCards = [
     "words": [
       [
         "vintage",
-        "/phrase/",
+        "/ˈvɪntɪdʒ/",
         "复古的、老式的",
-        "Practice using \"vintage\" in a real conversation."
+        "She loves shopping for vintage clothes at thrift stores and flea markets.",
+        "她喜欢在二手店和跳蚤市场淘复古服装。"
       ],
       [
         "original condition",
-        "/phrase/",
+        "/əˈrɪdʒənəl kənˈdɪʃən/",
         "原装状态",
-        "Practice using \"original condition\" in a real conversation."
+        "If you want to return the item, it must be in its original condition with all tags attached.",
+        "如果你想退货，商品必须保持原装状态并保留所有标签。"
       ],
       [
         "certificate of authenticity",
-        "/phrase/",
+        "/sərˈtɪfɪkɪt əv ˌɔθɛnˈtɪsɪti/",
         "真品证书",
-        "Practice using \"certificate of authenticity\" in a real conversation."
+        "The painting comes with a certificate of authenticity from the gallery.",
+        "这幅画附有画廊出具的真品证书。"
       ]
     ]
   },
@@ -22027,21 +23230,24 @@ window.dialogueCards = [
     "words": [
       [
         "fiction",
-        "/phrase/",
+        "/ˈfɪkʃən/",
         "小说",
-        "Practice using \"fiction\" in a real conversation."
+        "She prefers reading science fiction over non-fiction books.",
+        "比起非小说类书籍，她更喜欢读科幻小说。"
       ],
       [
         "paperback",
-        "/phrase/",
+        "/ˈpeɪpərˌbæk/",
         "平装本",
-        "Practice using \"paperback\" in a real conversation."
+        "The novel was finally released in paperback a year after the hardcover edition.",
+        "这部小说在精装本出版一年后终于出了平装本。"
       ],
       [
         "hardcover",
-        "/phrase/",
+        "/ˈhɑːrdˌkʌvər/",
         "精装本",
-        "Practice using \"hardcover\" in a real conversation."
+        "The hardcover edition of the book costs twice as much as the paperback.",
+        "这本书的精装本价格是平装本的两倍。"
       ]
     ]
   },
@@ -22095,21 +23301,24 @@ window.dialogueCards = [
     "words": [
       [
         "gate",
-        "/phrase/",
+        "/ɡeɪt/",
         "大门",
-        "Practice using \"gate\" in a real conversation."
+        "Our flight departs from gate 42, so we should head there now.",
+        "我们的航班从42号登机口出发，我们现在就该过去了。"
       ],
       [
         "order",
-        "/phrase/",
+        "/ˈɔrdər/",
         "订单",
-        "Practice using \"order\" in a real conversation."
+        "Your order has been confirmed and will be delivered within three business days.",
+        "您的订单已确认，将在三个工作日内送达。"
       ],
       [
         "payment",
-        "/phrase/",
+        "/ˈpeɪmənt/",
         "支付",
-        "Practice using \"payment\" in a real conversation."
+        "The payment for your online purchase can be made by credit card or digital wallet.",
+        "您在线购物的支付可以通过信用卡或数字钱包完成。"
       ]
     ]
   },
@@ -22163,21 +23372,24 @@ window.dialogueCards = [
     "words": [
       [
         "methodology",
-        "/phrase/",
+        "/ˌmɛθəˈdɑlədʒi/",
         "方法论",
-        "Practice using \"methodology\" in a real conversation."
+        "The research methodology used in this study has been widely adopted by other scientists.",
+        "本研究采用的方法论已被其他科学家广泛采纳。"
       ],
       [
         "validity",
-        "/phrase/",
+        "/vəˈlɪd.ɪ.ti/",
         "效度、有效性",
-        "Practice using \"validity\" in a real conversation."
+        "Researchers need to check the validity of their data before drawing any conclusions.",
+        "研究人员在得出结论之前需要先检查数据的效度。"
       ],
       [
         "limitation",
-        "/phrase/",
+        "/ˌlɪmɪˈteɪʃən/",
         "局限性",
-        "Practice using \"limitation\" in a real conversation."
+        "It's important to understand the limitations of this research before drawing conclusions.",
+        "在下结论之前，了解这项研究的局限性很重要。"
       ]
     ]
   },
@@ -22231,21 +23443,24 @@ window.dialogueCards = [
     "words": [
       [
         "join",
-        "/phrase/",
+        "/dʒɔɪn/",
         "加入",
-        "Practice using \"join\" in a real conversation."
+        "Would you like to join us for dinner tonight?",
+        "你今晚想加入我们一起吃晚饭吗？"
       ],
       [
         "team",
-        "/phrase/",
+        "/tiːm/",
         "队伍、一队",
-        "Practice using \"team\" in a real conversation."
+        "We work together as a team to achieve our goals.",
+        "我们作为一个团队一起努力实现目标。"
       ],
       [
         "guard",
-        "/phrase/",
+        "/ɡɑːrd/",
         "防守",
-        "Practice using \"guard\" in a real conversation."
+        "He was assigned to guard the best player on the opposing team.",
+        "他被指派去防守对方最好的球员。"
       ]
     ]
   },
@@ -22299,21 +23514,24 @@ window.dialogueCards = [
     "words": [
       [
         "exhausted",
-        "/phrase/",
+        "/ɪɡˈzɔːstɪd/",
         "筋疲力尽的",
-        "Practice using \"exhausted\" in a real conversation."
+        "After working 12 hours, I was completely exhausted.",
+        "工作了12个小时后，我筋疲力尽。"
       ],
       [
         "souvenir",
-        "/phrase/",
+        "/ˌsuːvəˈnɪr/",
         "纪念品",
-        "Practice using \"souvenir\" in a real conversation."
+        "I bought some souvenirs for my family during the trip.",
+        "旅行期间我给家人买了一些纪念品。"
       ],
       [
         "look forward to",
-        "/phrase/",
+        "/lʊk ˈfɔːrwərd tuː/",
         "期待",
-        "Practice using \"look forward to\" in a real conversation."
+        "We look forward to meeting you at the conference next week.",
+        "我们期待在下周的会议上见到你。"
       ]
     ]
   },
@@ -22367,21 +23585,24 @@ window.dialogueCards = [
     "words": [
       [
         "move in",
-        "/phrase/",
+        "/muv ɪn/",
         "搬进来",
-        "Practice using \"move in\" in a real conversation."
+        "The new tenants will move in next Monday after we finish painting the walls.",
+        "我们刷完墙后，新房客将于下周一搬进来。"
       ],
       [
         "neighborhood",
-        "/phrase/",
+        "/ˈneɪbərˌhʊd/",
         "社区、街区",
-        "Practice using \"neighborhood\" in a real conversation."
+        "This neighborhood is known for its excellent schools and quiet streets.",
+        "这个社区以优质的学校和安静的街道而闻名。"
       ],
       [
         "resident",
-        "/phrase/",
+        "/ˈrɛzɪdənt/",
         "居民、住户",
-        "Practice using \"resident\" in a real conversation."
+        "All residents of this building need to register for the new parking permit.",
+        "这栋楼的所有住户都需要登记新的停车许可证。"
       ]
     ]
   },
@@ -22408,7 +23629,7 @@ window.dialogueCards = [
       ],
       [
         "B",
-        "\"Lemon Tree\" by Fool's Garden. Old but classic.",
+        "Lemon Tree by Fool's Garden. Old but classic.",
         "《柠檬树》，愚人花园乐队的。老歌但经典。"
       ],
       [
@@ -22435,21 +23656,24 @@ window.dialogueCards = [
     "words": [
       [
         "microphone",
-        "/phrase/",
+        "/ˈmaɪkrəˌfoʊn/",
         "麦克风",
-        "Practice using \"microphone\" in a real conversation."
+        "Could you speak into the microphone so that everyone in the back can hear you?",
+        "你能对着麦克风说话吗？这样后面的人也能听到。"
       ],
       [
         "duet",
-        "/phrase/",
+        "/duˈɛt/",
         "二重唱、合唱",
-        "Practice using \"duet\" in a real conversation."
+        "They sang a beautiful duet at the wedding reception.",
+        "他们在婚宴上合唱了一首动人的歌。"
       ],
       [
         "classic",
-        "/phrase/",
+        "/ˈklæsɪk/",
         "经典的",
-        "Practice using \"classic\" in a real conversation."
+        "This is a classic example of poor customer service.",
+        "这是糟糕客户服务的经典例子。"
       ]
     ]
   },
@@ -22503,21 +23727,24 @@ window.dialogueCards = [
     "words": [
       [
         "eye exam",
-        "/phrase/",
+        "/aɪ ɪɡˈzæm/",
         "视力检查",
-        "Practice using \"eye exam\" in a real conversation."
+        "I haven't had an eye exam in two years — I should make an appointment.",
+        "我两年没做视力检查了——该预约一下了。"
       ],
       [
         "nearsightedness",
-        "/phrase/",
+        "/ˌnɪrˈsaɪtɪdnəs/",
         "近视",
-        "Practice using \"nearsightedness\" in a real conversation."
+        "My nearsightedness has gotten worse, so I need a stronger prescription for my glasses.",
+        "我的近视加深了，需要配度数更高的眼镜。"
       ],
       [
         "frame",
-        "/phrase/",
+        "/freɪm/",
         "镜框",
-        "Practice using \"frame\" in a real conversation."
+        "I want to frame this photo and put it on the wall.",
+        "我想把这张照片装裱起来挂在墙上。"
       ]
     ]
   },
@@ -22571,21 +23798,24 @@ window.dialogueCards = [
     "words": [
       [
         "pulse",
-        "/phrase/",
+        "/pʌls/",
         "脉搏",
-        "Practice using \"pulse\" in a real conversation."
+        "The nurse checked my pulse and blood pressure before the examination.",
+        "检查前护士测量了我的脉搏和血压。"
       ],
       [
         "qi deficiency",
-        "/phrase/",
+        "/tʃi dɪˈfɪʃənsi/",
         "气虚",
-        "Practice using \"qi deficiency\" in a real conversation."
+        "The practitioner told me my fatigue was due to qi deficiency and recommended some herbal remedies.",
+        "医生告诉我我的疲劳是由于气虚，并推荐了一些中药调理。"
       ],
       [
         "herbal medicine",
-        "/phrase/",
+        "/ˈɜːrbəl ˈmedɪsɪn/",
         "中药",
-        "Practice using \"herbal medicine\" in a real conversation."
+        "Many people turn to herbal medicine when Western treatments don't work for them.",
+        "当西医疗效不佳时，很多人会求助于中药。"
       ]
     ]
   },
@@ -22639,21 +23869,24 @@ window.dialogueCards = [
     "words": [
       [
         "consent form",
-        "/phrase/",
+        "/kənˈsɛnt fɔrm/",
         "同意书",
-        "Practice using \"consent form\" in a real conversation."
+        "You need to sign this consent form before the surgery.",
+        "手术前你需要签署这份同意书。"
       ],
       [
         "side effect",
-        "/phrase/",
+        "/ˈsaɪd ɪˌfekt/",
         "副作用",
-        "Practice using \"side effect\" in a real conversation."
+        "The medicine works well, but drowsiness is a common side effect.",
+        "这个药效果很好，但嗜睡是常见的副作用。"
       ],
       [
         "injection",
-        "/phrase/",
+        "/ɪnˈdʒɛkʃən/",
         "注射",
-        "Practice using \"injection\" in a real conversation."
+        "The doctor gave him an injection to relieve the pain quickly.",
+        "医生给他打了一针来快速缓解疼痛。"
       ]
     ]
   },
@@ -22707,21 +23940,24 @@ window.dialogueCards = [
     "words": [
       [
         "instructor",
-        "/phrase/",
+        "/ɪnˈstrʌktər/",
         "教练",
-        "Practice using \"instructor\" in a real conversation."
+        "My driving instructor was very patient and helped me build confidence on the road.",
+        "我的驾驶教练非常有耐心，帮我在路上建立了信心。"
       ],
       [
         "steering wheel",
-        "/phrase/",
+        "/ˈstɪə.rɪŋ wiːl/",
         "方向盘",
-        "Practice using \"steering wheel\" in a real conversation."
+        "Keep both hands on the steering wheel and your eyes on the road at all times.",
+        "双手始终握住方向盘，眼睛盯着路。"
       ],
       [
         "parallel parking",
-        "/phrase/",
+        "/ˈpærəˌlɛl ˈpɑrkɪŋ/",
         "侧方停车",
-        "Practice using \"parallel parking\" in a real conversation."
+        "Parallel parking is one of the most challenging parts of the driving test for many people.",
+        "对很多人来说，侧方停车是驾照考试中最具挑战性的部分之一。"
       ]
     ]
   },
@@ -22775,21 +24011,24 @@ window.dialogueCards = [
     "words": [
       [
         "dye",
-        "/phrase/",
+        "/daɪ/",
         "染发",
-        "Practice using \"dye\" in a real conversation."
+        "She wants to dye her hair blonde.",
+        "她想把头发染成金色。"
       ],
       [
         "gray hair",
-        "/phrase/",
+        "/ɡreɪ her/",
         "白发",
-        "Practice using \"gray hair\" in a real conversation."
+        "I found my first gray hair this morning — I guess I'm getting old.",
+        "今天早上我发现第一根白发——看来我老了。"
       ],
       [
         "ammonia-free",
-        "/phrase/",
+        "/əˈmoʊniə friː/",
         "无氨的",
-        "Practice using \"ammonia-free\" in a real conversation."
+        "This ammonia-free hair dye is gentler on your scalp.",
+        "这款无氨染发剂对头皮更温和。"
       ]
     ]
   },
@@ -22843,21 +24082,24 @@ window.dialogueCards = [
     "words": [
       [
         "passport photo",
-        "/phrase/",
+        "/ˈpæspɔrt ˈfoʊtoʊ/",
         "护照照片",
-        "Practice using \"passport photo\" in a real conversation."
+        "You need to submit two recent passport photos with your visa application.",
+        "签证申请需要提交两张近期的护照照片。"
       ],
       [
         "expression",
-        "/phrase/",
+        "/ɪkˈsprɛʃən/",
         "表情",
-        "Practice using \"expression\" in a real conversation."
+        "The expression on her face told me something was wrong.",
+        "她脸上的表情告诉我出事了。"
       ],
       [
         "print",
-        "/phrase/",
+        "/prɪnt/",
         "打印件、照片冲印",
-        "Practice using \"print\" in a real conversation."
+        "Could you print this document for me, please?",
+        "请帮我打印这份文件好吗？"
       ]
     ]
   },
@@ -22911,21 +24153,24 @@ window.dialogueCards = [
     "words": [
       [
         "rent",
-        "/phrase/",
+        "/rent/",
         "租赁",
-        "Practice using \"rent\" in a real conversation."
+        "We decided to rent an apartment near the office.",
+        "我们决定在办公室附近租一套公寓。"
       ],
       [
         "insurance",
-        "/phrase/",
+        "/ɪnˈʃʊrəns/",
         "保险",
-        "Practice using \"insurance\" in a real conversation."
+        "Make sure you have travel insurance before going abroad.",
+        "出国前一定要确认你有旅行保险。"
       ],
       [
         "full coverage",
-        "/phrase/",
+        "/fʊl ˈkʌvərɪdʒ/",
         "全险",
-        "Practice using \"full coverage\" in a real conversation."
+        "I always rent cars with full coverage insurance, just to be safe.",
+        "我租车都买全险，稳妥一点。"
       ]
     ]
   },
@@ -22979,21 +24224,24 @@ window.dialogueCards = [
     "words": [
       [
         "backpacking",
-        "/phrase/",
+        "/ˈbækˌpækɪŋ/",
         "背包旅行",
-        "Practice using \"backpacking\" in a real conversation."
+        "We went backpacking across Southeast Asia last summer.",
+        "去年夏天我们去东南亚背包旅行了。"
       ],
       [
         "head to",
-        "/phrase/",
+        "/hed tə/",
         "前往",
-        "Practice using \"head to\" in a real conversation."
+        "After work, I usually head to the gym for a quick workout.",
+        "下班后，我通常前往健身房快速锻炼一下。"
       ],
       [
         "explore",
-        "/phrase/",
+        "/ɪkˈsplɔːr/",
         "探索",
-        "Practice using \"explore\" in a real conversation."
+        "We plan to explore the old town this afternoon.",
+        "我们计划今天下午去探索老城区。"
       ]
     ]
   },
@@ -23047,21 +24295,24 @@ window.dialogueCards = [
     "words": [
       [
         "duty-free",
-        "/phrase/",
+        "/ˌdjuːti ˈfriː/",
         "免税的",
-        "Practice using \"duty-free\" in a real conversation."
+        "She bought a bottle of perfume at the duty-free shop in the airport.",
+        "她在机场的免税店买了一瓶香水。"
       ],
       [
         "tax-free",
-        "/phrase/",
+        "/ˌtæks ˈfriː/",
         "免税的",
-        "Practice using \"tax-free\" in a real conversation."
+        "You can buy tax-free products at the airport after you pass through security.",
+        "过了安检之后可以在机场买免税商品。"
       ],
       [
         "boarding pass",
-        "/phrase/",
+        "/ˈbɔːdɪŋ pɑːs/",
         "登机牌",
-        "Practice using \"boarding pass\" in a real conversation."
+        "Please have your boarding pass and ID ready at the gate.",
+        "请在登机口准备好登机牌和身份证件。"
       ]
     ]
   },
@@ -23115,21 +24366,24 @@ window.dialogueCards = [
     "words": [
       [
         "surprise",
-        "/phrase/",
+        "/sərˈpraɪz/",
         "惊喜",
-        "Practice using \"surprise\" in a real conversation."
+        "My friends threw me a surprise party for my thirtieth birthday.",
+        "朋友们为我三十岁生日准备了一个惊喜派对。"
       ],
       [
         "blow out candles",
-        "/phrase/",
+        "/bloʊ aʊt ˈkændəlz/",
         "吹蜡烛",
-        "Practice using \"blow out candles\" in a real conversation."
+        "Make a wish before you blow out the candles!",
+        "吹蜡烛之前先许个愿！"
       ],
       [
         "organize",
-        "/phrase/",
+        "/ˈɔːrɡənaɪz/",
         "组织",
-        "Practice using \"organize\" in a real conversation."
+        "She volunteered to organize the company's annual team-building event.",
+        "她自愿组织公司的年度团建活动。"
       ]
     ]
   },
@@ -23183,21 +24437,24 @@ window.dialogueCards = [
     "words": [
       [
         "propose a toast",
-        "/phrase/",
+        "/prəˈpoʊz ə toʊst/",
         "提议干杯",
-        "Practice using \"propose a toast\" in a real conversation."
+        "I'd like to propose a toast to the newlyweds — may you have a lifetime of happiness together!",
+        "我想提议为新人干杯——祝你们白头偕老，幸福一生！"
       ],
       [
         "partnership",
-        "/phrase/",
+        "/ˈpɑrtnərˌʃɪp/",
         "合作关系",
-        "Practice using \"partnership\" in a real conversation."
+        "The two companies formed a strategic partnership to develop new technologies together.",
+        "两家公司建立了战略合作关系，共同开发新技术。"
       ],
       [
         "collaboration",
-        "/phrase/",
+        "/kəˌlæbəˈreɪʃən/",
         "合作",
-        "Practice using \"collaboration\" in a real conversation."
+        "This project is a collaboration between three universities.",
+        "这个项目是三所大学之间的合作。"
       ]
     ]
   },
@@ -23251,21 +24508,24 @@ window.dialogueCards = [
     "words": [
       [
         "integrate",
-        "/phrase/",
+        "/ˈɪntɪɡreɪt/",
         "集成",
-        "Practice using \"integrate\" in a real conversation."
+        "We need to integrate the new payment system with our existing platform.",
+        "我们需要将新的支付系统集成到现有平台中。"
       ],
       [
         "seamless",
-        "/phrase/",
+        "/ˈsiːm.ləs/",
         "无缝的",
-        "Practice using \"seamless\" in a real conversation."
+        "The app provides a seamless experience across all your devices.",
+        "这个应用在所有设备上都提供了无缝的体验。"
       ],
       [
         "user manual",
-        "/phrase/",
+        "/ˈjuː.zər ˌmæn.ju.əl/",
         "用户手册",
-        "Practice using \"user manual\" in a real conversation."
+        "If you're not sure how to set it up, check the user manual that came in the box.",
+        "如果不知道怎么安装，看看盒子里附带的用户手册。"
       ]
     ]
   },
@@ -23319,21 +24579,24 @@ window.dialogueCards = [
     "words": [
       [
         "grill",
-        "/phrase/",
+        "/ɡrɪl/",
         "烤盘、烤架",
-        "Practice using \"grill\" in a real conversation."
+        "We're going to grill some burgers and hot dogs for the barbecue this weekend.",
+        "我们这个周末烧烤要烤一些汉堡和热狗。"
       ],
       [
         "flip",
-        "/phrase/",
+        "/flɪp/",
         "翻面",
-        "Practice using \"flip\" in a real conversation."
+        "Flip the pancake when it starts to bubble.",
+        "煎饼开始冒泡时就翻面。"
       ],
       [
         "dip",
-        "/phrase/",
+        "/dɪp/",
         "蘸",
-        "Practice using \"dip\" in a real conversation."
+        "I like to dip my fries in mayonnaise.",
+        "我喜欢用薯条蘸蛋黄酱吃。"
       ]
     ]
   },
@@ -23387,21 +24650,24 @@ window.dialogueCards = [
     "words": [
       [
         "vegan",
-        "/phrase/",
+        "/ˈviːɡən/",
         "纯素食者",
-        "Practice using \"vegan\" in a real conversation."
+        "This restaurant has a full vegan menu with no animal products.",
+        "这家餐厅有一整套不含任何动物产品的纯素菜单。"
       ],
       [
         "plant-based",
-        "/phrase/",
+        "/ˈplænt beɪst/",
         "植物性的",
-        "Practice using \"plant-based\" in a real conversation."
+        "More people are switching to a plant-based diet for health and environmental reasons.",
+        "越来越多人出于健康和环保原因转向植物基饮食。"
       ],
       [
         "dairy",
-        "/phrase/",
+        "/ˈdeəri/",
         "乳制品",
-        "Practice using \"dairy\" in a real conversation."
+        "I'm trying to cut down on dairy products.",
+        "我正在减少乳制品的摄入。"
       ]
     ]
   },
@@ -23455,21 +24721,24 @@ window.dialogueCards = [
     "words": [
       [
         "scrambled",
-        "/phrase/",
+        "/ˈskræm.bəld/",
         "炒的（蛋）",
-        "Practice using \"scrambled\" in a real conversation."
+        "I like my scrambled eggs soft and creamy, not dry and overcooked.",
+        "我喜欢炒蛋嫩滑绵软，不要太干太老。"
       ],
       [
         "crispy",
-        "/phrase/",
+        "/ˈkrɪspi/",
         "脆的",
-        "Practice using \"crispy\" in a real conversation."
+        "The fried chicken was perfectly crispy on the outside.",
+        "炸鸡外皮酥脆得恰到好处。"
       ],
       [
         "in a hurry",
-        "/phrase/",
+        "/ɪn ə ˈhɜːri/",
         "赶时间",
-        "Practice using \"in a hurry\" in a real conversation."
+        "Sorry, I can't chat right now — I'm in a hurry to catch my train.",
+        "抱歉，现在没法聊——我赶时间去赶火车。"
       ]
     ]
   },
@@ -23523,21 +24792,24 @@ window.dialogueCards = [
     "words": [
       [
         "first edition",
-        "/phrase/",
+        "/fɜrst ɪˈdɪʃən/",
         "初版",
-        "Practice using \"first edition\" in a real conversation."
+        "He owns a first edition of that classic novel, signed by the author.",
+        "他拥有那本经典小说的初版，还有作者的签名。"
       ],
       [
         "condition",
-        "/phrase/",
+        "/kənˈdɪʃən/",
         "品相、状况",
-        "Practice using \"condition\" in a real conversation."
+        "The car is in excellent condition despite its age.",
+        "尽管车龄不短但这辆车状况极好。"
       ],
       [
         "vintage",
-        "/phrase/",
+        "/ˈvɪntɪdʒ/",
         "老旧的、复古的",
-        "Practice using \"vintage\" in a real conversation."
+        "She loves shopping for vintage clothes at thrift stores and flea markets.",
+        "她喜欢在二手店和跳蚤市场淘复古服装。"
       ]
     ]
   },
@@ -23591,21 +24863,24 @@ window.dialogueCards = [
     "words": [
       [
         "bouquet",
-        "/phrase/",
+        "/buˈkeɪ/",
         "花束",
-        "Practice using \"bouquet\" in a real conversation."
+        "The bride carried a beautiful bouquet of roses and peonies.",
+        "新娘捧着一束美丽的玫瑰和牡丹花束。"
       ],
       [
         "arrange",
-        "/phrase/",
+        "/əˈreɪndʒ/",
         "插花、布置",
-        "Practice using \"arrange\" in a real conversation."
+        "I will arrange a meeting for us next Tuesday.",
+        "我会为我们安排下周二的一次会议。"
       ],
       [
         "wrapping",
-        "/phrase/",
+        "/ˈræp.ɪŋ/",
         "包装",
-        "Practice using \"wrapping\" in a real conversation."
+        "The gift wrapping was so beautiful that I almost didn't want to open it.",
+        "礼物的包装太漂亮了，我差点舍不得拆开。"
       ]
     ]
   },
@@ -23659,21 +24934,24 @@ window.dialogueCards = [
     "words": [
       [
         "cordless",
-        "/phrase/",
+        "/ˈkɔrdlɪs/",
         "无线的",
-        "Practice using \"cordless\" in a real conversation."
+        "I bought a cordless vacuum cleaner — it's so much more convenient.",
+        "我买了一个无线吸尘器——方便太多了。"
       ],
       [
         "warranty",
-        "/phrase/",
+        "/ˈwɒr.ən.ti/",
         "保修",
-        "Practice using \"warranty\" in a real conversation."
+        "My laptop broke just two weeks before the warranty expired, so I got it repaired for free.",
+        "我的笔记本电脑在保修到期前两周坏了，所以免费修好了。"
       ],
       [
         "suction",
-        "/phrase/",
+        "/ˈsʌk.ʃən/",
         "吸力",
-        "Practice using \"suction\" in a real conversation."
+        "This vacuum cleaner has strong suction that picks up pet hair easily.",
+        "这台吸尘器吸力很强，很容易吸起宠物毛发。"
       ]
     ]
   },
@@ -23727,21 +25005,24 @@ window.dialogueCards = [
     "words": [
       [
         "run for",
-        "/phrase/",
+        "/rʌn fɔr/",
         "竞选",
-        "Practice using \"run for\" in a real conversation."
+        "She decided to run for student council president this year.",
+        "她决定今年竞选学生会主席。"
       ],
       [
         "student council",
-        "/phrase/",
+        "/ˈstjuː.dənt ˈkaʊn.səl/",
         "学生会",
-        "Practice using \"student council\" in a real conversation."
+        "I ran for student council in high school and was elected as the treasurer.",
+        "我高中时竞选学生会，当选了财务委员。"
       ],
       [
         "forum",
-        "/phrase/",
+        "/ˈfɔrəm/",
         "论坛、座谈会",
-        "Practice using \"forum\" in a real conversation."
+        "She posted her question on an online forum and got helpful replies.",
+        "她在一个在线论坛上发布了问题，得到了很多有用的回复。"
       ]
     ]
   },
@@ -23795,21 +25076,24 @@ window.dialogueCards = [
     "words": [
       [
         "international",
-        "/phrase/",
+        "/ˌɪntərˈnæʃənəl/",
         "国际的",
-        "Practice using \"international\" in a real conversation."
+        "She works for an international company with offices in over thirty countries.",
+        "她在一家国际公司工作，在三十多个国家设有办事处。"
       ],
       [
         "language barrier",
-        "/phrase/",
+        "/ˈlæŋɡwɪdʒ ˈbæriər/",
         "语言障碍",
-        "Practice using \"language barrier\" in a real conversation."
+        "Despite the language barrier, we managed to communicate through gestures and smiles.",
+        "尽管有语言障碍，我们还是通过手势和微笑成功交流了。"
       ],
       [
         "pick up",
-        "/phrase/",
+        "/pɪk ʌp/",
         "学会、掌握",
-        "Practice using \"pick up\" in a real conversation."
+        "Can you pick up some milk on your way home?",
+        "你回家路上能顺便买点牛奶吗？"
       ]
     ]
   },
@@ -23863,21 +25147,24 @@ window.dialogueCards = [
     "words": [
       [
         "save a seat",
-        "/phrase/",
+        "/seɪv ə siːt/",
         "占座",
-        "Practice using \"save a seat\" in a real conversation."
+        "Could you save a seat for me? I'll be there in five minutes.",
+        "你能帮我占个座吗？我五分钟后到。"
       ],
       [
         "rule",
-        "/phrase/",
+        "/ruːl/",
         "规则",
-        "Practice using \"rule\" in a real conversation."
+        "The first rule of the club is that you do not talk about the club.",
+        "俱乐部的第一条规则是不要谈论俱乐部。"
       ],
       [
         "understanding",
-        "/phrase/",
+        "/ˌʌn.dəˈstæn.dɪŋ/",
         "体谅的、理解的",
-        "Practice using \"understanding\" in a real conversation."
+        "My boss was very understanding when I explained why I needed to take the afternoon off.",
+        "我跟老板解释为什么下午需要请假时，他非常体谅。"
       ]
     ]
   },
@@ -23931,21 +25218,24 @@ window.dialogueCards = [
     "words": [
       [
         "take a photo",
-        "/phrase/",
+        "/teɪk ə ˈfəʊ.təʊ/",
         "拍照",
-        "Practice using \"take a photo\" in a real conversation."
+        "Could you take a photo of us in front of the fountain?",
+        "你能帮我们在喷泉前面拍张照吗？"
       ],
       [
         "background",
-        "/phrase/",
+        "/ˈbækɡraʊnd/",
         "背景",
-        "Practice using \"background\" in a real conversation."
+        "She has a strong background in computer science.",
+        "她有很强的计算机科学背景。"
       ],
       [
         "thoughtful",
-        "/phrase/",
+        "/ˈθɔːtfəl/",
         "体贴的、周到的",
-        "Practice using \"thoughtful\" in a real conversation."
+        "That was very thoughtful of you to bring me flowers.",
+        "你给我带花真是太贴心了。"
       ]
     ]
   },
@@ -23999,21 +25289,24 @@ window.dialogueCards = [
     "words": [
       [
         "team up",
-        "/phrase/",
+        "/tiːm ʌp/",
         "组队",
-        "Practice using \"team up\" in a real conversation."
+        "Want to team up for the trivia night competition? We'd make a great pair.",
+        "要不要组队参加今晚的冷知识比赛？我们搭档会很厉害。"
       ],
       [
         "cover",
-        "/phrase/",
+        "/ˈkʌvər/",
         "掩护",
-        "Practice using \"cover\" in a real conversation."
+        "I'll cover for you while you sneak out to get the cake.",
+        "你溜出去拿蛋糕的时候我掩护你。"
       ],
       [
         "spotted",
-        "/phrase/",
+        "/ˈspɒt.ɪd/",
         "发现了",
-        "Practice using \"spotted\" in a real conversation."
+        "I spotted a rare bird in the backyard this morning and managed to take a photo.",
+        "今天早上我在后院发现了一只稀有的鸟，还拍到了照片。"
       ]
     ]
   },
@@ -24067,21 +25360,24 @@ window.dialogueCards = [
     "words": [
       [
         "aroma",
-        "/phrase/",
+        "/əˈroʊmə/",
         "香气",
-        "Practice using \"aroma\" in a real conversation."
+        "The aroma of fresh coffee filled the entire kitchen.",
+        "新鲜咖啡的香气充满了整个厨房。"
       ],
       [
         "steep",
-        "/phrase/",
+        "/stiːp/",
         "浸泡、冲泡",
-        "Practice using \"steep\" in a real conversation."
+        "The hill is too steep to climb without proper equipment.",
+        "这个山坡太陡了，没有合适的装备爬不上去。"
       ],
       [
         "infusion",
-        "/phrase/",
+        "/ɪnˈfjuːʒən/",
         "泡出来的茶汤",
-        "Practice using \"infusion\" in a real conversation."
+        "The first infusion of this oolong tea has a light floral aroma.",
+        "这泡乌龙茶的第一道茶汤带有淡淡的花香。"
       ]
     ]
   },
@@ -24135,21 +25431,24 @@ window.dialogueCards = [
     "words": [
       [
         "break out",
-        "/phrase/",
+        "/breɪk aʊt/",
         "长痘痘",
-        "Practice using \"break out\" in a real conversation."
+        "I always break out when I eat too much chocolate.",
+        "我一吃太多巧克力就会长痘痘。"
       ],
       [
         "acne",
-        "/phrase/",
+        "/ˈækni/",
         "痤疮、青春痘",
-        "Practice using \"acne\" in a real conversation."
+        "She tried several skincare products to clear up her acne.",
+        "她试了好几种护肤品来消除痘痘。"
       ],
       [
         "topical cream",
-        "/phrase/",
+        "/ˈtɒp.ɪ.kəl kriːm/",
         "外用药膏",
-        "Practice using \"topical cream\" in a real conversation."
+        "The doctor prescribed a topical cream to apply to the rash twice a day.",
+        "医生开了一支外用药膏，每天在皮疹处涂抹两次。"
       ]
     ]
   },
@@ -24203,21 +25502,24 @@ window.dialogueCards = [
     "words": [
       [
         "stiff",
-        "/phrase/",
+        "/stɪf/",
         "僵硬的",
-        "Practice using \"stiff\" in a real conversation."
+        "My neck feels really stiff after sleeping in an awkward position last night.",
+        "昨晚睡姿不对，今天脖子特别僵硬。"
       ],
       [
         "range of motion",
-        "/phrase/",
+        "/reɪndʒ əv ˈmoʊʃən/",
         "活动范围",
-        "Practice using \"range of motion\" in a real conversation."
+        "Physical therapy helped improve my shoulder's range of motion.",
+        "物理治疗改善了我肩膀的活动范围。"
       ],
       [
         "consistency",
-        "/phrase/",
+        "/kənˈsɪstənsi/",
         "持续性、坚持",
-        "Practice using \"consistency\" in a real conversation."
+        "The key to learning a language is consistency — practice every day.",
+        "学语言的关键是坚持——每天都要练习。"
       ]
     ]
   },
@@ -24271,21 +25573,24 @@ window.dialogueCards = [
     "words": [
       [
         "donate blood",
-        "/phrase/",
+        "/ˈdoʊneɪt blʌd/",
         "献血",
-        "Practice using \"donate blood\" in a real conversation."
+        "I donate blood every three months — it only takes about fifteen minutes.",
+        "我每三个月献一次血——只需要大约十五分钟。"
       ],
       [
         "hemoglobin",
-        "/phrase/",
+        "/ˌhiːməˈɡloʊbɪn/",
         "血红蛋白",
-        "Practice using \"hemoglobin\" in a real conversation."
+        "The doctor checked my hemoglobin level to see if I was anemic.",
+        "医生检查了我的血红蛋白水平，看是否贫血。"
       ],
       [
         "eligible",
-        "/phrase/",
+        "/ˈɛlɪdʒəbəl/",
         "符合条件的",
-        "Practice using \"eligible\" in a real conversation."
+        "You're eligible for a discount if you're a student.",
+        "如果你是学生就符合折扣条件。"
       ]
     ]
   },
@@ -24339,21 +25644,24 @@ window.dialogueCards = [
     "words": [
       [
         "separate",
-        "/phrase/",
+        "/ˈsepəreɪt/",
         "分开",
-        "Practice using \"separate\" in a real conversation."
+        "Please separate the recyclable items from the trash.",
+        "请将可回收物品与垃圾分开。"
       ],
       [
         "delicate",
-        "/phrase/",
+        "/ˈdɛlɪkɪt/",
         "轻柔的",
-        "Practice using \"delicate\" in a real conversation."
+        "Be careful with that vase — it's very delicate.",
+        "小心那个花瓶——它非常易碎。"
       ],
       [
         "detergent",
-        "/phrase/",
+        "/dɪˈtɜrdʒənt/",
         "洗衣液",
-        "Practice using \"detergent\" in a real conversation."
+        "I need to buy more laundry detergent — we're almost out.",
+        "我需要再买些洗衣液——快用完了。"
       ]
     ]
   },
@@ -24407,21 +25715,24 @@ window.dialogueCards = [
     "words": [
       [
         "maintenance",
-        "/phrase/",
+        "/ˈmeɪntənəns/",
         "维修、维护",
-        "Practice using \"maintenance\" in a real conversation."
+        "Regular maintenance of your car can prevent costly repairs down the road.",
+        "定期对汽车进行维护可以避免日后高昂的维修费用。"
       ],
       [
         "clogged",
-        "/phrase/",
+        "/klɔɡd/",
         "堵塞的",
-        "Practice using \"clogged\" in a real conversation."
+        "The sink is clogged again; I need to call a plumber.",
+        "水槽又堵塞了，我得打电话叫水管工。"
       ],
       [
         "plumber",
-        "/phrase/",
+        "/ˈplʌmər/",
         "水管工",
-        "Practice using \"plumber\" in a real conversation."
+        "We had to call a plumber to fix the leaking pipe.",
+        "我们不得不叫水管工来修漏水的水管。"
       ]
     ]
   },
@@ -24475,21 +25786,24 @@ window.dialogueCards = [
     "words": [
       [
         "dry cleaning",
-        "/phrase/",
+        "/draɪ ˈkliːnɪŋ/",
         "干洗",
-        "Practice using \"dry cleaning\" in a real conversation."
+        "This jacket requires dry cleaning only.",
+        "这件夹克只能干洗。"
       ],
       [
         "wrinkle",
-        "/phrase/",
+        "/ˈrɪŋ.kəl/",
         "褶皱",
-        "Practice using \"wrinkle\" in a real conversation."
+        "I need to iron this shirt — it's full of wrinkles from sitting in the suitcase.",
+        "这件衬衫得熨一下，放行李箱里全是褶皱。"
       ],
       [
         "stain",
-        "/phrase/",
+        "/steɪn/",
         "污渍",
-        "Practice using \"stain\" in a real conversation."
+        "I spilled coffee and now there's a stain on my shirt.",
+        "我洒了咖啡，现在衬衫上有一块污渍。"
       ]
     ]
   },
@@ -24543,21 +25857,24 @@ window.dialogueCards = [
     "words": [
       [
         "bunkmate",
-        "/phrase/",
+        "/ˈbʌŋkˌmeɪt/",
         "同铺旅客",
-        "Practice using \"bunkmate\" in a real conversation."
+        "My bunkmate on the overnight train was a friendly student from Beijing.",
+        "我在夜班火车上的同铺旅客是一个来自北京的友善学生。"
       ],
       [
         "snack",
-        "/phrase/",
+        "/snæk/",
         "零食",
-        "Practice using \"snack\" in a real conversation."
+        "I usually have a small snack in the afternoon.",
+        "我下午通常会吃点零食。"
       ],
       [
         "local",
-        "/phrase/",
+        "/ˈləʊkl/",
         "当地人",
-        "Practice using \"local\" in a real conversation."
+        "We always buy from local farmers at the weekend market.",
+        "我们周末市场总是从本地农民那里买东西。"
       ]
     ]
   },
@@ -24611,21 +25928,24 @@ window.dialogueCards = [
     "words": [
       [
         "cable car",
-        "/phrase/",
+        "/ˈkeɪbəl kɑːr/",
         "缆车",
-        "Practice using \"cable car\" in a real conversation."
+        "We took the cable car up to the mountain peak for a breathtaking view.",
+        "我们乘坐缆车到达山顶，看到了令人屏息的美景。"
       ],
       [
         "round trip",
-        "/phrase/",
+        "/raʊnd trɪp/",
         "往返",
-        "Practice using \"round trip\" in a real conversation."
+        "I booked a round trip ticket to Beijing.",
+        "我订了一张去北京的往返票。"
       ],
       [
         "spectacular",
-        "/phrase/",
+        "/spekˈtæk.jʊ.lər/",
         "壮观的",
-        "Practice using \"spectacular\" in a real conversation."
+        "The view from the top of the mountain was absolutely spectacular at sunrise.",
+        "日出时分山顶的景色简直壮观极了。"
       ]
     ]
   },
@@ -24669,21 +25989,24 @@ window.dialogueCards = [
     "words": [
       [
         "GPS",
-        "/phrase/",
+        "/ˌdʒiː piː ˈes/",
         "全球定位系统",
-        "Practice using \"GPS\" in a real conversation."
+        "I used GPS to find the fastest route to the airport.",
+        "我用全球定位系统找到了去机场最快的路线。"
       ],
       [
         "wrong turn",
-        "/phrase/",
+        "/rɒŋ tɜːn/",
         "拐错弯",
-        "Practice using \"wrong turn\" in a real conversation."
+        "We took a wrong turn somewhere and ended up on a dirt road in the middle of nowhere.",
+        "我们在某个地方拐错了弯，结果开到了前不着村后不着店的土路上。"
       ],
       [
         "direction",
-        "/phrase/",
+        "/dɪˈrekʃən/",
         "方向",
-        "Practice using \"direction\" in a real conversation."
+        "Could you give me directions to the nearest subway station?",
+        "你能告诉我去最近的地铁站怎么走吗？"
       ]
     ]
   },
@@ -24737,21 +26060,24 @@ window.dialogueCards = [
     "words": [
       [
         "charger",
-        "/phrase/",
+        "/ˈtʃɑrdʒər/",
         "充电器",
-        "Practice using \"charger\" in a real conversation."
+        "My phone is dying — do you have a charger I could borrow?",
+        "我手机快没电了——你有充电器可以借我用一下吗？"
       ],
       [
         "outlet",
-        "/phrase/",
+        "/ˈaʊtlɛt/",
         "插座",
-        "Practice using \"outlet\" in a real conversation."
+        "I need to find an outlet to charge my phone — the battery is almost dead.",
+        "我需要找个插座给手机充电——电池快没电了。"
       ],
       [
         "lifesaver",
-        "/phrase/",
+        "/ˈlaɪfseɪvər/",
         "救星",
-        "Practice using \"lifesaver\" in a real conversation."
+        "That GPS app was a lifesaver when I got lost in the unfamiliar city.",
+        "我在陌生城市迷路时，那个导航应用真是帮了大忙。"
       ]
     ]
   },
@@ -24805,21 +26131,24 @@ window.dialogueCards = [
     "words": [
       [
         "resource",
-        "/phrase/",
+        "/ˈrisɔrs/",
         "资源",
-        "Practice using \"resource\" in a real conversation."
+        "The library has excellent online resources for language learners.",
+        "图书馆有很棒的在线资源供语言学习者使用。"
       ],
       [
         "sprint",
-        "/phrase/",
+        "/sprɪnt/",
         "迭代、冲刺",
-        "Practice using \"sprint\" in a real conversation."
+        "Our development team works in two-week sprints to deliver features faster.",
+        "我们的开发团队以两周为一个迭代来更快地交付功能。"
       ],
       [
         "alignment",
-        "/phrase/",
+        "/əˈlaɪnmənt/",
         "对齐、一致",
-        "Practice using \"alignment\" in a real conversation."
+        "The alignment of our goals makes this partnership successful.",
+        "我们目标的一致使得这次合作非常成功。"
       ]
     ]
   },
@@ -24873,21 +26202,24 @@ window.dialogueCards = [
     "words": [
       [
         "nervous",
-        "/phrase/",
+        "/ˈnɜːrvəs/",
         "紧张的",
-        "Practice using \"nervous\" in a real conversation."
+        "I always feel nervous before giving a presentation.",
+        "做演讲前我总是感到紧张。"
       ],
       [
         "perform",
-        "/phrase/",
+        "/pərˈfɔrm/",
         "表演",
-        "Practice using \"perform\" in a real conversation."
+        "The band is going to perform their new single live on the show tonight.",
+        "乐队今晚将在节目中现场表演他们的新单曲。"
       ],
       [
         "cheer",
-        "/phrase/",
+        "/tʃɪr/",
         "加油、欢呼",
-        "Practice using \"cheer\" in a real conversation."
+        "The crowd cheered loudly when the team scored the winning goal.",
+        "球队踢进决胜球时，人群大声欢呼起来。"
       ]
     ]
   },
@@ -24941,21 +26273,24 @@ window.dialogueCards = [
     "words": [
       [
         "dim sum",
-        "/phrase/",
+        "/ˈdɪm ˈsʌm/",
         "点心",
-        "Practice using \"dim sum\" in a real conversation."
+        "We ordered an assortment of dim sum including shrimp dumplings and spring rolls.",
+        "我们点了各种点心，包括虾饺和春卷。"
       ],
       [
         "cart",
-        "/phrase/",
+        "/kɑrt/",
         "推车",
-        "Practice using \"cart\" in a real conversation."
+        "Grab a cart before we start shopping.",
+        "我们开始购物之前先拿辆推车。"
       ],
       [
         "classic",
-        "/phrase/",
+        "/ˈklæsɪk/",
         "经典款",
-        "Practice using \"classic\" in a real conversation."
+        "This is a classic example of poor customer service.",
+        "这是糟糕客户服务的经典例子。"
       ]
     ]
   },
@@ -25009,21 +26344,24 @@ window.dialogueCards = [
     "words": [
       [
         "street food",
-        "/phrase/",
+        "/striːt fuːd/",
         "街头小吃",
-        "Practice using \"street food\" in a real conversation."
+        "The best thing about traveling in Bangkok is trying all the amazing street food.",
+        "在曼谷旅行最棒的就是尝遍各种美味的街头小吃。"
       ],
       [
         "skewer",
-        "/phrase/",
+        "/ˈskjuːər/",
         "串、烤串",
-        "Practice using \"skewer\" in a real conversation."
+        "Thread the meat and vegetables onto the skewer before grilling.",
+        "在烧烤之前把肉和蔬菜串到烤串上。"
       ],
       [
         "spicy",
-        "/phrase/",
+        "/ˈspaɪsi/",
         "辣的",
-        "Practice using \"spicy\" in a real conversation."
+        "This curry is too spicy for me — my mouth is on fire!",
+        "这咖喱对我来说太辣了——我的嘴像着火了一样！"
       ]
     ]
   },
@@ -25077,21 +26415,24 @@ window.dialogueCards = [
     "words": [
       [
         "etiquette",
-        "/phrase/",
+        "/ˈɛtɪkɪt/",
         "礼仪",
-        "Practice using \"etiquette\" in a real conversation."
+        "There's a certain etiquette to follow when dining at a formal restaurant.",
+        "在正式餐厅用餐时要遵循一定的礼仪。"
       ],
       [
         "utensil",
-        "/phrase/",
+        "/juːˈten.səl/",
         "餐具",
-        "Practice using \"utensil\" in a real conversation."
+        "Chopsticks are the main eating utensil in many East Asian countries.",
+        "筷子是很多东亚国家主要的餐具。"
       ],
       [
         "clumsy",
-        "/phrase/",
+        "/ˈklʌmzi/",
         "笨拙的",
-        "Practice using \"clumsy\" in a real conversation."
+        "I'm so clumsy — I spilled coffee on my shirt again.",
+        "我太笨拙了——又把咖啡洒在衬衫上了。"
       ]
     ]
   },
@@ -25145,21 +26486,24 @@ window.dialogueCards = [
     "words": [
       [
         "on sale",
-        "/phrase/",
+        "/ɑːn seɪl/",
         "打折",
-        "Practice using \"on sale\" in a real conversation."
+        "These winter coats are on sale — you can get them for half the original price.",
+        "这些冬衣在打折——你可以半价买到。"
       ],
       [
         "clearance",
-        "/phrase/",
+        "/ˈklɪrəns/",
         "清仓",
-        "Practice using \"clearance\" in a real conversation."
+        "The store is having a clearance sale with up to 70% off.",
+        "商店正在进行清仓大甩卖，折扣高达70%。"
       ],
       [
         "a steal",
-        "/phrase/",
+        "/ə stiːl/",
         "太划算了",
-        "Practice using \"a steal\" in a real conversation."
+        "This designer bag was only $20 — what a steal!",
+        "这个名牌包只要20美元，太划算了！"
       ]
     ]
   },
@@ -25213,21 +26557,24 @@ window.dialogueCards = [
     "words": [
       [
         "acoustic",
-        "/phrase/",
+        "/əˈkuːstɪk/",
         "原声的、民谣的",
-        "Practice using \"acoustic\" in a real conversation."
+        "He performed an acoustic version of the song without any electronic instruments.",
+        "他用原声方式演奏了这首歌，没有使用任何电子乐器。"
       ],
       [
         "chord",
-        "/phrase/",
+        "/kɔrd/",
         "和弦",
-        "Practice using \"chord\" in a real conversation."
+        "She strummed a few chords on the guitar and started singing.",
+        "她在吉他上弹了几个和弦就开始唱了。"
       ],
       [
         "string",
-        "/phrase/",
+        "/strɪŋ/",
         "琴弦",
-        "Practice using \"string\" in a real conversation."
+        "I need a piece of string to tie this package.",
+        "我需要一根绳子来绑这个包裹。"
       ]
     ]
   },
@@ -25281,21 +26628,24 @@ window.dialogueCards = [
     "words": [
       [
         "specialty",
-        "/phrase/",
+        "/ˈspeʃ.əl.ti/",
         "特产",
-        "Practice using \"specialty\" in a real conversation."
+        "Dried mango is a popular specialty that tourists always bring back from the Philippines.",
+        "芒果干是游客们从菲律宾必带回来的热门特产。"
       ],
       [
         "bestseller",
-        "/phrase/",
+        "/ˌbestˈselə/",
         "畅销品",
-        "Practice using \"bestseller\" in a real conversation."
+        "Her latest novel became an instant bestseller.",
+        "她的最新小说一上市就成了畅销品。"
       ],
       [
         "gift wrapping",
-        "/phrase/",
+        "/ɡɪft ˈræpɪŋ/",
         "礼品包装",
-        "Practice using \"gift wrapping\" in a real conversation."
+        "Would you like gift wrapping? It's free with any purchase over fifty dollars.",
+        "需要礼品包装吗？消费满五十美元免费赠送。"
       ]
     ]
   },
@@ -25349,21 +26699,24 @@ window.dialogueCards = [
     "words": [
       [
         "room change",
-        "/phrase/",
+        "/rum tʃeɪndʒ/",
         "调换房间",
-        "Practice using \"room change\" in a real conversation."
+        "We requested a room change because the first room was right next to the elevator.",
+        "我们要求调换房间，因为第一间房就在电梯旁边太吵了。"
       ],
       [
         "valid reason",
-        "/phrase/",
+        "/ˈvæl.ɪd ˈriː.zən/",
         "正当理由",
-        "Practice using \"valid reason\" in a real conversation."
+        "You can't miss the exam without a valid reason like a medical emergency.",
+        "没有正当理由比如急诊就医的话，你不能缺席考试。"
       ],
       [
         "vacancy",
-        "/phrase/",
+        "/ˈveɪ.kən.si/",
         "空位",
-        "Practice using \"vacancy\" in a real conversation."
+        "The motel had a vacancy sign on, so we pulled in for the night.",
+        "汽车旅馆亮着空位的牌子，我们就开进去住了一晚。"
       ]
     ]
   },
@@ -25417,21 +26770,24 @@ window.dialogueCards = [
     "words": [
       [
         "lecture",
-        "/phrase/",
+        "/ˈlektʃər/",
         "讲座",
-        "Practice using \"lecture\" in a real conversation."
+        "She gave a fascinating lecture on the history of artificial intelligence.",
+        "她做了一场关于人工智能历史的精彩讲座。"
       ],
       [
         "model",
-        "/phrase/",
+        "/ˈmɑdəl/",
         "模型",
-        "Practice using \"model\" in a real conversation."
+        "The architect showed us a 3D model of the proposed building design.",
+        "建筑师给我们看了拟建建筑设计的3D模型。"
       ],
       [
         "open-source",
-        "/phrase/",
+        "/ˈoʊpən sɔrs/",
         "开源的",
-        "Practice using \"open-source\" in a real conversation."
+        "This software is open-source, so anyone can contribute to its development.",
+        "这个软件是开源的，所以任何人都可以为它的开发做贡献。"
       ]
     ]
   },
@@ -25485,21 +26841,24 @@ window.dialogueCards = [
     "words": [
       [
         "gate",
-        "/phrase/",
+        "/ɡeɪt/",
         "大门",
-        "Practice using \"gate\" in a real conversation."
+        "Our flight departs from gate 42, so we should head there now.",
+        "我们的航班从42号登机口出发，我们现在就该过去了。"
       ],
       [
         "pull over",
-        "/phrase/",
+        "/pʊl ˈoʊvər/",
         "靠边停车",
-        "Practice using \"pull over\" in a real conversation."
+        "The police officer signaled for the driver to pull over.",
+        "警察示意司机靠边停车。"
       ],
       [
         "destination",
-        "/phrase/",
+        "/ˌdɛstɪˈneɪʃən/",
         "目的地",
-        "Practice using \"destination\" in a real conversation."
+        "Our final destination is a small village in the mountains.",
+        "我们的最终目的地是山里的一个小村庄。"
       ]
     ]
   },
@@ -25553,21 +26912,24 @@ window.dialogueCards = [
     "words": [
       [
         "truth or dare",
-        "/phrase/",
+        "/truːθ ɔːr deər/",
         "真心话大冒险",
-        "Practice using \"truth or dare\" in a real conversation."
+        "At the sleepover, we stayed up until 2 a.m. playing truth or dare and sharing secrets.",
+        "那次过夜派对上，我们玩真心话大冒险分享秘密一直玩到凌晨两点。"
       ],
       [
         "dare",
-        "/phrase/",
+        "/dɛr/",
         "大冒险、挑战",
-        "Practice using \"dare\" in a real conversation."
+        "In truth or dare, he chose dare and had to sing in front of everyone.",
+        "真心话大冒险时他选了大冒险，不得不在大家面前唱歌。"
       ],
       [
         "push-up",
-        "/phrase/",
+        "/ˈpʊʃ ʌp/",
         "俯卧撑",
-        "Practice using \"push-up\" in a real conversation."
+        "I do fifty push-ups every morning.",
+        "我每天早上做五十个俯卧撑。"
       ]
     ]
   },
@@ -25621,21 +26983,24 @@ window.dialogueCards = [
     "words": [
       [
         "in person",
-        "/phrase/",
+        "/ɪn ˈpɜːsn/",
         "亲自、当面",
-        "Practice using \"in person\" in a real conversation."
+        "I prefer to discuss important matters in person rather than over email.",
+        "我更喜欢当面讨论重要的事情，而不是通过邮件。"
       ],
       [
         "ambiance",
-        "/phrase/",
+        "/ˈæmbiəns/",
         "氛围、环境",
-        "Practice using \"ambiance\" in a real conversation."
+        "The soft lighting and music created a romantic ambiance.",
+        "柔和的灯光和音乐营造出浪漫的氛围。"
       ],
       [
         "rewarding",
-        "/phrase/",
+        "/rɪˈwɔrdɪŋ/",
         "有意义的、有回报的",
-        "Practice using \"rewarding\" in a real conversation."
+        "Teaching children to read is one of the most rewarding experiences I've ever had.",
+        "教孩子读书是我经历过最有意义的事情之一。"
       ]
     ]
   },
@@ -25689,21 +27054,24 @@ window.dialogueCards = [
     "words": [
       [
         "sunrise",
-        "/phrase/",
+        "/ˈsʌnˌraɪz/",
         "日出",
-        "Practice using \"sunrise\" in a real conversation."
+        "We woke up early to watch the sunrise over the ocean from the beach.",
+        "我们早起去海滩看海上日出。"
       ],
       [
         "bucket list",
-        "/phrase/",
+        "/ˈbʌkɪt lɪst/",
         "遗愿清单",
-        "Practice using \"bucket list\" in a real conversation."
+        "Visiting the Great Wall is on my bucket list.",
+        "参观长城在我的人生清单上。"
       ],
       [
         "itinerary",
-        "/phrase/",
+        "/aɪˈtɪnərəri/",
         "行程",
-        "Practice using \"itinerary\" in a real conversation."
+        "I've sent you the travel itinerary with all the flight and hotel details.",
+        "我已经把包含所有航班和酒店信息的行程单发给你了。"
       ]
     ]
   },
@@ -25757,21 +27125,24 @@ window.dialogueCards = [
     "words": [
       [
         "twist",
-        "/phrase/",
+        "/twɪst/",
         "扭伤",
-        "Practice using \"twist\" in a real conversation."
+        "The story has an unexpected twist at the end.",
+        "故事在结尾有一个出人意料的转折。"
       ],
       [
         "swelling",
-        "/phrase/",
+        "/ˈswel.ɪŋ/",
         "肿胀",
-        "Practice using \"swelling\" in a real conversation."
+        "Apply ice to reduce the swelling on your ankle after the sprain.",
+        "扭伤后用冰敷可以减轻脚踝的肿胀。"
       ],
       [
         "fracture",
-        "/phrase/",
+        "/ˈfræktʃər/",
         "骨折",
-        "Practice using \"fracture\" in a real conversation."
+        "He fell off his bike and suffered a fracture in his left arm.",
+        "他从自行车上摔下来，左臂骨折了。"
       ]
     ]
   },
@@ -25825,21 +27196,24 @@ window.dialogueCards = [
     "words": [
       [
         "foot massage",
-        "/phrase/",
+        "/fʊt məˈsɑːʒ/",
         "足部按摩",
-        "Practice using \"foot massage\" in a real conversation."
+        "After hiking all day, a foot massage felt amazing.",
+        "走了一整天的路，做个足部按摩感觉太舒服了。"
       ],
       [
         "herbal",
-        "/phrase/",
+        "/ˈɜːrbəl/",
         "草药的",
-        "Practice using \"herbal\" in a real conversation."
+        "I prefer herbal tea in the evening because it has no caffeine.",
+        "我晚上喜欢喝草药茶，因为它不含咖啡因。"
       ],
       [
         "reflexology",
-        "/phrase/",
+        "/ˌriflɛkˈsɑlədʒi/",
         "反射疗法",
-        "Practice using \"reflexology\" in a real conversation."
+        "I booked a reflexology session to help relieve stress and tension.",
+        "我预约了一次反射疗法来缓解压力和紧张。"
       ]
     ]
   },
@@ -25893,21 +27267,24 @@ window.dialogueCards = [
     "words": [
       [
         "supplement",
-        "/phrase/",
+        "/ˈsʌp.lɪ.mənt/",
         "补充剂",
-        "Practice using \"supplement\" in a real conversation."
+        "My doctor suggested I take a vitamin D supplement during the winter months.",
+        "医生建议我冬天的时候补充维生素D。"
       ],
       [
         "vegetarian",
-        "/phrase/",
+        "/ˌvedʒ.ɪˈteə.ri.ən/",
         "素食者",
-        "Practice using \"vegetarian\" in a real conversation."
+        "As a vegetarian, I always check the menu online before choosing a restaurant.",
+        "作为素食者，我选餐厅之前总会先在网上看看菜单。"
       ],
       [
         "absorbable",
-        "/phrase/",
+        "/əbˈzɔːrbəbəl/",
         "可吸收的",
-        "Practice using \"absorbable\" in a real conversation."
+        "The doctor used absorbable stitches that dissolve on their own.",
+        "医生使用了可自行溶解的可吸收缝合线。"
       ]
     ]
   },
@@ -25961,21 +27338,24 @@ window.dialogueCards = [
     "words": [
       [
         "take my seat",
-        "/phrase/",
+        "/teɪk maɪ siːt/",
         "坐我的位子",
-        "Practice using \"take my seat\" in a real conversation."
+        "You look exhausted — take my seat, I'll stand for the rest of the ride.",
+        "你看起来很累，坐我的位子吧，剩下这段路我站着就行。"
       ],
       [
         "kind",
-        "/phrase/",
+        "/kaɪnd/",
         "善良的、好心的",
-        "Practice using \"kind\" in a real conversation."
+        "That was really kind of you to help the elderly lady carry her groceries home.",
+        "你帮那位老太太把菜提回家，真是太善良了。"
       ],
       [
         "take care",
-        "/phrase/",
+        "/teɪk ker/",
         "保重",
-        "Practice using \"take care\" in a real conversation."
+        "Take care of yourself while you're traveling abroad.",
+        "你在国外旅行时要照顾好自己。"
       ]
     ]
   },
@@ -26029,21 +27409,24 @@ window.dialogueCards = [
     "words": [
       [
         "photo booth",
-        "/phrase/",
+        "/ˈfoʊtoʊ buθ/",
         "自助照相亭",
-        "Practice using \"photo booth\" in a real conversation."
+        "We squeezed into the photo booth and took a bunch of silly pictures together.",
+        "我们挤进自助照相亭，一起拍了一堆搞怪照片。"
       ],
       [
         "instruction",
-        "/phrase/",
+        "/ɪnˈstrʌkʃən/",
         "指示、说明",
-        "Practice using \"instruction\" in a real conversation."
+        "Follow the instruction on the medicine bottle carefully.",
+        "请仔细按照药瓶上的说明服用。"
       ],
       [
         "retake",
-        "/phrase/",
+        "/riˈteɪk/",
         "重拍",
-        "Practice using \"retake\" in a real conversation."
+        "The photo turned out blurry, so let's retake it while the lighting is still good.",
+        "那张照片拍糊了，趁光线还好我们重拍一张。"
       ]
     ]
   },
@@ -26097,21 +27480,24 @@ window.dialogueCards = [
     "words": [
       [
         "move",
-        "/phrase/",
+        "/muv/",
         "搬家",
-        "Practice using \"move\" in a real conversation."
+        "We decided to move to a bigger apartment after our second child was born.",
+        "第二个孩子出生后，我们决定搬到一个更大的公寓。"
       ],
       [
         "van",
-        "/phrase/",
+        "/væn/",
         "面包车",
-        "Practice using \"van\" in a real conversation."
+        "We rented a van so all eight of us could travel together with our camping gear.",
+        "我们租了一辆面包车，这样八个人带着露营装备都能一起走。"
       ],
       [
         "settle in",
-        "/phrase/",
+        "/ˈsetəl ɪn/",
         "安顿下来",
-        "Practice using \"settle in\" in a real conversation."
+        "It took me a few weeks to settle in after moving to the city.",
+        "搬到这座城市后，我花了几周时间才安顿下来。"
       ]
     ]
   },
@@ -26165,21 +27551,24 @@ window.dialogueCards = [
     "words": [
       [
         "lounge",
-        "/phrase/",
+        "/laʊndʒ/",
         "休息室",
-        "Practice using \"lounge\" in a real conversation."
+        "We waited in the airport lounge before our flight was called.",
+        "我们在登机前在机场休息室等候。"
       ],
       [
         "layover",
-        "/phrase/",
+        "/ˈleɪoʊvər/",
         "中转停留",
-        "Practice using \"layover\" in a real conversation."
+        "We had a three-hour layover in Dubai before our connecting flight.",
+        "我们在迪拜有三个小时的中转停留时间才转机。"
       ],
       [
         "complimentary",
-        "/phrase/",
+        "/ˌkɒmplɪˈmentəri/",
         "免费赠送的",
-        "Practice using \"complimentary\" in a real conversation."
+        "The hotel offers complimentary breakfast to all guests.",
+        "酒店为所有客人提供免费赠送的早餐。"
       ]
     ]
   },
@@ -26233,21 +27622,24 @@ window.dialogueCards = [
     "words": [
       [
         "umbrella",
-        "/phrase/",
+        "/ʌmˈbrel.ə/",
         "遮阳伞",
-        "Practice using \"umbrella\" in a real conversation."
+        "We rented an umbrella and two lounge chairs for the day at the beach.",
+        "我们在海滩上租了一把遮阳伞和两张躺椅用一天。"
       ],
       [
         "lounger",
-        "/phrase/",
+        "/ˈlaʊndʒər/",
         "躺椅",
-        "Practice using \"lounger\" in a real conversation."
+        "I spent the whole afternoon reading on a lounger by the pool.",
+        "我整个下午都躺在泳池边的躺椅上看书。"
       ],
       [
         "setup",
-        "/phrase/",
+        "/ˈset.ʌp/",
         "摆放、设置",
-        "Practice using \"setup\" in a real conversation."
+        "The event staff arrived early to do the setup for the wedding reception.",
+        "活动工作人员提前到场布置婚礼宴会的摆放。"
       ]
     ]
   },
@@ -26301,21 +27693,24 @@ window.dialogueCards = [
     "words": [
       [
         "postcard",
-        "/phrase/",
+        "/ˈpoʊstˌkɑrd/",
         "明信片",
-        "Practice using \"postcard\" in a real conversation."
+        "I sent a postcard to my parents from every city I visited during my trip.",
+        "旅途中我每到一个城市都会给父母寄一张明信片。"
       ],
       [
         "stamp",
-        "/phrase/",
+        "/stæmp/",
         "邮票",
-        "Practice using \"stamp\" in a real conversation."
+        "I need to buy some stamps before I can mail these postcards to my family.",
+        "我得先买几张邮票才能把这些明信片寄给家人。"
       ],
       [
         "mailbox",
-        "/phrase/",
+        "/ˈmeɪlbɑks/",
         "邮筒",
-        "Practice using \"mailbox\" in a real conversation."
+        "I dropped the letters in the mailbox on the corner before heading to work.",
+        "上班前我把信投进了街角的邮筒。"
       ]
     ]
   },
@@ -26369,21 +27764,24 @@ window.dialogueCards = [
     "words": [
       [
         "double-sided",
-        "/phrase/",
+        "/ˈdʌbəl ˈsaɪdɪd/",
         "双面的",
-        "Practice using \"double-sided\" in a real conversation."
+        "You can print this document double-sided to save paper.",
+        "你可以双面打印这份文件来节省纸张。"
       ],
       [
         "waste",
-        "/phrase/",
+        "/weɪst/",
         "浪费",
-        "Practice using \"waste\" in a real conversation."
+        "Don't waste your time on things that don't matter.",
+        "不要把时间浪费在无关紧要的事情上。"
       ],
       [
         "sustainability",
-        "/phrase/",
+        "/səˌsteɪ.nəˈbɪl.ɪ.ti/",
         "可持续性",
-        "Practice using \"sustainability\" in a real conversation."
+        "More consumers are choosing brands that prioritize sustainability and eco-friendly practices.",
+        "越来越多的消费者选择注重可持续性和环保实践的牌子。"
       ]
     ]
   },
@@ -26437,21 +27835,24 @@ window.dialogueCards = [
     "words": [
       [
         "VPN",
-        "/phrase/",
+        "/ˌviː piː ˈen/",
         "虚拟专用网络",
-        "Practice using \"VPN\" in a real conversation."
+        "I need a VPN to access the company network when I'm traveling.",
+        "出差时我需要用虚拟专用网络连接公司网络。"
       ],
       [
         "authentication",
-        "/phrase/",
+        "/ɔːˌθentɪˈkeɪʃən/",
         "认证",
-        "Practice using \"authentication\" in a real conversation."
+        "Two-factor authentication adds an extra layer of security to your account.",
+        "双因素认证为你的账户增加了一层额外的安全保障。"
       ],
       [
         "token",
-        "/phrase/",
+        "/ˈtəʊ.kən/",
         "令牌",
-        "Practice using \"token\" in a real conversation."
+        "I lost my authentication token, so I can't log into the system until I request a new one.",
+        "我把认证令牌弄丢了，得重新申请一个才能登录系统。"
       ]
     ]
   },
@@ -26505,21 +27906,24 @@ window.dialogueCards = [
     "words": [
       [
         "farewell",
-        "/phrase/",
+        "/ˌferˈwel/",
         "告别",
-        "Practice using \"farewell\" in a real conversation."
+        "They threw a farewell party for their colleague.",
+        "他们为同事举办了一场告别派对。"
       ],
       [
         "dedication",
-        "/phrase/",
+        "/ˌdɛdɪˈkeɪʃən/",
         "奉献",
-        "Practice using \"dedication\" in a real conversation."
+        "His dedication to teaching has inspired generations of students.",
+        "他对教学的奉献激励了一代又一代的学生。"
       ],
       [
         "keep in touch",
-        "/phrase/",
+        "/kiːp ɪn tʌtʃ/",
         "保持联系",
-        "Practice using \"keep in touch\" in a real conversation."
+        "Even though we live in different cities now, let's make sure we keep in touch.",
+        "虽然我们现在住在不同城市，但一定要保持联系。"
       ]
     ]
   },
@@ -26573,21 +27977,24 @@ window.dialogueCards = [
     "words": [
       [
         "broth",
-        "/phrase/",
+        "/brɔθ/",
         "汤底",
-        "Practice using \"broth\" in a real conversation."
+        "The broth of this ramen is simmered for twelve hours.",
+        "这碗拉面的汤底熬了十二个小时。"
       ],
       [
         "topping",
-        "/phrase/",
+        "/ˈtɒpɪŋ/",
         "配料",
-        "Practice using \"topping\" in a real conversation."
+        "What toppings would you like on your pizza?",
+        "你的披萨上想要什么配料？"
       ],
       [
         "firmness",
-        "/phrase/",
+        "/ˈfɜrmnɪs/",
         "硬度",
-        "Practice using \"firmness\" in a real conversation."
+        "You can adjust the firmness of this mattress to suit your preference.",
+        "你可以根据自己的喜好调节这张床垫的硬度。"
       ]
     ]
   },
@@ -26641,21 +28048,24 @@ window.dialogueCards = [
     "words": [
       [
         "spicy",
-        "/phrase/",
+        "/ˈspaɪsi/",
         "辣的",
-        "Practice using \"spicy\" in a real conversation."
+        "This curry is too spicy for me — my mouth is on fire!",
+        "这咖喱对我来说太辣了——我的嘴像着火了一样！"
       ],
       [
         "mild",
-        "/phrase/",
+        "/maɪld/",
         "微辣的",
-        "Practice using \"mild\" in a real conversation."
+        "The weather has been quite mild this winter, with very little snow.",
+        "今年冬天天气相当温和，雪很少。"
       ],
       [
         "authentic",
-        "/phrase/",
+        "/ɔːˈθentɪk/",
         "正宗的",
-        "Practice using \"authentic\" in a real conversation."
+        "This restaurant serves the most authentic Sichuan food in the city.",
+        "这家餐厅供应全城最正宗的四川菜。"
       ]
     ]
   },
@@ -26709,21 +28119,24 @@ window.dialogueCards = [
     "words": [
       [
         "delay",
-        "/phrase/",
+        "/dɪˈleɪ/",
         "延误、耽搁",
-        "Practice using \"delay\" in a real conversation."
+        "The flight was delayed by two hours due to bad weather.",
+        "航班因恶劣天气延误了两小时。"
       ],
       [
         "prioritize",
-        "/phrase/",
+        "/praɪˈɔrəˌtaɪz/",
         "优先处理",
-        "Practice using \"prioritize\" in a real conversation."
+        "With so many tasks on my list, I need to prioritize the ones with the closest deadlines.",
+        "待办事项这么多，我需要优先处理截止日期最近的那些。"
       ],
       [
         "complimentary",
-        "/phrase/",
+        "/ˌkɒmplɪˈmentəri/",
         "免费赠送的",
-        "Practice using \"complimentary\" in a real conversation."
+        "The hotel offers complimentary breakfast to all guests.",
+        "酒店为所有客人提供免费赠送的早餐。"
       ]
     ]
   },
@@ -26777,21 +28190,24 @@ window.dialogueCards = [
     "words": [
       [
         "lipstick",
-        "/phrase/",
+        "/ˈlɪpstɪk/",
         "口红",
-        "Practice using \"lipstick\" in a real conversation."
+        "She put on a bit of lipstick before heading out to the dinner party.",
+        "她出门赴宴前涂了一点口红。"
       ],
       [
         "shade",
-        "/phrase/",
+        "/ʃeɪd/",
         "色号",
-        "Practice using \"shade\" in a real conversation."
+        "Let's sit in the shade — it's too hot in the sun.",
+        "我们坐阴凉处吧——太阳下太热了。"
       ],
       [
         "transfer-proof",
-        "/phrase/",
+        "/ˈtræns.fər pruːf/",
         "不脱色的",
-        "Practice using \"transfer-proof\" in a real conversation."
+        "This lipstick is transfer-proof, so it won't leave marks on your coffee cup or mask.",
+        "这支口红不脱色，喝咖啡或者戴口罩都不会留印。"
       ]
     ]
   },
@@ -26845,21 +28261,24 @@ window.dialogueCards = [
     "words": [
       [
         "flooring",
-        "/phrase/",
+        "/ˈflɔːrɪŋ/",
         "地板",
-        "Practice using \"flooring\" in a real conversation."
+        "We're planning to replace the old carpet with hardwood flooring.",
+        "我们打算把旧地毯换成实木地板。"
       ],
       [
         "scratch-resistant",
-        "/phrase/",
+        "/ˈskrætʃ rɪˈzɪs.tənt/",
         "耐刮的",
-        "Practice using \"scratch-resistant\" in a real conversation."
+        "These scratch-resistant lenses are great if you're rough with your glasses.",
+        "如果你戴眼镜比较费的话，这种耐刮的镜片就很适合你。"
       ],
       [
         "installation",
-        "/phrase/",
+        "/ˌɪnstəˈleɪʃən/",
         "安装",
-        "Practice using \"installation\" in a real conversation."
+        "The installation of the new software only took about ten minutes.",
+        "新软件的安装只用了大约十分钟。"
       ]
     ]
   },
@@ -26913,21 +28332,24 @@ window.dialogueCards = [
     "words": [
       [
         "used book",
-        "/phrase/",
+        "/juːzd bʊk/",
         "二手书",
-        "Practice using \"used book\" in a real conversation."
+        "I found this amazing used book for just two dollars at a street market.",
+        "我在街边市场淘到了这本很棒的二手书，才两块钱。"
       ],
       [
         "paperback",
-        "/phrase/",
+        "/ˈpeɪpərˌbæk/",
         "平装书",
-        "Practice using \"paperback\" in a real conversation."
+        "The novel was finally released in paperback a year after the hardcover edition.",
+        "这部小说在精装本出版一年后终于出了平装本。"
       ],
       [
         "store credit",
-        "/phrase/",
+        "/stɔːr ˈkred.ɪt/",
         "店内代金券",
-        "Practice using \"store credit\" in a real conversation."
+        "They wouldn't give me a refund, but I got store credit that I can use later.",
+        "他们不给我退款，但给了我店内代金券以后可以用。"
       ]
     ]
   },
@@ -26981,21 +28403,24 @@ window.dialogueCards = [
     "words": [
       [
         "lap",
-        "/phrase/",
+        "/læp/",
         "圈",
-        "Practice using \"lap\" in a real conversation."
+        "After swimming ten laps, I was completely exhausted.",
+        "游了十圈之后，我筋疲力尽。"
       ],
       [
         "pace",
-        "/phrase/",
+        "/peɪs/",
         "配速",
-        "Practice using \"pace\" in a real conversation."
+        "When running a marathon, it's important to pace yourself so you don't burn out early.",
+        "跑马拉松时，调整好自己的节奏很重要，这样才不会过早筋疲力尽。"
       ],
       [
         "motivate",
-        "/phrase/",
+        "/ˈmoʊtɪˌveɪt/",
         "激励",
-        "Practice using \"motivate\" in a real conversation."
+        "A good teacher can motivate students to learn.",
+        "好老师能激励学生学习。"
       ]
     ]
   },
@@ -27049,21 +28474,24 @@ window.dialogueCards = [
     "words": [
       [
         "scholarship",
-        "/phrase/",
+        "/ˈskɒl.ə.ʃɪp/",
         "奖学金",
-        "Practice using \"scholarship\" in a real conversation."
+        "She received a full scholarship to study engineering at the university.",
+        "她获得了全额奖学金去大学读工程。"
       ],
       [
         "GPA",
-        "/phrase/",
+        "/ˌdʒiː piː ˈeɪ/",
         "平均绩点",
-        "Practice using \"GPA\" in a real conversation."
+        "His GPA is high enough to apply for that scholarship.",
+        "他的平均绩点足够高，可以申请那个奖学金。"
       ],
       [
         "aspiration",
-        "/phrase/",
+        "/ˌæspəˈreɪʃən/",
         "抱负",
-        "Practice using \"aspiration\" in a real conversation."
+        "Her lifelong aspiration was to become a doctor.",
+        "她毕生的抱负是成为一名医生。"
       ]
     ]
   },
@@ -27117,21 +28545,24 @@ window.dialogueCards = [
     "words": [
       [
         "charity sale",
-        "/phrase/",
+        "/ˈtʃɛrɪti seɪl/",
         "慈善义卖",
-        "Practice using \"charity sale\" in a real conversation."
+        "The school is holding a charity sale to raise money for the children's hospital.",
+        "学校正在举办慈善义卖，为儿童医院筹款。"
       ],
       [
         "handmade",
-        "/phrase/",
+        "/ˌhændˈmeɪd/",
         "手工制作的",
-        "Practice using \"handmade\" in a real conversation."
+        "She sells handmade jewelry at the local craft market every weekend.",
+        "她每个周末都在当地手工艺市场卖手工首饰。"
       ],
       [
         "proceeds",
-        "/phrase/",
+        "/ˈproʊsidz/",
         "收入、收益",
-        "Practice using \"proceeds\" in a real conversation."
+        "All proceeds from the charity concert will go to children's education programs.",
+        "慈善音乐会的全部收入将用于儿童教育项目。"
       ]
     ]
   },
@@ -27185,21 +28616,24 @@ window.dialogueCards = [
     "words": [
       [
         "running into",
-        "/phrase/",
+        "/ˈrʌnɪŋ ˈɪntu/",
         "偶遇",
-        "Practice using \"running into\" in a real conversation."
+        "What a surprise running into you at the airport after all these years!",
+        "这么多年后在机场偶遇你，真是太巧了！"
       ],
       [
         "showing",
-        "/phrase/",
+        "/ˈʃəʊ.ɪŋ/",
         "场次",
-        "Practice using \"showing\" in a real conversation."
+        "The seven o'clock showing is already sold out, but the nine thirty one still has seats.",
+        "七点的场次已经卖完了，但九点半那场还有票。"
       ],
       [
         "lobby",
-        "/phrase/",
+        "/ˈlɑbi/",
         "大堂",
-        "Practice using \"lobby\" in a real conversation."
+        "Let's meet in the hotel lobby at seven for dinner.",
+        "我们七点在酒店大堂见面去吃晚饭。"
       ]
     ]
   },
@@ -27253,21 +28687,24 @@ window.dialogueCards = [
     "words": [
       [
         "ingredient",
-        "/phrase/",
+        "/ɪnˈɡriːdiənt/",
         "食材",
-        "Practice using \"ingredient\" in a real conversation."
+        "The secret ingredient in her sauce is a pinch of cinnamon.",
+        "她酱汁的秘密配料是一小撮肉桂。"
       ],
       [
         "dipping sauce",
-        "/phrase/",
+        "/ˈdɪpɪŋ sɔs/",
         "蘸料",
-        "Practice using \"dipping sauce\" in a real conversation."
+        "The dumplings come with a spicy dipping sauce on the side.",
+        "饺子配了一碟辣味蘸料。"
       ],
       [
         "combo",
-        "/phrase/",
+        "/ˈkɑmboʊ/",
         "搭配、组合",
-        "Practice using \"combo\" in a real conversation."
+        "I'll have the burger combo with fries and a drink, please.",
+        "我要汉堡组合，配薯条和饮料，谢谢。"
       ]
     ]
   },
@@ -27294,12 +28731,12 @@ window.dialogueCards = [
       ],
       [
         "B",
-        "\"Starlight\" always makes me emotional. What about you?",
+        "Starlight always makes me emotional. What about you?",
         "《星光》总能让我感动。你呢？"
       ],
       [
         "A",
-        "\"Runaway\" - it got me through tough times in high school.",
+        "Runaway - it got me through tough times in high school.",
         "《逃离》——它陪我度过了高中的艰难时期。"
       ],
       [
@@ -27321,21 +28758,24 @@ window.dialogueCards = [
     "words": [
       [
         "live",
-        "/phrase/",
+        "/laɪv/",
         "现场的",
-        "Practice using \"live\" in a real conversation."
+        "Seeing your favorite band play live is a completely different experience from listening to their recordings.",
+        "看你最喜欢的乐队现场表演和听他们的录音是完全不同的体验。"
       ],
       [
         "fan",
-        "/phrase/",
+        "/fæn/",
         "粉丝",
-        "Practice using \"fan\" in a real conversation."
+        "I'm a big fan of this singer.",
+        "我是这位歌手的忠实粉丝。"
       ],
       [
         "sing along",
-        "/phrase/",
+        "/ˌsɪŋ əˈlɒŋ/",
         "跟着唱",
-        "Practice using \"sing along\" in a real conversation."
+        "The crowd started to sing along when the band played their most popular song.",
+        "乐队弹起他们最火的歌时，全场观众都跟着唱了起来。"
       ]
     ]
   },
@@ -27389,21 +28829,24 @@ window.dialogueCards = [
     "words": [
       [
         "cholesterol",
-        "/phrase/",
+        "/kəˈlɛstəˌrɔl/",
         "胆固醇",
-        "Practice using \"cholesterol\" in a real conversation."
+        "Eating more fish and vegetables can help lower your cholesterol.",
+        "多吃鱼和蔬菜有助于降低胆固醇。"
       ],
       [
         "LDL",
-        "/phrase/",
+        "/ˌel diː ˈel/",
         "低密度脂蛋白",
-        "Practice using \"LDL\" in a real conversation."
+        "The doctor said my LDL level is a bit high and I should watch my diet.",
+        "医生说我低密度脂蛋白有点高，要注意饮食了。"
       ],
       [
         "deficient",
-        "/phrase/",
+        "/dɪˈfɪʃənt/",
         "缺乏的",
-        "Practice using \"deficient\" in a real conversation."
+        "Her diet is deficient in iron, so the doctor recommended supplements.",
+        "她的饮食缺乏铁质，所以医生建议补充铁剂。"
       ]
     ]
   },
@@ -27457,21 +28900,24 @@ window.dialogueCards = [
     "words": [
       [
         "acupuncture",
-        "/phrase/",
+        "/ˈækjuˌpʌŋktʃər/",
         "针灸",
-        "Practice using \"acupuncture\" in a real conversation."
+        "Many people find acupuncture effective for managing chronic pain.",
+        "许多人发现针灸对管理慢性疼痛很有效。"
       ],
       [
         "acupoint",
-        "/phrase/",
+        "/ˈækjuˌpɔɪnt/",
         "穴位",
-        "Practice using \"acupoint\" in a real conversation."
+        "The therapist pressed the acupoint on my wrist to relieve the headache.",
+        "治疗师按压我手腕上的穴位来缓解头痛。"
       ],
       [
         "qi",
-        "/phrase/",
+        "/tʃi/",
         "气、气血",
-        "Practice using \"qi\" in a real conversation."
+        "In traditional Chinese medicine, a balanced flow of qi is essential for good health.",
+        "在中医里，气血的平衡流通对健康至关重要。"
       ]
     ]
   },
@@ -27525,21 +28971,24 @@ window.dialogueCards = [
     "words": [
       [
         "wisdom tooth",
-        "/phrase/",
+        "/ˈwɪz.dəm tuːθ/",
         "智齿",
-        "Practice using \"wisdom tooth\" in a real conversation."
+        "My dentist said my wisdom teeth are coming in at an angle and need to be removed.",
+        "牙医说我的智齿长得歪了，需要拔掉。"
       ],
       [
         "swelling",
-        "/phrase/",
+        "/ˈswel.ɪŋ/",
         "肿胀",
-        "Practice using \"swelling\" in a real conversation."
+        "Apply ice to reduce the swelling on your ankle after the sprain.",
+        "扭伤后用冰敷可以减轻脚踝的肿胀。"
       ],
       [
         "stitch",
-        "/phrase/",
+        "/stɪtʃ/",
         "缝线",
-        "Practice using \"stitch\" in a real conversation."
+        "The cut on my forehead needed six stitches after I bumped into the door frame.",
+        "我撞到门框后，额头上的伤口缝了六针。"
       ]
     ]
   },
@@ -27593,21 +29042,24 @@ window.dialogueCards = [
     "words": [
       [
         "grooming",
-        "/phrase/",
+        "/ˈɡruːmɪŋ/",
         "美容",
-        "Practice using \"grooming\" in a real conversation."
+        "She spends a lot of time on grooming before important meetings.",
+        "重要会议前她会花很多时间在美容打扮上。"
       ],
       [
         "nail trimming",
-        "/phrase/",
+        "/neɪl ˈtrɪmɪŋ/",
         "剪指甲",
-        "Practice using \"nail trimming\" in a real conversation."
+        "Regular nail trimming is important for maintaining good hygiene.",
+        "定期剪指甲对保持良好的卫生习惯很重要。"
       ],
       [
         "anxious",
-        "/phrase/",
+        "/ˈæŋkʃəs/",
         "焦虑的、紧张的",
-        "Practice using \"anxious\" in a real conversation."
+        "Waiting for the test results made him increasingly anxious.",
+        "等待测试结果让他越来越紧张。"
       ]
     ]
   },
@@ -27661,21 +29113,24 @@ window.dialogueCards = [
     "words": [
       [
         "lost",
-        "/phrase/",
+        "/lɒst/",
         "丢失的",
-        "Practice using \"lost\" in a real conversation."
+        "We got lost in the narrow streets of the old town.",
+        "我们在老城区狭窄的街道中迷路了。"
       ],
       [
         "bulletin board",
-        "/phrase/",
+        "/ˈbʊlɪtɪn bɔrd/",
         "公告栏",
-        "Practice using \"bulletin board\" in a real conversation."
+        "The schedule is posted on the bulletin board in the hallway.",
+        "日程表贴在走廊的公告栏上。"
       ],
       [
         "distinguish",
-        "/phrase/",
+        "/dɪˈstɪŋɡwɪʃ/",
         "区分、辨认",
-        "Practice using \"distinguish\" in a real conversation."
+        "Can you distinguish real leather from fake?",
+        "你能区分真皮和人造皮吗？"
       ]
     ]
   },
@@ -27729,21 +29184,24 @@ window.dialogueCards = [
     "words": [
       [
         "settle down",
-        "/phrase/",
+        "/ˈset.əl daʊn/",
         "安定下来",
-        "Practice using \"settle down\" in a real conversation."
+        "After traveling the world for years, he finally decided to settle down in a small coastal town.",
+        "环游世界多年后，他终于决定在一个海边小镇安定下来。"
       ],
       [
         "rush",
-        "/phrase/",
+        "/rʌʃ/",
         "匆忙、着急",
-        "Practice using \"rush\" in a real conversation."
+        "There's no need to rush; we have plenty of time.",
+        "不用着急，我们有很多时间。"
       ],
       [
         "naturally",
-        "/phrase/",
+        "/ˈnætʃərəli/",
         "自然地、顺其自然地",
-        "Practice using \"naturally\" in a real conversation."
+        "Don't force the conversation — just let it flow naturally.",
+        "别刻意找话题——顺其自然就好。"
       ]
     ]
   },
@@ -27797,21 +29255,24 @@ window.dialogueCards = [
     "words": [
       [
         "operating hours",
-        "/phrase/",
+        "/ˈɑpəˌreɪtɪŋ ˈaʊərz/",
         "营业时间",
-        "Practice using \"operating hours\" in a real conversation."
+        "The museum's operating hours are from ten in the morning to six in the evening.",
+        "博物馆的营业时间是上午十点到下午六点。"
       ],
       [
         "reserve",
-        "/phrase/",
+        "/rɪˈzɜrv/",
         "预约",
-        "Practice using \"reserve\" in a real conversation."
+        "We should reserve our hotel rooms early since it's peak season.",
+        "旺季到了，我们最好早点预订酒店房间。"
       ],
       [
         "sauna",
-        "/phrase/",
+        "/ˈsɔːnə/",
         "桑拿",
-        "Practice using \"sauna\" in a real conversation."
+        "After the workout, he relaxed in the sauna for twenty minutes.",
+        "锻炼后，他在桑拿房里放松了二十分钟。"
       ]
     ]
   },
@@ -27865,21 +29326,24 @@ window.dialogueCards = [
     "words": [
       [
         "guide",
-        "/phrase/",
+        "/ɡaɪd/",
         "导游",
-        "Practice using \"guide\" in a real conversation."
+        "This book is a great guide for beginners learning to cook.",
+        "这本书是初学者学烹饪的绝佳指南。"
       ],
       [
         "restroom",
-        "/phrase/",
+        "/ˈrɛstrum/",
         "洗手间",
-        "Practice using \"restroom\" in a real conversation."
+        "Excuse me, where is the restroom in this restaurant?",
+        "请问，这家餐厅的洗手间在哪里？"
       ],
       [
         "souvenir",
-        "/phrase/",
+        "/ˌsuːvəˈnɪr/",
         "纪念品",
-        "Practice using \"souvenir\" in a real conversation."
+        "I bought some souvenirs for my family during the trip.",
+        "旅行期间我给家人买了一些纪念品。"
       ]
     ]
   },
@@ -27933,21 +29397,24 @@ window.dialogueCards = [
     "words": [
       [
         "exchange rate",
-        "/phrase/",
+        "/ɪksˈtʃeɪndʒ reɪt/",
         "汇率",
-        "Practice using \"exchange rate\" in a real conversation."
+        "The exchange rate is better today than it was last week.",
+        "今天的汇率比上周好。"
       ],
       [
         "service fee",
-        "/phrase/",
+        "/ˈsɜː.vɪs fiː/",
         "服务费",
-        "Practice using \"service fee\" in a real conversation."
+        "There's a ten percent service fee added to the bill for groups of six or more.",
+        "六人以上用餐的话账单会加收百分之十的服务费。"
       ],
       [
         "denomination",
-        "/phrase/",
+        "/dɪˌnɑmɪˈneɪʃən/",
         "面额",
-        "Practice using \"denomination\" in a real conversation."
+        "Do you have smaller bills? I need twenties — that's the only denomination the machine accepts.",
+        "你有小面额的钞票吗？我需要二十块的——机器只收这种面额。"
       ]
     ]
   },
@@ -28001,21 +29468,24 @@ window.dialogueCards = [
     "words": [
       [
         "hometown",
-        "/phrase/",
+        "/ˈhoʊmtaʊn/",
         "家乡",
-        "Practice using \"hometown\" in a real conversation."
+        "Every year during the Spring Festival, I go back to my hometown to visit my parents.",
+        "每年春节期间，我都会回家乡看望父母。"
       ],
       [
         "specialty",
-        "/phrase/",
+        "/ˈspeʃ.əl.ti/",
         "特产",
-        "Practice using \"specialty\" in a real conversation."
+        "Dried mango is a popular specialty that tourists always bring back from the Philippines.",
+        "芒果干是游客们从菲律宾必带回来的热门特产。"
       ],
       [
         "recipe",
-        "/phrase/",
+        "/ˈresɪpi/",
         "食谱",
-        "Practice using \"recipe\" in a real conversation."
+        "I found an amazing chocolate cake recipe on a cooking blog.",
+        "我在一个烹饪博客上找到了一个很棒的巧克力蛋糕食谱。"
       ]
     ]
   },
@@ -28069,21 +29539,24 @@ window.dialogueCards = [
     "words": [
       [
         "quotation",
-        "/phrase/",
+        "/kwoʊˈteɪʃən/",
         "报价",
-        "Practice using \"quotation\" in a real conversation."
+        "The contractor sent us a quotation for the kitchen renovation.",
+        "承包商给我们发来了厨房装修的报价。"
       ],
       [
         "negotiate",
-        "/phrase/",
+        "/nɪˈɡoʊʃieɪt/",
         "谈判、商议",
-        "Practice using \"negotiate\" in a real conversation."
+        "We managed to negotiate a lower price for the used car.",
+        "我们成功商议了一个更低的二手车价格。"
       ],
       [
         "surcharge",
-        "/phrase/",
+        "/ˈsɜː.tʃɑːdʒ/",
         "附加费",
-        "Practice using \"surcharge\" in a real conversation."
+        "There's a small surcharge for deliveries on weekends and public holidays.",
+        "周末和公共假期送货会收取少量附加费。"
       ]
     ]
   },
@@ -28137,21 +29610,24 @@ window.dialogueCards = [
     "words": [
       [
         "team building",
-        "/phrase/",
+        "/tiːm ˈbɪl.dɪŋ/",
         "团建",
-        "Practice using \"team building\" in a real conversation."
+        "The company organized a team building event at an escape room last Friday.",
+        "公司上周五组织了一次密室逃脱的团建活动。"
       ],
       [
         "vote",
-        "/phrase/",
+        "/vəʊt/",
         "投票",
-        "Practice using \"vote\" in a real conversation."
+        "Don't forget to vote in the local elections next Tuesday — every ballot matters.",
+        "别忘了下周二地方选举去投票，每一票都很重要。"
       ],
       [
         "majority",
-        "/phrase/",
+        "/məˈdʒɔrəti/",
         "多数",
-        "Practice using \"majority\" in a real conversation."
+        "The majority of students in the class prefer group projects over individual assignments.",
+        "班上大多数学生更喜欢小组项目而非个人作业。"
       ]
     ]
   },
@@ -28205,21 +29681,24 @@ window.dialogueCards = [
     "words": [
       [
         "right hand",
-        "/phrase/",
+        "/raɪt hænd/",
         "右手",
-        "Practice using \"right hand\" in a real conversation."
+        "I write with my right hand but I use my left hand for most other things.",
+        "我用右手写字，但做其他大部分事情都用左手。"
       ],
       [
         "naan",
-        "/phrase/",
+        "/nɑn/",
         "馕饼",
-        "Practice using \"naan\" in a real conversation."
+        "I ordered garlic naan to go with my chicken curry.",
+        "我点了蒜香馕饼来搭配鸡肉咖喱。"
       ],
       [
         "curry",
-        "/phrase/",
+        "/ˈkɜri/",
         "咖喱",
-        "Practice using \"curry\" in a real conversation."
+        "I made a Japanese curry with potatoes and carrots for dinner.",
+        "我晚餐做了土豆胡萝卜日式咖喱。"
       ]
     ]
   },
@@ -28273,21 +29752,24 @@ window.dialogueCards = [
     "words": [
       [
         "sweetness",
-        "/phrase/",
+        "/ˈswiːt.nəs/",
         "甜度",
-        "Practice using \"sweetness\" in a real conversation."
+        "You can adjust the sweetness of your bubble tea by choosing from different sugar levels.",
+        "你可以选择不同糖度来调整奶茶的甜度。"
       ],
       [
         "topping",
-        "/phrase/",
+        "/ˈtɒpɪŋ/",
         "加料",
-        "Practice using \"topping\" in a real conversation."
+        "What toppings would you like on your pizza?",
+        "你的披萨上想要什么配料？"
       ],
       [
         "tapioca pearl",
-        "/phrase/",
+        "/ˌtæp.iˈəʊ.kə pɜːl/",
         "珍珠",
-        "Practice using \"tapioca pearl\" in a real conversation."
+        "I always get my bubble tea with extra tapioca pearls because I love the chewy texture.",
+        "我喝奶茶总是加珍珠，因为我喜欢那个Q弹的口感。"
       ]
     ]
   },
@@ -28341,21 +29823,24 @@ window.dialogueCards = [
     "words": [
       [
         "prix fixe",
-        "/phrase/",
+        "/pri ˈfiks/",
         "固定价格套餐",
-        "Practice using \"prix fixe\" in a real conversation."
+        "The restaurant offers a three-course prix fixe menu that's great value for the quality.",
+        "这家餐厅提供三道菜的固定价格套餐，以品质来说非常划算。"
       ],
       [
         "appetizer",
-        "/phrase/",
+        "/ˈæpɪtaɪzər/",
         "前菜",
-        "Practice using \"appetizer\" in a real conversation."
+        "We ordered spring rolls as an appetizer before the main course.",
+        "我们点了春卷作为主菜前的开胃菜。"
       ],
       [
         "main course",
-        "/phrase/",
+        "/meɪn kɔːrs/",
         "主菜",
-        "Practice using \"main course\" in a real conversation."
+        "For the main course, I ordered the grilled salmon with vegetables.",
+        "主菜我点了烤三文鱼配蔬菜。"
       ]
     ]
   },
@@ -28409,21 +29894,24 @@ window.dialogueCards = [
     "words": [
       [
         "size",
-        "/phrase/",
+        "/saɪz/",
         "尺码",
-        "Practice using \"size\" in a real conversation."
+        "What size do you wear? I'll get you the right one.",
+        "你穿什么尺寸？我给你拿合适的。"
       ],
       [
         "cotton",
-        "/phrase/",
+        "/ˈkɑtən/",
         "棉",
-        "Practice using \"cotton\" in a real conversation."
+        "This T-shirt is 100% cotton and feels really soft.",
+        "这件T恤是纯棉的，摸起来很柔软。"
       ],
       [
         "sensitive skin",
-        "/phrase/",
+        "/ˈsen.sɪ.tɪv skɪn/",
         "敏感肌肤",
-        "Practice using \"sensitive skin\" in a real conversation."
+        "This sunscreen is specifically formulated for people with sensitive skin.",
+        "这款防晒霜是专门为敏感肌肤人群配制的。"
       ]
     ]
   },
@@ -28446,7 +29934,7 @@ window.dialogueCards = [
       [
         "A",
         "What does \"grade A\" mean exactly?",
-        "\"A级\"具体是什么意思？"
+        "A级具体是什么意思？"
       ],
       [
         "B",
@@ -28477,21 +29965,24 @@ window.dialogueCards = [
     "words": [
       [
         "refurbished",
-        "/phrase/",
+        "/riˈfɜrbɪʃt/",
         "翻新的",
-        "Practice using \"refurbished\" in a real conversation."
+        "I saved a lot of money by buying a refurbished laptop instead of a new one.",
+        "我买了一台翻新的笔记本电脑而不是全新的，省了不少钱。"
       ],
       [
         "battery health",
-        "/phrase/",
+        "/ˈbætəri helθ/",
         "电池健康度",
-        "Practice using \"battery health\" in a real conversation."
+        "You can check your battery health in the phone settings.",
+        "你可以在手机设置中查看电池健康度。"
       ],
       [
         "warranty",
-        "/phrase/",
+        "/ˈwɒr.ən.ti/",
         "保修",
-        "Practice using \"warranty\" in a real conversation."
+        "My laptop broke just two weeks before the warranty expired, so I got it repaired for free.",
+        "我的笔记本电脑在保修到期前两周坏了，所以免费修好了。"
       ]
     ]
   },
@@ -28545,21 +30036,24 @@ window.dialogueCards = [
     "words": [
       [
         "pottery",
-        "/phrase/",
+        "/ˈpɑtəri/",
         "陶器",
-        "Practice using \"pottery\" in a real conversation."
+        "I signed up for a pottery class to learn how to make bowls on the wheel.",
+        "我报名参加了一个陶艺班，学习如何在拉坯机上制作碗。"
       ],
       [
         "glaze",
-        "/phrase/",
+        "/ɡleɪz/",
         "釉",
-        "Practice using \"glaze\" in a real conversation."
+        "The donut has a sweet chocolate glaze on top.",
+        "这个甜甜圈上面有一层甜甜的巧克力釉。"
       ],
       [
         "firing",
-        "/phrase/",
+        "/ˈfaɪrɪŋ/",
         "烧制",
-        "Practice using \"firing\" in a real conversation."
+        "The pottery goes through a second firing to set the glaze.",
+        "陶器经过第二次烧制来固定釉面。"
       ]
     ]
   },
@@ -28613,21 +30107,24 @@ window.dialogueCards = [
     "words": [
       [
         "save a seat",
-        "/phrase/",
+        "/seɪv ə siːt/",
         "占座",
-        "Practice using \"save a seat\" in a real conversation."
+        "Could you save a seat for me? I'll be there in five minutes.",
+        "你能帮我占个座吗？我五分钟后到。"
       ],
       [
         "slide",
-        "/phrase/",
+        "/slaɪd/",
         "幻灯片",
-        "Practice using \"slide\" in a real conversation."
+        "Please go to the next slide in the presentation.",
+        "请切换到演示文稿的下一张幻灯片。"
       ],
       [
         "lecture",
-        "/phrase/",
+        "/ˈlektʃər/",
         "讲座、讲课",
-        "Practice using \"lecture\" in a real conversation."
+        "She gave a fascinating lecture on the history of artificial intelligence.",
+        "她做了一场关于人工智能历史的精彩讲座。"
       ]
     ]
   },
@@ -28681,21 +30178,24 @@ window.dialogueCards = [
     "words": [
       [
         "debate",
-        "/phrase/",
+        "/dɪˈbeɪt/",
         "辩论",
-        "Practice using \"debate\" in a real conversation."
+        "There is an ongoing debate about climate change policies.",
+        "关于气候变化政策正在进行一场持续的辩论。"
       ],
       [
         "public speaking",
-        "/phrase/",
+        "/ˈpʌblɪk ˈspikɪŋ/",
         "公开演讲",
-        "Practice using \"public speaking\" in a real conversation."
+        "Public speaking used to terrify me, but after taking a course I feel much more confident.",
+        "公开演讲过去让我很害怕，但上完一门课后我自信多了。"
       ],
       [
         "argument",
-        "/phrase/",
+        "/ˈɑːrɡjumənt/",
         "论点",
-        "Practice using \"argument\" in a real conversation."
+        "She presented a strong argument in favor of renewable energy.",
+        "她提出了一个支持可再生能源的有力论点。"
       ]
     ]
   },
@@ -28749,21 +30249,24 @@ window.dialogueCards = [
     "words": [
       [
         "study group",
-        "/phrase/",
+        "/ˈstʌd.i ɡruːp/",
         "学习小组",
-        "Practice using \"study group\" in a real conversation."
+        "We formed a study group to prepare for the final exam together every week.",
+        "我们组了一个学习小组，每周一起准备期末考试。"
       ],
       [
         "struggle with",
-        "/phrase/",
+        "/ˈstrʌɡəl wɪð/",
         "在……方面吃力",
-        "Practice using \"struggle with\" in a real conversation."
+        "Many students struggle with advanced mathematics.",
+        "许多学生在高等数学方面感到吃力。"
       ],
       [
         "efficient",
-        "/phrase/",
+        "/ɪˈfɪʃənt/",
         "高效的",
-        "Practice using \"efficient\" in a real conversation."
+        "She's very efficient — she finished the report in half the expected time.",
+        "她非常高效——用预期一半的时间就完成了报告。"
       ]
     ]
   },
@@ -28817,21 +30320,24 @@ window.dialogueCards = [
     "words": [
       [
         "pasta salad",
-        "/phrase/",
+        "/ˈpɑstə ˈsæləd/",
         "意面沙拉",
-        "Practice using \"pasta salad\" in a real conversation."
+        "I brought a cold pasta salad with cherry tomatoes and basil to the potluck.",
+        "我带了配有樱桃番茄和罗勒的冷意面沙拉来参加聚餐。"
       ],
       [
         "homemade",
-        "/phrase/",
+        "/ˌhəʊmˈmeɪd/",
         "自制的",
-        "Practice using \"homemade\" in a real conversation."
+        "My grandma's homemade apple pie is the best I've ever had.",
+        "我奶奶自制的苹果派是我吃过最好吃的。"
       ],
       [
         "picnic",
-        "/phrase/",
+        "/ˈpɪknɪk/",
         "野餐",
-        "Practice using \"picnic\" in a real conversation."
+        "We packed some sandwiches and fruit and headed to the park for a picnic.",
+        "我们打包了一些三明治和水果，去公园野餐。"
       ]
     ]
   },
@@ -28885,21 +30391,24 @@ window.dialogueCards = [
     "words": [
       [
         "DJ",
-        "/phrase/",
+        "/ˈdi ˌdʒeɪ/",
         "唱片骑师、打碟师",
-        "Practice using \"DJ\" in a real conversation."
+        "The DJ played some great music at the party last night.",
+        "昨晚的派对上，那位DJ放的音乐特别棒。"
       ],
       [
         "beat",
-        "/phrase/",
+        "/biːt/",
         "节拍",
-        "Practice using \"beat\" in a real conversation."
+        "The drummer kept a steady beat throughout the entire song.",
+        "鼓手在整首歌中保持了稳定的节拍。"
       ],
       [
         "festival",
-        "/phrase/",
+        "/ˈfɛstɪvəl/",
         "音乐节、节日",
-        "Practice using \"festival\" in a real conversation."
+        "I bought tickets for the summer music festival next month.",
+        "我买了下个月夏季音乐节的票。"
       ]
     ]
   },
@@ -28953,21 +30462,24 @@ window.dialogueCards = [
     "words": [
       [
         "sleepover",
-        "/phrase/",
+        "/ˈsliːpoʊvər/",
         "在外过夜",
-        "Practice using \"sleepover\" in a real conversation."
+        "My daughter is having a sleepover with three friends tonight.",
+        "我女儿今晚和三个朋友有过夜聚会。"
       ],
       [
         "stay up",
-        "/phrase/",
+        "/steɪ ʌp/",
         "熬夜",
-        "Practice using \"stay up\" in a real conversation."
+        "I had to stay up late to finish my assignment.",
+        "我不得不熬夜完成作业。"
       ],
       [
         "promise",
-        "/phrase/",
+        "/ˈprɑːmɪs/",
         "承诺、约定",
-        "Practice using \"promise\" in a real conversation."
+        "I promise I'll be there on time.",
+        "我承诺我会准时到的。"
       ]
     ]
   },
@@ -29021,21 +30533,24 @@ window.dialogueCards = [
     "words": [
       [
         "allergy",
-        "/phrase/",
+        "/ˈælərdʒi/",
         "过敏",
-        "Practice using \"allergy\" in a real conversation."
+        "I have a severe allergy to peanuts.",
+        "我对花生有严重的过敏反应。"
       ],
       [
         "allergen",
-        "/phrase/",
+        "/ˈælərdʒən/",
         "过敏原",
-        "Practice using \"allergen\" in a real conversation."
+        "This product is free from common allergens like nuts and dairy.",
+        "本产品不含坚果和乳制品等常见过敏原。"
       ],
       [
         "antihistamine",
-        "/phrase/",
+        "/ˌæntiˈhɪstəmiːn/",
         "抗组胺药",
-        "Practice using \"antihistamine\" in a real conversation."
+        "I take an antihistamine every spring for my pollen allergy.",
+        "我每年春天都服用抗组胺药来缓解花粉过敏。"
       ]
     ]
   },
@@ -29089,21 +30604,24 @@ window.dialogueCards = [
     "words": [
       [
         "postpartum",
-        "/phrase/",
+        "/ˌpoʊstˈpɑrtəm/",
         "产后的",
-        "Practice using \"postpartum\" in a real conversation."
+        "She joined a support group to help her cope with postpartum depression.",
+        "她加入了一个互助小组来帮助自己应对产后抑郁。"
       ],
       [
         "pelvic floor",
-        "/phrase/",
+        "/ˈpɛlvɪk flɔr/",
         "盆底肌",
-        "Practice using \"pelvic floor\" in a real conversation."
+        "Kegel exercises can help strengthen your pelvic floor muscles.",
+        "凯格尔运动有助于加强盆底肌。"
       ],
       [
         "diastasis recti",
-        "/phrase/",
+        "/daɪˈæstəsɪs ˈrɛktaɪ/",
         "腹直肌分离",
-        "Practice using \"diastasis recti\" in a real conversation."
+        "After giving birth, she was diagnosed with diastasis recti and started physical therapy.",
+        "生完孩子后她被诊断出腹直肌分离，开始做物理治疗。"
       ]
     ]
   },
@@ -29157,21 +30675,24 @@ window.dialogueCards = [
     "words": [
       [
         "smoke-free",
-        "/phrase/",
+        "/ˌsmoʊk ˈfriː/",
         "不吸烟的",
-        "Practice using \"smoke-free\" in a real conversation."
+        "This is a smoke-free campus; please do not smoke anywhere on the premises.",
+        "这是一个无烟校园，请不要在园区的任何地方吸烟。"
       ],
       [
         "craving",
-        "/phrase/",
+        "/ˈkreɪvɪŋ/",
         "渴望、瘾",
-        "Practice using \"craving\" in a real conversation."
+        "I have a sudden craving for hotpot — let's go tonight!",
+        "我突然特别想吃火锅——今晚去吧！"
       ],
       [
         "slip-up",
-        "/phrase/",
+        "/ˈslɪp.ʌp/",
         "失误、破戒",
-        "Practice using \"slip-up\" in a real conversation."
+        "I had one small slip-up on my diet and ate a whole pizza last night.",
+        "我减肥期间破了一次戒，昨晚吃了一整张披萨。"
       ]
     ]
   },
@@ -29225,21 +30746,24 @@ window.dialogueCards = [
     "words": [
       [
         "recyclables",
-        "/phrase/",
+        "/riˈsaɪkləbəlz/",
         "可回收物",
-        "Practice using \"recyclables\" in a real conversation."
+        "Remember to separate recyclables from regular trash before taking them out.",
+        "倒垃圾之前记得把可回收物和普通垃圾分开。"
       ],
       [
         "kitchen waste",
-        "/phrase/",
+        "/ˈkɪtʃɪn weɪst/",
         "厨余垃圾",
-        "Practice using \"kitchen waste\" in a real conversation."
+        "Remember to separate kitchen waste from recyclables when you take out the trash.",
+        "扔垃圾时记得把厨余垃圾和可回收物分开。"
       ],
       [
         "hazardous waste",
-        "/phrase/",
+        "/ˈhæzərdəs weɪst/",
         "有害垃圾",
-        "Practice using \"hazardous waste\" in a real conversation."
+        "Batteries and paint cans should be disposed of as hazardous waste.",
+        "电池和油漆罐应该作为有害垃圾处理。"
       ]
     ]
   },
@@ -29293,21 +30817,24 @@ window.dialogueCards = [
     "words": [
       [
         "malfunction",
-        "/phrase/",
+        "/mælˈfʌŋkʃən/",
         "故障",
-        "Practice using \"malfunction\" in a real conversation."
+        "The elevator malfunction caused a delay, so I had to take the stairs.",
+        "电梯故障导致了延误，我只好走楼梯。"
       ],
       [
         "refund",
-        "/phrase/",
+        "/ˈriːfʌnd/",
         "退款",
-        "Practice using \"refund\" in a real conversation."
+        "The store issued a full refund after I returned the defective product.",
+        "我退回有缺陷的产品后，商店全额退款了。"
       ],
       [
         "transfer",
-        "/phrase/",
+        "/trænsˈfɜːr/",
         "转移",
-        "Practice using \"transfer\" in a real conversation."
+        "You'll need to transfer to another flight in Dubai.",
+        "你需要在迪拜转机。"
       ]
     ]
   },
@@ -29361,21 +30888,24 @@ window.dialogueCards = [
     "words": [
       [
         "move in",
-        "/phrase/",
+        "/muv ɪn/",
         "搬进来",
-        "Practice using \"move in\" in a real conversation."
+        "The new tenants will move in next Monday after we finish painting the walls.",
+        "我们刷完墙后，新房客将于下周一搬进来。"
       ],
       [
         "unpack",
-        "/phrase/",
+        "/ʌnˈpæk/",
         "拆箱",
-        "Practice using \"unpack\" in a real conversation."
+        "It took me a whole weekend to unpack all the boxes after moving into the new apartment.",
+        "搬进新公寓后，我花了整整一个周末才把所有箱子拆完。"
       ],
       [
         "knock",
-        "/phrase/",
+        "/nɑːk/",
         "敲门",
-        "Practice using \"knock\" in a real conversation."
+        "Please knock before entering the meeting room.",
+        "进入会议室前请先敲门。"
       ]
     ]
   },
@@ -29429,21 +30959,24 @@ window.dialogueCards = [
     "words": [
       [
         "ferry",
-        "/phrase/",
+        "/ˈfɛri/",
         "轮渡",
-        "Practice using \"ferry\" in a real conversation."
+        "We took the ferry to the island — it was a beautiful ride.",
+        "我们坐轮渡去岛上——一路风景很美。"
       ],
       [
         "dolphin",
-        "/phrase/",
+        "/ˈdɑlfɪn/",
         "海豚",
-        "Practice using \"dolphin\" in a real conversation."
+        "We saw a pod of dolphins swimming alongside the boat.",
+        "我们看到一群海豚在船边游。"
       ],
       [
         "unforgettable",
-        "/phrase/",
+        "/ˌʌn.fəˈɡet.ə.bəl/",
         "难忘的",
-        "Practice using \"unforgettable\" in a real conversation."
+        "Watching the northern lights dance across the sky was an unforgettable experience.",
+        "看着极光在天空中舞动，那是一次难忘的经历。"
       ]
     ]
   },
@@ -29497,21 +31030,24 @@ window.dialogueCards = [
     "words": [
       [
         "ski",
-        "/phrase/",
+        "/skiː/",
         "滑雪",
-        "Practice using \"ski\" in a real conversation."
+        "We're planning to go ski in the Alps this winter break.",
+        "我们打算这个寒假去阿尔卑斯山滑雪。"
       ],
       [
         "helmet",
-        "/phrase/",
+        "/ˈhelmɪt/",
         "头盔",
-        "Practice using \"helmet\" in a real conversation."
+        "You should always wear a helmet when riding a bike, no matter how short the trip is.",
+        "骑自行车时一定要戴头盔，不管路程多短。"
       ],
       [
         "slope",
-        "/phrase/",
+        "/sləʊp/",
         "雪道、坡道",
-        "Practice using \"slope\" in a real conversation."
+        "Beginners should stick to the green slopes until they feel more confident.",
+        "初学者应该先在绿道（初级雪道）上练习，等更有信心了再说。"
       ]
     ]
   },
@@ -29565,21 +31101,24 @@ window.dialogueCards = [
     "words": [
       [
         "seasick",
-        "/phrase/",
+        "/ˈsiː.sɪk/",
         "晕船的",
-        "Practice using \"seasick\" in a real conversation."
+        "I always take motion sickness pills before boarding because I get seasick easily.",
+        "我上船前总会吃晕船药，因为我很容易晕船。"
       ],
       [
         "motion sickness",
-        "/phrase/",
+        "/ˈmoʊʃən ˈsɪknəs/",
         "晕动症",
-        "Practice using \"motion sickness\" in a real conversation."
+        "She always takes medicine before long car trips to prevent motion sickness.",
+        "她长途坐车前总是吃药以防晕车。"
       ],
       [
         "drowsiness",
-        "/phrase/",
+        "/ˈdraʊzinɪs/",
         "困倦、嗜睡",
-        "Practice using \"drowsiness\" in a real conversation."
+        "This medication may cause drowsiness, so don't drive after taking it.",
+        "这种药可能会引起困倦，服药后不要开车。"
       ]
     ]
   },
@@ -29633,21 +31172,24 @@ window.dialogueCards = [
     "words": [
       [
         "grand prize",
-        "/phrase/",
+        "/ɡrænd praɪz/",
         "大奖",
-        "Practice using \"grand prize\" in a real conversation."
+        "The grand prize in the raffle is a trip to Hawaii.",
+        "抽奖活动的大奖是夏威夷之旅。"
       ],
       [
         "winner",
-        "/phrase/",
+        "/ˈwɪn.ər/",
         "获胜者",
-        "Practice using \"winner\" in a real conversation."
+        "The winner of the singing competition will get a recording contract with a major label.",
+        "唱歌比赛的获胜者将获得一份与主流唱片公司的合约。"
       ],
       [
         "treat",
-        "/phrase/",
+        "/triːt/",
         "请客、款待",
-        "Practice using \"treat\" in a real conversation."
+        "Let me treat you to dinner tonight.",
+        "今晚让我请你吃饭吧。"
       ]
     ]
   },
@@ -29701,21 +31243,24 @@ window.dialogueCards = [
     "words": [
       [
         "surprise party",
-        "/phrase/",
+        "/sərˈpraɪz ˌpɑː.ti/",
         "惊喜派对",
-        "Practice using \"surprise party\" in a real conversation."
+        "My friends threw me a surprise party for my thirtieth birthday.",
+        "朋友们为我三十岁生日准备了一个惊喜派对。"
       ],
       [
         "decorate",
-        "/phrase/",
+        "/ˈdekəreɪt/",
         "装饰",
-        "Practice using \"decorate\" in a real conversation."
+        "We plan to decorate the house for the holiday season.",
+        "我们计划为节日装饰房子。"
       ],
       [
         "in charge of",
-        "/phrase/",
+        "/ɪn tʃɑːrdʒ əv/",
         "负责",
-        "Practice using \"in charge of\" in a real conversation."
+        "She is in charge of organizing the company's annual conference this year.",
+        "她负责组织公司今年的年度大会。"
       ]
     ]
   },
@@ -29769,21 +31314,24 @@ window.dialogueCards = [
     "words": [
       [
         "demonstration",
-        "/phrase/",
+        "/ˌdɛmənˈstreɪʃən/",
         "演示",
-        "Practice using \"demonstration\" in a real conversation."
+        "The chef gave a cooking demonstration at the food festival.",
+        "那位厨师在美食节上做了一场烹饪演示。"
       ],
       [
         "integration",
-        "/phrase/",
+        "/ˌɪntɪˈɡreɪʃən/",
         "集成",
-        "Practice using \"integration\" in a real conversation."
+        "The integration of the two systems took longer than expected.",
+        "这两个系统的集成比预期花的时间更长。"
       ],
       [
         "encryption",
-        "/phrase/",
+        "/ɪnˈkrɪpʃən/",
         "加密",
-        "Practice using \"encryption\" in a real conversation."
+        "The messaging app uses end-to-end encryption to protect user privacy.",
+        "这款通讯应用使用端到端加密来保护用户隐私。"
       ]
     ]
   },
@@ -29837,21 +31385,24 @@ window.dialogueCards = [
     "words": [
       [
         "pho",
-        "/phrase/",
+        "/fʌ/",
         "越南河粉",
-        "Practice using \"pho\" in a real conversation."
+        "A hot bowl of pho is the perfect comfort food on a cold rainy day.",
+        "一碗热腾腾的越南河粉是寒冷雨天里最治愈的美食。"
       ],
       [
         "bean sprout",
-        "/phrase/",
+        "/biːn spraʊt/",
         "豆芽",
-        "Practice using \"bean sprout\" in a real conversation."
+        "Add some bean sprouts to the stir-fry for extra crunch.",
+        "在炒菜里加些豆芽增加脆爽口感。"
       ],
       [
         "condensed milk",
-        "/phrase/",
+        "/kənˈdɛnst mɪlk/",
         "炼乳",
-        "Practice using \"condensed milk\" in a real conversation."
+        "Vietnamese coffee is usually served with condensed milk.",
+        "越南咖啡通常配炼乳一起喝。"
       ]
     ]
   },
@@ -29905,21 +31456,24 @@ window.dialogueCards = [
     "words": [
       [
         "spit",
-        "/phrase/",
+        "/spɪt/",
         "烤叉",
-        "Practice using \"spit\" in a real conversation."
+        "The whole lamb was slowly turning on a spit over the open fire.",
+        "整只羊在明火上方的烤叉上慢慢转动着。"
       ],
       [
         "carve",
-        "/phrase/",
+        "/kɑːv/",
         "削、切",
-        "Practice using \"carve\" in a real conversation."
+        "He carved a beautiful sculpture out of wood.",
+        "他用木头雕刻了一件美丽的雕塑。"
       ],
       [
         "wrap",
-        "/phrase/",
+        "/ræp/",
         "卷饼",
-        "Practice using \"wrap\" in a real conversation."
+        "I'll have the chicken Caesar wrap with a side of sweet potato fries, please.",
+        "我要一份鸡肉凯撒卷饼，配一份红薯薯条。"
       ]
     ]
   },
@@ -29973,21 +31527,24 @@ window.dialogueCards = [
     "words": [
       [
         "retro",
-        "/phrase/",
+        "/ˈrɛtroʊ/",
         "复古的",
-        "Practice using \"retro\" in a real conversation."
+        "She loves wearing retro dresses from the 1950s with modern accessories.",
+        "她喜欢穿五十年代的复古裙子，搭配现代配饰。"
       ],
       [
         "decor",
-        "/phrase/",
+        "/deɪˈkɔːr/",
         "装修、装饰",
-        "Practice using \"decor\" in a real conversation."
+        "The hotel's decor is elegant and modern.",
+        "酒店的装饰风格优雅而现代。"
       ],
       [
         "vintage",
-        "/phrase/",
+        "/ˈvɪntɪdʒ/",
         "复古的、老式的",
-        "Practice using \"vintage\" in a real conversation."
+        "She loves shopping for vintage clothes at thrift stores and flea markets.",
+        "她喜欢在二手店和跳蚤市场淘复古服装。"
       ]
     ]
   },
@@ -30041,21 +31598,24 @@ window.dialogueCards = [
     "words": [
       [
         "self-checkout",
-        "/phrase/",
+        "/ˌself ˈtʃek.aʊt/",
         "自助结账",
-        "Practice using \"self-checkout\" in a real conversation."
+        "The self-checkout machines are much faster when you only have a few items.",
+        "只买几样东西的话，自助结账机要快得多。"
       ],
       [
         "barcode",
-        "/phrase/",
+        "/ˈbɑːkəʊd/",
         "条形码",
-        "Practice using \"barcode\" in a real conversation."
+        "The cashier scanned the barcode on each item.",
+        "收银员扫描了每件商品上的条形码。"
       ],
       [
         "receipt",
-        "/phrase/",
+        "/rɪˈsit/",
         "收据",
-        "Practice using \"receipt\" in a real conversation."
+        "Please keep your receipt in case you need to return the item.",
+        "请保留好收据，万一需要退货的话用得上。"
       ]
     ]
   },
@@ -30109,21 +31669,24 @@ window.dialogueCards = [
     "words": [
       [
         "leather",
-        "/phrase/",
+        "/ˈlɛðər/",
         "皮革",
-        "Practice using \"leather\" in a real conversation."
+        "This leather jacket has lasted me over ten years and still looks great.",
+        "这件皮夹克我穿了十多年了，看起来还很好。"
       ],
       [
         "emboss",
-        "/phrase/",
+        "/ɪmˈbɔs/",
         "压印",
-        "Practice using \"emboss\" in a real conversation."
+        "The company logo is embossed on the cover of the notebook.",
+        "公司标志被压印在了笔记本封面上。"
       ],
       [
         "customize",
-        "/phrase/",
+        "/ˈkʌstəˌmaɪz/",
         "定制",
-        "Practice using \"customize\" in a real conversation."
+        "You can customize your phone case with your own design.",
+        "你可以用自己的设计来定制手机壳。"
       ]
     ]
   },
@@ -30177,21 +31740,24 @@ window.dialogueCards = [
     "words": [
       [
         "lantern",
-        "/phrase/",
+        "/ˈlæntərn/",
         "灯笼",
-        "Practice using \"lantern\" in a real conversation."
+        "During the Mid-Autumn Festival, children carry colorful lanterns around the neighborhood.",
+        "中秋节期间，孩子们提着五颜六色的灯笼在街区里走来走去。"
       ],
       [
         "couplet",
-        "/phrase/",
+        "/ˈkʌplɪt/",
         "对联",
-        "Practice using \"couplet\" in a real conversation."
+        "During Chinese New Year, every family puts up red couplets on their doors.",
+        "过年的时候，家家户户都在门上贴红色对联。"
       ],
       [
         "discount",
-        "/phrase/",
+        "/ˈdɪskaʊnt/",
         "折扣",
-        "Practice using \"discount\" in a real conversation."
+        "This store is offering a 20% discount on all items.",
+        "这家店所有商品打八折。"
       ]
     ]
   },
@@ -30245,21 +31811,24 @@ window.dialogueCards = [
     "words": [
       [
         "hot water",
-        "/phrase/",
+        "/hɑːt ˈwɔːtər/",
         "热水",
-        "Practice using \"hot water\" in a real conversation."
+        "Could I have a cup of hot water with lemon, please?",
+        "请给我来一杯加柠檬的热水好吗？"
       ],
       [
         "heater",
-        "/phrase/",
+        "/ˈhiːtər/",
         "暖气、加热器",
-        "Practice using \"heater\" in a real conversation."
+        "The heater in my apartment broke down in the middle of winter.",
+        "我公寓的暖气在隆冬时节坏了。"
       ],
       [
         "petition",
-        "/phrase/",
+        "/pəˈtɪʃən/",
         "请愿书",
-        "Practice using \"petition\" in a real conversation."
+        "Over ten thousand people signed the petition calling for better public transportation.",
+        "超过一万人签署了请愿书，呼吁改善公共交通。"
       ]
     ]
   },
@@ -30313,21 +31882,24 @@ window.dialogueCards = [
     "words": [
       [
         "student ID",
-        "/phrase/",
+        "/ˈstjuː.dənt ˌaɪ ˈdiː/",
         "学生证",
-        "Practice using \"student ID\" in a real conversation."
+        "Don't forget to bring your student ID to get a discount at the museum.",
+        "别忘了带上学生证，去博物馆可以打折。"
       ],
       [
         "lost and found",
-        "/phrase/",
+        "/lɔːst ænd faʊnd/",
         "失物招领",
-        "Practice using \"lost and found\" in a real conversation."
+        "I left my bag on the bus and had to check the lost and found.",
+        "我把包落在了公交车上，只好去失物招领处看看。"
       ],
       [
         "good deed",
-        "/phrase/",
+        "/ɡʊd diːd/",
         "善事",
-        "Practice using \"good deed\" in a real conversation."
+        "Helping that old lady carry her groceries felt like a good deed for the day.",
+        "帮那位老太太拎东西，算是今天做的一件善事。"
       ]
     ]
   },
@@ -30381,21 +31953,24 @@ window.dialogueCards = [
     "words": [
       [
         "atmosphere",
-        "/phrase/",
+        "/ˈætməsfɪr/",
         "氛围",
-        "Practice using \"atmosphere\" in a real conversation."
+        "The restaurant has a warm and welcoming atmosphere.",
+        "这家餐厅有一种温馨宜人的氛围。"
       ],
       [
         "complaint",
-        "/phrase/",
+        "/kəmˈpleɪnt/",
         "投诉",
-        "Practice using \"complaint\" in a real conversation."
+        "I filed a complaint about the poor service at the restaurant.",
+        "我对餐厅的糟糕服务提出了投诉。"
       ],
       [
         "shift",
-        "/phrase/",
+        "/ʃɪft/",
         "班次",
-        "Practice using \"shift\" in a real conversation."
+        "I work the night shift at the hospital.",
+        "我在医院上夜班。"
       ]
     ]
   },
@@ -30449,21 +32024,24 @@ window.dialogueCards = [
     "words": [
       [
         "breed",
-        "/phrase/",
+        "/briːd/",
         "品种",
-        "Practice using \"breed\" in a real conversation."
+        "Golden Retrievers are a very popular dog breed.",
+        "金毛寻回犬是一种非常受欢迎的犬种。"
       ],
       [
         "rescue",
-        "/phrase/",
+        "/ˈrɛskju/",
         "领养",
-        "Practice using \"rescue\" in a real conversation."
+        "We decided to rescue a dog from the local animal shelter.",
+        "我们决定从当地的动物收容所领养一只狗。"
       ],
       [
         "recall",
-        "/phrase/",
+        "/rɪˈkɔl/",
         "唤回",
-        "Practice using \"recall\" in a real conversation."
+        "The company had to recall the defective product from the market.",
+        "公司不得不从市场上唤回有缺陷的产品。"
       ]
     ]
   },
@@ -30517,21 +32095,24 @@ window.dialogueCards = [
     "words": [
       [
         "painting",
-        "/phrase/",
+        "/ˈpeɪntɪŋ/",
         "绘画",
-        "Practice using \"painting\" in a real conversation."
+        "She spends every Sunday morning painting in her studio.",
+        "她每个周日早上都在画室里绘画。"
       ],
       [
         "brushstroke",
-        "/phrase/",
+        "/ˈbrʌʃˌstroʊk/",
         "笔触",
-        "Practice using \"brushstroke\" in a real conversation."
+        "You can see the artist's confident brushstrokes in every detail of the painting.",
+        "你能在画作的每个细节中看到画家自信的笔触。"
       ],
       [
         "sculpture",
-        "/phrase/",
+        "/ˈskʌlptʃər/",
         "雕塑",
-        "Practice using \"sculpture\" in a real conversation."
+        "The museum just acquired a new marble sculpture by a famous Italian artist.",
+        "博物馆刚刚收藏了一件意大利著名艺术家的大理石雕塑。"
       ]
     ]
   },
@@ -30585,21 +32166,24 @@ window.dialogueCards = [
     "words": [
       [
         "countdown",
-        "/phrase/",
+        "/ˈkaʊntˌdaʊn/",
         "倒计时",
-        "Practice using \"countdown\" in a real conversation."
+        "The kids started a countdown from ten as the rocket was about to launch.",
+        "火箭即将发射时，孩子们开始从十倒数。"
       ],
       [
         "fireworks",
-        "/phrase/",
+        "/ˈfaɪrˌwɜrks/",
         "烟花",
-        "Practice using \"fireworks\" in a real conversation."
+        "The fireworks display on New Year's Eve was spectacular.",
+        "除夕夜的烟花表演非常壮观。"
       ],
       [
         "new beginning",
-        "/phrase/",
+        "/nu bɪˈɡɪnɪŋ/",
         "新的开始",
-        "Practice using \"new beginning\" in a real conversation."
+        "Starting this new job feels like a fresh new beginning for my career.",
+        "开始这份新工作感觉是我职业生涯一个全新的开始。"
       ]
     ]
   },
@@ -30653,21 +32237,24 @@ window.dialogueCards = [
     "words": [
       [
         "herniated disc",
-        "/phrase/",
+        "/ˈhɜːrnieɪtɪd dɪsk/",
         "椎间盘突出",
-        "Practice using \"herniated disc\" in a real conversation."
+        "He was diagnosed with a herniated disc after months of severe back pain.",
+        "经过数月的严重背痛后，他被诊断为椎间盘突出。"
       ],
       [
         "sciatica",
-        "/phrase/",
+        "/saɪˈæt.ɪ.kə/",
         "坐骨神经痛",
-        "Practice using \"sciatica\" in a real conversation."
+        "The pain shooting down my leg turned out to be sciatica caused by a herniated disc.",
+        "腿上放射性的疼痛原来是椎间盘突出引起的坐骨神经痛。"
       ],
       [
         "conservative treatment",
-        "/phrase/",
+        "/kənˈsɜrvətɪv ˈtritmənt/",
         "保守治疗",
-        "Practice using \"conservative treatment\" in a real conversation."
+        "The doctor recommended conservative treatment rather than surgery for now.",
+        "医生建议目前先进行保守治疗而不是手术。"
       ]
     ]
   },
@@ -30721,21 +32308,24 @@ window.dialogueCards = [
     "words": [
       [
         "insomnia",
-        "/phrase/",
+        "/ɪnˈsɑːmniə/",
         "失眠",
-        "Practice using \"insomnia\" in a real conversation."
+        "Stress from work has been causing me insomnia lately.",
+        "工作压力导致我最近一直失眠。"
       ],
       [
         "melatonin",
-        "/phrase/",
+        "/ˌmɛləˈtoʊnɪn/",
         "褪黑素",
-        "Practice using \"melatonin\" in a real conversation."
+        "Taking melatonin before bed helps me adjust to a new time zone when I travel.",
+        "旅行时睡前服用褪黑素能帮助我适应新的时区。"
       ],
       [
         "bedtime routine",
-        "/phrase/",
+        "/ˈbedtaɪm ruːˈtiːn/",
         "睡前习惯",
-        "Practice using \"bedtime routine\" in a real conversation."
+        "A consistent bedtime routine helps you fall asleep faster.",
+        "固定的睡前习惯有助于更快入睡。"
       ]
     ]
   },
@@ -30789,21 +32379,24 @@ window.dialogueCards = [
     "words": [
       [
         "5K",
-        "/phrase/",
+        "/faɪv keɪ/",
         "五公里",
-        "Practice using \"5K\" in a real conversation."
+        "I run a 5K every weekend to stay fit.",
+        "我每周末跑五公里来保持健康。"
       ],
       [
         "pace",
-        "/phrase/",
+        "/peɪs/",
         "配速",
-        "Practice using \"pace\" in a real conversation."
+        "When running a marathon, it's important to pace yourself so you don't burn out early.",
+        "跑马拉松时，调整好自己的节奏很重要，这样才不会过早筋疲力尽。"
       ],
       [
         "stretch",
-        "/phrase/",
+        "/stretʃ/",
         "拉伸",
-        "Practice using \"stretch\" in a real conversation."
+        "It's important to stretch before you exercise.",
+        "运动前做伸展运动很重要。"
       ]
     ]
   },
@@ -30857,21 +32450,24 @@ window.dialogueCards = [
     "words": [
       [
         "root touch-up",
-        "/phrase/",
+        "/rut ˈtʌtʃʌp/",
         "补染发根",
-        "Practice using \"root touch-up\" in a real conversation."
+        "I just need a quick root touch-up, not a full color treatment this time.",
+        "我这次只需要快速补染一下发根，不用全染。"
       ],
       [
         "appointment",
-        "/phrase/",
+        "/əˈpɔɪntmənt/",
         "预约",
-        "Practice using \"appointment\" in a real conversation."
+        "I have a dentist appointment at 3 PM tomorrow.",
+        "我明天下午三点有一个牙医预约。"
       ],
       [
         "scalp",
-        "/phrase/",
+        "/skælp/",
         "头皮",
-        "Practice using \"scalp\" in a real conversation."
+        "The medicated shampoo helped relieve the itching on her scalp.",
+        "药用洗发水帮助缓解了她头皮的瘙痒。"
       ]
     ]
   },
@@ -30925,21 +32521,24 @@ window.dialogueCards = [
     "words": [
       [
         "adjacent",
-        "/phrase/",
+        "/əˈdʒeɪsənt/",
         "相邻的",
-        "Practice using \"adjacent\" in a real conversation."
+        "Our office is in the building adjacent to the main hospital.",
+        "我们的办公室在与主医院相邻的大楼里。"
       ],
       [
         "assign",
-        "/phrase/",
+        "/əˈsaɪn/",
         "分配",
-        "Practice using \"assign\" in a real conversation."
+        "The manager will assign each team member a specific task.",
+        "经理将给每位团队成员分配具体任务。"
       ],
       [
         "switch",
-        "/phrase/",
+        "/swɪtʃ/",
         "更换",
-        "Practice using \"switch\" in a real conversation."
+        "Let's switch to a different topic.",
+        "我们换个话题吧。"
       ]
     ]
   },
@@ -30993,21 +32592,24 @@ window.dialogueCards = [
     "words": [
       [
         "garage sale",
-        "/phrase/",
+        "/ɡəˈrɑːʒ seɪl/",
         "车库拍卖",
-        "Practice using \"garage sale\" in a real conversation."
+        "We found some great vintage plates at a garage sale last weekend.",
+        "我们上周末在一个车库拍卖上淘到了很不错的复古盘子。"
       ],
       [
         "record player",
-        "/phrase/",
+        "/ˈrɛkərd ˈpleɪər/",
         "唱片机",
-        "Practice using \"record player\" in a real conversation."
+        "My grandfather still listens to music on his vintage record player.",
+        "我爷爷还用他那台老式唱片机听音乐。"
       ],
       [
         "vinyl",
-        "/phrase/",
+        "/ˈvaɪ.nəl/",
         "黑胶唱片",
-        "Practice using \"vinyl\" in a real conversation."
+        "There's something special about the warm sound of vinyl that digital music just can't match.",
+        "黑胶唱片那种温暖的声音有一种数码音乐无法比拟的特别韵味。"
       ]
     ]
   },
@@ -31061,21 +32663,24 @@ window.dialogueCards = [
     "words": [
       [
         "solo trip",
-        "/phrase/",
+        "/ˈsəʊ.ləʊ trɪp/",
         "独自旅行",
-        "Practice using \"solo trip\" in a real conversation."
+        "My first solo trip was to Japan, and it completely changed the way I travel.",
+        "我的第一次独自旅行是去日本，那次经历彻底改变了我旅行的方式。"
       ],
       [
         "itinerary",
-        "/phrase/",
+        "/aɪˈtɪnərəri/",
         "行程",
-        "Practice using \"itinerary\" in a real conversation."
+        "I've sent you the travel itinerary with all the flight and hotel details.",
+        "我已经把包含所有航班和酒店信息的行程单发给你了。"
       ],
       [
         "architecture",
-        "/phrase/",
+        "/ˈɑːrkɪtɛktʃər/",
         "建筑",
-        "Practice using \"architecture\" in a real conversation."
+        "The city is known for its stunning modern architecture.",
+        "这座城市以其令人惊叹的现代建筑而闻名。"
       ]
     ]
   },
@@ -31129,21 +32734,24 @@ window.dialogueCards = [
     "words": [
       [
         "hot spring",
-        "/phrase/",
+        "/hɒt sprɪŋ/",
         "温泉",
-        "Practice using \"hot spring\" in a real conversation."
+        "We spent the weekend relaxing in the natural hot springs.",
+        "我们周末在天然温泉里放松身心。"
       ],
       [
         "plunge",
-        "/phrase/",
+        "/plʌndʒ/",
         "浸泡",
-        "Practice using \"plunge\" in a real conversation."
+        "Before serving, plunge the vegetables into ice water to keep them crisp and bright.",
+        "上菜前，把蔬菜浸泡到冰水里，保持它们脆爽鲜亮。"
       ],
       [
         "customary",
-        "/phrase/",
+        "/ˈkʌstəˌmɛri/",
         "惯例的、习惯的",
-        "Practice using \"customary\" in a real conversation."
+        "It's customary to bring a small gift when visiting someone's home for the first time.",
+        "第一次去别人家拜访时带个小礼物是惯例的。"
       ]
     ]
   },
@@ -31197,21 +32805,24 @@ window.dialogueCards = [
     "words": [
       [
         "snorkel",
-        "/phrase/",
+        "/ˈsnɔː.kəl/",
         "浮潜、呼吸管",
-        "Practice using \"snorkel\" in a real conversation."
+        "All you need to snorkel here is a mask, a snorkel, and some fins.",
+        "在这里浮潜你只需要一个面镜、一根呼吸管和一双脚蹼。"
       ],
       [
         "coral",
-        "/phrase/",
+        "/ˈkɔːrəl/",
         "珊瑚",
-        "Practice using \"coral\" in a real conversation."
+        "The coral reefs are home to thousands of marine species.",
+        "珊瑚礁是数千种海洋生物的家园。"
       ],
       [
         "sea turtle",
-        "/phrase/",
+        "/ˈsiː ˌtɜː.təl/",
         "海龟",
-        "Practice using \"sea turtle\" in a real conversation."
+        "We were lucky enough to see a sea turtle while snorkeling near the reef.",
+        "我们在珊瑚礁附近浮潜的时候有幸看到了一只海龟。"
       ]
     ]
   },
@@ -31265,21 +32876,24 @@ window.dialogueCards = [
     "words": [
       [
         "promote",
-        "/phrase/",
+        "/prəˈmoʊt/",
         "晋升",
-        "Practice using \"promote\" in a real conversation."
+        "The company is planning to promote the new product next month. / She was promoted to manager.",
+        "公司计划下个月推广新产品。/ 她被晋升为经理了。"
       ],
       [
         "outstanding",
-        "/phrase/",
+        "/ˌaʊtˈstændɪŋ/",
         "杰出的",
-        "Practice using \"outstanding\" in a real conversation."
+        "She received an award for her outstanding contribution to medical research.",
+        "她因对医学研究的杰出贡献而获奖。"
       ],
       [
         "responsibility",
-        "/phrase/",
+        "/rɪˌspɑnsəˈbɪləti/",
         "责任",
-        "Practice using \"responsibility\" in a real conversation."
+        "Taking care of a pet is a big responsibility that shouldn't be taken lightly.",
+        "照顾宠物是一项很大的责任，不能掉以轻心。"
       ]
     ]
   },
@@ -31333,21 +32947,24 @@ window.dialogueCards = [
     "words": [
       [
         "time zone",
-        "/phrase/",
+        "/taɪm zəʊn/",
         "时区",
-        "Practice using \"time zone\" in a real conversation."
+        "Don't forget there's a six-hour time zone difference between New York and Paris.",
+        "别忘了纽约和巴黎之间有六个小时的时区差。"
       ],
       [
         "agenda",
-        "/phrase/",
+        "/əˈdʒendə/",
         "议程",
-        "Practice using \"agenda\" in a real conversation."
+        "Let's check the agenda before we start the meeting.",
+        "我们开会前先看一下议程。"
       ],
       [
         "slide",
-        "/phrase/",
+        "/slaɪd/",
         "幻灯片",
-        "Practice using \"slide\" in a real conversation."
+        "Please go to the next slide in the presentation.",
+        "请切换到演示文稿的下一张幻灯片。"
       ]
     ]
   },
@@ -31401,21 +33018,24 @@ window.dialogueCards = [
     "words": [
       [
         "criticize",
-        "/phrase/",
+        "/ˈkrɪtɪˌsaɪz/",
         "批评",
-        "Practice using \"criticize\" in a real conversation."
+        "It's easy to criticize, but harder to offer constructive suggestions.",
+        "批评容易，提出建设性意见难。"
       ],
       [
         "feedback",
-        "/phrase/",
+        "/ˈfiːdbæk/",
         "反馈",
-        "Practice using \"feedback\" in a real conversation."
+        "I'd appreciate your honest feedback on the first draft of my essay.",
+        "如果你能对我论文的初稿给出诚实反馈，我会很感激。"
       ],
       [
         "sting",
-        "/phrase/",
+        "/stɪŋ/",
         "刺痛、难受",
-        "Practice using \"sting\" in a real conversation."
+        "The antiseptic might sting a little when I apply it to the wound, but it'll help it heal.",
+        "消毒液涂在伤口上可能会有点刺痛，但能帮助愈合。"
       ]
     ]
   },
@@ -31469,21 +33089,24 @@ window.dialogueCards = [
     "words": [
       [
         "tapas",
-        "/phrase/",
+        "/ˈtæp.əs/",
         "西班牙塔帕斯",
-        "Practice using \"tapas\" in a real conversation."
+        "Let's order a few different tapas to share instead of getting individual main courses.",
+        "我们点几样不同的塔帕斯一起吃吧，别各点主菜了。"
       ],
       [
         "share",
-        "/phrase/",
+        "/ʃer/",
         "分享",
-        "Practice using \"share\" in a real conversation."
+        "Feel free to share your ideas with the team.",
+        "随时与团队分享你的想法。"
       ],
       [
         "pair",
-        "/phrase/",
+        "/pɛr/",
         "搭配",
-        "Practice using \"pair\" in a real conversation."
+        "This red scarf pairs perfectly with your black coat.",
+        "这条红围巾和你的黑色外套搭配得非常好。"
       ]
     ]
   },
@@ -31537,21 +33160,24 @@ window.dialogueCards = [
     "words": [
       [
         "scoop",
-        "/phrase/",
+        "/skuːp/",
         "球、勺",
-        "Practice using \"scoop\" in a real conversation."
+        "I'll have two scoops of chocolate ice cream in a waffle cone, please.",
+        "我要两球巧克力冰淇淋，装华夫筒里，谢谢。"
       ],
       [
         "flavor",
-        "/phrase/",
+        "/ˈfleɪvər/",
         "口味",
-        "Practice using \"flavor\" in a real conversation."
+        "What flavor of ice cream would you like?",
+        "你想要什么口味的冰淇淋？"
       ],
       [
         "cone",
-        "/phrase/",
+        "/koʊn/",
         "蛋筒",
-        "Practice using \"cone\" in a real conversation."
+        "I'd like two scoops of vanilla in a waffle cone, please.",
+        "我要两球香草味的，装在华夫蛋筒里，谢谢。"
       ]
     ]
   },
@@ -31605,21 +33231,24 @@ window.dialogueCards = [
     "words": [
       [
         "marinade",
-        "/phrase/",
+        "/ˌmærɪˈneɪd/",
         "腌料",
-        "Practice using \"marinade\" in a real conversation."
+        "Let the chicken sit in the marinade for at least two hours before grilling.",
+        "让鸡肉在腌料中至少腌制两小时再烤。"
       ],
       [
         "charcoal",
-        "/phrase/",
+        "/ˈtʃɑrˌkoʊl/",
         "木炭",
-        "Practice using \"charcoal\" in a real conversation."
+        "We grilled the meat over charcoal for a smoky flavor.",
+        "我们用木炭烤肉，带出烟熏味。"
       ],
       [
         "cumin",
-        "/phrase/",
+        "/ˈkjumɪn/",
         "孜然",
-        "Practice using \"cumin\" in a real conversation."
+        "Cumin adds a warm, earthy flavor to grilled lamb skewers.",
+        "孜然给烤羊肉串增添了一种温暖浓郁的香气。"
       ]
     ]
   },
@@ -31673,21 +33302,24 @@ window.dialogueCards = [
     "words": [
       [
         "stroller",
-        "/phrase/",
+        "/ˈstrəʊ.lər/",
         "婴儿车",
-        "Practice using \"stroller\" in a real conversation."
+        "We need a lightweight stroller that folds up easily for traveling.",
+        "我们需要一辆轻便的婴儿车，能轻松折叠方便旅行。"
       ],
       [
         "harness",
-        "/phrase/",
+        "/ˈhɑːrnɪs/",
         "安全带",
-        "Practice using \"harness\" in a real conversation."
+        "Make sure your harness is properly fastened before you start climbing.",
+        "开始攀爬前，请确保安全带已正确扣好。"
       ],
       [
         "warranty",
-        "/phrase/",
+        "/ˈwɒr.ən.ti/",
         "保修",
-        "Practice using \"warranty\" in a real conversation."
+        "My laptop broke just two weeks before the warranty expired, so I got it repaired for free.",
+        "我的笔记本电脑在保修到期前两周坏了，所以免费修好了。"
       ]
     ]
   },
@@ -31741,21 +33373,24 @@ window.dialogueCards = [
     "words": [
       [
         "chandelier",
-        "/phrase/",
+        "/ˌʃændəˈlɪr/",
         "吊灯",
-        "Practice using \"chandelier\" in a real conversation."
+        "A crystal chandelier hung above the dining table.",
+        "餐厅桌子上方挂着一盏水晶吊灯。"
       ],
       [
         "diameter",
-        "/phrase/",
+        "/daɪˈæmɪtər/",
         "直径",
-        "Practice using \"diameter\" in a real conversation."
+        "Measure the diameter of the circle before cutting it out.",
+        "剪下来之前先量一下这个圆的直径。"
       ],
       [
         "installation",
-        "/phrase/",
+        "/ˌɪnstəˈleɪʃən/",
         "安装",
-        "Practice using \"installation\" in a real conversation."
+        "The installation of the new software only took about ten minutes.",
+        "新软件的安装只用了大约十分钟。"
       ]
     ]
   },
@@ -31809,21 +33444,24 @@ window.dialogueCards = [
     "words": [
       [
         "brew",
-        "/phrase/",
+        "/bru/",
         "冲泡",
-        "Practice using \"brew\" in a real conversation."
+        "Let me brew some fresh coffee before we start the meeting.",
+        "开会之前我先冲泡点新鲜咖啡。"
       ],
       [
         "aroma",
-        "/phrase/",
+        "/əˈroʊmə/",
         "香气",
-        "Practice using \"aroma\" in a real conversation."
+        "The aroma of fresh coffee filled the entire kitchen.",
+        "新鲜咖啡的香气充满了整个厨房。"
       ],
       [
         "aftertaste",
-        "/phrase/",
+        "/ˈɑːftərteɪst/",
         "回甘、余味",
-        "Practice using \"aftertaste\" in a real conversation."
+        "This green tea leaves a pleasant sweet aftertaste in your mouth.",
+        "这款绿茶在口中留下宜人的回甘。"
       ]
     ]
   },
@@ -31877,21 +33515,24 @@ window.dialogueCards = [
     "words": [
       [
         "temperature",
-        "/phrase/",
+        "/ˈtempərətʃər/",
         "体温",
-        "Practice using \"temperature\" in a real conversation."
+        "The temperature outside is below zero today.",
+        "今天外面的温度在零度以下。"
       ],
       [
         "fever",
-        "/phrase/",
+        "/ˈfiːvər/",
         "发烧",
-        "Practice using \"fever\" in a real conversation."
+        "The child has a high fever and needs to see a doctor right away.",
+        "这个孩子发高烧了，需要马上看医生。"
       ],
       [
         "medical excuse",
-        "/phrase/",
+        "/ˈmɛdɪkəl ɪkˈskjus/",
         "病假条",
-        "Practice using \"medical excuse\" in a real conversation."
+        "You need to submit a medical excuse if you were absent for more than three days.",
+        "如果你缺勤超过三天，需要提交病假条。"
       ]
     ]
   },
@@ -31945,21 +33586,24 @@ window.dialogueCards = [
     "words": [
       [
         "cap",
-        "/phrase/",
+        "/kæp/",
         "学士帽",
-        "Practice using \"cap\" in a real conversation."
+        "He always wears a baseball cap when he goes running.",
+        "他跑步时总是戴着棒球帽。"
       ],
       [
         "toss",
-        "/phrase/",
+        "/tɒs/",
         "抛掷",
-        "Practice using \"toss\" in a real conversation."
+        "Can you toss me the remote? It's just out of my reach on the coffee table.",
+        "你能把遥控器扔给我吗？它在茶几上我够不着。"
       ],
       [
         "stay in touch",
-        "/phrase/",
+        "/steɪ ɪn tʌtʃ/",
         "保持联系",
-        "Practice using \"stay in touch\" in a real conversation."
+        "Even though we live in different cities now, we still stay in touch through video calls.",
+        "虽然我们现在住在不同的城市，但还是通过视频通话保持联系。"
       ]
     ]
   },
@@ -32013,21 +33657,24 @@ window.dialogueCards = [
     "words": [
       [
         "chopstick",
-        "/phrase/",
+        "/ˈtʃɑpˌstɪk/",
         "筷子",
-        "Practice using \"chopstick\" in a real conversation."
+        "It took me a while to learn how to use chopsticks properly.",
+        "我花了一段时间才学会正确使用筷子。"
       ],
       [
         "grip",
-        "/phrase/",
+        "/ɡrɪp/",
         "抓握",
-        "Practice using \"grip\" in a real conversation."
+        "These shoes have excellent grip on wet surfaces.",
+        "这双鞋在湿滑路面上的抓地力非常好。"
       ],
       [
         "breakthrough",
-        "/phrase/",
+        "/ˈbreɪkˌθru/",
         "突破",
-        "Practice using \"breakthrough\" in a real conversation."
+        "The team made a major breakthrough in cancer research this year.",
+        "团队今年在癌症研究上取得了重大突破。"
       ]
     ]
   },
@@ -32081,21 +33728,24 @@ window.dialogueCards = [
     "words": [
       [
         "costume",
-        "/phrase/",
+        "/ˈkɒstjuːm/",
         "服装、装扮",
-        "Practice using \"costume\" in a real conversation."
+        "She wore a beautiful costume for the Halloween party.",
+        "她为万圣节派对穿了一套漂亮的装扮。"
       ],
       [
         "makeup",
-        "/phrase/",
+        "/ˈmeɪkʌp/",
         "化妆",
-        "Practice using \"makeup\" in a real conversation."
+        "She wears very little makeup and prefers a natural look.",
+        "她很少化妆，更喜欢自然的样子。"
       ],
       [
         "contest",
-        "/phrase/",
+        "/ˈkɑːntɛst/",
         "比赛",
-        "Practice using \"contest\" in a real conversation."
+        "She won first prize in the baking contest.",
+        "她在烘焙比赛中获得了一等奖。"
       ]
     ]
   },
@@ -32142,28 +33792,31 @@ window.dialogueCards = [
       ],
       [
         "B",
-        "\"The Alchemist\" has a similar theme about following your dreams. Highly recommend!",
+        "The Alchemist has a similar theme about following your dreams. Highly recommend!",
         "《牧羊少年奇幻之旅》有类似的追寻梦想的主题。强烈推荐！"
       ]
     ],
     "words": [
       [
         "book club",
-        "/phrase/",
+        "/bʊk klʌb/",
         "读书会",
-        "Practice using \"book club\" in a real conversation."
+        "Our book club meets every month to discuss a new novel.",
+        "我们的读书会每月聚会一次讨论一本新小说。"
       ],
       [
         "regret",
-        "/phrase/",
+        "/rɪˈɡrɛt/",
         "遗憾",
-        "Practice using \"regret\" in a real conversation."
+        "My biggest regret is not studying abroad when I had the chance.",
+        "我最大的遗憾就是有机会出国留学的时候没有去。"
       ],
       [
         "recommend",
-        "/phrase/",
+        "/ˌrekəˈmend/",
         "推荐",
-        "Practice using \"recommend\" in a real conversation."
+        "Can you recommend a good restaurant nearby?",
+        "你能推荐附近一家好餐厅吗？"
       ]
     ]
   },
@@ -32217,21 +33870,24 @@ window.dialogueCards = [
     "words": [
       [
         "pottery",
-        "/phrase/",
+        "/ˈpɑtəri/",
         "陶艺",
-        "Practice using \"pottery\" in a real conversation."
+        "I signed up for a pottery class to learn how to make bowls on the wheel.",
+        "我报名参加了一个陶艺班，学习如何在拉坯机上制作碗。"
       ],
       [
         "clay",
-        "/phrase/",
+        "/kleɪ/",
         "黏土",
-        "Practice using \"clay\" in a real conversation."
+        "The kids spent the afternoon making animals out of clay.",
+        "孩子们用了一个下午用黏土做动物。"
       ],
       [
         "wheel",
-        "/phrase/",
+        "/wiːl/",
         "转盘、拉坯机",
-        "Practice using \"wheel\" in a real conversation."
+        "It was my first time using a pottery wheel and the clay kept flying off center.",
+        "那是我第一次用拉坯机，泥巴老是从中心飞出去。"
       ]
     ]
   },
@@ -32285,21 +33941,24 @@ window.dialogueCards = [
     "words": [
       [
         "metabolism",
-        "/phrase/",
+        "/məˈtæbəˌlɪzəm/",
         "新陈代谢",
-        "Practice using \"metabolism\" in a real conversation."
+        "Drinking enough water can help boost your metabolism.",
+        "喝足够的水有助于加快新陈代谢。"
       ],
       [
         "balanced meal",
-        "/phrase/",
+        "/ˈbælənst miːl/",
         "均衡膳食",
-        "Practice using \"balanced meal\" in a real conversation."
+        "A balanced meal should include protein, vegetables, and grains.",
+        "均衡膳食应包括蛋白质、蔬菜和谷物。"
       ],
       [
         "nutritious",
-        "/phrase/",
+        "/nuːˈtrɪʃəs/",
         "有营养的",
-        "Practice using \"nutritious\" in a real conversation."
+        "A balanced breakfast should be both nutritious and delicious.",
+        "均衡的早餐应该既有营养又美味。"
       ]
     ]
   },
@@ -32353,21 +34012,24 @@ window.dialogueCards = [
     "words": [
       [
         "allergic rhinitis",
-        "/phrase/",
+        "/əˈlɜːrdʒɪk raɪˈnaɪtɪs/",
         "过敏性鼻炎",
-        "Practice using \"allergic rhinitis\" in a real conversation."
+        "She takes antihistamines every spring to manage her allergic rhinitis.",
+        "她每年春天都服用抗组胺药来缓解过敏性鼻炎。"
       ],
       [
         "nasal spray",
-        "/phrase/",
+        "/ˈneɪzəl spreɪ/",
         "鼻喷剂",
-        "Practice using \"nasal spray\" in a real conversation."
+        "My doctor recommended using a saline nasal spray to relieve my congestion.",
+        "医生建议我用盐水鼻喷剂来缓解鼻塞。"
       ],
       [
         "saline rinse",
-        "/phrase/",
+        "/ˈseɪlin rɪns/",
         "盐水冲洗",
-        "Practice using \"saline rinse\" in a real conversation."
+        "The doctor recommended using a saline rinse to clear my sinuses.",
+        "医生建议我用盐水冲洗来清理鼻腔。"
       ]
     ]
   },
@@ -32421,21 +34083,24 @@ window.dialogueCards = [
     "words": [
       [
         "CPR",
-        "/phrase/",
+        "/si pi ɑr/",
         "心肺复苏",
-        "Practice using \"CPR\" in a real conversation."
+        "She performed CPR on the man until the ambulance arrived.",
+        "她给那位男士做心肺复苏直到救护车到达。"
       ],
       [
         "compression",
-        "/phrase/",
+        "/kəmˈprɛʃən/",
         "按压",
-        "Practice using \"compression\" in a real conversation."
+        "Compression socks can help improve blood circulation in your legs.",
+        "压力袜有助于改善腿部的血液循环。"
       ],
       [
         "rescue breath",
-        "/phrase/",
+        "/ˈrɛskju brɛθ/",
         "人工呼吸",
-        "Practice using \"rescue breath\" in a real conversation."
+        "The lifeguard performed rescue breaths on the drowning swimmer until help arrived.",
+        "救生员给溺水的游泳者做人工呼吸，直到救援到来。"
       ]
     ]
   },
@@ -32489,21 +34154,24 @@ window.dialogueCards = [
     "words": [
       [
         "rinse",
-        "/phrase/",
+        "/rɪns/",
         "冲洗",
-        "Practice using \"rinse\" in a real conversation."
+        "Rinse the vegetables thoroughly under cold water before cooking.",
+        "烹饪前用冷水把蔬菜彻底冲洗干净。"
       ],
       [
         "foam",
-        "/phrase/",
+        "/foʊm/",
         "泡沫",
-        "Practice using \"foam\" in a real conversation."
+        "The cappuccino had a thick layer of foam on top.",
+        "那杯卡布奇诺上面有一层厚厚的泡沫。"
       ],
       [
         "microfiber",
-        "/phrase/",
+        "/ˈmaɪkroʊˌfaɪbər/",
         "超细纤维",
-        "Practice using \"microfiber\" in a real conversation."
+        "I use a microfiber cloth to clean my glasses because it doesn't leave any scratches.",
+        "我用超细纤维布擦眼镜，因为它不会留下任何划痕。"
       ]
     ]
   },
@@ -32557,21 +34225,24 @@ window.dialogueCards = [
     "words": [
       [
         "Tai Chi",
-        "/phrase/",
+        "/ˌtaɪ ˈtʃiː/",
         "太极拳",
-        "Practice using \"Tai Chi\" in a real conversation."
+        "My grandpa does Tai Chi in the park every morning.",
+        "我爷爷每天早上在公园打太极拳。"
       ],
       [
         "balance",
-        "/phrase/",
+        "/ˈbæləns/",
         "平衡",
-        "Practice using \"balance\" in a real conversation."
+        "It is important to find a balance between work and personal life.",
+        "在工作和个人生活之间找到平衡很重要。"
       ],
       [
         "flexibility",
-        "/phrase/",
+        "/ˌfleksəˈbɪləti/",
         "柔韧性",
-        "Practice using \"flexibility\" in a real conversation."
+        "The job offers great flexibility in working hours.",
+        "这份工作在工作时间上有很大的灵活性。"
       ]
     ]
   },
@@ -32625,21 +34296,24 @@ window.dialogueCards = [
     "words": [
       [
         "surge pricing",
-        "/phrase/",
+        "/sɜːdʒ ˈpraɪ.sɪŋ/",
         "动态调价、溢价",
-        "Practice using \"surge pricing\" in a real conversation."
+        "The ride-hailing app had surge pricing during the rainstorm, so the fare was almost double.",
+        "暴雨期间打车软件启动了动态调价，车费几乎翻了一倍。"
       ],
       [
         "share a ride",
-        "/phrase/",
+        "/ʃeər ə raɪd/",
         "拼车",
-        "Practice using \"share a ride\" in a real conversation."
+        "Do you want to share a ride to the concert? It'll save us both money on parking.",
+        "要不要拼车去演唱会？这样我们俩都能省下停车费。"
       ],
       [
         "split",
-        "/phrase/",
+        "/splɪt/",
         "分摊",
-        "Practice using \"split\" in a real conversation."
+        "Let's split the bill equally among all of us.",
+        "我们大家平摊账单吧。"
       ]
     ]
   },
@@ -32693,21 +34367,24 @@ window.dialogueCards = [
     "words": [
       [
         "Milky Way",
-        "/phrase/",
+        "/ˈmɪlki weɪ/",
         "银河",
-        "Practice using \"Milky Way\" in a real conversation."
+        "On a clear night, you can see the Milky Way stretching across the sky.",
+        "晴朗的夜晚，你能看到银河横跨天空。"
       ],
       [
         "shooting star",
-        "/phrase/",
+        "/ˈʃuː.tɪŋ stɑːr/",
         "流星",
-        "Practice using \"shooting star\" in a real conversation."
+        "Make a wish! I just saw a shooting star streak across the sky.",
+        "快许愿！我刚看到一颗流星划过天空。"
       ],
       [
         "constellation",
-        "/phrase/",
+        "/ˌkɑnstəˈleɪʃən/",
         "星座",
-        "Practice using \"constellation\" in a real conversation."
+        "Can you point out the Orion constellation in the night sky?",
+        "你能指出夜空中猎户座星座吗？"
       ]
     ]
   },
@@ -32761,21 +34438,24 @@ window.dialogueCards = [
     "words": [
       [
         "locate",
-        "/phrase/",
+        "/ˈloʊkeɪt/",
         "找到、定位",
-        "Practice using \"locate\" in a real conversation."
+        "Can you help me locate the nearest subway station on the map?",
+        "你能帮我在地图上找到最近的地铁站吗？"
       ],
       [
         "route",
-        "/phrase/",
+        "/ruːt/",
         "转运、安排路线",
-        "Practice using \"route\" in a real conversation."
+        "What is the best route to get to the airport?",
+        "去机场的最佳路线是什么？"
       ],
       [
         "voucher",
-        "/phrase/",
+        "/ˈvaʊtʃər/",
         "代金券",
-        "Practice using \"voucher\" in a real conversation."
+        "I received a $50 voucher as compensation for the delayed flight.",
+        "我因航班延误收到了一张50美元的代金券。"
       ]
     ]
   },
@@ -32829,21 +34509,24 @@ window.dialogueCards = [
     "words": [
       [
         "shelter",
-        "/phrase/",
+        "/ˈʃel.tər/",
         "遮蔽处、避难所",
-        "Practice using \"shelter\" in a real conversation."
+        "When the storm hit, we found shelter in a small cave by the trail.",
+        "暴风雨来袭时，我们在山路边的一个小山洞里找到了遮蔽处。"
       ],
       [
         "lightning",
-        "/phrase/",
+        "/ˈlaɪtnɪŋ/",
         "闪电",
-        "Practice using \"lightning\" in a real conversation."
+        "The lightning was so bright that it lit up the entire sky for a split second.",
+        "闪电如此明亮，一瞬间照亮了整个天空。"
       ],
       [
         "trail",
-        "/phrase/",
+        "/treɪl/",
         "步道、小径",
-        "Practice using \"trail\" in a real conversation."
+        "There's a beautiful hiking trail through the forest.",
+        "森林里有一条美丽的徒步小径。"
       ]
     ]
   },
@@ -32897,21 +34580,24 @@ window.dialogueCards = [
     "words": [
       [
         "group order",
-        "/phrase/",
+        "/ɡruːp ˈɔːrdər/",
         "团购、集体下单",
-        "Practice using \"group order\" in a real conversation."
+        "We placed a group order for lunch so everyone could get a discount.",
+        "我们一起团购了午餐，这样每个人都能享受折扣。"
       ],
       [
         "delivery",
-        "/phrase/",
+        "/dɪˈlɪvəri/",
         "配送",
-        "Practice using \"delivery\" in a real conversation."
+        "I ordered pizza delivery because I was too tired to cook.",
+        "我点了披萨外卖，因为太累了不想做饭。"
       ],
       [
         "organize",
-        "/phrase/",
+        "/ˈɔːrɡənaɪz/",
         "组织",
-        "Practice using \"organize\" in a real conversation."
+        "She volunteered to organize the company's annual team-building event.",
+        "她自愿组织公司的年度团建活动。"
       ]
     ]
   },
@@ -32965,21 +34651,24 @@ window.dialogueCards = [
     "words": [
       [
         "complaint",
-        "/phrase/",
+        "/kəmˈpleɪnt/",
         "投诉",
-        "Practice using \"complaint\" in a real conversation."
+        "I filed a complaint about the poor service at the restaurant.",
+        "我对餐厅的糟糕服务提出了投诉。"
       ],
       [
         "frustrated",
-        "/phrase/",
+        "/ˈfrʌstreɪtɪd/",
         "沮丧的",
-        "Practice using \"frustrated\" in a real conversation."
+        "I felt so frustrated when my computer crashed and I lost all my work.",
+        "电脑崩溃害我丢了所有工作时，我真是沮丧极了。"
       ],
       [
         "replacement",
-        "/phrase/",
+        "/rɪˈpleɪsmənt/",
         "换货",
-        "Practice using \"replacement\" in a real conversation."
+        "The store offered a free replacement for my broken headphones.",
+        "店家给我的坏耳机免费换货了。"
       ]
     ]
   },
@@ -33033,21 +34722,24 @@ window.dialogueCards = [
     "words": [
       [
         "ahead of schedule",
-        "/phrase/",
+        "/əˈhed əv ˈʃedjuːl/",
         "提前",
-        "Practice using \"ahead of schedule\" in a real conversation."
+        "The construction project is two weeks ahead of schedule.",
+        "这个建设项目提前了两周完成。"
       ],
       [
         "team effort",
-        "/phrase/",
+        "/tiːm ˈef.ət/",
         "团队合作",
-        "Practice using \"team effort\" in a real conversation."
+        "Winning this project wasn't just one person's achievement — it was a real team effort.",
+        "拿下这个项目不是一个人的功劳，是真正的团队合作。"
       ],
       [
         "commemorate",
-        "/phrase/",
+        "/kəˈmɛməˌreɪt/",
         "纪念",
-        "Practice using \"commemorate\" in a real conversation."
+        "This statue was built to commemorate the soldiers who died in the war.",
+        "这座雕像是为了纪念战争中牺牲的士兵而建的。"
       ]
     ]
   },
@@ -33101,21 +34793,24 @@ window.dialogueCards = [
     "words": [
       [
         "beer hall",
-        "/phrase/",
+        "/bɪə hɔːl/",
         "啤酒屋",
-        "Practice using \"beer hall\" in a real conversation."
+        "We celebrated Oktoberfest at a traditional beer hall in Munich.",
+        "我们在慕尼黑一家传统啤酒屋庆祝了啤酒节。"
       ],
       [
         "pork knuckle",
-        "/phrase/",
+        "/pɔrk ˈnʌkəl/",
         "猪肘",
-        "Practice using \"pork knuckle\" in a real conversation."
+        "The braised pork knuckle was so tender that the meat fell right off the bone.",
+        "红烧猪肘炖得非常软烂，肉一碰就从骨头上脱落了。"
       ],
       [
         "pretzel",
-        "/phrase/",
+        "/ˈprɛtsəl/",
         "碱水面包",
-        "Practice using \"pretzel\" in a real conversation."
+        "I grabbed a warm soft pretzel with mustard from the street vendor.",
+        "我从街边小贩那里买了一个热乎乎的软碱水面包配芥末酱。"
       ]
     ]
   },
@@ -33169,21 +34864,24 @@ window.dialogueCards = [
     "words": [
       [
         "hummus",
-        "/phrase/",
+        "/ˈhʊməs/",
         "鹰嘴豆泥",
-        "Practice using \"hummus\" in a real conversation."
+        "I love dipping warm pita bread into creamy hummus.",
+        "我喜欢用温热的皮塔饼蘸着绵密的鹰嘴豆泥吃。"
       ],
       [
         "pita",
-        "/phrase/",
+        "/ˈpitə/",
         "皮塔饼",
-        "Practice using \"pita\" in a real conversation."
+        "I stuffed the warm pita with falafel, lettuce, and tahini sauce.",
+        "我在温热的皮塔饼里塞满了法拉费丸子、生菜和芝麻酱。"
       ],
       [
         "halloumi",
-        "/phrase/",
+        "/həˈluːmi/",
         "哈罗米芝士",
-        "Practice using \"halloumi\" in a real conversation."
+        "Grilled halloumi is amazing in a salad with fresh vegetables.",
+        "烤哈罗米芝士配上新鲜蔬菜的沙拉非常好吃。"
       ]
     ]
   },
@@ -33237,21 +34935,24 @@ window.dialogueCards = [
     "words": [
       [
         "refill",
-        "/phrase/",
+        "/ˈriːfɪl/",
         "补充",
-        "Practice using \"refill\" in a real conversation."
+        "The restaurant offers free refills on all soft drinks.",
+        "这家餐厅所有软饮料都可以免费续杯。"
       ],
       [
         "batch",
-        "/phrase/",
+        "/bætʃ/",
         "一批",
-        "Practice using \"batch\" in a real conversation."
+        "The bakery produces a fresh batch of bread every morning at six.",
+        "面包店每天早上六点出炉一批新鲜面包。"
       ],
       [
         "notify",
-        "/phrase/",
+        "/ˈnoʊtɪˌfaɪ/",
         "通知",
-        "Practice using \"notify\" in a real conversation."
+        "We will notify you by email once your application has been processed.",
+        "您的申请处理完毕后，我们会通过邮件通知您。"
       ]
     ]
   },
@@ -33305,21 +35006,24 @@ window.dialogueCards = [
     "words": [
       [
         "overstock",
-        "/phrase/",
+        "/ˈoʊvərˌstɑk/",
         "库存过剩",
-        "Practice using \"overstock\" in a real conversation."
+        "The store is having a clearance sale to get rid of overstock from last season.",
+        "商店正在进行清仓甩卖，处理上季的库存过剩商品。"
       ],
       [
         "bestseller",
-        "/phrase/",
+        "/ˌbestˈselə/",
         "畅销书",
-        "Practice using \"bestseller\" in a real conversation."
+        "Her latest novel became an instant bestseller.",
+        "她的最新小说一上市就成了畅销品。"
       ],
       [
         "additional",
-        "/phrase/",
+        "/əˈdɪʃənəl/",
         "额外的",
-        "Practice using \"additional\" in a real conversation."
+        "There will be an additional charge for late check-out.",
+        "延迟退房将产生额外费用。"
       ]
     ]
   },
@@ -33373,21 +35077,24 @@ window.dialogueCards = [
     "words": [
       [
         "blind",
-        "/phrase/",
+        "/blaɪnd/",
         "百叶窗",
-        "Practice using \"blind\" in a real conversation."
+        "I closed the blinds to block out the sunlight.",
+        "我拉下百叶窗遮挡阳光。"
       ],
       [
         "custom",
-        "/phrase/",
+        "/ˈkʌstəm/",
         "定制的",
-        "Practice using \"custom\" in a real conversation."
+        "He had a custom suit made for his wedding.",
+        "他为婚礼定制了一套西装。"
       ],
       [
         "blackout",
-        "/phrase/",
+        "/ˈblækaʊt/",
         "遮光的",
-        "Practice using \"blackout\" in a real conversation."
+        "The storm caused a blackout that lasted for hours.",
+        "暴风雨导致了持续数小时的停电。"
       ]
     ]
   },
@@ -33441,21 +35148,24 @@ window.dialogueCards = [
     "words": [
       [
         "organic",
-        "/phrase/",
+        "/ɔːrˈɡænɪk/",
         "有机的",
-        "Practice using \"organic\" in a real conversation."
+        "I prefer to buy organic vegetables whenever possible.",
+        "只要可能，我更喜欢买有机蔬菜。"
       ],
       [
         "free-range",
-        "/phrase/",
+        "/ˈfriː reɪndʒ/",
         "散养的",
-        "Practice using \"free-range\" in a real conversation."
+        "I only buy free-range eggs — the chickens are treated much better.",
+        "我只买散养鸡蛋——那些鸡的待遇好多了。"
       ],
       [
         "grass-fed",
-        "/phrase/",
+        "/ˈɡræs fed/",
         "草饲的",
-        "Practice using \"grass-fed\" in a real conversation."
+        "Grass-fed beef tends to be leaner and more flavorful.",
+        "草饲牛肉通常更瘦、更有风味。"
       ]
     ]
   },
@@ -33509,21 +35219,24 @@ window.dialogueCards = [
     "words": [
       [
         "duck",
-        "/phrase/",
+        "/dʌk/",
         "鸭子",
-        "Practice using \"duck\" in a real conversation."
+        "There were ducks swimming in the pond at the park.",
+        "公园的池塘里有鸭子在游泳。"
       ],
       [
         "feed",
-        "/phrase/",
+        "/fiːd/",
         "喂养",
-        "Practice using \"feed\" in a real conversation."
+        "Don't forget to feed the cat before you leave.",
+        "出门前别忘了喂猫。"
       ],
       [
         "relax",
-        "/phrase/",
+        "/rɪˈlæks/",
         "放松",
-        "Practice using \"relax\" in a real conversation."
+        "Just relax and enjoy your vacation.",
+        "放轻松，享受你的假期。"
       ]
     ]
   },
@@ -33577,21 +35290,24 @@ window.dialogueCards = [
     "words": [
       [
         "abandon",
-        "/phrase/",
+        "/əˈbændən/",
         "遗弃",
-        "Practice using \"abandon\" in a real conversation."
+        "The family had to abandon their home during the flood.",
+        "那家人不得不在洪水期间遗弃他们的家园。"
       ],
       [
         "adopter",
-        "/phrase/",
+        "/əˈdɒptər/",
         "领养人",
-        "Practice using \"adopter\" in a real conversation."
+        "The shelter carefully interviews every potential adopter before placing a pet.",
+        "收容所在安置宠物前会仔细面试每一位潜在领养人。"
       ],
       [
         "understanding",
-        "/phrase/",
+        "/ˌʌn.dəˈstæn.dɪŋ/",
         "体谅的、理解的",
-        "Practice using \"understanding\" in a real conversation."
+        "My boss was very understanding when I explained why I needed to take the afternoon off.",
+        "我跟老板解释为什么下午需要请假时，他非常体谅。"
       ]
     ]
   },
@@ -33645,21 +35361,24 @@ window.dialogueCards = [
     "words": [
       [
         "broadcast",
-        "/phrase/",
+        "/ˈbrɔdˌkæst/",
         "广播",
-        "Practice using \"broadcast\" in a real conversation."
+        "The match will be broadcast live on Channel 5.",
+        "这场比赛将在第五频道现场广播。"
       ],
       [
         "announcement",
-        "/phrase/",
+        "/əˈnaʊnsmənt/",
         "通知",
-        "Practice using \"announcement\" in a real conversation."
+        "The principal made an important announcement over the school speakers.",
+        "校长通过学校广播发布了一则重要通知。"
       ],
       [
-        "shoutout",
-        "/phrase/",
+        "shout-out",
+        "/ˈʃaʊt aʊt/",
         "点名表扬",
-        "Practice using \"shoutout\" in a real conversation."
+        "I want to give a shout-out to my team for their hard work.",
+        "我想公开感谢我的团队付出的努力。"
       ]
     ]
   },
@@ -33713,21 +35432,24 @@ window.dialogueCards = [
     "words": [
       [
         "layout",
-        "/phrase/",
+        "/ˈleɪaʊt/",
         "布局",
-        "Practice using \"layout\" in a real conversation."
+        "The open-plan layout of the office encourages more collaboration among colleagues.",
+        "办公室的开放式布局促进了同事之间更多的协作。"
       ],
       [
         "renovation",
-        "/phrase/",
+        "/ˌrɛnəˈveɪʃən/",
         "装修",
-        "Practice using \"renovation\" in a real conversation."
+        "Our apartment renovation took three months but it was totally worth it.",
+        "我们公寓的装修花了三个月，但完全值得。"
       ],
       [
         "backsplash",
-        "/phrase/",
+        "/ˈbækˌsplæʃ/",
         "挡溅板",
-        "Practice using \"backsplash\" in a real conversation."
+        "A tile backsplash can protect your kitchen wall from stains.",
+        "瓷砖挡溅板可以保护厨房墙面不被弄脏。"
       ]
     ]
   },
@@ -33781,21 +35503,24 @@ window.dialogueCards = [
     "words": [
       [
         "KTV",
-        "/phrase/",
+        "/ˌkeɪ tiː ˈviː/",
         "卡拉OK",
-        "Practice using \"KTV\" in a real conversation."
+        "We're going to KTV tonight, want to join us?",
+        "我们今晚去唱卡拉OK，你要一起来吗？"
       ],
       [
         "reserve",
-        "/phrase/",
+        "/rɪˈzɜrv/",
         "预订",
-        "Practice using \"reserve\" in a real conversation."
+        "We should reserve our hotel rooms early since it's peak season.",
+        "旺季到了，我们最好早点预订酒店房间。"
       ],
       [
         "dedicate",
-        "/phrase/",
+        "/ˈdɛdɪˌkeɪt/",
         "献上",
-        "Practice using \"dedicate\" in a real conversation."
+        "She dedicated her first book to her parents.",
+        "她把第一本书献给了她的父母。"
       ]
     ]
   },
@@ -33849,21 +35574,24 @@ window.dialogueCards = [
     "words": [
       [
         "trade",
-        "/phrase/",
+        "/treɪd/",
         "交换、交易",
-        "Practice using \"trade\" in a real conversation."
+        "I'll trade you my apple for your chocolate bar — I'm craving something sweet.",
+        "我用苹果换你的巧克力棒吧，我特别想吃甜的。"
       ],
       [
         "vintage",
-        "/phrase/",
+        "/ˈvɪntɪdʒ/",
         "复古的",
-        "Practice using \"vintage\" in a real conversation."
+        "She loves shopping for vintage clothes at thrift stores and flea markets.",
+        "她喜欢在二手店和跳蚤市场淘复古服装。"
       ],
       [
         "collection",
-        "/phrase/",
+        "/kəˈlekʃən/",
         "收藏",
-        "Practice using \"collection\" in a real conversation."
+        "She has an impressive collection of vintage postcards.",
+        "她收藏了很多令人印象深刻的复古明信片。"
       ]
     ]
   },
@@ -33917,21 +35645,24 @@ window.dialogueCards = [
     "words": [
       [
         "athlete's foot",
-        "/phrase/",
+        "/ˈæθliːts fʊt/",
         "脚癣、脚气",
-        "Practice using \"athlete's foot\" in a real conversation."
+        "He picked up athlete's foot from the gym locker room.",
+        "他在健身房更衣室染上了脚气。"
       ],
       [
         "contagious",
-        "/phrase/",
+        "/kənˈteɪdʒəs/",
         "传染的",
-        "Practice using \"contagious\" in a real conversation."
+        "The flu is highly contagious, so stay home if you have symptoms.",
+        "流感传染性很强，有症状的话请待在家里。"
       ],
       [
         "antifungal",
-        "/phrase/",
+        "/ˌæntiˈfʌŋɡəl/",
         "抗真菌的",
-        "Practice using \"antifungal\" in a real conversation."
+        "The doctor prescribed an antifungal cream for the rash.",
+        "医生开了抗真菌药膏来治疗皮疹。"
       ]
     ]
   },
@@ -33985,21 +35716,24 @@ window.dialogueCards = [
     "words": [
       [
         "electrocardiogram",
-        "/phrase/",
+        "/ɪˌlɛktroʊˈkɑrdiəˌɡræm/",
         "心电图",
-        "Practice using \"electrocardiogram\" in a real conversation."
+        "The doctor ordered an electrocardiogram to check my heart rhythm.",
+        "医生让我做心电图检查心律。"
       ],
       [
         "electrode",
-        "/phrase/",
+        "/ɪˈlɛkˌtroʊd/",
         "电极",
-        "Practice using \"electrode\" in a real conversation."
+        "The nurse attached the electrodes to my chest before the test.",
+        "检查前护士把电极贴在我胸口。"
       ],
       [
         "stress test",
-        "/phrase/",
+        "/stres test/",
         "负荷试验",
-        "Practice using \"stress test\" in a real conversation."
+        "The doctor ordered a stress test to check how my heart performs during exercise.",
+        "医生安排了一次负荷试验来检查我运动时心脏的表现。"
       ]
     ]
   },
@@ -34053,21 +35787,24 @@ window.dialogueCards = [
     "words": [
       [
         "quinoa",
-        "/phrase/",
+        "/ˈkinwɑ/",
         "藜麦",
-        "Practice using \"quinoa\" in a real conversation."
+        "I made a quinoa salad with roasted vegetables for lunch.",
+        "我中午做了一份藜麦沙拉，配了烤蔬菜。"
       ],
       [
         "protein",
-        "/phrase/",
+        "/ˈproʊˌtiːn/",
         "蛋白质",
-        "Practice using \"protein\" in a real conversation."
+        "Chicken and eggs are good sources of protein.",
+        "鸡肉和鸡蛋是很好的蛋白质来源。"
       ],
       [
         "dressing",
-        "/phrase/",
+        "/ˈdresɪŋ/",
         "酱汁、调料",
-        "Practice using \"dressing\" in a real conversation."
+        "The nurse changed the dressing on my wound twice a day.",
+        "护士每天两次为我更换伤口上的敷料。"
       ]
     ]
   },
@@ -34121,21 +35858,24 @@ window.dialogueCards = [
     "words": [
       [
         "elevator",
-        "/phrase/",
+        "/ˈelɪveɪtər/",
         "电梯",
-        "Practice using \"elevator\" in a real conversation."
+        "Please take the elevator to the fifth floor.",
+        "请乘电梯到五楼。"
       ],
       [
         "maintenance",
-        "/phrase/",
+        "/ˈmeɪntənəns/",
         "维修",
-        "Practice using \"maintenance\" in a real conversation."
+        "Regular maintenance of your car can prevent costly repairs down the road.",
+        "定期对汽车进行维护可以避免日后高昂的维修费用。"
       ],
       [
         "stairs",
-        "/phrase/",
+        "/steərz/",
         "楼梯",
-        "Practice using \"stairs\" in a real conversation."
+        "I usually take the stairs instead of the elevator to get some extra exercise.",
+        "我通常走楼梯不坐电梯，就当多锻炼一下。"
       ]
     ]
   },
@@ -34189,21 +35929,24 @@ window.dialogueCards = [
     "words": [
       [
         "print",
-        "/phrase/",
+        "/prɪnt/",
         "打印",
-        "Practice using \"print\" in a real conversation."
+        "Could you print this document for me, please?",
+        "请帮我打印这份文件好吗？"
       ],
       [
         "collage",
-        "/phrase/",
+        "/kəˈlɑʒ/",
         "拼贴",
-        "Practice using \"collage\" in a real conversation."
+        "She made a beautiful collage of all the photos from our trip.",
+        "她把我们旅行的所有照片做成了一幅漂亮的拼贴。"
       ],
       [
         "filter",
-        "/phrase/",
+        "/ˈfɪltər/",
         "滤镜",
-        "Practice using \"filter\" in a real conversation."
+        "She used a filter to make the photo look better.",
+        "她用滤镜让照片看起来更好。"
       ]
     ]
   },
@@ -34257,21 +36000,24 @@ window.dialogueCards = [
     "words": [
       [
         "coincidence",
-        "/phrase/",
+        "/koʊˈɪnsɪdəns/",
         "巧合",
-        "Practice using \"coincidence\" in a real conversation."
+        "What a coincidence running into you here — I was just thinking about you!",
+        "在这里碰到你真是太巧了——我刚还在想你呢！"
       ],
       [
         "routine",
-        "/phrase/",
+        "/ruːˈtiːn/",
         "常规、训练计划",
-        "Practice using \"routine\" in a real conversation."
+        "Exercise has become part of my daily routine.",
+        "锻炼已经成为我日常生活的一部分。"
       ],
       [
         "spotter",
-        "/phrase/",
+        "/ˈspɒt.ər/",
         "保护者、辅助者",
-        "Practice using \"spotter\" in a real conversation."
+        "Always have a spotter when you're lifting heavy weights at the gym.",
+        "在健身房举重时一定要有辅助者在旁边保护。"
       ]
     ]
   },
@@ -34325,21 +36071,24 @@ window.dialogueCards = [
     "words": [
       [
         "gondola",
-        "/phrase/",
+        "/ˈɡɒndələ/",
         "贡多拉",
-        "Practice using \"gondola\" in a real conversation."
+        "We took a romantic gondola ride through the canals of Venice at sunset.",
+        "日落时分，我们乘坐浪漫的贡多拉穿行在威尼斯运河上。"
       ],
       [
         "canal",
-        "/phrase/",
+        "/kəˈnæl/",
         "运河",
-        "Practice using \"canal\" in a real conversation."
+        "The Panama Canal connects the Atlantic and Pacific Oceans.",
+        "巴拿马运河连接了大西洋和太平洋。"
       ],
       [
         "gondolier",
-        "/phrase/",
+        "/ˌɡɒndəˈlɪə/",
         "船夫",
-        "Practice using \"gondolier\" in a real conversation."
+        "The gondolier sang traditional Italian songs as he navigated the narrow waterways.",
+        "船夫在狭窄的水道中航行时唱着传统的意大利歌曲。"
       ]
     ]
   },
@@ -34393,21 +36142,24 @@ window.dialogueCards = [
     "words": [
       [
         "bargain",
-        "/phrase/",
+        "/ˈbɑːɡɪn/",
         "讨价还价",
-        "Practice using \"bargain\" in a real conversation."
+        "At the flea market, she loves to bargain with the vendors to get the best price.",
+        "在跳蚤市场，她喜欢和摊贩讨价还价，争取最优价格。"
       ],
       [
         "handmade",
-        "/phrase/",
+        "/ˌhændˈmeɪd/",
         "手工制作的",
-        "Practice using \"handmade\" in a real conversation."
+        "She sells handmade jewelry at the local craft market every weekend.",
+        "她每个周末都在当地手工艺市场卖手工首饰。"
       ],
       [
         "final offer",
-        "/phrase/",
+        "/ˈfaɪnəl ˈɒfə/",
         "最终报价",
-        "Practice using \"final offer\" in a real conversation."
+        "This is my final offer; I'm not willing to negotiate any further.",
+        "这是我最终报价，我不打算再进一步谈判了。"
       ]
     ]
   },
@@ -34461,21 +36213,24 @@ window.dialogueCards = [
     "words": [
       [
         "layover",
-        "/phrase/",
+        "/ˈleɪoʊvər/",
         "中转停留",
-        "Practice using \"layover\" in a real conversation."
+        "We had a three-hour layover in Dubai before our connecting flight.",
+        "我们在迪拜有三个小时的中转停留时间才转机。"
       ],
       [
         "duty-free",
-        "/phrase/",
+        "/ˌdjuːti ˈfriː/",
         "免税的",
-        "Practice using \"duty-free\" in a real conversation."
+        "She bought a bottle of perfume at the duty-free shop in the airport.",
+        "她在机场的免税店买了一瓶香水。"
       ],
       [
         "shipping",
-        "/phrase/",
+        "/ˈʃɪpɪŋ/",
         "运送、运费",
-        "Practice using \"shipping\" in a real conversation."
+        "The product is free, but you still have to pay for shipping.",
+        "产品是免费的，但您仍需支付运费。"
       ]
     ]
   },
@@ -34512,8 +36267,8 @@ window.dialogueCards = [
       ],
       [
         "B",
-        "\"Iron Man Mike\" - because he never seems to get tired!",
-        "\"钢铁侠迈克\"——因为他好像从来不会累！"
+        "Iron Man Mike - because he never seems to get tired!",
+        "钢铁侠迈克——因为他好像从来不会累！"
       ],
       [
         "A",
@@ -34529,21 +36284,24 @@ window.dialogueCards = [
     "words": [
       [
         "nickname",
-        "/phrase/",
+        "/ˈnɪkneɪm/",
         "绰号、昵称",
-        "Practice using \"nickname\" in a real conversation."
+        "His teammates gave him the nickname \"Flash\" because of his speed.",
+        "因为他速度快，队友给他起了个绰号叫\"闪电\"。"
       ],
       [
         "wizard",
-        "/phrase/",
+        "/ˈwɪzərd/",
         "巫师、高手",
-        "Practice using \"wizard\" in a real conversation."
+        "He's a real wizard with spreadsheets; he can make Excel do anything.",
+        "他在电子表格方面真是个高手，能让Excel做任何事。"
       ],
       [
         "hilarious",
-        "/phrase/",
+        "/hɪˈleəriəs/",
         "滑稽的、搞笑的",
-        "Practice using \"hilarious\" in a real conversation."
+        "The comedian's jokes were so hilarious that I couldn't stop laughing.",
+        "那位喜剧演员的笑话太搞笑了，我笑得停不下来。"
       ]
     ]
   },
@@ -34597,21 +36355,24 @@ window.dialogueCards = [
     "words": [
       [
         "brainstorm",
-        "/phrase/",
+        "/ˈbreɪnstɔːm/",
         "头脑风暴",
-        "Practice using \"brainstorm\" in a real conversation."
+        "Let's brainstorm some ideas for the marketing campaign.",
+        "我们来头脑风暴一下营销活动的创意吧。"
       ],
       [
         "augmented reality",
-        "/phrase/",
+        "/ɔːɡˌmentɪd riˈæləti/",
         "增强现实",
-        "Practice using \"augmented reality\" in a real conversation."
+        "The app uses augmented reality to show how furniture would look in your home.",
+        "这个应用利用增强现实来展示家具摆在你家里的效果。"
       ],
       [
         "influencer",
-        "/phrase/",
+        "/ˈɪnfluənsə/",
         "网红、影响者",
-        "Practice using \"influencer\" in a real conversation."
+        "The beauty influencer has over two million followers on her social media channels.",
+        "那位美妆网红在她的社交媒体频道上有超过两百万粉丝。"
       ]
     ]
   },
@@ -34665,21 +36426,24 @@ window.dialogueCards = [
     "words": [
       [
         "retirement",
-        "/phrase/",
+        "/rɪˈtaɪərmənt/",
         "退休",
-        "Practice using \"retirement\" in a real conversation."
+        "After forty years of teaching, he looked forward to a peaceful retirement.",
+        "教书四十年后，他期待着平静的退休生活。"
       ],
       [
         "mentor",
-        "/phrase/",
+        "/ˈmentɔːr/",
         "导师",
-        "Practice using \"mentor\" in a real conversation."
+        "A good mentor can help you navigate the early years of your career.",
+        "一位好的导师能帮你度过职业生涯的初期。"
       ],
       [
         "treasure",
-        "/phrase/",
+        "/ˈtrɛʒər/",
         "珍惜、珍藏",
-        "Practice using \"treasure\" in a real conversation."
+        "I will always treasure the letters my grandmother wrote to me.",
+        "我会永远珍藏祖母写给我的信。"
       ]
     ]
   },
@@ -34733,21 +36497,24 @@ window.dialogueCards = [
     "words": [
       [
         "delivery order",
-        "/phrase/",
+        "/dɪˈlɪvəri ˈɔrdər/",
         "外卖订单",
-        "Practice using \"delivery order\" in a real conversation."
+        "I placed a delivery order through the food app for dinner.",
+        "我通过外卖App下了一个晚餐的外卖订单。"
       ],
       [
         "soy garlic",
-        "/phrase/",
+        "/sɔɪ ˈɡɑːrlɪk/",
         "酱油蒜香",
-        "Practice using \"soy garlic\" in a real conversation."
+        "The soy garlic fried chicken was crispy on the outside and juicy inside.",
+        "酱油蒜香炸鸡外酥里嫩。"
       ],
       [
         "minimum order",
-        "/phrase/",
+        "/ˈmɪnɪməm ˈɔːrdər/",
         "最低消费",
-        "Practice using \"minimum order\" in a real conversation."
+        "The restaurant has a minimum order of ten dollars per person.",
+        "这家餐厅每人最低消费十美元。"
       ]
     ]
   },
@@ -34801,21 +36568,24 @@ window.dialogueCards = [
     "words": [
       [
         "authentic",
-        "/phrase/",
+        "/ɔːˈθentɪk/",
         "正宗的",
-        "Practice using \"authentic\" in a real conversation."
+        "This restaurant serves the most authentic Sichuan food in the city.",
+        "这家餐厅供应全城最正宗的四川菜。"
       ],
       [
         "shredded",
-        "/phrase/",
+        "/ˈʃrɛdɪd/",
         "切碎的、撕碎的",
-        "Practice using \"shredded\" in a real conversation."
+        "The recipe calls for shredded carrots and chopped onions.",
+        "这个食谱需要切碎的胡萝卜和切好的洋葱。"
       ],
       [
         "underrated",
-        "/phrase/",
+        "/ˌʌndərˈreɪtɪd/",
         "被低估的",
-        "Practice using \"underrated\" in a real conversation."
+        "This small restaurant is seriously underrated; the food is amazing.",
+        "这家小餐馆被严重低估了，食物非常美味。"
       ]
     ]
   },
@@ -34869,21 +36639,24 @@ window.dialogueCards = [
     "words": [
       [
         "plant-based",
-        "/phrase/",
+        "/ˈplænt beɪst/",
         "植物基的",
-        "Practice using \"plant-based\" in a real conversation."
+        "More people are switching to a plant-based diet for health and environmental reasons.",
+        "越来越多人出于健康和环保原因转向植物基饮食。"
       ],
       [
         "burger",
-        "/phrase/",
+        "/ˈbɜːɡə(r)/",
         "汉堡",
-        "Practice using \"burger\" in a real conversation."
+        "I'll have a cheeseburger with fries and a milkshake, please.",
+        "我要一个芝士汉堡配薯条和一杯奶昔。"
       ],
       [
         "milkshake",
-        "/phrase/",
+        "/ˈmɪlkʃeɪk/",
         "奶昔",
-        "Practice using \"milkshake\" in a real conversation."
+        "The diner is famous for its thick chocolate milkshakes.",
+        "那家餐厅以浓稠的巧克力奶昔闻名。"
       ]
     ]
   },
@@ -34937,21 +36710,24 @@ window.dialogueCards = [
     "words": [
       [
         "engagement ring",
-        "/phrase/",
+        "/ɪnˈɡeɪdʒmənt rɪŋ/",
         "订婚戒指",
-        "Practice using \"engagement ring\" in a real conversation."
+        "He got down on one knee and presented her with a diamond engagement ring.",
+        "他单膝跪地，向她献上了一枚钻石订婚戒指。"
       ],
       [
         "carat",
-        "/phrase/",
+        "/ˈkærət/",
         "克拉",
-        "Practice using \"carat\" in a real conversation."
+        "Her engagement ring has a two-carat diamond.",
+        "她的订婚戒指上有一颗两克拉的钻石。"
       ],
       [
         "clarity",
-        "/phrase/",
+        "/ˈklærəti/",
         "净度",
-        "Practice using \"clarity\" in a real conversation."
+        "The diamond's clarity determines how brilliant and valuable it is.",
+        "钻石的净度决定了它的光彩和价值。"
       ]
     ]
   },
@@ -35005,21 +36781,24 @@ window.dialogueCards = [
     "words": [
       [
         "tent",
-        "/phrase/",
+        "/tɛnt/",
         "帐篷",
-        "Practice using \"tent\" in a real conversation."
+        "We pitched the tent near the river and built a campfire as the sun went down.",
+        "我们在河边搭起帐篷，太阳下山时生起了篝火。"
       ],
       [
         "waterproof",
-        "/phrase/",
+        "/ˈwɔːtərˌpruːf/",
         "防水的",
-        "Practice using \"waterproof\" in a real conversation."
+        "Make sure your hiking boots are waterproof before heading out in the rain.",
+        "雨天出发前确保你的登山靴是防水的。"
       ],
       [
         "ultralight",
-        "/phrase/",
+        "/ˌʌltrəˈlaɪt/",
         "超轻的",
-        "Practice using \"ultralight\" in a real conversation."
+        "The ultralight backpacking tent weighs less than two pounds.",
+        "这款超轻露营帐篷重量不到两磅。"
       ]
     ]
   },
@@ -35073,21 +36852,24 @@ window.dialogueCards = [
     "words": [
       [
         "authenticate",
-        "/phrase/",
+        "/ɔːˈθentɪkeɪt/",
         "鉴定真伪",
-        "Practice using \"authenticate\" in a real conversation."
+        "The expert was called in to authenticate the painting before the auction.",
+        "拍卖前请来了专家鉴定这幅画的真伪。"
       ],
       [
         "serial number",
-        "/phrase/",
+        "/ˈsɪəriəl ˈnʌmbər/",
         "序列号",
-        "Practice using \"serial number\" in a real conversation."
+        "Please write down the serial number on the back of the device for warranty registration.",
+        "请记下设备背面的序列号以便保修注册。"
       ],
       [
         "vintage",
-        "/phrase/",
+        "/ˈvɪntɪdʒ/",
         "复古的、老款的",
-        "Practice using \"vintage\" in a real conversation."
+        "She loves shopping for vintage clothes at thrift stores and flea markets.",
+        "她喜欢在二手店和跳蚤市场淘复古服装。"
       ]
     ]
   },
@@ -35141,21 +36923,24 @@ window.dialogueCards = [
     "words": [
       [
         "beaker",
-        "/phrase/",
+        "/ˈbiːkə(r)/",
         "烧杯",
-        "Practice using \"beaker\" in a real conversation."
+        "She carefully poured the solution from the beaker into a test tube.",
+        "她小心地将烧杯中的溶液倒入试管中。"
       ],
       [
         "neutralize",
-        "/phrase/",
+        "/ˈnjuːtrəlaɪz/",
         "中和",
-        "Practice using \"neutralize\" in a real conversation."
+        "Baking soda can help neutralize the acidity in tomato sauce.",
+        "小苏打可以帮助中和番茄酱中的酸味。"
       ],
       [
         "protocol",
-        "/phrase/",
+        "/ˈproʊtəkɒl/",
         "规程、方案",
-        "Practice using \"protocol\" in a real conversation."
+        "All employees must follow the safety protocol when handling hazardous materials.",
+        "所有员工在处理危险材料时必须遵循安全规程。"
       ]
     ]
   },
@@ -35209,21 +36994,24 @@ window.dialogueCards = [
     "words": [
       [
         "scratch",
-        "/phrase/",
+        "/skrætʃ/",
         "擦伤",
-        "Practice using \"scratch\" in a real conversation."
+        "He got a small scratch on his knee after falling off his bicycle.",
+        "他从自行车上摔下来后膝盖上擦伤了一小块。"
       ],
       [
         "first aid kit",
-        "/phrase/",
+        "/ˌfɜːst ˈeɪd kɪt/",
         "急救包",
-        "Practice using \"first aid kit\" in a real conversation."
+        "Every car should have a basic first aid kit for emergencies.",
+        "每辆车都应该备有一个基本急救包以备不时之需。"
       ],
       [
         "bandage",
-        "/phrase/",
+        "/ˈbændɪdʒ/",
         "绷带、创可贴",
-        "Practice using \"bandage\" in a real conversation."
+        "The nurse wrapped a bandage around his injured ankle.",
+        "护士用绷带包扎了他受伤的脚踝。"
       ]
     ]
   },
@@ -35277,21 +37065,24 @@ window.dialogueCards = [
     "words": [
       [
         "recite",
-        "/phrase/",
+        "/rɪˈsaɪt/",
         "朗诵",
-        "Practice using \"recite\" in a real conversation."
+        "The student was asked to recite a poem from memory in front of the class.",
+        "那位学生被要求在全班面前背诵一首诗。"
       ],
       [
         "stumble",
-        "/phrase/",
+        "/ˈstʌmbəl/",
         "绊倒、卡壳",
-        "Practice using \"stumble\" in a real conversation."
+        "He stumbled over a loose stone on the path but managed to keep his balance.",
+        "他被路上一块松动的石头绊了一下，但设法保持了平衡。"
       ],
       [
         "goosebump",
-        "/phrase/",
+        "/ˈɡuːsbʌmp/",
         "鸡皮疙瘩",
-        "Practice using \"goosebump\" in a real conversation."
+        "The haunting melody gave me goosebumps from the very first note.",
+        "那首令人难忘的旋律从第一个音符就让我起了鸡皮疙瘩。"
       ]
     ]
   },
@@ -35345,21 +37136,24 @@ window.dialogueCards = [
     "words": [
       [
         "escape room",
-        "/phrase/",
+        "/ɪˈskeɪp ruːm/",
         "密室逃脱",
-        "Practice using \"escape room\" in a real conversation."
+        "We managed to solve all the puzzles and escape the room with two minutes to spare.",
+        "我们成功解开了所有谜题，提前两分钟逃出了密室。"
       ],
       [
         "clue",
-        "/phrase/",
+        "/kluː/",
         "线索",
-        "Practice using \"clue\" in a real conversation."
+        "The detective found a crucial clue that finally solved the mystery.",
+        "侦探找到了一个关键线索，最终解开了谜团。"
       ],
       [
         "riddle",
-        "/phrase/",
+        "/ˈrɪdəl/",
         "谜语",
-        "Practice using \"riddle\" in a real conversation."
+        "Can you solve this riddle: what has keys but can't open locks?",
+        "你能解开这个谜语吗：什么东西有键却打不开锁？"
       ]
     ]
   },
@@ -35413,21 +37207,24 @@ window.dialogueCards = [
     "words": [
       [
         "propose",
-        "/phrase/",
+        "/prəˈpoʊz/",
         "求婚",
-        "Practice using \"propose\" in a real conversation."
+        "He planned to propose to his girlfriend during their trip to Paris.",
+        "他计划在去巴黎旅行时向女友求婚。"
       ],
       [
         "rehearsal",
-        "/phrase/",
+        "/rɪˈhɜːrsəl/",
         "排练",
-        "Practice using \"rehearsal\" in a real conversation."
+        "The band had a final rehearsal the night before the big concert.",
+        "乐队在大型演唱会的前一晚进行了最后一次排练。"
       ],
       [
         "signal",
-        "/phrase/",
+        "/ˈsɪɡnəl/",
         "信号",
-        "Practice using \"signal\" in a real conversation."
+        "The phone couldn't get a signal in the remote mountain area.",
+        "手机在偏远的山区没有信号。"
       ]
     ]
   },
@@ -35481,21 +37278,24 @@ window.dialogueCards = [
     "words": [
       [
         "crosstalk",
-        "/phrase/",
+        "/ˈkrɒstɔːk/",
         "相声",
-        "Practice using \"crosstalk\" in a real conversation."
+        "The crosstalk performance had the audience roaring with laughter at every punchline.",
+        "相声表演的每个包袱都让观众捧腹大笑。"
       ],
       [
         "comedian",
-        "/phrase/",
+        "/kəˈmiːdiən/",
         "喜剧演员",
-        "Practice using \"comedian\" in a real conversation."
+        "The comedian had the entire audience laughing from the moment he walked on stage.",
+        "这位喜剧演员一上台就让全场观众笑个不停。"
       ],
       [
         "pun",
-        "/phrase/",
+        "/pʌn/",
         "双关语",
-        "Practice using \"pun\" in a real conversation."
+        "He loves making puns, even when everyone groans at how bad they are.",
+        "他喜欢说双关语，即使大家听了都发出嫌弃的呻吟声。"
       ]
     ]
   },
@@ -35549,21 +37349,24 @@ window.dialogueCards = [
     "words": [
       [
         "burn",
-        "/phrase/",
+        "/bɜːn/",
         "烧伤、烫伤",
-        "Practice using \"burn\" in a real conversation."
+        "She suffered a minor burn while taking the tray out of the oven.",
+        "她从烤箱里取出烤盘时被轻微烫伤了。"
       ],
       [
         "blister",
-        "/phrase/",
+        "/ˈblɪstə(r)/",
         "水泡",
-        "Practice using \"blister\" in a real conversation."
+        "After hiking for ten miles, she had a painful blister on her heel.",
+        "徒步走了十英里后，她脚后跟上起了一个疼的水泡。"
       ],
       [
         "dressing",
-        "/phrase/",
+        "/ˈdresɪŋ/",
         "敷料、包扎",
-        "Practice using \"dressing\" in a real conversation."
+        "The nurse changed the dressing on my wound twice a day.",
+        "护士每天两次为我更换伤口上的敷料。"
       ]
     ]
   },
@@ -35617,21 +37420,24 @@ window.dialogueCards = [
     "words": [
       [
         "diagnosis",
-        "/phrase/",
+        "/ˌdaɪəɡˈnəʊsɪs/",
         "诊断",
-        "Practice using \"diagnosis\" in a real conversation."
+        "The doctor's diagnosis confirmed that it was a mild case of bronchitis.",
+        "医生的诊断确认这是轻度支气管炎。"
       ],
       [
         "lumpectomy",
-        "/phrase/",
+        "/lʌmˈpektəmi/",
         "肿块切除术",
-        "Practice using \"lumpectomy\" in a real conversation."
+        "The doctor recommended a lumpectomy rather than a full mastectomy.",
+        "医生建议做肿块切除术而不是全乳切除。"
       ],
       [
         "radiation therapy",
-        "/phrase/",
+        "/ˌreɪdiˈeɪʃən ˈθerəpi/",
         "放射治疗",
-        "Practice using \"radiation therapy\" in a real conversation."
+        "After surgery, the patient underwent several weeks of radiation therapy.",
+        "手术后，病人接受了几周的放射治疗。"
       ]
     ]
   },
@@ -35685,21 +37491,24 @@ window.dialogueCards = [
     "words": [
       [
         "vaccine",
-        "/phrase/",
+        "/vækˈsiːn/",
         "疫苗",
-        "Practice using \"vaccine\" in a real conversation."
+        "Scientists worked around the clock to develop a vaccine for the new virus.",
+        "科学家们日夜不停地工作，为新型病毒研发疫苗。"
       ],
       [
         "dose",
-        "/phrase/",
+        "/dəʊs/",
         "剂量、针次",
-        "Practice using \"dose\" in a real conversation."
+        "Make sure you take the correct dose of medicine at the prescribed time.",
+        "请确保在指定时间服用正确剂量的药物。"
       ],
       [
         "side effect",
-        "/phrase/",
+        "/ˈsaɪd ɪˌfekt/",
         "副作用",
-        "Practice using \"side effect\" in a real conversation."
+        "The medicine works well, but drowsiness is a common side effect.",
+        "这个药效果很好，但嗜睡是常见的副作用。"
       ]
     ]
   },
@@ -35753,21 +37562,24 @@ window.dialogueCards = [
     "words": [
       [
         "package",
-        "/phrase/",
+        "/ˈpækɪdʒ/",
         "包裹",
-        "Practice using \"package\" in a real conversation."
+        "A package arrived for you this morning — it's on the kitchen table.",
+        "今天早上有一个你的包裹到了——在厨房桌子上。"
       ],
       [
         "tracking",
-        "/phrase/",
+        "/ˈtrækɪŋ/",
         "追踪",
-        "Practice using \"tracking\" in a real conversation."
+        "The delivery company provides real-time tracking so you know exactly when your package will arrive.",
+        "快递公司提供实时追踪服务，让你清楚知道包裹何时到达。"
       ],
       [
         "customs",
-        "/phrase/",
+        "/ˈkʌstəmz/",
         "海关",
-        "Practice using \"customs\" in a real conversation."
+        "We had to declare our purchases at customs when we arrived at the airport.",
+        "到达机场时，我们必须在海关申报购买的商品。"
       ]
     ]
   },
@@ -35821,21 +37633,24 @@ window.dialogueCards = [
     "words": [
       [
         "cafeteria",
-        "/phrase/",
+        "/ˌkæfəˈtɪəriə/",
         "食堂、自助餐厅",
-        "Practice using \"cafeteria\" in a real conversation."
+        "Students line up in the cafeteria every day at noon for lunch.",
+        "学生们每天中午在食堂排队吃午饭。"
       ],
       [
         "station",
-        "/phrase/",
+        "/ˈsteɪʃən/",
         "档口、站点",
-        "Practice using \"station\" in a real conversation."
+        "Each food station at the night market offers a different local specialty.",
+        "夜市里的每个美食档口都提供不同的地方特色小吃。"
       ],
       [
         "dessert",
-        "/phrase/",
+        "/dɪˈzɜːt/",
         "甜点",
-        "Practice using \"dessert\" in a real conversation."
+        "For dessert, we had a rich chocolate lava cake with vanilla ice cream.",
+        "甜点我们吃了浓郁的巧克力熔岩蛋糕配香草冰淇淋。"
       ]
     ]
   },
@@ -35889,21 +37704,24 @@ window.dialogueCards = [
     "words": [
       [
         "pet",
-        "/phrase/",
+        "/pet/",
         "抚摸、宠物",
-        "Practice using \"pet\" in a real conversation."
+        "She gently petted the cat as it curled up on her lap.",
+        "当猫咪蜷缩在她腿上时，她轻轻地抚摸着它。"
       ],
       [
         "breed",
-        "/phrase/",
+        "/briːd/",
         "品种",
-        "Practice using \"breed\" in a real conversation."
+        "Golden Retrievers are a very popular dog breed.",
+        "金毛寻回犬是一种非常受欢迎的犬种。"
       ],
       [
         "exercise",
-        "/phrase/",
+        "/ˈeksərsaɪz/",
         "运动、锻炼",
-        "Practice using \"exercise\" in a real conversation."
+        "Regular exercise is important for maintaining good health.",
+        "经常锻炼对保持健康很重要。"
       ]
     ]
   },
@@ -35957,21 +37775,24 @@ window.dialogueCards = [
     "words": [
       [
         "geothermal",
-        "/phrase/",
+        "/ˌdʒiːəʊˈθɜːməl/",
         "地热的",
-        "Practice using \"geothermal\" in a real conversation."
+        "Iceland relies heavily on geothermal energy for heating and electricity.",
+        "冰岛大量依赖地热能来供暖和发电。"
       ],
       [
         "mineral",
-        "/phrase/",
+        "/ˈmɪnərəl/",
         "矿物质",
-        "Practice using \"mineral\" in a real conversation."
+        "This spring water is rich in natural minerals.",
+        "这种泉水富含天然矿物质。"
       ],
       [
         "silica",
-        "/phrase/",
+        "/ˈsɪlɪkə/",
         "二氧化硅、硅藻",
-        "Practice using \"silica\" in a real conversation."
+        "Silica gel packets are often included in packaging to absorb moisture.",
+        "包装中常放入硅胶干燥剂来吸收潮气。"
       ]
     ]
   },
@@ -36025,21 +37846,24 @@ window.dialogueCards = [
     "words": [
       [
         "sunrise",
-        "/phrase/",
+        "/ˈsʌnˌraɪz/",
         "日出",
-        "Practice using \"sunrise\" in a real conversation."
+        "We woke up early to watch the sunrise over the ocean from the beach.",
+        "我们早起去海滩看海上日出。"
       ],
       [
         "silhouette",
-        "/phrase/",
+        "/ˌsɪluˈɛt/",
         "轮廓、剪影",
-        "Practice using \"silhouette\" in a real conversation."
+        "The silhouette of the castle against the sunset was breathtaking.",
+        "城堡在落日映衬下的剪影美得令人屏息。"
       ],
       [
         "legendary",
-        "/phrase/",
+        "/ˈledʒənderi/",
         "传奇的",
-        "Practice using \"legendary\" in a real conversation."
+        "The legendary guitarist performed to a sold-out crowd.",
+        "那位传奇吉他手在座无虚席的观众面前表演。"
       ]
     ]
   },
@@ -36093,21 +37917,24 @@ window.dialogueCards = [
     "words": [
       [
         "altitude",
-        "/phrase/",
+        "/ˈæltɪtjuːd/",
         "海拔",
-        "Practice using \"altitude\" in a real conversation."
+        "The mountain has an altitude of over 4,000 meters.",
+        "这座山的海拔超过4000米。"
       ],
       [
         "glacier",
-        "/phrase/",
+        "/ˈɡlæsiə/",
         "冰川",
-        "Practice using \"glacier\" in a real conversation."
+        "The glacier has been retreating at an alarming rate due to climate change.",
+        "由于气候变化，冰川正以惊人的速度消退。"
       ],
       [
         "panoramic",
-        "/phrase/",
+        "/ˌpænəˈræmɪk/",
         "全景的",
-        "Practice using \"panoramic\" in a real conversation."
+        "The hotel room had a panoramic view of the entire city skyline.",
+        "酒店房间可以看到整个城市天际线的全景。"
       ]
     ]
   },
@@ -36161,21 +37988,24 @@ window.dialogueCards = [
     "words": [
       [
         "anonymous",
-        "/phrase/",
+        "/əˈnɒnɪməs/",
         "匿名的",
-        "Practice using \"anonymous\" in a real conversation."
+        "The donation was made by an anonymous benefactor.",
+        "这笔捐款是一位匿名的捐助人捐赠的。"
       ],
       [
         "feedback",
-        "/phrase/",
+        "/ˈfiːdbæk/",
         "反馈",
-        "Practice using \"feedback\" in a real conversation."
+        "I'd appreciate your honest feedback on the first draft of my essay.",
+        "如果你能对我论文的初稿给出诚实反馈，我会很感激。"
       ],
       [
         "nominate",
-        "/phrase/",
+        "/ˈnɒmɪneɪt/",
         "提名",
-        "Practice using \"nominate\" in a real conversation."
+        "The committee decided to nominate her for the employee of the year award.",
+        "委员会决定提名她参选年度最佳员工。"
       ]
     ]
   },
@@ -36229,21 +38059,24 @@ window.dialogueCards = [
     "words": [
       [
         "teething",
-        "/phrase/",
+        "/ˈtiːðɪŋ/",
         "长牙",
-        "Practice using \"teething\" in a real conversation."
+        "The baby has been fussy lately because she is teething.",
+        "宝宝最近烦躁不安，因为她在长牙。"
       ],
       [
         "soothe",
-        "/phrase/",
+        "/suːð/",
         "安抚",
-        "Practice using \"soothe\" in a real conversation."
+        "The mother sang a lullaby to soothe her crying baby to sleep.",
+        "母亲唱了一首摇篮曲安抚哭泣的宝宝入睡。"
       ],
       [
         "overwhelming",
-        "/phrase/",
+        "/ˌoʊvərˈwelmɪŋ/",
         "不知所措的",
-        "Practice using \"overwhelming\" in a real conversation."
+        "The amount of paperwork was overwhelming at first, but I got used to it.",
+        "一开始文书工作的量让人不知所措，但我慢慢习惯了。"
       ]
     ]
   },
@@ -36297,21 +38130,24 @@ window.dialogueCards = [
     "words": [
       [
         "venue",
-        "/phrase/",
+        "/ˈvɛnjuː/",
         "场地",
-        "Practice using \"venue\" in a real conversation."
+        "The wedding venue was a beautiful garden overlooking the lake.",
+        "婚礼场地是一个俯瞰湖面的美丽花园。"
       ],
       [
         "compromise",
-        "/phrase/",
+        "/ˈkɒmprəmaɪz/",
         "妥协、折中",
-        "Practice using \"compromise\" in a real conversation."
+        "A good marriage requires both partners to compromise from time to time.",
+        "好的婚姻需要双方时不时地做出妥协。"
       ],
       [
         "budget",
-        "/phrase/",
+        "/ˈbʌdʒɪt/",
         "预算",
-        "Practice using \"budget\" in a real conversation."
+        "We need to set a budget for the wedding.",
+        "我们需要为婚礼制定预算。"
       ]
     ]
   },
@@ -36365,21 +38201,24 @@ window.dialogueCards = [
     "words": [
       [
         "mariachi",
-        "/phrase/",
+        "/ˌmɑːriˈɑːtʃi/",
         "墨西哥流浪乐队",
-        "Practice using \"mariachi\" in a real conversation."
+        "A mariachi band played lively music at the wedding reception.",
+        "一支墨西哥流浪乐队在婚宴上演奏了欢快的音乐。"
       ],
       [
         "guacamole",
-        "/phrase/",
+        "/ˌɡwækəˈməʊli/",
         "鳄梨酱",
-        "Practice using \"guacamole\" in a real conversation."
+        "The homemade guacamole with fresh cilantro and lime was the highlight of the meal.",
+        "加了新鲜香菜和青柠的自制鳄梨酱是这顿饭的亮点。"
       ],
       [
         "margarita",
-        "/phrase/",
+        "/ˌmɑːrɡəˈriːtə/",
         "玛格丽特鸡尾酒",
-        "Practice using \"margarita\" in a real conversation."
+        "We sipped frozen margaritas while watching the sunset over the ocean.",
+        "我们一边喝着冰镇玛格丽特，一边看海上的日落。"
       ]
     ]
   },
@@ -36433,21 +38272,24 @@ window.dialogueCards = [
     "words": [
       [
         "pierogi",
-        "/phrase/",
+        "/pɪˈroʊɡi/",
         "波兰饺子",
-        "Practice using \"pierogi\" in a real conversation."
+        "My grandmother makes the best pierogi filled with potato and cheese.",
+        "我奶奶做的波兰饺子最好吃，里面是土豆和奶酪馅。"
       ],
       [
         "dumpling",
-        "/phrase/",
+        "/ˈdʌmplɪŋ/",
         "饺子、团子",
-        "Practice using \"dumpling\" in a real conversation."
+        "My grandmother's pork and chive dumplings are the best I've ever tasted.",
+        "我奶奶做的猪肉韭菜饺子是我吃过最好吃的。"
       ],
       [
         "sour cream",
-        "/phrase/",
+        "/ˈsaʊər kriːm/",
         "酸奶油",
-        "Practice using \"sour cream\" in a real conversation."
+        "Top the baked potato with a dollop of sour cream and chives.",
+        "在烤土豆上加一勺酸奶油和细香葱。"
       ]
     ]
   },
@@ -36501,21 +38343,24 @@ window.dialogueCards = [
     "words": [
       [
         "portion",
-        "/phrase/",
+        "/ˈpɔːrʃən/",
         "份量",
-        "Practice using \"portion\" in a real conversation."
+        "The portions at that restaurant are so large I always have leftovers.",
+        "那家餐厅的份量太大了，我总是吃不完。"
       ],
       [
         "complimentary",
-        "/phrase/",
+        "/ˌkɒmplɪˈmentəri/",
         "免费赠送的",
-        "Practice using \"complimentary\" in a real conversation."
+        "The hotel offers complimentary breakfast to all guests.",
+        "酒店为所有客人提供免费赠送的早餐。"
       ],
       [
         "on the house",
-        "/phrase/",
+        "/ɒn ðə haʊs/",
         "店家请客、免费的",
-        "Practice using \"on the house\" in a real conversation."
+        "The bartender said the first round of drinks was on the house.",
+        "酒保说第一轮酒水是店家请客。"
       ]
     ]
   },
@@ -36569,21 +38414,24 @@ window.dialogueCards = [
     "words": [
       [
         "noise-cancelling",
-        "/phrase/",
+        "/ˈnɔɪz ˌkænsəlɪŋ/",
         "降噪的",
-        "Practice using \"noise-cancelling\" in a real conversation."
+        "I always use noise-cancelling headphones when working in a busy café.",
+        "在嘈杂的咖啡馆工作时我总是用降噪耳机。"
       ],
       [
         "bass",
-        "/phrase/",
+        "/beɪs/",
         "低音",
-        "Practice using \"bass\" in a real conversation."
+        "The bass from the speakers was so powerful it made the floor vibrate.",
+        "音响的低音太强了，地板都在震动。"
       ],
       [
         "sound profile",
-        "/phrase/",
+        "/saʊnd ˈproʊfaɪl/",
         "音质特点",
-        "Practice using \"sound profile\" in a real conversation."
+        "These headphones have a balanced sound profile suitable for all music genres.",
+        "这款耳机具有均衡的音质特点，适合所有音乐类型。"
       ]
     ]
   },
@@ -36637,21 +38485,24 @@ window.dialogueCards = [
     "words": [
       [
         "viewfinder",
-        "/phrase/",
+        "/ˈvjuːˌfaɪndər/",
         "取景器",
-        "Practice using \"viewfinder\" in a real conversation."
+        "He looked through the viewfinder and carefully composed the shot before pressing the shutter.",
+        "他通过取景器观看，在按下快门前仔细构图。"
       ],
       [
         "shutter",
-        "/phrase/",
+        "/ˈʃʌtər/",
         "快门",
-        "Practice using \"shutter\" in a real conversation."
+        "He adjusted the shutter speed to capture the bird in mid-flight.",
+        "他调整了快门速度以捕捉飞行中的鸟儿。"
       ],
       [
         "rangefinder",
-        "/phrase/",
+        "/ˈreɪndʒˌfaɪndər/",
         "测距仪",
-        "Practice using \"rangefinder\" in a real conversation."
+        "The photographer used a rangefinder to measure the distance to the subject.",
+        "摄影师用测距仪测量到拍摄对象的距离。"
       ]
     ]
   },
@@ -36705,21 +38556,24 @@ window.dialogueCards = [
     "words": [
       [
         "massage",
-        "/phrase/",
+        "/məˈsɑʒ/",
         "按摩",
-        "Practice using \"massage\" in a real conversation."
+        "A deep tissue massage helped relieve the tension in my shoulders.",
+        "深层组织按摩帮我缓解了肩部的紧张感。"
       ],
       [
         "discreet",
-        "/phrase/",
+        "/dɪˈskriːt/",
         "谨慎的、低调的",
-        "Practice using \"discreet\" in a real conversation."
+        "He was very discreet about his wealth and never flaunted it.",
+        "他对自己的财富非常低调，从不炫耀。"
       ],
       [
         "intimidating",
-        "/phrase/",
+        "/ɪnˈtɪmɪdeɪtɪŋ/",
         "令人生畏的",
-        "Practice using \"intimidating\" in a real conversation."
+        "Walking into a room full of senior executives can be intimidating at first.",
+        "走进坐满高管的房间起初可能令人生畏。"
       ]
     ]
   },
@@ -36746,7 +38600,7 @@ window.dialogueCards = [
       ],
       [
         "B",
-        "\"Where the Crawdads Sing.\" It's beautifully written - part mystery, part coming-of-age story.",
+        "Where the Crawdads Sing. It's beautifully written - part mystery, part coming-of-age story.",
         "《沼泽深处的女孩》。写得非常美——既是悬疑又是成长故事。"
       ],
       [
@@ -36773,21 +38627,24 @@ window.dialogueCards = [
     "words": [
       [
         "lawn",
-        "/phrase/",
+        "/lɔːn/",
         "草坪",
-        "Practice using \"lawn\" in a real conversation."
+        "He spends every Saturday morning mowing the lawn.",
+        "他每个周六早上都在修剪草坪。"
       ],
       [
         "novel",
-        "/phrase/",
+        "/ˈnɒvəl/",
         "小说",
-        "Practice using \"novel\" in a real conversation."
+        "She stayed up all night to finish reading the novel.",
+        "她熬夜看完了那本小说。"
       ],
       [
         "bliss",
-        "/phrase/",
+        "/blɪs/",
         "极乐、幸福",
-        "Practice using \"bliss\" in a real conversation."
+        "Sitting on the beach with a good book was pure bliss.",
+        "坐在沙滩上看一本好书，简直是极乐般的享受。"
       ]
     ]
   },
@@ -36841,21 +38698,24 @@ window.dialogueCards = [
     "words": [
       [
         "grad trip",
-        "/phrase/",
+        "/ˈɡræd trɪp/",
         "毕业旅行",
-        "Practice using \"grad trip\" in a real conversation."
+        "We're planning a grad trip to Thailand to celebrate finishing university.",
+        "我们正在计划一次去泰国的毕业旅行来庆祝大学毕业。"
       ],
       [
         "budget",
-        "/phrase/",
+        "/ˈbʌdʒɪt/",
         "预算",
-        "Practice using \"budget\" in a real conversation."
+        "We need to set a budget for the wedding.",
+        "我们需要为婚礼制定预算。"
       ],
       [
         "landscape",
-        "/phrase/",
+        "/ˈlændskeɪp/",
         "风景、地貌",
-        "Practice using \"landscape\" in a real conversation."
+        "The dramatic landscape of the Scottish Highlands took our breath away.",
+        "苏格兰高地壮丽的风景让我们叹为观止。"
       ]
     ]
   },
@@ -36909,21 +38769,24 @@ window.dialogueCards = [
     "words": [
       [
         "counselor",
-        "/phrase/",
+        "/ˈkaʊnsələ(r)/",
         "咨询师",
-        "Practice using \"counselor\" in a real conversation."
+        "She sees a counselor once a week to help manage her stress.",
+        "她每周去看一次咨询师来帮助管理压力。"
       ],
       [
         "anxiety",
-        "/phrase/",
+        "/æŋˈzaɪəti/",
         "焦虑",
-        "Practice using \"anxiety\" in a real conversation."
+        "He has been dealing with anxiety ever since he started his new job.",
+        "自从开始新工作以来，他一直受焦虑困扰。"
       ],
       [
         "grounding technique",
-        "/phrase/",
+        "/ˈɡraʊndɪŋ tekˈniːk/",
         "接地技巧",
-        "Practice using \"grounding technique\" in a real conversation."
+        "When I feel anxious, I use the 5-4-3-2-1 grounding technique to calm down.",
+        "当我感到焦虑时，我会用5-4-3-2-1接地技巧来平静下来。"
       ]
     ]
   },
@@ -36977,21 +38840,24 @@ window.dialogueCards = [
     "words": [
       [
         "chop",
-        "/phrase/",
+        "/tʃɒp/",
         "切",
-        "Practice using \"chop\" in a real conversation."
+        "Chop the onions finely before adding them to the pan.",
+        "把洋葱切碎后再放入锅中。"
       ],
       [
         "recipe",
-        "/phrase/",
+        "/ˈresɪpi/",
         "食谱",
-        "Practice using \"recipe\" in a real conversation."
+        "I found an amazing chocolate cake recipe on a cooking blog.",
+        "我在一个烹饪博客上找到了一个很棒的巧克力蛋糕食谱。"
       ],
       [
         "from scratch",
-        "/phrase/",
+        "/frəm skrætʃ/",
         "从头做起",
-        "Practice using \"from scratch\" in a real conversation."
+        "My grandmother makes all her pasta from scratch using flour and eggs.",
+        "我奶奶所有的意大利面都是用面粉和鸡蛋从头做起的。"
       ]
     ]
   },
@@ -37045,21 +38911,24 @@ window.dialogueCards = [
     "words": [
       [
         "uncomfortable",
-        "/phrase/",
+        "/ʌnˈkʌmfərtəbəl/",
         "不自在的",
-        "Practice using \"uncomfortable\" in a real conversation."
+        "He felt uncomfortable being the center of attention at the party.",
+        "在聚会上成为众人关注的焦点让他感到不自在。"
       ],
       [
         "borrow",
-        "/phrase/",
+        "/ˈbɑːroʊ/",
         "借走",
-        "Practice using \"borrow\" in a real conversation."
+        "Can I borrow your pen for a moment?",
+        "我能借你的笔用一下吗？"
       ],
       [
         "look out for",
-        "/phrase/",
+        "/lʊk aʊt fɔːr/",
         "照顾、关照",
-        "Practice using \"look out for\" in a real conversation."
+        "My older brother always looks out for me when we're in a new city.",
+        "在新城市时我哥哥总是照顾我。"
       ]
     ]
   },
@@ -37113,21 +38982,24 @@ window.dialogueCards = [
     "words": [
       [
         "hanfu",
-        "/phrase/",
+        "/ˈhænfuː/",
         "汉服",
-        "Practice using \"hanfu\" in a real conversation."
+        "She wore a beautiful red hanfu for the traditional Chinese wedding ceremony.",
+        "她穿了一件美丽的红色汉服参加传统中式婚礼。"
       ],
       [
         "embroidery",
-        "/phrase/",
+        "/ɪmˈbrɔɪdəri/",
         "刺绣",
-        "Practice using \"embroidery\" in a real conversation."
+        "The traditional silk embroidery on her wedding dress took months to complete.",
+        "她婚纱上的传统丝绸刺绣花了好几个月才完成。"
       ],
       [
         "enthusiast",
-        "/phrase/",
+        "/ɪnˈθjuːziæst/",
         "爱好者",
-        "Practice using \"enthusiast\" in a real conversation."
+        "My brother is a vintage car enthusiast who spends weekends restoring old vehicles.",
+        "我哥哥是个老爷车爱好者，周末都在修复旧车。"
       ]
     ]
   },
@@ -37181,21 +39053,24 @@ window.dialogueCards = [
     "words": [
       [
         "endoscopy",
-        "/phrase/",
+        "/enˈdɒskəpi/",
         "内窥镜检查",
-        "Practice using \"endoscopy\" in a real conversation."
+        "The doctor recommended an endoscopy to examine the cause of my stomach pain.",
+        "医生建议做一次内窥镜检查来查明我胃痛的原因。"
       ],
       [
         "gastritis",
-        "/phrase/",
+        "/ɡæˈstraɪtɪs/",
         "胃炎",
-        "Practice using \"gastritis\" in a real conversation."
+        "Spicy food tends to trigger my gastritis, so I stick to a bland diet.",
+        "辛辣食物容易引发我的胃炎，所以我坚持清淡饮食。"
       ],
       [
         "sedate",
-        "/phrase/",
+        "/sɪˈdeɪt/",
         "使镇静",
-        "Practice using \"sedate\" in a real conversation."
+        "The vet had to sedate the anxious dog before examining its injured paw.",
+        "兽医不得不先使这只焦虑的狗镇静下来，再检查它受伤的爪子。"
       ]
     ]
   },
@@ -37249,21 +39124,24 @@ window.dialogueCards = [
     "words": [
       [
         "traction",
-        "/phrase/",
+        "/ˈtrækʃən/",
         "牵引",
-        "Practice using \"traction\" in a real conversation."
+        "The doctor applied traction to the fractured leg to align the bones properly.",
+        "医生对骨折的腿进行牵引，以正确对齐骨骼。"
       ],
       [
         "cervical",
-        "/phrase/",
+        "/ˈsɜːvɪkəl/",
         "颈部的",
-        "Practice using \"cervical\" in a real conversation."
+        "Cervical pain can be caused by poor posture while working at a computer.",
+        "颈部疼痛可能是由用电脑时姿势不良引起的。"
       ],
       [
         "posture",
-        "/phrase/",
+        "/ˈpɑːstʃər/",
         "姿势、体态",
-        "Practice using \"posture\" in a real conversation."
+        "Sitting with good posture helps prevent back pain.",
+        "保持良好的坐姿有助于预防背痛。"
       ]
     ]
   },
@@ -37317,21 +39195,24 @@ window.dialogueCards = [
     "words": [
       [
         "clean",
-        "/phrase/",
+        "/kliːn/",
         "戒断的、干净的",
-        "Practice using \"clean\" in a real conversation."
+        "He has been clean for three years and now volunteers to help others in recovery.",
+        "他已经戒断三年了，现在志愿帮助其他人走上康复之路。"
       ],
       [
         "support group",
-        "/phrase/",
+        "/səˈpɔːrt ɡruːp/",
         "互助小组",
-        "Practice using \"support group\" in a real conversation."
+        "After her diagnosis, she joined a support group to connect with others facing similar challenges.",
+        "确诊后，她加入了一个互助小组，与其他面临相似挑战的人交流。"
       ],
       [
         "look forward to",
-        "/phrase/",
+        "/lʊk ˈfɔːrwərd tuː/",
         "期待",
-        "Practice using \"look forward to\" in a real conversation."
+        "We look forward to meeting you at the conference next week.",
+        "我们期待在下周的会议上见到你。"
       ]
     ]
   },
@@ -37385,21 +39266,24 @@ window.dialogueCards = [
     "words": [
       [
         "pickpocket",
-        "/phrase/",
+        "/ˈpɪkˌpɒkɪt/",
         "扒手、扒窃",
-        "Practice using \"pickpocket\" in a real conversation."
+        "Tourists are often warned to watch out for pickpockets in crowded areas.",
+        "游客经常被提醒在拥挤区域要提防扒手。"
       ],
       [
         "suspicious",
-        "/phrase/",
+        "/səˈspɪʃəs/",
         "可疑的",
-        "Practice using \"suspicious\" in a real conversation."
+        "The security guard noticed a suspicious package near the entrance.",
+        "保安注意到入口附近有一个可疑的包裹。"
       ],
       [
         "freeze",
-        "/phrase/",
+        "/friːz/",
         "冻结",
-        "Practice using \"freeze\" in a real conversation."
+        "You can freeze leftover soup and reheat it later for a quick meal.",
+        "你可以把剩下的汤冷冻起来，之后加热就是一顿快餐。"
       ]
     ]
   },
@@ -37453,21 +39337,24 @@ window.dialogueCards = [
     "words": [
       [
         "water dispenser",
-        "/phrase/",
+        "/ˈwɔːtər dɪˈspɛnsər/",
         "饮水机",
-        "Practice using \"water dispenser\" in a real conversation."
+        "The office water dispenser provides both hot and cold water throughout the day.",
+        "办公室的饮水机全天提供冷热水。"
       ],
       [
         "refill",
-        "/phrase/",
+        "/ˈriːfɪl/",
         "续杯、加水",
-        "Practice using \"refill\" in a real conversation."
+        "The restaurant offers free refills on all soft drinks.",
+        "这家餐厅所有软饮料都可以免费续杯。"
       ],
       [
         "hydration",
-        "/phrase/",
+        "/haɪˈdreɪʃən/",
         "补水、水合作用",
-        "Practice using \"hydration\" in a real conversation."
+        "Proper hydration is crucial when exercising in hot weather.",
+        "在炎热天气运动时，适当补水至关重要。"
       ]
     ]
   },
@@ -37521,21 +39408,24 @@ window.dialogueCards = [
     "words": [
       [
         "repairman",
-        "/phrase/",
+        "/rɪˈpɛrˌmæn/",
         "维修工",
-        "Practice using \"repairman\" in a real conversation."
+        "The repairman fixed the washing machine in less than an hour.",
+        "维修工不到一小时就修好了洗衣机。"
       ],
       [
         "reschedule",
-        "/phrase/",
+        "/riːˈskɛdʒuːl/",
         "改期",
-        "Practice using \"reschedule\" in a real conversation."
+        "We need to reschedule the meeting for next Tuesday.",
+        "我们需要把会议改到下周二。"
       ],
       [
         "silver lining",
-        "/phrase/",
+        "/ˈsɪlvər ˈlaɪnɪŋ/",
         "一线希望",
-        "Practice using \"silver lining\" in a real conversation."
+        "Losing the job was hard, but the silver lining was finding a career I truly love.",
+        "失去那份工作很艰难，但一线希望是找到了我真正热爱的职业。"
       ]
     ]
   },
@@ -37589,21 +39479,24 @@ window.dialogueCards = [
     "words": [
       [
         "paragliding",
-        "/phrase/",
+        "/ˈpærəˌɡlaɪdɪŋ/",
         "滑翔伞",
-        "Practice using \"paragliding\" in a real conversation."
+        "They went paragliding off the mountain and soared over the valley.",
+        "他们从山上滑翔伞起飞，在山谷上空翱翔。"
       ],
       [
         "airborne",
-        "/phrase/",
+        "/ˈeəbɔːn/",
         "升空的",
-        "Practice using \"airborne\" in a real conversation."
+        "The plane was airborne within minutes of takeoff.",
+        "飞机在起飞后几分钟内就升空了。"
       ],
       [
         "snow-capped",
-        "/phrase/",
+        "/ˈsnoʊˌkæpt/",
         "白雪覆盖的",
-        "Practice using \"snow-capped\" in a real conversation."
+        "The snow-capped mountains reflected beautifully in the calm lake below.",
+        "白雪覆盖的山峰倒映在下方平静的湖水中，美不胜收。"
       ]
     ]
   },
@@ -37657,21 +39550,24 @@ window.dialogueCards = [
     "words": [
       [
         "tea ceremony",
-        "/phrase/",
+        "/tiː ˈsɛrəˌmoʊni/",
         "茶道",
-        "Practice using \"tea ceremony\" in a real conversation."
+        "The traditional Japanese tea ceremony is a ritual of grace and mindfulness.",
+        "日本传统茶道是一种讲究优雅和专注的仪式。"
       ],
       [
         "matcha",
-        "/phrase/",
+        "/ˈmætʃə/",
         "抹茶",
-        "Practice using \"matcha\" in a real conversation."
+        "I prefer matcha latte over regular coffee in the morning.",
+        "我早上喜欢抹茶拿铁胜过普通咖啡。"
       ],
       [
         "humble",
-        "/phrase/",
+        "/ˈhʌmbəl/",
         "谦卑的",
-        "Practice using \"humble\" in a real conversation."
+        "Despite his enormous success, he remains humble and treats everyone with respect.",
+        "尽管取得了巨大成功，他依然保持谦卑，尊重每一个人。"
       ]
     ]
   },
@@ -37725,21 +39621,24 @@ window.dialogueCards = [
     "words": [
       [
         "camel",
-        "/phrase/",
+        "/ˈkæməl/",
         "骆驼",
-        "Practice using \"camel\" in a real conversation."
+        "We rode a camel across the desert at sunset.",
+        "我们在日落时分骑着骆驼穿越沙漠。"
       ],
       [
         "reins",
-        "/phrase/",
+        "/reɪnz/",
         "缰绳",
-        "Practice using \"reins\" in a real conversation."
+        "She held the reins tightly as the horse galloped across the field.",
+        "马在田野上飞奔时她紧紧握住缰绳。"
       ],
       [
         "pyramid",
-        "/phrase/",
+        "/ˈpɪrəmɪd/",
         "金字塔",
-        "Practice using \"pyramid\" in a real conversation."
+        "Visiting the pyramids in Egypt had always been her lifelong dream.",
+        "参观埃及金字塔一直是她毕生的梦想。"
       ]
     ]
   },
@@ -37793,21 +39692,24 @@ window.dialogueCards = [
     "words": [
       [
         "fire drill",
-        "/phrase/",
+        "/ˈfaɪə drɪl/",
         "消防演习",
-        "Practice using \"fire drill\" in a real conversation."
+        "The school conducts a fire drill every semester to ensure students know evacuation procedures.",
+        "学校每学期进行一次消防演习，确保学生了解疏散程序。"
       ],
       [
         "evacuation",
-        "/phrase/",
+        "/ɪˌvækjuˈeɪʃən/",
         "疏散",
-        "Practice using \"evacuation\" in a real conversation."
+        "The fire alarm triggered an immediate evacuation of the entire building.",
+        "火警触发了整栋大楼的立即疏散。"
       ],
       [
         "assembly point",
-        "/phrase/",
+        "/əˈsembli pɔɪnt/",
         "集合点",
-        "Practice using \"assembly point\" in a real conversation."
+        "In case of fire, everyone should gather at the assembly point in the parking lot.",
+        "如遇火警，所有人应到停车场的集合点集合。"
       ]
     ]
   },
@@ -37824,7 +39726,7 @@ window.dialogueCards = [
       ],
       [
         "B",
-        "\"Tech Today\" is essential for keeping up with industry trends.",
+        "Tech Today is essential for keeping up with industry trends.",
         "《今日科技》对跟上行业趋势至关重要。"
       ],
       [
@@ -37861,21 +39763,24 @@ window.dialogueCards = [
     "words": [
       [
         "subscription",
-        "/phrase/",
+        "/səbˈskrɪpʃən/",
         "订阅",
-        "Practice using \"subscription\" in a real conversation."
+        "I canceled my streaming subscription because I wasn't using it enough.",
+        "我取消了流媒体订阅，因为用得不够多。"
       ],
       [
         "industry trend",
-        "/phrase/",
+        "/ˈɪndəstri trend/",
         "行业趋势",
-        "Practice using \"industry trend\" in a real conversation."
+        "Staying informed about industry trends is essential for career growth.",
+        "了解行业趋势对职业发展至关重要。"
       ],
       [
         "insight",
-        "/phrase/",
+        "/ˈɪnsaɪt/",
         "见解",
-        "Practice using \"insight\" in a real conversation."
+        "Her book offers valuable insights into the challenges of modern parenting.",
+        "她的书对现代育儿的挑战提供了宝贵的见解。"
       ]
     ]
   },
@@ -37929,21 +39834,24 @@ window.dialogueCards = [
     "words": [
       [
         "certification",
-        "/phrase/",
+        "/ˌsɜːtɪfɪˈkeɪʃən/",
         "认证、资格证书",
-        "Practice using \"certification\" in a real conversation."
+        "He earned his project management certification after months of study.",
+        "经过几个月的学习，他获得了项目管理资格证书。"
       ],
       [
         "achievement",
-        "/phrase/",
+        "/əˈtʃiːvmənt/",
         "成就",
-        "Practice using \"achievement\" in a real conversation."
+        "Winning the gold medal was the greatest achievement of her career.",
+        "赢得金牌是她职业生涯中最大的成就。"
       ],
       [
         "treat",
-        "/phrase/",
+        "/triːt/",
         "请客",
-        "Practice using \"treat\" in a real conversation."
+        "Let me treat you to dinner tonight.",
+        "今晚让我请你吃饭吧。"
       ]
     ]
   },
@@ -37997,21 +39905,24 @@ window.dialogueCards = [
     "words": [
       [
         "ouzo",
-        "/phrase/",
+        "/ˈuːzoʊ/",
         "茴香酒",
-        "Practice using \"ouzo\" in a real conversation."
+        "In Greece, ouzo is often served with a small plate of olives and cheese.",
+        "在希腊，茴香酒通常配上一小碟橄榄和奶酪。"
       ],
       [
         "anise",
-        "/phrase/",
+        "/ˈænɪs/",
         "茴芹",
-        "Practice using \"anise\" in a real conversation."
+        "The recipe calls for a pinch of anise to add a licorice-like flavor.",
+        "这个食谱需要加一小撮茴芹来增添类似甘草的风味。"
       ],
       [
         "meze",
-        "/phrase/",
+        "/ˈmeɪzeɪ/",
         "地中海小菜",
-        "Practice using \"meze\" in a real conversation."
+        "We ordered several meze dishes to share, including hummus and stuffed grape leaves.",
+        "我们点了几道地中海小菜一起分享，包括鹰嘴豆泥和酿葡萄叶。"
       ]
     ]
   },
@@ -38065,21 +39976,24 @@ window.dialogueCards = [
     "words": [
       [
         "izakaya",
-        "/phrase/",
+        "/ˌɪzəˈkaɪə/",
         "居酒屋",
-        "Practice using \"izakaya\" in a real conversation."
+        "After work, we went to a cozy izakaya for grilled skewers and sake.",
+        "下班后，我们去了一家舒适的居酒屋吃烤串喝清酒。"
       ],
       [
         "yakitori",
-        "/phrase/",
+        "/ˌjɑːkɪˈtɔːri/",
         "烧鸟、日式烤串",
-        "Practice using \"yakitori\" in a real conversation."
+        "The izakaya serves over twenty different types of yakitori, from chicken thigh to shiitake mushrooms.",
+        "这家居酒屋提供二十多种不同的烧鸟，从鸡腿肉到香菇应有尽有。"
       ],
       [
         "sake",
-        "/phrase/",
+        "/ˈsɑːkeɪ/",
         "清酒",
-        "Practice using \"sake\" in a real conversation."
+        "We ordered a bottle of warm sake to go with the sushi platter.",
+        "我们点了一瓶温清酒来搭配寿司拼盘。"
       ]
     ]
   },
@@ -38133,21 +40047,24 @@ window.dialogueCards = [
     "words": [
       [
         "lobster",
-        "/phrase/",
+        "/ˈlɒbstər/",
         "龙虾",
-        "Practice using \"lobster\" in a real conversation."
+        "We ordered grilled lobster with garlic butter for our anniversary dinner.",
+        "我们周年纪念晚餐点了蒜香黄油烤龙虾。"
       ],
       [
         "fresh",
-        "/phrase/",
+        "/freʃ/",
         "新鲜的",
-        "Practice using \"fresh\" in a real conversation."
+        "I always buy fresh vegetables from the farmers' market on Saturday mornings.",
+        "我每周六早上都会从农贸市场买新鲜蔬菜。"
       ],
       [
         "steamed",
-        "/phrase/",
+        "/stiːmd/",
         "清蒸的",
-        "Practice using \"steamed\" in a real conversation."
+        "I prefer steamed fish over fried because it's lighter and healthier.",
+        "比起油炸，我更喜欢吃清蒸鱼，因为它更清淡健康。"
       ]
     ]
   },
@@ -38201,21 +40118,24 @@ window.dialogueCards = [
     "words": [
       [
         "watercolor",
-        "/phrase/",
+        "/ˈwɔːtərˌkʌlər/",
         "水彩",
-        "Practice using \"watercolor\" in a real conversation."
+        "She painted a delicate watercolor landscape of the countryside.",
+        "她画了一幅精致的乡间水彩风景画。"
       ],
       [
         "pigment",
-        "/phrase/",
+        "/ˈpɪɡmənt/",
         "色素、颜料",
-        "Practice using \"pigment\" in a real conversation."
+        "This artist mixes her own pigments using natural minerals.",
+        "这位艺术家用天然矿物自己调配颜料。"
       ],
       [
         "brush",
-        "/phrase/",
+        "/brʌʃ/",
         "画笔",
-        "Practice using \"brush\" in a real conversation."
+        "She dipped the brush in ink and began writing Chinese calligraphy on the rice paper.",
+        "她把毛笔蘸上墨，开始在宣纸上写书法。"
       ]
     ]
   },
@@ -38269,21 +40189,24 @@ window.dialogueCards = [
     "words": [
       [
         "silhouette",
-        "/phrase/",
+        "/ˌsɪluˈɛt/",
         "廓形",
-        "Practice using \"silhouette\" in a real conversation."
+        "The silhouette of the castle against the sunset was breathtaking.",
+        "城堡在落日映衬下的剪影美得令人屏息。"
       ],
       [
         "lace",
-        "/phrase/",
+        "/leɪs/",
         "蕾丝",
-        "Practice using \"lace\" in a real conversation."
+        "She wore a beautiful white dress trimmed with delicate lace.",
+        "她穿了一件镶着精致蕾丝的漂亮白裙。"
       ],
       [
         "alteration",
-        "/phrase/",
+        "/ˌɔːltəˈreɪʃən/",
         "修改",
-        "Practice using \"alteration\" in a real conversation."
+        "The tailor made a few alterations to the dress so it would fit perfectly.",
+        "裁缝对裙子做了几处修改，让它更加合身。"
       ]
     ]
   },
@@ -38337,21 +40260,24 @@ window.dialogueCards = [
     "words": [
       [
         "adopt",
-        "/phrase/",
+        "/əˈdɒpt/",
         "领养",
-        "Practice using \"adopt\" in a real conversation."
+        "They decided to adopt a child from the local orphanage.",
+        "他们决定从当地孤儿院领养一个孩子。"
       ],
       [
         "litter-trained",
-        "/phrase/",
+        "/ˈlɪtər treɪnd/",
         "会用猫砂盆的",
-        "Practice using \"litter-trained\" in a real conversation."
+        "The kitten is already litter-trained, so you won't have any mess to clean up.",
+        "这只小猫已经会用猫砂盆了，所以你不需要清理任何脏乱。"
       ],
       [
         "vaccination",
-        "/phrase/",
+        "/ˌvæksɪˈneɪʃən/",
         "疫苗接种",
-        "Practice using \"vaccination\" in a real conversation."
+        "The flu vaccination is recommended for everyone over six months old.",
+        "建议六个月以上的人群都接种流感疫苗。"
       ]
     ]
   },
@@ -38405,21 +40331,24 @@ window.dialogueCards = [
     "words": [
       [
         "paper jam",
-        "/phrase/",
+        "/ˈpeɪpər dʒæm/",
         "卡纸",
-        "Practice using \"paper jam\" in a real conversation."
+        "I couldn't print my report because the printer had a paper jam.",
+        "我无法打印报告，因为打印机卡纸了。"
       ],
       [
         "margin",
-        "/phrase/",
+        "/ˈmɑːrdʒɪn/",
         "页边距",
-        "Practice using \"margin\" in a real conversation."
+        "The professor asked us to set one-inch margins on all sides of the essay.",
+        "教授要求我们把论文四边的页边距都设为一英寸。"
       ],
       [
         "staple",
-        "/phrase/",
+        "/ˈsteɪpəl/",
         "装订",
-        "Practice using \"staple\" in a real conversation."
+        "Use the stapler to staple the pages together at the top left corner.",
+        "用订书机在左上角把页面装订在一起。"
       ]
     ]
   },
@@ -38473,21 +40402,24 @@ window.dialogueCards = [
     "words": [
       [
         "paint",
-        "/phrase/",
+        "/peɪnt/",
         "绘画",
-        "Practice using \"paint\" in a real conversation."
+        "She likes to paint landscapes in watercolor on weekends.",
+        "她周末喜欢用水彩画风景。"
       ],
       [
         "reflection",
-        "/phrase/",
+        "/rɪˈflekʃən/",
         "倒影、反射",
-        "Practice using \"reflection\" in a real conversation."
+        "The mountains were perfectly mirrored in the reflection on the lake.",
+        "群山完美地倒映在湖面上。"
       ],
       [
         "perspective",
-        "/phrase/",
+        "/pərˈspektɪv/",
         "透视、视角",
-        "Practice using \"perspective\" in a real conversation."
+        "Traveling to different countries really changed my perspective on life.",
+        "去不同国家旅行真的改变了我对生活的视角。"
       ]
     ]
   },
@@ -38541,21 +40473,24 @@ window.dialogueCards = [
     "words": [
       [
         "pickup",
-        "/phrase/",
+        "/ˈpɪkʌp/",
         "取件",
-        "Practice using \"pickup\" in a real conversation."
+        "I'll schedule a package pickup for tomorrow morning.",
+        "我会安排明天早上来取件。"
       ],
       [
         "code",
-        "/phrase/",
+        "/koʊd/",
         "编码、取件码",
-        "Practice using \"code\" in a real conversation."
+        "The developer spent hours debugging the code.",
+        "开发人员花了数小时调试代码。"
       ],
       [
         "proof",
-        "/phrase/",
+        "/pruːf/",
         "凭证、证明",
-        "Practice using \"proof\" in a real conversation."
+        "You'll need to show proof of identity when checking into the hotel.",
+        "入住酒店时需要出示身份证明。"
       ]
     ]
   },
@@ -38609,21 +40544,24 @@ window.dialogueCards = [
     "words": [
       [
         "rule",
-        "/phrase/",
+        "/ruːl/",
         "规则",
-        "Practice using \"rule\" in a real conversation."
+        "The first rule of the club is that you do not talk about the club.",
+        "俱乐部的第一条规则是不要谈论俱乐部。"
       ],
       [
         "argue",
-        "/phrase/",
+        "/ˈɑːɡjuː/",
         "争论",
-        "Practice using \"argue\" in a real conversation."
+        "They often argue about money, but they always make up afterwards.",
+        "他们经常为钱争论，但事后总能和好。"
       ],
       [
         "strategist",
-        "/phrase/",
+        "/ˈstrætədʒɪst/",
         "策略家",
-        "Practice using \"strategist\" in a real conversation."
+        "The marketing strategist developed a plan to reach younger audiences.",
+        "营销策略家制定了一个触达年轻受众的计划。"
       ]
     ]
   },
@@ -38677,21 +40615,24 @@ window.dialogueCards = [
     "words": [
       [
         "confident",
-        "/phrase/",
+        "/ˈkɒnfɪdənt/",
         "自信的",
-        "Practice using \"confident\" in a real conversation."
+        "After months of practice, she felt confident enough to give the presentation in English.",
+        "经过几个月的练习，她已经有足够的自信用英语做演示了。"
       ],
       [
         "procrastinate",
-        "/phrase/",
+        "/prəˈkræstɪneɪt/",
         "拖延",
-        "Practice using \"procrastinate\" in a real conversation."
+        "I tend to procrastinate on big projects until the deadline is close.",
+        "面对大项目我往往会拖延到截止日期临近才开始做。"
       ],
       [
         "technique",
-        "/phrase/",
+        "/tɛkˈniːk/",
         "技巧、方法",
-        "Practice using \"technique\" in a real conversation."
+        "The chef demonstrated the proper technique for filleting a fish.",
+        "厨师展示了剔鱼片的正确技巧。"
       ]
     ]
   },
@@ -38745,21 +40686,24 @@ window.dialogueCards = [
     "words": [
       [
         "telescope",
-        "/phrase/",
+        "/ˈtɛləˌskoʊp/",
         "望远镜",
-        "Practice using \"telescope\" in a real conversation."
+        "He set up his telescope in the backyard to observe the rings of Saturn.",
+        "他在后院架起望远镜来观察土星环。"
       ],
       [
         "moon",
-        "/phrase/",
+        "/muːn/",
         "卫星、月亮",
-        "Practice using \"moon\" in a real conversation."
+        "Jupiter has more than seventy known moons orbiting around it.",
+        "木星有七十多颗已知的卫星围绕着它运行。"
       ],
       [
         "stargaze",
-        "/phrase/",
+        "/ˈstɑːrˌɡeɪz/",
         "观星",
-        "Practice using \"stargaze\" in a real conversation."
+        "We drove out to the countryside to stargaze away from the city lights.",
+        "我们开车到乡下去观星，远离城市灯光。"
       ]
     ]
   },
@@ -38813,21 +40757,24 @@ window.dialogueCards = [
     "words": [
       [
         "LASIK",
-        "/phrase/",
+        "/ˈleɪsɪk/",
         "激光视力矫正手术",
-        "Practice using \"LASIK\" in a real conversation."
+        "She decided to get LASIK so she wouldn't have to wear glasses anymore.",
+        "她决定做激光视力矫正手术，这样就不用再戴眼镜了。"
       ],
       [
         "cornea",
-        "/phrase/",
+        "/ˈkɔːniə/",
         "角膜",
-        "Practice using \"cornea\" in a real conversation."
+        "The surgeon performed a cornea transplant to restore the patient's vision.",
+        "外科医生进行了角膜移植手术来恢复患者的视力。"
       ],
       [
         "recovery",
-        "/phrase/",
+        "/rɪˈkʌvəri/",
         "恢复",
-        "Practice using \"recovery\" in a real conversation."
+        "It took her several months to make a full recovery after the surgery.",
+        "她花了几个月时间才在手术后完全恢复。"
       ]
     ]
   },
@@ -38881,21 +40828,24 @@ window.dialogueCards = [
     "words": [
       [
         "eczema",
-        "/phrase/",
+        "/ˈeksɪmə/",
         "湿疹",
-        "Practice using \"eczema\" in a real conversation."
+        "The doctor prescribed a special cream to treat the eczema on my hands.",
+        "医生开了一种特殊药膏来治疗我手上的湿疹。"
       ],
       [
         "pulse",
-        "/phrase/",
+        "/pʌls/",
         "脉搏",
-        "Practice using \"pulse\" in a real conversation."
+        "The nurse checked my pulse and blood pressure before the examination.",
+        "检查前护士测量了我的脉搏和血压。"
       ],
       [
         "damp-heat",
-        "/phrase/",
+        "/ˌdæmp ˈhiːt/",
         "湿热",
-        "Practice using \"damp-heat\" in a real conversation."
+        "The damp-heat of the tropical climate made it hard to stay comfortable outdoors.",
+        "热带气候的湿热让人在户外很难保持舒适。"
       ]
     ]
   },
@@ -38949,21 +40899,24 @@ window.dialogueCards = [
     "words": [
       [
         "donation",
-        "/phrase/",
+        "/dəʊˈneɪʃən/",
         "捐献",
-        "Practice using \"donation\" in a real conversation."
+        "Every donation, no matter how small, helps support our community programs.",
+        "每一笔捐献，无论多小，都能帮助支持我们的社区项目。"
       ],
       [
         "lightheaded",
-        "/phrase/",
+        "/ˌlaɪtˈhedɪd/",
         "头晕的",
-        "Practice using \"lightheaded\" in a real conversation."
+        "After standing up too quickly, she felt lightheaded and had to sit back down.",
+        "站起来太快后，她感到头晕，不得不重新坐下。"
       ],
       [
         "save lives",
-        "/phrase/",
+        "/seɪv laɪvz/",
         "拯救生命",
-        "Practice using \"save lives\" in a real conversation."
+        "Wearing a seatbelt can save lives in a car accident.",
+        "系安全带可以在车祸中拯救生命。"
       ]
     ]
   },
@@ -39017,21 +40970,24 @@ window.dialogueCards = [
     "words": [
       [
         "car wash",
-        "/phrase/",
+        "/ˈkɑː wɒʃ/",
         "洗车",
-        "Practice using \"car wash\" in a real conversation."
+        "I need to take my car to the car wash; it's covered in mud.",
+        "我得把车开到洗车店去洗洗，车上全是泥。"
       ],
       [
         "pre-soak",
-        "/phrase/",
+        "/priː soʊk/",
         "预浸",
-        "Practice using \"pre-soak\" in a real conversation."
+        "You should pre-soak the beans overnight before cooking them.",
+        "烹饪豆子之前你应该提前浸泡一夜。"
       ],
       [
         "coating",
-        "/phrase/",
+        "/ˈkəʊtɪŋ/",
         "镀膜、涂层",
-        "Practice using \"coating\" in a real conversation."
+        "The glasses have an anti-reflective coating that reduces glare from screens.",
+        "这副眼镜有防反光镀膜，可以减少屏幕的眩光。"
       ]
     ]
   },
@@ -39085,21 +41041,24 @@ window.dialogueCards = [
     "words": [
       [
         "grocery",
-        "/phrase/",
+        "/ˈɡrəʊsəri/",
         "杂货、食品杂货",
-        "Practice using \"grocery\" in a real conversation."
+        "I need to stop by the grocery store to pick up milk and bread on my way home.",
+        "我需要在回家路上顺路去杂货店买牛奶和面包。"
       ],
       [
         "out of service",
-        "/phrase/",
+        "/aʊt əv ˈsɜːrvɪs/",
         "停止服务",
-        "Practice using \"out of service\" in a real conversation."
+        "The elevator was out of service, so we had to take the stairs.",
+        "电梯停止服务了，所以我们不得不走楼梯。"
       ],
       [
         "manage",
-        "/phrase/",
+        "/ˈmænɪdʒ/",
         "应付、设法做到",
-        "Practice using \"manage\" in a real conversation."
+        "He manages a team of twenty software engineers.",
+        "他管理着一个由二十名软件工程师组成的团队。"
       ]
     ]
   },
@@ -39153,21 +41112,24 @@ window.dialogueCards = [
     "words": [
       [
         "sort",
-        "/phrase/",
+        "/sɔːrt/",
         "分类",
-        "Practice using \"sort\" in a real conversation."
+        "Please sort the documents by date before filing them away.",
+        "请按日期把文件分类后再归档。"
       ],
       [
         "recyclable",
-        "/phrase/",
+        "/riːˈsaɪkləbəl/",
         "可回收物",
-        "Practice using \"recyclable\" in a real conversation."
+        "Make sure to separate recyclable items from regular trash.",
+        "请确保将可回收物与普通垃圾分开。"
       ],
       [
         "volunteer",
-        "/phrase/",
+        "/ˌvɑːlənˈtɪr/",
         "志愿者",
-        "Practice using \"volunteer\" in a real conversation."
+        "She works as a volunteer at the local animal shelter.",
+        "她在当地的动物收容所做志愿者。"
       ]
     ]
   },
@@ -39221,21 +41183,24 @@ window.dialogueCards = [
     "words": [
       [
         "overwater villa",
-        "/phrase/",
+        "/ˈoʊvərˌwɔːtər ˈvɪlə/",
         "水上别墅",
-        "Practice using \"overwater villa\" in a real conversation."
+        "We spent our honeymoon in an overwater villa in the Maldives.",
+        "我们在马尔代夫的水上别墅度过了蜜月。"
       ],
       [
         "lagoon",
-        "/phrase/",
+        "/ləˈɡuːn/",
         "泻湖",
-        "Practice using \"lagoon\" in a real conversation."
+        "The turquoise lagoon was surrounded by white sand beaches and palm trees.",
+        "碧绿的泻湖被白色沙滩和棕榈树环绕。"
       ],
       [
         "infinity pool",
-        "/phrase/",
+        "/ɪnˈfɪnɪti puːl/",
         "无边泳池",
-        "Practice using \"infinity pool\" in a real conversation."
+        "The hotel's infinity pool seemed to merge seamlessly with the ocean horizon.",
+        "酒店的无边泳池似乎与海洋地平线无缝融合。"
       ]
     ]
   },
@@ -39289,21 +41254,24 @@ window.dialogueCards = [
     "words": [
       [
         "lost",
-        "/phrase/",
+        "/lɒst/",
         "迷路的",
-        "Practice using \"lost\" in a real conversation."
+        "We got lost in the narrow streets of the old town.",
+        "我们在老城区狭窄的街道中迷路了。"
       ],
       [
         "paper map",
-        "/phrase/",
+        "/ˈpeɪpər mæp/",
         "纸质地图",
-        "Practice using \"paper map\" in a real conversation."
+        "Even with GPS, I still like to keep a paper map in the car just in case.",
+        "即使有GPS，我还是喜欢在车里放一份纸质地图以防万一。"
       ],
       [
         "direction",
-        "/phrase/",
+        "/dɪˈrekʃən/",
         "方向",
-        "Practice using \"direction\" in a real conversation."
+        "Could you give me directions to the nearest subway station?",
+        "你能告诉我去最近的地铁站怎么走吗？"
       ]
     ]
   },
@@ -39357,21 +41325,24 @@ window.dialogueCards = [
     "words": [
       [
         "dune",
-        "/phrase/",
+        "/djuːn/",
         "沙丘",
-        "Practice using \"dune\" in a real conversation."
+        "We climbed to the top of the sand dune to watch the sunset over the desert.",
+        "我们爬上沙丘顶端观看沙漠日落。"
       ],
       [
         "bashing",
-        "/phrase/",
+        "/ˈbæʃɪŋ/",
         "冲撞、冲击",
-        "Practice using \"bashing\" in a real conversation."
+        "Dune bashing in the desert is one of the most thrilling activities in Dubai.",
+        "在沙漠里冲沙是迪拜最刺激的活动之一。"
       ],
       [
         "Bedouin",
-        "/phrase/",
+        "/ˈbeduɪn/",
         "贝都因人",
-        "Practice using \"Bedouin\" in a real conversation."
+        "The Bedouin guide led us through the desert and shared stories of his nomadic life.",
+        "贝都因向导带领我们穿越沙漠，分享了他游牧生活的故事。"
       ]
     ]
   },
@@ -39425,21 +41396,24 @@ window.dialogueCards = [
     "words": [
       [
         "stand-up",
-        "/phrase/",
+        "/ˈstændʌp/",
         "站会",
-        "Practice using \"stand-up\" in a real conversation."
+        "We have a daily stand-up meeting every morning at 9 a.m. to sync on progress.",
+        "我们每天早上九点开每日站会来同步进展。"
       ],
       [
         "facilitate",
-        "/phrase/",
+        "/fəˈsɪlɪteɪt/",
         "主持、推动",
-        "Practice using \"facilitate\" in a real conversation."
+        "The moderator's role is to facilitate the discussion, not to dominate it.",
+        "主持人的角色是推动讨论，而不是主导讨论。"
       ],
       [
         "blocker",
-        "/phrase/",
+        "/ˈblɒkə(r)/",
         "阻碍因素",
-        "Practice using \"blocker\" in a real conversation."
+        "The biggest blocker to finishing the project on time was the lack of funding.",
+        "按时完成项目的最大阻碍因素是资金不足。"
       ]
     ]
   },
@@ -39493,21 +41467,24 @@ window.dialogueCards = [
     "words": [
       [
         "dashboard",
-        "/phrase/",
+        "/ˈdæʃbɔːd/",
         "仪表盘",
-        "Practice using \"dashboard\" in a real conversation."
+        "The warning light on the dashboard indicated that the car needed an oil change.",
+        "仪表盘上的警示灯显示汽车需要更换机油了。"
       ],
       [
         "assign",
-        "/phrase/",
+        "/əˈsaɪn/",
         "分配",
-        "Practice using \"assign\" in a real conversation."
+        "The manager will assign each team member a specific task.",
+        "经理将给每位团队成员分配具体任务。"
       ],
       [
         "template",
-        "/phrase/",
+        "/ˈtɛmplət/",
         "模板",
-        "Practice using \"template\" in a real conversation."
+        "You can use this resume template as a starting point and customize it.",
+        "你可以用这个简历模板作为起点，然后进行自定义。"
       ]
     ]
   },
@@ -39561,21 +41538,24 @@ window.dialogueCards = [
     "words": [
       [
         "compensation",
-        "/phrase/",
+        "/ˌkɒmpenˈseɪʃən/",
         "薪酬",
-        "Practice using \"compensation\" in a real conversation."
+        "The job offers excellent compensation, including a bonus and health insurance.",
+        "这份工作的薪酬很优厚，包括奖金和医疗保险。"
       ],
       [
         "review",
-        "/phrase/",
+        "/rɪˈvjuː/",
         "评估",
-        "Practice using \"review\" in a real conversation."
+        "The manager will review our performance at the end of each quarter.",
+        "经理会在每个季度末评估我们的表现。"
       ],
       [
         "advocate",
-        "/phrase/",
+        "/ˈædvəkeɪt/",
         "主张、为……争取",
-        "Practice using \"advocate\" in a real conversation."
+        "The organization advocates for better working conditions for nurses.",
+        "该组织为护士争取更好的工作条件。"
       ]
     ]
   },
@@ -39629,21 +41609,24 @@ window.dialogueCards = [
     "words": [
       [
         "churrascaria",
-        "/phrase/",
+        "/tʃʊˌræskəˈriːə/",
         "巴西烤肉店",
-        "Practice using \"churrascaria\" in a real conversation."
+        "We went to a churrascaria where waiters brought skewers of grilled meat to our table.",
+        "我们去了一家巴西烤肉店，服务员把烤好的肉串送到我们桌边。"
       ],
       [
         "gaucho",
-        "/phrase/",
+        "/ˈɡaʊtʃəʊ/",
         "高乔人、牛仔",
-        "Practice using \"gaucho\" in a real conversation."
+        "The gaucho skillfully herded the cattle across the vast Argentine pampas.",
+        "高乔牛仔熟练地在广阔的阿根廷潘帕斯草原上驱赶牛群。"
       ],
       [
         "picanha",
-        "/phrase/",
+        "/pɪˈkænjə/",
         "巴西烤牛臀肉",
-        "Practice using \"picanha\" in a real conversation."
+        "Picanha is a popular cut of beef in Brazilian steakhouses, grilled on skewers.",
+        "巴西烤牛臀肉是巴西牛排馆里很受欢迎的一种牛肉部位，用烤肉签烤制。"
       ]
     ]
   },
@@ -39697,21 +41680,24 @@ window.dialogueCards = [
     "words": [
       [
         "roasted lamb",
-        "/phrase/",
+        "/ˈroʊstɪd læm/",
         "烤全羊",
-        "Practice using \"roasted lamb\" in a real conversation."
+        "The centerpiece of the feast was a whole roasted lamb seasoned with herbs.",
+        "宴席的主角是一只香料调味的烤全羊。"
       ],
       [
         "tradition",
-        "/phrase/",
+        "/trəˈdɪʃən/",
         "传统",
-        "Practice using \"tradition\" in a real conversation."
+        "It's a family tradition to have hot pot together on New Year's Eve.",
+        "除夕夜一起吃火锅是我们家的传统。"
       ],
       [
         "feast",
-        "/phrase/",
+        "/fiːst/",
         "盛宴、尽情享用",
-        "Practice using \"feast\" in a real conversation."
+        "My grandmother prepared a feast for the entire family on New Year's Eve.",
+        "我奶奶在除夕夜为全家人准备了一顿盛宴。"
       ]
     ]
   },
@@ -39765,21 +41751,24 @@ window.dialogueCards = [
     "words": [
       [
         "WiFi",
-        "/phrase/",
+        "/ˈwaɪˌfaɪ/",
         "无线网络",
-        "Practice using \"WiFi\" in a real conversation."
+        "What's the WiFi password? I need to check my emails.",
+        "WiFi密码是多少？我需要查一下邮件。"
       ],
       [
         "signal",
-        "/phrase/",
+        "/ˈsɪɡnəl/",
         "信号",
-        "Practice using \"signal\" in a real conversation."
+        "The phone couldn't get a signal in the remote mountain area.",
+        "手机在偏远的山区没有信号。"
       ],
       [
         "interference",
-        "/phrase/",
+        "/ˌɪntəˈfɪərəns/",
         "干扰",
-        "Practice using \"interference\" in a real conversation."
+        "The radio signal was weak due to interference from the nearby power lines.",
+        "由于附近电线的干扰，无线电信号很弱。"
       ]
     ]
   },
@@ -39833,21 +41822,24 @@ window.dialogueCards = [
     "words": [
       [
         "prescription",
-        "/phrase/",
+        "/prɪˈskrɪpʃən/",
         "药方",
-        "Practice using \"prescription\" in a real conversation."
+        "The doctor wrote me a prescription for antibiotics.",
+        "医生给我开了抗生素药方。"
       ],
       [
         "herb",
-        "/phrase/",
+        "/hɜːb/",
         "草药",
-        "Practice using \"herb\" in a real conversation."
+        "I prefer using fresh herbs like basil and rosemary when cooking.",
+        "我做饭时喜欢用新鲜的草药，比如罗勒和迷迭香。"
       ],
       [
         "decoct",
-        "/phrase/",
+        "/dɪˈkɒkt/",
         "煎煮",
-        "Practice using \"decoct\" in a real conversation."
+        "The herbalist taught me how to decoct the medicinal roots properly.",
+        "草药师教我如何正确地煎煮这些药用根茎。"
       ]
     ]
   },
@@ -39901,21 +41893,24 @@ window.dialogueCards = [
     "words": [
       [
         "journal",
-        "/phrase/",
+        "/ˈdʒɜːrnəl/",
         "手账、日记",
-        "Practice using \"journal\" in a real conversation."
+        "She writes in her journal every night before going to bed.",
+        "她每晚睡前都会写日记。"
       ],
       [
         "dotted",
-        "/phrase/",
+        "/ˈdɒtɪd/",
         "点阵的",
-        "Practice using \"dotted\" in a real conversation."
+        "She wore a navy blue dress with a dotted pattern to the party.",
+        "她穿了一件深蓝色点阵图案的裙子去参加聚会。"
       ],
       [
         "washi tape",
-        "/phrase/",
+        "/ˈwɑːʃi teɪp/",
         "纸胶带",
-        "Practice using \"washi tape\" in a real conversation."
+        "She decorated her journal pages with colorful washi tape and stickers.",
+        "她用彩色纸胶带和贴纸装饰日记页面。"
       ]
     ]
   },
@@ -39969,21 +41964,24 @@ window.dialogueCards = [
     "words": [
       [
         "trade-in",
-        "/phrase/",
+        "/ˈtreɪdˌɪn/",
         "以旧换新",
-        "Practice using \"trade-in\" in a real conversation."
+        "The store offered a trade-in program where you can exchange your old phone for a discount on a new one.",
+        "商店提供了以旧换新计划，你可以用旧手机折抵购买新手机。"
       ],
       [
         "energy-efficient",
-        "/phrase/",
+        "/ˈenədʒi ɪˈfɪʃənt/",
         "节能的",
-        "Practice using \"energy-efficient\" in a real conversation."
+        "We replaced all our old appliances with energy-efficient models to reduce electricity bills.",
+        "我们把所有旧家电换成了节能型号来降低电费。"
       ],
       [
         "removal",
-        "/phrase/",
+        "/rɪˈmuːvəl/",
         "移除",
-        "Practice using \"removal\" in a real conversation."
+        "The removal of the old wallpaper took much longer than we expected.",
+        "清除旧墙纸比我们预期花的时间长得多。"
       ]
     ]
   },
@@ -40037,21 +42035,24 @@ window.dialogueCards = [
     "words": [
       [
         "save a seat",
-        "/phrase/",
+        "/seɪv ə siːt/",
         "占座",
-        "Practice using \"save a seat\" in a real conversation."
+        "Could you save a seat for me? I'll be there in five minutes.",
+        "你能帮我占个座吗？我五分钟后到。"
       ],
       [
         "belongings",
-        "/phrase/",
+        "/bɪˈlɒŋɪŋz/",
         "随身物品",
-        "Practice using \"belongings\" in a real conversation."
+        "Please make sure you have all your personal belongings before leaving the train.",
+        "请在下车前确认带好所有随身物品。"
       ],
       [
         "finals",
-        "/phrase/",
+        "/ˈfaɪnəlz/",
         "期末考试",
-        "Practice using \"finals\" in a real conversation."
+        "I spent the entire week studying for my finals at the library.",
+        "我花了整整一周在图书馆复习期末考试。"
       ]
     ]
   },
@@ -40105,21 +42106,24 @@ window.dialogueCards = [
     "words": [
       [
         "routine",
-        "/phrase/",
+        "/ruːˈtiːn/",
         "舞蹈编排",
-        "Practice using \"routine\" in a real conversation."
+        "Exercise has become part of my daily routine.",
+        "锻炼已经成为我日常生活的一部分。"
       ],
       [
         "beat",
-        "/phrase/",
+        "/biːt/",
         "节拍",
-        "Practice using \"beat\" in a real conversation."
+        "The drummer kept a steady beat throughout the entire song.",
+        "鼓手在整首歌中保持了稳定的节拍。"
       ],
       [
         "adrenaline",
-        "/phrase/",
+        "/əˈdrenəlɪn/",
         "肾上腺素",
-        "Practice using \"adrenaline\" in a real conversation."
+        "The adrenaline rush from skydiving was unlike anything he had ever experienced.",
+        "跳伞带来的肾上腺素飙升是他从未体验过的。"
       ]
     ]
   },
@@ -40173,21 +42177,24 @@ window.dialogueCards = [
     "words": [
       [
         "meteor shower",
-        "/phrase/",
+        "/ˈmitiər ˈʃaʊər/",
         "流星雨",
-        "Practice using \"meteor shower\" in a real conversation."
+        "We stayed up late to watch the Perseid meteor shower from the rooftop.",
+        "我们熬夜在屋顶上观看英仙座流星雨。"
       ],
       [
         "wish",
-        "/phrase/",
+        "/wɪʃ/",
         "愿望",
-        "Practice using \"wish\" in a real conversation."
+        "Make a wish before you blow out the candles on your birthday cake.",
+        "在吹灭生日蛋糕上的蜡烛之前许个愿吧。"
       ],
       [
         "rooftop",
-        "/phrase/",
+        "/ˈruːfˌtɒp/",
         "屋顶、天台",
-        "Practice using \"rooftop\" in a real conversation."
+        "They installed solar panels on the rooftop to reduce electricity costs.",
+        "他们在屋顶安装了太阳能板来降低电费。"
       ]
     ]
   },
@@ -40241,21 +42248,24 @@ window.dialogueCards = [
     "words": [
       [
         "avatar",
-        "/phrase/",
+        "/ˈævətɑː(r)/",
         "头像、虚拟形象",
-        "Practice using \"avatar\" in a real conversation."
+        "She created a cartoon avatar that looks just like her for her social media profile.",
+        "她为社交媒体头像创建了一个和自己很像的卡通虚拟形象。"
       ],
       [
         "forum",
-        "/phrase/",
+        "/ˈfɔrəm/",
         "论坛",
-        "Practice using \"forum\" in a real conversation."
+        "She posted her question on an online forum and got helpful replies.",
+        "她在一个在线论坛上发布了问题，得到了很多有用的回复。"
       ],
       [
         "tournament",
-        "/phrase/",
+        "/ˈtɜːrnəmənt/",
         "锦标赛、比赛",
-        "Practice using \"tournament\" in a real conversation."
+        "The chess tournament attracted players from over 30 countries.",
+        "这次国际象棋锦标赛吸引了来自30多个国家的选手。"
       ]
     ]
   },
@@ -40309,21 +42319,24 @@ window.dialogueCards = [
     "words": [
       [
         "best man",
-        "/phrase/",
+        "/ˌbest ˈmæn/",
         "伴郎",
-        "Practice using \"best man\" in a real conversation."
+        "His best man gave a hilarious speech at the wedding reception.",
+        "他的伴郎在婚宴上做了一个非常搞笑的致辞。"
       ],
       [
         "speech",
-        "/phrase/",
+        "/spiːtʃ/",
         "致辞",
-        "Practice using \"speech\" in a real conversation."
+        "The best man gave a heartfelt speech at the wedding reception.",
+        "伴郎在婚宴上发表了感人的致辞。"
       ],
       [
         "cheers",
-        "/phrase/",
+        "/tʃɪəz/",
         "干杯",
-        "Practice using \"cheers\" in a real conversation."
+        "Everyone raised their glasses and shouted \"Cheers!\" to celebrate the promotion.",
+        "大家举起酒杯，大喊\"干杯\"来庆祝晋升。"
       ]
     ]
   },
@@ -40377,21 +42390,24 @@ window.dialogueCards = [
     "words": [
       [
         "world-building",
-        "/phrase/",
+        "/ˈwɜːrld ˌbɪldɪŋ/",
         "世界观构建",
-        "Practice using \"world-building\" in a real conversation."
+        "The author's world-building in this fantasy novel is incredibly detailed.",
+        "作者在这部奇幻小说中的世界观构建非常细致。"
       ],
       [
         "sci-fi",
-        "/phrase/",
+        "/ˈsaɪfaɪ/",
         "科幻",
-        "Practice using \"sci-fi\" in a real conversation."
+        "Her favorite sci-fi novel is about time travel and parallel universes.",
+        "她最喜欢的科幻小说是关于时间旅行和平行宇宙的。"
       ],
       [
         "theme",
-        "/phrase/",
+        "/θiːm/",
         "主题",
-        "Practice using \"theme\" in a real conversation."
+        "The theme of this year's conference is innovation.",
+        "今年会议的主题是创新。"
       ]
     ]
   },
@@ -40445,21 +42461,24 @@ window.dialogueCards = [
     "words": [
       [
         "acne",
-        "/phrase/",
+        "/ˈækni/",
         "痤疮、痘痘",
-        "Practice using \"acne\" in a real conversation."
+        "She tried several skincare products to clear up her acne.",
+        "她试了好几种护肤品来消除痘痘。"
       ],
       [
         "retinoid",
-        "/phrase/",
+        "/ˈrɛtɪnɔɪd/",
         "维A酸类",
-        "Practice using \"retinoid\" in a real conversation."
+        "Retinoids are commonly used in skincare products for anti-aging.",
+        "维A酸类常用于护肤品中以抗衰老。"
       ],
       [
         "non-comedogenic",
-        "/phrase/",
+        "/ˌnɑn ˌkɑmɪdoʊˈdʒɛnɪk/",
         "不致痘的",
-        "Practice using \"non-comedogenic\" in a real conversation."
+        "This moisturizer is labeled non-comedogenic, so it won't clog your pores.",
+        "这款保湿霜标明不致痘，所以不会堵塞毛孔。"
       ]
     ]
   },
@@ -40513,21 +42532,24 @@ window.dialogueCards = [
     "words": [
       [
         "kidney stone",
-        "/phrase/",
+        "/ˈkɪdni stoʊn/",
         "肾结石",
-        "Practice using \"kidney stone\" in a real conversation."
+        "Drinking plenty of water can help prevent kidney stones from forming.",
+        "多喝水有助于预防肾结石的形成。"
       ],
       [
         "CT scan",
-        "/phrase/",
+        "/ˌsiː ˈtiː skæn/",
         "CT扫描",
-        "Practice using \"CT scan\" in a real conversation."
+        "The doctor ordered a CT scan to get a clearer image of the injury.",
+        "医生安排了一次CT扫描，以便更清楚地看到伤势。"
       ],
       [
         "pass",
-        "/phrase/",
+        "/pæs/",
         "排出",
-        "Practice using \"pass\" in a real conversation."
+        "Drinking plenty of water helps you pass a kidney stone more easily.",
+        "多喝水有助于更顺利地排出肾结石。"
       ]
     ]
   },
@@ -40581,21 +42603,24 @@ window.dialogueCards = [
     "words": [
       [
         "smoke-free",
-        "/phrase/",
+        "/ˌsmoʊk ˈfriː/",
         "无烟的",
-        "Practice using \"smoke-free\" in a real conversation."
+        "This is a smoke-free campus; please do not smoke anywhere on the premises.",
+        "这是一个无烟校园，请不要在园区的任何地方吸烟。"
       ],
       [
         "challenge",
-        "/phrase/",
+        "/ˈtʃælɪndʒ/",
         "挑战",
-        "Practice using \"challenge\" in a real conversation."
+        "Learning a new language is a challenge but very rewarding.",
+        "学一门新语言是一种挑战但非常有收获。"
       ],
       [
         "inspire",
-        "/phrase/",
+        "/ɪnˈspaɪr/",
         "激励",
-        "Practice using \"inspire\" in a real conversation."
+        "Her story of overcoming adversity continues to inspire people around the world.",
+        "她克服逆境的故事持续激励着世界各地的人们。"
       ]
     ]
   },
@@ -40649,21 +42674,24 @@ window.dialogueCards = [
     "words": [
       [
         "delivery",
-        "/phrase/",
+        "/dɪˈlɪvəri/",
         "外卖、配送",
-        "Practice using \"delivery\" in a real conversation."
+        "I ordered pizza delivery because I was too tired to cook.",
+        "我点了披萨外卖，因为太累了不想做饭。"
       ],
       [
         "order number",
-        "/phrase/",
+        "/ˈɔrdər ˈnʌmbər/",
         "订单号",
-        "Practice using \"order number\" in a real conversation."
+        "Please provide your order number so we can track your shipment.",
+        "请提供您的订单号，以便我们追踪您的货件。"
       ],
       [
         "thorough",
-        "/phrase/",
+        "/ˈθʌroʊ/",
         "仔细的、周全的",
-        "Practice using \"thorough\" in a real conversation."
+        "The inspector conducted a thorough examination of the building.",
+        "检查员对建筑物进行了仔细的检查。"
       ]
     ]
   },
@@ -40717,21 +42745,24 @@ window.dialogueCards = [
     "words": [
       [
         "overdue",
-        "/phrase/",
+        "/ˌoʊvərˈdu/",
         "过期的",
-        "Practice using \"overdue\" in a real conversation."
+        "My library book is two weeks overdue and I need to return it as soon as possible.",
+        "我的图书馆借书已经过期两周了，我得尽快还回去。"
       ],
       [
         "fine",
-        "/phrase/",
+        "/faɪn/",
         "罚款",
-        "Practice using \"fine\" in a real conversation."
+        "You'll get a fine if you park your car in a no-parking zone.",
+        "如果你把车停在禁停区，你会被罚款。"
       ],
       [
         "renew",
-        "/phrase/",
+        "/rɪˈnuː/",
         "续借",
-        "Practice using \"renew\" in a real conversation."
+        "I need to renew my library books before they are due tomorrow.",
+        "我需要在明天到期前续借图书馆的书。"
       ]
     ]
   },
@@ -40785,21 +42816,24 @@ window.dialogueCards = [
     "words": [
       [
         "square dancing",
-        "/phrase/",
+        "/ˌskwɛər ˈdænsɪŋ/",
         "广场舞",
-        "Practice using \"square dancing\" in a real conversation."
+        "Every evening, elderly residents gather in the park for square dancing.",
+        "每天傍晚，老年居民在公园聚集跳广场舞。"
       ],
       [
         "graceful",
-        "/phrase/",
+        "/ˈɡreɪsfəl/",
         "优美的",
-        "Practice using \"graceful\" in a real conversation."
+        "The ballet dancer's movements were incredibly graceful and fluid.",
+        "那位芭蕾舞者的动作极其优美流畅。"
       ],
       [
         "rhythm",
-        "/phrase/",
+        "/ˈrɪðəm/",
         "节奏",
-        "Practice using \"rhythm\" in a real conversation."
+        "The drummer kept a steady rhythm throughout the entire song.",
+        "鼓手整首歌都保持着稳定的节奏。"
       ]
     ]
   },
@@ -40853,21 +42887,24 @@ window.dialogueCards = [
     "words": [
       [
         "bungee",
-        "/phrase/",
+        "/ˈbʌndʒi/",
         "蹦极",
-        "Practice using \"bungee\" in a real conversation."
+        "Jumping off the bridge for a bungee jump was the scariest thing he had ever done.",
+        "从桥上跳下来蹦极是他做过的最可怕的事。"
       ],
       [
         "strap in",
-        "/phrase/",
+        "/ˌstræp ˈɪn/",
         "系好安全带",
-        "Practice using \"strap in\" in a real conversation."
+        "Please strap in and keep your hands inside the ride at all times.",
+        "请系好安全带，并始终保持双手在乘坐设施内。"
       ],
       [
         "bounce",
-        "/phrase/",
+        "/baʊns/",
         "弹跳",
-        "Practice using \"bounce\" in a real conversation."
+        "The basketball bounced off the rim and into the hands of the opposing player.",
+        "篮球从篮筐边缘弹开，落到了对方球员手中。"
       ]
     ]
   },
@@ -40921,21 +42958,24 @@ window.dialogueCards = [
     "words": [
       [
         "chairlift",
-        "/phrase/",
+        "/ˈtʃeəlɪft/",
         "缆车",
-        "Practice using \"chairlift\" in a real conversation."
+        "The chairlift carried us up to the top of the ski slope in just ten minutes.",
+        "缆车只用了十分钟就把我们送到了滑雪坡的顶端。"
       ],
       [
         "powder snow",
-        "/phrase/",
+        "/ˈpaʊdər snoʊ/",
         "粉雪",
-        "Practice using \"powder snow\" in a real conversation."
+        "Skiing through fresh powder snow feels like floating on a cloud.",
+        "在新鲜的粉雪上滑雪的感觉就像在云上漂浮。"
       ],
       [
         "après-ski",
-        "/phrase/",
+        "/ˌæpreɪ ˈskiː/",
         "滑雪后的休闲",
-        "Practice using \"après-ski\" in a real conversation."
+        "After a long day on the slopes, we enjoyed some après-ski at the lodge with hot chocolate.",
+        "在雪坡上滑了一整天后，我们在小屋享受滑雪后的休闲时光，喝着热巧克力。"
       ]
     ]
   },
@@ -40989,21 +43029,24 @@ window.dialogueCards = [
     "words": [
       [
         "Moai",
-        "/phrase/",
+        "/ˈmoʊaɪ/",
         "摩艾石像",
-        "Practice using \"Moai\" in a real conversation."
+        "The Moai statues on Easter Island were carved by the Rapa Nui people centuries ago.",
+        "复活节岛上的摩艾石像是几个世纪前由拉帕努伊人雕刻的。"
       ],
       [
         "statue",
-        "/phrase/",
+        "/ˈstætʃuː/",
         "雕像",
-        "Practice using \"statue\" in a real conversation."
+        "The Statue of Liberty was a gift from France to the United States.",
+        "自由女神像是法国送给美国的礼物。"
       ],
       [
         "ancestor",
-        "/phrase/",
+        "/ˈænsestə(r)/",
         "祖先",
-        "Practice using \"ancestor\" in a real conversation."
+        "She traced her ancestors back to a small village in Ireland.",
+        "她追溯自己的祖先到爱尔兰的一个小村庄。"
       ]
     ]
   },
@@ -41057,21 +43100,24 @@ window.dialogueCards = [
     "words": [
       [
         "eliminate",
-        "/phrase/",
+        "/ɪˈlɪmɪneɪt/",
         "裁撤",
-        "Practice using \"eliminate\" in a real conversation."
+        "The company decided to eliminate several positions to cut costs.",
+        "公司决定裁撤多个职位以削减成本。"
       ],
       [
         "severance",
-        "/phrase/",
+        "/ˈsɛvərəns/",
         "遣散费",
-        "Practice using \"severance\" in a real conversation."
+        "He received six months of severance pay after being laid off.",
+        "被裁员后，他拿到了六个月的遣散费。"
       ],
       [
         "outplacement",
-        "/phrase/",
+        "/ˈaʊtˌpleɪsmənt/",
         "再就业服务",
-        "Practice using \"outplacement\" in a real conversation."
+        "The company offered outplacement services to help laid-off workers find new jobs.",
+        "公司提供了再就业服务，帮助被裁员工找到新工作。"
       ]
     ]
   },
@@ -41125,21 +43171,24 @@ window.dialogueCards = [
     "words": [
       [
         "crash",
-        "/phrase/",
+        "/kræʃ/",
         "死机、崩溃",
-        "Practice using \"crash\" in a real conversation."
+        "The software tends to crash when too many tabs are open.",
+        "当打开太多标签页时，这个软件容易崩溃。"
       ],
       [
         "borrow",
-        "/phrase/",
+        "/ˈbɑːroʊ/",
         "借用",
-        "Practice using \"borrow\" in a real conversation."
+        "Can I borrow your pen for a moment?",
+        "我能借你的笔用一下吗？"
       ],
       [
         "deadline",
-        "/phrase/",
+        "/ˈdɛdlaɪn/",
         "截止日期",
-        "Practice using \"deadline\" in a real conversation."
+        "The deadline for submitting the report is Friday at 5 p.m.",
+        "提交报告的截止日期是周五下午五点。"
       ]
     ]
   },
@@ -41193,21 +43242,24 @@ window.dialogueCards = [
     "words": [
       [
         "flexible",
-        "/phrase/",
+        "/ˈflɛksɪbəl/",
         "灵活的",
-        "Practice using \"flexible\" in a real conversation."
+        "My boss is very flexible about when I start and finish work.",
+        "我的老板对我上下班的时间非常灵活。"
       ],
       [
         "arrangement",
-        "/phrase/",
+        "/əˈreɪndʒmənt/",
         "安排",
-        "Practice using \"arrangement\" in a real conversation."
+        "The seating arrangement at the wedding took hours to plan.",
+        "婚礼的座位安排花了好几个小时来规划。"
       ],
       [
         "trial",
-        "/phrase/",
+        "/ˈtraɪəl/",
         "试行",
-        "Practice using \"trial\" in a real conversation."
+        "The company is running a one-month trial of the new four-day workweek policy.",
+        "公司正在试行一个月的新四天工作周政策。"
       ]
     ]
   },
@@ -41261,21 +43313,24 @@ window.dialogueCards = [
     "words": [
       [
         "injera",
-        "/phrase/",
+        "/ɪnˈdʒɛrə/",
         "英吉拉",
-        "Practice using \"injera\" in a real conversation."
+        "Injera is a sourdough flatbread that serves as both plate and food in Ethiopian cuisine.",
+        "英吉拉是一种酸面薄饼，在埃塞俄比亚料理中既当盘子又当食物。"
       ],
       [
         "stew",
-        "/phrase/",
+        "/stuː/",
         "炖菜",
-        "Practice using \"stew\" in a real conversation."
+        "My grandmother's beef stew simmers on the stove for hours.",
+        "我祖母的炖牛肉在炉子上慢炖了好几个小时。"
       ],
       [
         "spice",
-        "/phrase/",
+        "/spaɪs/",
         "香料",
-        "Practice using \"spice\" in a real conversation."
+        "Cinnamon is a warm spice often used in baking and desserts.",
+        "肉桂是一种温暖的香料，常用于烘焙和甜点中。"
       ]
     ]
   },
@@ -41329,21 +43384,24 @@ window.dialogueCards = [
     "words": [
       [
         "yuenyeung",
-        "/phrase/",
+        "/juːnˈjʌŋ/",
         "鸳鸯",
-        "Practice using \"yuenyeung\" in a real conversation."
+        "Yuenyeung is a popular Hong Kong drink that mixes coffee and milk tea.",
+        "鸳鸯是一种流行的港式饮品，混合了咖啡和奶茶。"
       ],
       [
         "cha chaan teng",
-        "/phrase/",
+        "/ˌtʃɑː tʃɑːn ˈteŋ/",
         "茶餐厅",
-        "Practice using \"cha chaan teng\" in a real conversation."
+        "We stopped at a cha chaan teng in Hong Kong for a quick meal of milk tea and pineapple buns.",
+        "我们在香港的一家茶餐厅停下来，快速吃了一顿奶茶配菠萝包。"
       ],
       [
         "pineapple bun",
-        "/phrase/",
+        "/ˈpaɪnæpəl bʌn/",
         "菠萝包",
-        "Practice using \"pineapple bun\" in a real conversation."
+        "A pineapple bun is a sweet Hong Kong pastry with a crunchy sugar topping.",
+        "菠萝包是一种港式甜面包，表面有一层酥脆的糖皮。"
       ]
     ]
   },
@@ -41397,21 +43455,24 @@ window.dialogueCards = [
     "words": [
       [
         "vegan",
-        "/phrase/",
+        "/ˈviːɡən/",
         "纯素的",
-        "Practice using \"vegan\" in a real conversation."
+        "This restaurant has a full vegan menu with no animal products.",
+        "这家餐厅有一整套不含任何动物产品的纯素菜单。"
       ],
       [
         "lactose intolerant",
-        "/phrase/",
+        "/ˈlæktəʊs ɪnˈtɒlərənt/",
         "乳糖不耐受",
-        "Practice using \"lactose intolerant\" in a real conversation."
+        "Since I'm lactose intolerant, I always order my coffee with oat milk instead.",
+        "因为我乳糖不耐受，我点咖啡时总是换成燕麦奶。"
       ],
       [
         "remake",
-        "/phrase/",
+        "/ˈriːmeɪk/",
         "重做",
-        "Practice using \"remake\" in a real conversation."
+        "The director is planning a remake of the classic 1980s film.",
+        "导演计划重拍这部1980年代的经典电影。"
       ]
     ]
   },
@@ -41465,21 +43526,24 @@ window.dialogueCards = [
     "words": [
       [
         "bouquet",
-        "/phrase/",
+        "/buˈkeɪ/",
         "花束",
-        "Practice using \"bouquet\" in a real conversation."
+        "The bride carried a beautiful bouquet of roses and peonies.",
+        "新娘捧着一束美丽的玫瑰和牡丹花束。"
       ],
       [
         "carnation",
-        "/phrase/",
+        "/kɑːˈneɪʃən/",
         "康乃馨",
-        "Practice using \"carnation\" in a real conversation."
+        "He gave his mother a bouquet of pink carnations for Mother's Day.",
+        "母亲节他送给妈妈一束粉色康乃馨。"
       ],
       [
         "delivery",
-        "/phrase/",
+        "/dɪˈlɪvəri/",
         "配送",
-        "Practice using \"delivery\" in a real conversation."
+        "I ordered pizza delivery because I was too tired to cook.",
+        "我点了披萨外卖，因为太累了不想做饭。"
       ]
     ]
   },
@@ -41533,21 +43597,24 @@ window.dialogueCards = [
     "words": [
       [
         "gait",
-        "/phrase/",
+        "/ɡeɪt/",
         "步态",
-        "Practice using \"gait\" in a real conversation."
+        "The physical therapist analyzed the patient's gait to identify the problem.",
+        "理疗师分析了患者的步态以找出问题所在。"
       ],
       [
         "pronation",
-        "/phrase/",
+        "/proʊˈneɪʃən/",
         "内旋",
-        "Practice using \"pronation\" in a real conversation."
+        "Overpronation can lead to foot and ankle injuries while running.",
+        "过度内旋可能导致跑步时脚和脚踝受伤。"
       ],
       [
         "cushioning",
-        "/phrase/",
+        "/ˈkʊʃənɪŋ/",
         "缓震",
-        "Practice using \"cushioning\" in a real conversation."
+        "These running shoes have excellent cushioning to protect your knees from impact.",
+        "这双跑鞋有出色的缓震性能，可以保护膝盖免受冲击。"
       ]
     ]
   },
@@ -41601,21 +43668,24 @@ window.dialogueCards = [
     "words": [
       [
         "tarnish",
-        "/phrase/",
+        "/ˈtɑːrnɪʃ/",
         "失去光泽、氧化",
-        "Practice using \"tarnish\" in a real conversation."
+        "Silver jewelry will tarnish over time if not properly stored.",
+        "银首饰如果存放不当会随时间失去光泽。"
       ],
       [
         "clasp",
-        "/phrase/",
+        "/klɑːsp/",
         "搭扣、扣环",
-        "Practice using \"clasp\" in a real conversation."
+        "She struggled to fasten the clasp on her necklace without a mirror.",
+        "她没照镜子，费了好大劲才扣上项链的搭扣。"
       ],
       [
         "polish",
-        "/phrase/",
+        "/ˈpɑlɪʃ/",
         "抛光",
-        "Practice using \"polish\" in a real conversation."
+        "Apply a coat of car polish to protect the paint and give it a glossy shine.",
+        "涂一层汽车抛光剂来保护车漆并让车身光亮如新。"
       ]
     ]
   },
@@ -41669,21 +43739,24 @@ window.dialogueCards = [
     "words": [
       [
         "lock out",
-        "/phrase/",
+        "/lɑk aʊt/",
         "锁在外面",
-        "Practice using \"lock out\" in a real conversation."
+        "I accidentally locked myself out of the house and had to call a locksmith.",
+        "我不小心把自己锁在门外了，只好叫锁匠来开门。"
       ],
       [
         "master key",
-        "/phrase/",
+        "/ˈmæstər ki/",
         "万能钥匙",
-        "Practice using \"master key\" in a real conversation."
+        "The janitor uses a master key to access all the rooms in the building.",
+        "清洁工用万能钥匙进入大楼里的所有房间。"
       ],
       [
         "spare key",
-        "/phrase/",
+        "/ˌspɛər ˈkiː/",
         "备用钥匙",
-        "Practice using \"spare key\" in a real conversation."
+        "We keep a spare key under the flower pot in case we get locked out.",
+        "我们在花盆下放了一把备用钥匙，以防被锁在门外。"
       ]
     ]
   },
@@ -41737,21 +43810,24 @@ window.dialogueCards = [
     "words": [
       [
         "internship",
-        "/phrase/",
+        "/ˈɪntərnʃɪp/",
         "实习",
-        "Practice using \"internship\" in a real conversation."
+        "I completed a summer internship at a tech company to gain experience.",
+        "我暑假在一家科技公司完成了实习，以积累经验。"
       ],
       [
         "tech stack",
-        "/phrase/",
+        "/ˈtɛk ˌstæk/",
         "技术栈",
-        "Practice using \"tech stack\" in a real conversation."
+        "Our tech stack includes React for the frontend and Python for the backend.",
+        "我们的技术栈包括用于前端的React和用于后端的Python。"
       ],
       [
         "referral",
-        "/phrase/",
+        "/rɪˈfɜːrəl/",
         "推荐",
-        "Practice using \"referral\" in a real conversation."
+        "She got the job through a referral from her former manager.",
+        "她通过前经理的推荐得到了这份工作。"
       ]
     ]
   },
@@ -41805,21 +43881,24 @@ window.dialogueCards = [
     "words": [
       [
         "cultural difference",
-        "/phrase/",
+        "/ˌkʌltʃərəl ˈdɪfərəns/",
         "文化差异",
-        "Practice using \"cultural difference\" in a real conversation."
+        "Understanding cultural differences is essential when doing business internationally.",
+        "在国际商务中，理解文化差异至关重要。"
       ],
       [
         "perspective",
-        "/phrase/",
+        "/pərˈspektɪv/",
         "视角",
-        "Practice using \"perspective\" in a real conversation."
+        "Traveling to different countries really changed my perspective on life.",
+        "去不同国家旅行真的改变了我对生活的视角。"
       ],
       [
         "independent",
-        "/phrase/",
+        "/ˌɪndɪˈpɛndənt/",
         "独立的",
-        "Practice using \"independent\" in a real conversation."
+        "She moved out at eighteen and has been financially independent ever since.",
+        "她十八岁就搬出去了，从那以后一直经济独立。"
       ]
     ]
   },
@@ -41873,21 +43952,24 @@ window.dialogueCards = [
     "words": [
       [
         "form",
-        "/phrase/",
+        "/fɔrm/",
         "姿势、动作",
-        "Practice using \"form\" in a real conversation."
+        "Make sure you use proper form when lifting weights to avoid injury.",
+        "举重时务必保持正确的姿势，以免受伤。"
       ],
       [
         "squat",
-        "/phrase/",
+        "/skwɑːt/",
         "深蹲",
-        "Practice using \"squat\" in a real conversation."
+        "Proper form is essential when doing squats to avoid back injury.",
+        "做深蹲时保持正确的姿势对于避免背部受伤至关重要。"
       ],
       [
         "spot",
-        "/phrase/",
+        "/spɑːt/",
         "保护、辅助",
-        "Practice using \"spot\" in a real conversation."
+        "This is my favorite spot to watch the sunset.",
+        "这是我最喜欢的看日落的地点。"
       ]
     ]
   },
@@ -41941,21 +44023,24 @@ window.dialogueCards = [
     "words": [
       [
         "toast",
-        "/phrase/",
+        "/toʊst/",
         "敬酒、干杯",
-        "Practice using \"toast\" in a real conversation."
+        "I had toast and eggs for breakfast this morning.",
+        "我今天早餐吃了烤面包和鸡蛋。"
       ],
       [
         "propose",
-        "/phrase/",
+        "/prəˈpoʊz/",
         "提议",
-        "Practice using \"propose\" in a real conversation."
+        "He planned to propose to his girlfriend during their trip to Paris.",
+        "他计划在去巴黎旅行时向女友求婚。"
       ],
       [
         "chapter",
-        "/phrase/",
+        "/ˈtʃæptə(r)/",
         "篇章",
-        "Practice using \"chapter\" in a real conversation."
+        "The final chapter of the book revealed the mystery behind the crime.",
+        "这本书的最后一章揭示了犯罪背后的谜团。"
       ]
     ]
   },
@@ -42009,21 +44094,24 @@ window.dialogueCards = [
     "words": [
       [
         "baking",
-        "/phrase/",
+        "/ˈbeɪkɪŋ/",
         "烘焙",
-        "Practice using \"baking\" in a real conversation."
+        "Baking bread from scratch is one of her favorite weekend activities.",
+        "从头开始烘焙面包是她最喜欢的周末活动之一。"
       ],
       [
         "croissant",
-        "/phrase/",
+        "/ˈkwæsɒ̃/",
         "可颂面包",
-        "Practice using \"croissant\" in a real conversation."
+        "She had a buttery croissant and a cup of coffee for breakfast.",
+        "她早餐吃了一个黄油可颂面包，喝了一杯咖啡。"
       ],
       [
         "dough",
-        "/phrase/",
+        "/doʊ/",
         "面团",
-        "Practice using \"dough\" in a real conversation."
+        "Knead the dough for about ten minutes until it becomes smooth.",
+        "将面团揉大约十分钟，直到它变得光滑。"
       ]
     ]
   },
@@ -42077,21 +44165,24 @@ window.dialogueCards = [
     "words": [
       [
         "rheumatoid arthritis",
-        "/phrase/",
+        "/ˈruːmətɔɪd ɑːrˈθraɪtɪs/",
         "类风湿关节炎",
-        "Practice using \"rheumatoid arthritis\" in a real conversation."
+        "Rheumatoid arthritis is an autoimmune disease that causes joint inflammation.",
+        "类风湿关节炎是一种导致关节炎症的自身免疫性疾病。"
       ],
       [
         "inflammation",
-        "/phrase/",
+        "/ˌɪnfləˈmeɪʃən/",
         "炎症",
-        "Practice using \"inflammation\" in a real conversation."
+        "Ice can help reduce inflammation after a sports injury.",
+        "运动受伤后冰敷有助于减轻炎症。"
       ],
       [
         "mobility",
-        "/phrase/",
+        "/moʊˈbɪlɪti/",
         "活动能力",
-        "Practice using \"mobility\" in a real conversation."
+        "Regular stretching exercises can help maintain joint mobility as you age.",
+        "随着年龄增长，定期做拉伸运动有助于保持关节的活动能力。"
       ]
     ]
   },
@@ -42145,21 +44236,24 @@ window.dialogueCards = [
     "words": [
       [
         "depression",
-        "/phrase/",
+        "/dɪˈprɛʃən/",
         "抑郁症",
-        "Practice using \"depression\" in a real conversation."
+        "She was diagnosed with clinical depression and started therapy.",
+        "她被诊断出患有临床抑郁症，并开始了心理治疗。"
       ],
       [
         "symptom",
-        "/phrase/",
+        "/ˈsɪmptəm/",
         "症状",
-        "Practice using \"symptom\" in a real conversation."
+        "A fever is a common symptom of the flu.",
+        "发烧是流感的常见症状。"
       ],
       [
         "therapy",
-        "/phrase/",
+        "/ˈθɛrəpi/",
         "治疗、心理治疗",
-        "Practice using \"therapy\" in a real conversation."
+        "Cognitive behavioral therapy has helped many people manage anxiety.",
+        "认知行为疗法帮助了很多人管理焦虑。"
       ]
     ]
   },
@@ -42213,21 +44307,24 @@ window.dialogueCards = [
     "words": [
       [
         "sprain",
-        "/phrase/",
+        "/spreɪn/",
         "扭伤",
-        "Practice using \"sprain\" in a real conversation."
+        "She suffered a mild ankle sprain while jogging on the uneven trail.",
+        "她在不平坦的小径上慢跑时轻微扭伤了脚踝。"
       ],
       [
         "rehabilitation",
-        "/phrase/",
+        "/ˌriːəˌbɪlɪˈteɪʃən/",
         "康复",
-        "Practice using \"rehabilitation\" in a real conversation."
+        "After knee surgery, he spent three months in rehabilitation.",
+        "膝盖手术后，他花了三个月进行康复治疗。"
       ],
       [
         "stability",
-        "/phrase/",
+        "/stəˈbɪləti/",
         "稳定性",
-        "Practice using \"stability\" in a real conversation."
+        "The new software update improved the stability of the entire system.",
+        "新的软件更新提高了整个系统的稳定性。"
       ]
     ]
   },
@@ -42281,21 +44378,24 @@ window.dialogueCards = [
     "words": [
       [
         "pickup code",
-        "/phrase/",
+        "/ˈpɪkʌp koʊd/",
         "取件码",
-        "Practice using \"pickup code\" in a real conversation."
+        "You'll receive a pickup code by text message once your package is ready for collection.",
+        "包裹准备好后，你会通过短信收到取件码。"
       ],
       [
         "compartment",
-        "/phrase/",
+        "/kəmˈpɑːtmənt/",
         "柜格",
-        "Practice using \"compartment\" in a real conversation."
+        "Enter the code on the screen and your compartment will open automatically.",
+        "在屏幕上输入密码，你的柜格就会自动打开。"
       ],
       [
         "remote",
-        "/phrase/",
+        "/rɪˈmoʊt/",
         "远程的",
-        "Practice using \"remote\" in a real conversation."
+        "Many companies now offer remote work options to their employees.",
+        "许多公司现在为员工提供远程工作选项。"
       ]
     ]
   },
@@ -42349,21 +44449,24 @@ window.dialogueCards = [
     "words": [
       [
         "barber",
-        "/phrase/",
+        "/ˈbɑːbə(r)/",
         "理发师",
-        "Practice using \"barber\" in a real conversation."
+        "He goes to the same barber every month for a haircut.",
+        "他每个月都去同一位理发师那里理发。"
       ],
       [
         "haircut",
-        "/phrase/",
+        "/ˈhɛrkʌt/",
         "理发",
-        "Practice using \"haircut\" in a real conversation."
+        "I'm getting a haircut this afternoon before the job interview.",
+        "我今天下午在面试之前去理发。"
       ],
       [
         "generation",
-        "/phrase/",
+        "/ˌdʒenəˈreɪʃən/",
         "一代人",
-        "Practice using \"generation\" in a real conversation."
+        "The younger generation is much more comfortable with technology than their parents.",
+        "年轻一代比他们的父母更适应科技。"
       ]
     ]
   },
@@ -42417,21 +44520,24 @@ window.dialogueCards = [
     "words": [
       [
         "ride",
-        "/phrase/",
+        "/raɪd/",
         "乘车",
-        "Practice using \"ride\" in a real conversation."
+        "I like to ride my bike to work every day.",
+        "我喜欢每天骑自行车上班。"
       ],
       [
         "airport",
-        "/phrase/",
+        "/ˈeəpɔːt/",
         "机场",
-        "Practice using \"airport\" in a real conversation."
+        "We arrived at the airport two hours before our flight.",
+        "我们在航班起飞前两小时到达了机场。"
       ],
       [
         "cherry blossom",
-        "/phrase/",
+        "/ˈtʃeri ˌblɒsəm/",
         "樱花",
-        "Practice using \"cherry blossom\" in a real conversation."
+        "The cherry blossoms in full bloom attracted thousands of visitors to the park.",
+        "盛开的樱花吸引了成千上万的游客来到公园。"
       ]
     ]
   },
@@ -42485,21 +44591,24 @@ window.dialogueCards = [
     "words": [
       [
         "jungle",
-        "/phrase/",
+        "/ˈdʒʌŋɡəl/",
         "丛林",
-        "Practice using \"jungle\" in a real conversation."
+        "The explorers hacked their way through the dense jungle with machetes.",
+        "探险者们用砍刀在茂密的丛林中劈出一条路。"
       ],
       [
         "flashlight",
-        "/phrase/",
+        "/ˈflæʃlaɪt/",
         "手电筒",
-        "Practice using \"flashlight\" in a real conversation."
+        "I used a flashlight to find my keys in the dark parking lot.",
+        "我用手电筒在漆黑的停车场找我的钥匙。"
       ],
       [
         "species",
-        "/phrase/",
+        "/ˈspiːʃiːz/",
         "物种",
-        "Practice using \"species\" in a real conversation."
+        "The giant panda is an endangered species native to China.",
+        "大熊猫是一种原产于中国的濒危物种。"
       ]
     ]
   },
@@ -42553,21 +44662,24 @@ window.dialogueCards = [
     "words": [
       [
         "canyon",
-        "/phrase/",
+        "/ˈkænjən/",
         "峡谷",
-        "Practice using \"canyon\" in a real conversation."
+        "The Grand Canyon is one of the most breathtaking natural wonders in the world.",
+        "大峡谷是世界上最令人叹为观止的自然奇观之一。"
       ],
       [
         "sandstone",
-        "/phrase/",
+        "/ˈsændstoʊn/",
         "砂岩",
-        "Practice using \"sandstone\" in a real conversation."
+        "The ancient temple was carved entirely from red sandstone.",
+        "这座古庙完全由红色砂岩雕刻而成。"
       ],
       [
         "treasury",
-        "/phrase/",
+        "/ˈtrɛʒəri/",
         "宝库、神殿",
-        "Practice using \"treasury\" in a real conversation."
+        "The ancient treasury housed gold, jewels, and priceless artifacts.",
+        "这座古代宝库收藏了黄金、珠宝和无价的文物。"
       ]
     ]
   },
@@ -42621,21 +44733,24 @@ window.dialogueCards = [
     "words": [
       [
         "Santa Claus",
-        "/phrase/",
+        "/ˈsæntə ˌklɔːz/",
         "圣诞老人",
-        "Practice using \"Santa Claus\" in a real conversation."
+        "Children believe that Santa Claus brings presents on Christmas Eve.",
+        "孩子们相信圣诞老人在平安夜送来礼物。"
       ],
       [
         "Arctic Circle",
-        "/phrase/",
+        "/ˌɑːktɪk ˈsɜːkəl/",
         "北极圈",
-        "Practice using \"Arctic Circle\" in a real conversation."
+        "They crossed the Arctic Circle during their expedition to northern Norway.",
+        "他们在挪威北部的探险中穿越了北极圈。"
       ],
       [
         "postmark",
-        "/phrase/",
+        "/ˈpoʊstmɑrk/",
         "邮戳",
-        "Practice using \"postmark\" in a real conversation."
+        "The postmark on the envelope showed it was mailed from Paris last Tuesday.",
+        "信封上的邮戳显示是上周二从巴黎寄出的。"
       ]
     ]
   },
@@ -42689,21 +44804,24 @@ window.dialogueCards = [
     "words": [
       [
         "harassment",
-        "/phrase/",
+        "/həˈræsmənt/",
         "骚扰",
-        "Practice using \"harassment\" in a real conversation."
+        "The company has a zero-tolerance policy toward workplace harassment.",
+        "公司对职场骚扰采取零容忍政策。"
       ],
       [
         "microaggression",
-        "/phrase/",
+        "/ˈmaɪkroʊəˌɡrɛʃən/",
         "微歧视",
-        "Practice using \"microaggression\" in a real conversation."
+        "Asking someone where they are really from can be a form of microaggression.",
+        "问一个人\"你到底是哪里人\"可能是一种微歧视。"
       ],
       [
         "retaliation",
-        "/phrase/",
+        "/rɪˌtæliˈeɪʃən/",
         "报复",
-        "Practice using \"retaliation\" in a real conversation."
+        "The company prohibits any form of retaliation against whistleblowers.",
+        "公司禁止对举报人进行任何形式的报复。"
       ]
     ]
   },
@@ -42757,21 +44875,24 @@ window.dialogueCards = [
     "words": [
       [
         "maternity leave",
-        "/phrase/",
+        "/məˈtɜrnɪti liv/",
         "产假",
-        "Practice using \"maternity leave\" in a real conversation."
+        "She is taking six months of maternity leave after the birth of her baby.",
+        "她生完孩子后将休六个月的产假。"
       ],
       [
         "onesie",
-        "/phrase/",
+        "/ˈwʌnzi/",
         "连体衣",
-        "Practice using \"onesie\" in a real conversation."
+        "The baby looked adorable in a soft cotton onesie with animal prints.",
+        "宝宝穿着一件印有动物图案的柔软棉质连体衣，非常可爱。"
       ],
       [
         "generous",
-        "/phrase/",
+        "/ˈdʒɛnərəs/",
         "慷慨的",
-        "Practice using \"generous\" in a real conversation."
+        "He made a generous donation to the local animal shelter.",
+        "他向当地的动物收容所捐了一笔慷慨的款项。"
       ]
     ]
   },
@@ -42825,21 +44946,24 @@ window.dialogueCards = [
     "words": [
       [
         "AI",
-        "/phrase/",
+        "/ˌeɪ ˈaɪ/",
         "人工智能",
-        "Practice using \"AI\" in a real conversation."
+        "Many companies are now using AI to improve customer service.",
+        "很多公司现在都在用人工智能来改善客户服务。"
       ],
       [
         "workflow",
-        "/phrase/",
+        "/ˈwɜːrkfloʊ/",
         "工作流程",
-        "Practice using \"workflow\" in a real conversation."
+        "Automating the approval workflow saved the team hours of manual work.",
+        "自动化审批工作流程为团队节省了大量手动操作时间。"
       ],
       [
         "pilot",
-        "/phrase/",
+        "/ˈpaɪlət/",
         "试点",
-        "Practice using \"pilot\" in a real conversation."
+        "The school is running a pilot program to test the new teaching method.",
+        "学校正在进行试点项目，以测试新的教学方法。"
       ]
     ]
   },
@@ -42893,21 +45017,24 @@ window.dialogueCards = [
     "words": [
       [
         "ceviche",
-        "/phrase/",
+        "/səˈviːtʃeɪ/",
         "酸橘汁腌鱼",
-        "Practice using \"ceviche\" in a real conversation."
+        "The ceviche was made with fresh fish marinated in lime juice and cilantro.",
+        "这道酸橘汁腌鱼是用新鲜的鱼在青柠汁和香菜中腌制而成的。"
       ],
       [
         "citrus",
-        "/phrase/",
+        "/ˈsɪtrəs/",
         "柑橘类",
-        "Practice using \"citrus\" in a real conversation."
+        "The salad had a refreshing citrus dressing made with lemon and orange.",
+        "沙拉用了清爽的柑橘类调味汁，由柠檬和橙子调制而成。"
       ],
       [
         "acidity",
-        "/phrase/",
+        "/əˈsɪdəti/",
         "酸性",
-        "Practice using \"acidity\" in a real conversation."
+        "The acidity of the soil affects which plants can grow in it.",
+        "土壤的酸性会影响哪些植物能在其中生长。"
       ]
     ]
   },
@@ -42961,21 +45088,24 @@ window.dialogueCards = [
     "words": [
       [
         "fondue",
-        "/phrase/",
+        "/fɑnˈdu/",
         "奶酪火锅",
-        "Practice using \"fondue\" in a real conversation."
+        "We dipped bread cubes into the warm cheese fondue at the Swiss restaurant.",
+        "我们在瑞士餐厅里把面包块浸入温热的奶酪火锅中。"
       ],
       [
         "melt",
-        "/phrase/",
+        "/melt/",
         "融化",
-        "Practice using \"melt\" in a real conversation."
+        "The snow began to melt as the temperature rose above zero.",
+        "气温升到零度以上后，雪开始融化了。"
       ],
       [
         "swirl",
-        "/phrase/",
+        "/swɜːrl/",
         "搅拌、旋转",
-        "Practice using \"swirl\" in a real conversation."
+        "Swirl the wine gently in the glass to release its aroma.",
+        "轻轻旋转酒杯中的红酒以释放其香气。"
       ]
     ]
   },
@@ -43029,21 +45159,24 @@ window.dialogueCards = [
     "words": [
       [
         "foreign object",
-        "/phrase/",
+        "/ˈfɔrɪn ˈɑbdʒɪkt/",
         "异物",
-        "Practice using \"foreign object\" in a real conversation."
+        "The X-ray revealed a foreign object lodged in the patient's throat.",
+        "X光显示患者喉咙里卡了一个异物。"
       ],
       [
         "refund",
-        "/phrase/",
+        "/ˈriːfʌnd/",
         "退款",
-        "Practice using \"refund\" in a real conversation."
+        "The store issued a full refund after I returned the defective product.",
+        "我退回有缺陷的产品后，商店全额退款了。"
       ],
       [
         "voucher",
-        "/phrase/",
+        "/ˈvaʊtʃər/",
         "代金券",
-        "Practice using \"voucher\" in a real conversation."
+        "I received a $50 voucher as compensation for the delayed flight.",
+        "我因航班延误收到了一张50美元的代金券。"
       ]
     ]
   },
@@ -43097,21 +45230,24 @@ window.dialogueCards = [
     "words": [
       [
         "nutrition label",
-        "/phrase/",
+        "/nuˈtrɪʃən ˈleɪbəl/",
         "营养标签",
-        "Practice using \"nutrition label\" in a real conversation."
+        "Always check the nutrition label to see how much sugar a product contains.",
+        "查看营养标签时，要始终关注产品的含糖量。"
       ],
       [
         "serving size",
-        "/phrase/",
+        "/ˈsɜːrvɪŋ saɪz/",
         "每份含量",
-        "Practice using \"serving size\" in a real conversation."
+        "The serving size on the cereal box is one cup.",
+        "麦片盒上标注的每份含量是一杯。"
       ],
       [
         "fiber",
-        "/phrase/",
+        "/ˈfaɪbər/",
         "膳食纤维",
-        "Practice using \"fiber\" in a real conversation."
+        "Eating more fiber helps improve digestion and keeps you full longer.",
+        "多吃膳食纤维有助于改善消化，并能让你更长时间保持饱腹感。"
       ]
     ]
   },
@@ -43165,21 +45301,24 @@ window.dialogueCards = [
     "words": [
       [
         "acoustic",
-        "/phrase/",
+        "/əˈkuːstɪk/",
         "原声的、民谣的",
-        "Practice using \"acoustic\" in a real conversation."
+        "He performed an acoustic version of the song without any electronic instruments.",
+        "他用原声方式演奏了这首歌，没有使用任何电子乐器。"
       ],
       [
         "action",
-        "/phrase/",
+        "/ˈækʃən/",
         "弦距",
-        "Practice using \"action\" in a real conversation."
+        "The guitar's action was too high, making it difficult to press down the strings.",
+        "这把吉他的弦距太高了，按弦很费劲。"
       ],
       [
         "tone",
-        "/phrase/",
+        "/toʊn/",
         "音色",
-        "Practice using \"tone\" in a real conversation."
+        "The guitarist adjusted the tone knob to get a warmer sound.",
+        "吉他手调整了音色旋钮以获得更温暖的音色。"
       ]
     ]
   },
@@ -43233,21 +45372,24 @@ window.dialogueCards = [
     "words": [
       [
         "typewriter",
-        "/phrase/",
+        "/ˈtaɪpraɪtər/",
         "打字机",
-        "Practice using \"typewriter\" in a real conversation."
+        "Before computers, people used typewriters to type documents.",
+        "在有电脑之前，人们用打字机来打字。"
       ],
       [
         "vintage",
-        "/phrase/",
+        "/ˈvɪntɪdʒ/",
         "复古的",
-        "Practice using \"vintage\" in a real conversation."
+        "She loves shopping for vintage clothes at thrift stores and flea markets.",
+        "她喜欢在二手店和跳蚤市场淘复古服装。"
       ],
       [
         "collector",
-        "/phrase/",
+        "/kəˈlektə(r)/",
         "收藏家",
-        "Practice using \"collector\" in a real conversation."
+        "He's an avid stamp collector with albums dating back to the 19th century.",
+        "他是一位狂热的邮票收藏家，藏品可以追溯到19世纪。"
       ]
     ]
   },
@@ -43301,21 +45443,24 @@ window.dialogueCards = [
     "words": [
       [
         "relay",
-        "/phrase/",
+        "/ˈriːleɪ/",
         "接力赛",
-        "Practice using \"relay\" in a real conversation."
+        "Their team won the gold medal in the 4×100 meter relay.",
+        "他们的队伍在4×100米接力赛中赢得了金牌。"
       ],
       [
         "baton",
-        "/phrase/",
+        "/ˈbætɒn/",
         "接力棒",
-        "Practice using \"baton\" in a real conversation."
+        "The runner dropped the baton during the relay, costing the team the race.",
+        "选手在接力赛中掉了接力棒，导致队伍输掉了比赛。"
       ],
       [
         "anchor",
-        "/phrase/",
+        "/ˈæŋkə(r)/",
         "最后一棒",
-        "Practice using \"anchor\" in a real conversation."
+        "As the anchor of the relay team, she crossed the finish line first.",
+        "作为接力队的最后一棒，她第一个冲过终点线。"
       ]
     ]
   },
@@ -43369,21 +45514,24 @@ window.dialogueCards = [
     "words": [
       [
         "schedule",
-        "/phrase/",
+        "/ˈskedʒuːl/",
         "时间表",
-        "Practice using \"schedule\" in a real conversation."
+        "I have a very busy schedule this week.",
+        "我这周的日程安排非常满。"
       ],
       [
         "quiet hours",
-        "/phrase/",
+        "/ˈkwaɪət ˈaʊərz/",
         "安静时段",
-        "Practice using \"quiet hours\" in a real conversation."
+        "The library observes quiet hours from 10 p.m. to 7 a.m.",
+        "图书馆从晚上十点到早上七点实行安静时段。"
       ],
       [
         "compromise",
-        "/phrase/",
+        "/ˈkɒmprəmaɪz/",
         "妥协",
-        "Practice using \"compromise\" in a real conversation."
+        "A good marriage requires both partners to compromise from time to time.",
+        "好的婚姻需要双方时不时地做出妥协。"
       ]
     ]
   },
@@ -43437,21 +45585,24 @@ window.dialogueCards = [
     "words": [
       [
         "biodegradable",
-        "/phrase/",
+        "/ˌbaɪəʊdɪˈɡreɪdəbəl/",
         "可生物降解的",
-        "Practice using \"biodegradable\" in a real conversation."
+        "These biodegradable plates will decompose naturally within a few months.",
+        "这些可生物降解的盘子几个月内就会自然分解。"
       ],
       [
         "scalable",
-        "/phrase/",
+        "/ˈskeɪləbəl/",
         "可扩展的",
-        "Practice using \"scalable\" in a real conversation."
+        "We need a scalable solution that can handle millions of users.",
+        "我们需要一个能处理数百万用户的可扩展解决方案。"
       ],
       [
         "equity",
-        "/phrase/",
+        "/ˈɛkwɪti/",
         "股权",
-        "Practice using \"equity\" in a real conversation."
+        "The startup offered equity to early employees as part of their compensation.",
+        "这家初创公司向早期员工提供股权作为薪酬的一部分。"
       ]
     ]
   },
@@ -43505,21 +45656,24 @@ window.dialogueCards = [
     "words": [
       [
         "playoff",
-        "/phrase/",
+        "/ˈpleɪˌɔf/",
         "季后赛",
-        "Practice using \"playoff\" in a real conversation."
+        "The team made it to the playoffs for the first time in franchise history.",
+        "这支球队历史上首次打入季后赛。"
       ],
       [
         "striker",
-        "/phrase/",
+        "/ˈstraɪkər/",
         "前锋",
-        "Practice using \"striker\" in a real conversation."
+        "The striker scored a hat-trick in the first half of the match.",
+        "这名前锋在比赛上半场上演了帽子戏法。"
       ],
       [
         "suspense",
-        "/phrase/",
+        "/səˈspɛns/",
         "悬念",
-        "Practice using \"suspense\" in a real conversation."
+        "The movie kept me in suspense from beginning to end.",
+        "这部电影从头到尾都让我悬念重重。"
       ]
     ]
   },
@@ -43573,21 +45727,24 @@ window.dialogueCards = [
     "words": [
       [
         "profile",
-        "/phrase/",
+        "/ˈproʊfaɪl/",
         "个人资料",
-        "Practice using \"profile\" in a real conversation."
+        "Please update your profile before applying for the job.",
+        "请在申请工作前更新你的个人资料。"
       ],
       [
         "catfish",
-        "/phrase/",
+        "/ˈkætfɪʃ/",
         "照骗、虚假身份",
-        "Practice using \"catfish\" in a real conversation."
+        "She realized she had been catfished when the person she met looked nothing like their profile photos.",
+        "她发现自己被照骗了，因为见到的人跟资料照片完全不一样。"
       ],
       [
         "adventurous",
-        "/phrase/",
+        "/ədˈventʃərəs/",
         "冒险的",
-        "Practice using \"adventurous\" in a real conversation."
+        "She's always been adventurous, traveling to remote places on her own.",
+        "她一直都很爱冒险，独自去偏远的地方旅行。"
       ]
     ]
   },
@@ -43641,21 +45798,24 @@ window.dialogueCards = [
     "words": [
       [
         "summit",
-        "/phrase/",
+        "/ˈsʌmɪt/",
         "山顶",
-        "Practice using \"summit\" in a real conversation."
+        "After a grueling six-hour climb, they finally reached the summit.",
+        "经过六小时的艰苦攀登，他们终于到达了山顶。"
       ],
       [
         "pace",
-        "/phrase/",
+        "/peɪs/",
         "调整节奏",
-        "Practice using \"pace\" in a real conversation."
+        "When running a marathon, it's important to pace yourself so you don't burn out early.",
+        "跑马拉松时，调整好自己的节奏很重要，这样才不会过早筋疲力尽。"
       ],
       [
         "conquer",
-        "/phrase/",
+        "/ˈkɒŋkə(r)/",
         "征服",
-        "Practice using \"conquer\" in a real conversation."
+        "He set out to conquer his fear of public speaking by joining a debate club.",
+        "他通过参加辩论俱乐部来征服自己对公开演讲的恐惧。"
       ]
     ]
   },
@@ -43709,21 +45869,24 @@ window.dialogueCards = [
     "words": [
       [
         "braces",
-        "/phrase/",
+        "/ˈbreɪsɪz/",
         "牙套",
-        "Practice using \"braces\" in a real conversation."
+        "She wore braces for two years to straighten her teeth.",
+        "她戴了两年牙套来矫正牙齿。"
       ],
       [
         "aligner",
-        "/phrase/",
+        "/əˈlaɪnə(r)/",
         "矫正器",
-        "Practice using \"aligner\" in a real conversation."
+        "She wears a clear aligner at night to straighten her teeth.",
+        "她晚上戴着透明矫正器来矫正牙齿。"
       ],
       [
         "overbite",
-        "/phrase/",
+        "/ˈoʊvərbaɪt/",
         "覆颌",
-        "Practice using \"overbite\" in a real conversation."
+        "Braces can help correct an overbite and improve your bite alignment.",
+        "牙套可以矫正覆颌，改善咬合对齐。"
       ]
     ]
   },
@@ -43777,21 +45940,24 @@ window.dialogueCards = [
     "words": [
       [
         "stitches",
-        "/phrase/",
+        "/ˈstɪtʃɪz/",
         "缝针",
-        "Practice using \"stitches\" in a real conversation."
+        "The deep cut on his arm required ten stitches.",
+        "他手臂上很深的伤口需要缝十针。"
       ],
       [
         "numb",
-        "/phrase/",
+        "/nʌm/",
         "麻木的",
-        "Practice using \"numb\" in a real conversation."
+        "My foot fell asleep and now it feels completely numb.",
+        "我的脚麻了，现在完全没知觉。"
       ],
       [
         "procedure",
-        "/phrase/",
+        "/prəˈsidʒər/",
         "程序、操作",
-        "Practice using \"procedure\" in a real conversation."
+        "The doctor explained the procedure in detail before the surgery began.",
+        "医生在手术开始前详细解释了整个操作过程。"
       ]
     ]
   },
@@ -43845,21 +46011,24 @@ window.dialogueCards = [
     "words": [
       [
         "comprehensive",
-        "/phrase/",
+        "/ˌkɒmprɪˈhensɪv/",
         "全面的",
-        "Practice using \"comprehensive\" in a real conversation."
+        "The report provides a comprehensive overview of the company's financial situation.",
+        "这份报告全面概述了公司的财务状况。"
       ],
       [
         "fasting",
-        "/phrase/",
+        "/ˈfæstɪŋ/",
         "禁食的",
-        "Practice using \"fasting\" in a real conversation."
+        "Intermittent fasting has become a popular approach to weight management.",
+        "间歇性禁食已成为一种流行的体重管理方法。"
       ],
       [
         "ultrasound",
-        "/phrase/",
+        "/ˈʌltrəˌsaʊnd/",
         "超声波",
-        "Practice using \"ultrasound\" in a real conversation."
+        "The doctor used an ultrasound to check the baby's development.",
+        "医生用超声波检查了胎儿的发育情况。"
       ]
     ]
   },
@@ -43913,21 +46082,24 @@ window.dialogueCards = [
     "words": [
       [
         "icon",
-        "/phrase/",
+        "/ˈaɪkɑn/",
         "图标",
-        "Practice using \"icon\" in a real conversation."
+        "Tap the settings icon in the top right corner of the screen.",
+        "点击屏幕右上角的设置图标。"
       ],
       [
         "chat",
-        "/phrase/",
+        "/tʃæt/",
         "聊天",
-        "Practice using \"chat\" in a real conversation."
+        "Let's grab a coffee and have a chat about your plans for the summer.",
+        "我们去喝杯咖啡，聊聊你的暑假计划吧。"
       ],
       [
         "video call",
-        "/phrase/",
+        "/ˈvɪdioʊ ˌkɔːl/",
         "视频通话",
-        "Practice using \"video call\" in a real conversation."
+        "Let's hop on a video call to discuss the project in detail.",
+        "我们视频通话详细讨论一下这个项目吧。"
       ]
     ]
   },
@@ -43981,21 +46153,24 @@ window.dialogueCards = [
     "words": [
       [
         "calligraphy",
-        "/phrase/",
+        "/kəˈlɪɡrəfi/",
         "书法",
-        "Practice using \"calligraphy\" in a real conversation."
+        "Chinese calligraphy is considered both an art form and a meditative practice.",
+        "中国书法既是一种艺术形式，也是一种冥想练习。"
       ],
       [
         "brush",
-        "/phrase/",
+        "/brʌʃ/",
         "毛笔",
-        "Practice using \"brush\" in a real conversation."
+        "She dipped the brush in ink and began writing Chinese calligraphy on the rice paper.",
+        "她把毛笔蘸上墨，开始在宣纸上写书法。"
       ],
       [
         "stroke",
-        "/phrase/",
+        "/stroʊk/",
         "笔画",
-        "Practice using \"stroke\" in a real conversation."
+        "Each Chinese character is composed of a specific number of strokes.",
+        "每个汉字都由特定数量的笔画组成。"
       ]
     ]
   },
@@ -44049,21 +46224,24 @@ window.dialogueCards = [
     "words": [
       [
         "promotion",
-        "/phrase/",
+        "/prəˈmoʊʃən/",
         "促销、推广",
-        "Practice using \"promotion\" in a real conversation."
+        "The store is running a big promotion on electronics this weekend.",
+        "这家商店本周末正在进行电子产品大促销。"
       ],
       [
         "membership",
-        "/phrase/",
+        "/ˈmɛmbərʃɪp/",
         "会员资格",
-        "Practice using \"membership\" in a real conversation."
+        "I renewed my gym membership for another year at a discounted rate.",
+        "我以折扣价续了一年的健身房会员资格。"
       ],
       [
         "flyer",
-        "/phrase/",
+        "/ˈflaɪər/",
         "传单",
-        "Practice using \"flyer\" in a real conversation."
+        "They handed out flyers on the street to promote the new restaurant.",
+        "他们在街上发传单来宣传那家新餐厅。"
       ]
     ]
   },
@@ -44109,19 +46287,22 @@ window.dialogueCards = [
         "straight",
         "/streɪt/",
         "笔直地",
-        "Go straight for two blocks, then turn right."
+        "Go straight for two blocks, then turn right.",
+        "直走两个街区，然后右转。"
       ],
       [
         "corner",
         "/ˈkɔːrnər/",
         "拐角；角落",
-        "The bank is on the corner of the street."
+        "The bank is on the corner of the street.",
+        "银行在街角。"
       ],
       [
         "turn left",
         "/tɜːrn left/",
         "左转",
-        "Turn left at the second corner."
+        "Turn left at the second corner.",
+        "在第二个拐角处左转。"
       ]
     ]
   },
@@ -44167,19 +46348,22 @@ window.dialogueCards = [
         "productive",
         "/prəˈdʌktɪv/",
         "效率高的；富有成效的",
-        "I had a very productive day."
+        "I had a very productive day.",
+        "今天效率很高。"
       ],
       [
         "turn in",
         "/tɜːrn ɪn/",
         "上床睡觉",
-        "It's late, so I should turn in."
+        "It's late, so I should turn in.",
+        "不早了，我该睡了。"
       ],
       [
         "lag",
         "/læɡ/",
         "网络卡顿；延迟",
-        "The video call had no lag today."
+        "The video call had no lag today.",
+        "今天的视频通话没有延迟。"
       ]
     ]
   },
@@ -44215,19 +46399,22 @@ window.dialogueCards = [
         "signature",
         "/ˈsɪɡnətʃər/",
         "招牌的；标志性的",
-        "The lobster is the signature dish of this restaurant."
+        "The lobster is the signature dish of this restaurant.",
+        "龙虾是这家餐厅的招牌菜。"
       ],
       [
         "starving",
         "/ˈstɑːrvɪŋ/",
         "非常饿的",
-        "Hurry up with dinner, I'm starving!"
+        "Hurry up with dinner, I'm starving!",
+        "晚饭快点，我快饿死了！"
       ],
       [
         "go for",
         "/ɡoʊ fɔːr/",
         "选择；点",
-        "I'll go for a salad."
+        "I'll go for a salad.",
+        "我来份沙拉。"
       ]
     ]
   },
@@ -44273,19 +46460,22 @@ window.dialogueCards = [
         "hump day",
         "/hʌmp deɪ/",
         "周三；一周中间最难熬的一天",
-        "Wednesday is hump day."
+        "Wednesday is hump day.",
+        "周三是一周的分水岭。"
       ],
       [
         "queue",
         "/kjuː/",
         "排队",
-        "We had to queue for the new restaurant."
+        "We had to queue for the new restaurant.",
+        "我们不得不排队等那家新开的餐厅。"
       ],
       [
         "hit the spot",
         "/hɪt ðə spɑːt/",
         "正合心意；真解馋",
-        "The hot soup really hit the spot."
+        "The hot soup really hit the spot.",
+        "这碗热汤真是恰到好处。"
       ]
     ]
   },
@@ -44331,19 +46521,22 @@ window.dialogueCards = [
         "check",
         "/tʃek/",
         "账单；美式英语常用",
-        "Can I have the check?"
+        "Can I have the check?",
+        "麻烦买单。"
       ],
       [
         "bill",
         "/bɪl/",
         "账单；英式英语常用",
-        "Could we get the bill, please?"
+        "Could we get the bill, please?",
+        "麻烦买单。"
       ],
       [
         "leftovers",
         "/ˈleftoʊvərz/",
         "剩菜",
-        "We can take the leftovers home."
+        "We can take the leftovers home.",
+        "我们可以把剩菜打包回家。"
       ]
     ]
   },
@@ -44379,19 +46572,22 @@ window.dialogueCards = [
         "sore throat",
         "/sɔːr θroʊt/",
         "喉咙痛",
-        "I’d like something for a sore throat."
+        "I’d like something for a sore throat.",
+        ""
       ],
       [
         "lozenge",
         "/ˈlɑːzɪndʒ/",
         "含片",
-        "We have lozenges for a sore throat."
+        "We have lozenges for a sore throat.",
+        "我们有缓解喉咙痛的含片。"
       ],
       [
         "symptom",
         "/ˈsɪmptəm/",
         "症状",
-        "Do you have any other symptoms?"
+        "Do you have any other symptoms?",
+        "还有其他症状吗？"
       ]
     ]
   },
@@ -44427,19 +46623,22 @@ window.dialogueCards = [
         "treadmill",
         "/ˈtredmɪl/",
         "跑步机",
-        "The gym has ten new treadmills on the second floor."
+        "The gym has ten new treadmills on the second floor.",
+        "健身房二楼有十台新跑步机。"
       ],
       [
         "endurance",
         "/ɪnˈdʊrəns/",
         "耐力；持久力",
-        "Swimming is a great sport to improve your endurance."
+        "Swimming is a great sport to improve your endurance.",
+        "游泳是提高耐力的绝佳运动。"
       ],
       [
         "stretch",
         "/stretʃ/",
         "拉伸",
-        "Don't forget to stretch after your run."
+        "Don't forget to stretch after your run.",
+        "跑完别忘了拉伸。"
       ]
     ]
   },
@@ -44475,19 +46674,22 @@ window.dialogueCards = [
         "wake-up call",
         "/ˈweɪk ʌp kɔːl/",
         "叫醒电话；唤醒服务",
-        "Please arrange a wake-up call for me at 7:00 a.m."
+        "Please arrange a wake-up call for me at 7:00 a.m.",
+        "请帮我安排早上七点的叫醒服务。"
       ],
       [
         "laundry service",
         "/ˈlɔːndri ˈsɜːrvɪs/",
         "洗衣服务",
-        "The hotel provides same-day laundry service."
+        "The hotel provides same-day laundry service.",
+        "酒店提供当日洗衣服务。"
       ],
       [
         "extra charge",
         "/ˈekstrə tʃɑːrdʒ/",
         "额外费用",
-        "There is an extra charge per item."
+        "There is an extra charge per item.",
+        "每件物品需额外收费。"
       ]
     ]
   },
@@ -44523,19 +46725,22 @@ window.dialogueCards = [
         "crave",
         "/kreɪv/",
         "渴望；很想吃",
-        "I'm craving some ice cream after the workout."
+        "I'm craving some ice cream after the workout.",
+        "锻炼完特别想来点冰淇淋。"
       ],
       [
         "corner",
         "/ˈkɔːrnər/",
         "街角；拐角处",
-        "There's a bakery on the corner of this street."
+        "There's a bakery on the corner of this street.",
+        "这条街的拐角处有一家面包店。"
       ],
       [
         "grab dinner",
         "/ɡræb ˈdɪnər/",
         "随便吃个晚饭",
-        "Want to grab dinner together?"
+        "Want to grab dinner together?",
+        "想一起吃晚饭吗？"
       ]
     ]
   },
@@ -44571,19 +46776,22 @@ window.dialogueCards = [
         "stop by",
         "/stɑːp baɪ/",
         "顺路去；顺道拜访",
-        "I'll stop by the bakery and get some bread."
+        "I'll stop by the bakery and get some bread.",
+        "我顺路去面包店买点面包。"
       ],
       [
         "carton",
         "/ˈkɑːrtn/",
         "硬纸盒；纸盒包装",
-        "Pick up a carton of milk on your way back."
+        "Pick up a carton of milk on your way back.",
+        "回来路上顺便带一盒牛奶。"
       ],
       [
         "content",
         "/kənˈtent/",
         "满足的；知足的",
-        "She felt content sitting by the window."
+        "She felt content sitting by the window.",
+        "她坐在窗边，心里很满足。"
       ]
     ]
   },
@@ -44619,19 +46827,22 @@ window.dialogueCards = [
         "parcel",
         "/ˈpɑːrsl/",
         "包裹；小包",
-        "I need to wrap the parcel before mailing it."
+        "I need to wrap the parcel before mailing it.",
+        "寄之前得把包裹包好。"
       ],
       [
         "insurance",
         "/ɪnˈʃʊrəns/",
         "保险；保价",
-        "You can buy insurance for valuable items."
+        "You can buy insurance for valuable items.",
+        "你可以为贵重物品购买保险。"
       ],
       [
         "fill out",
         "/fɪl aʊt/",
         "填写",
-        "Fill out the address on this form."
+        "Fill out the address on this form.",
+        "在这个表格上填地址。"
       ]
     ]
   },
@@ -44667,19 +46878,22 @@ window.dialogueCards = [
         "trim",
         "/trɪm/",
         "修剪；修整",
-        "I just need my hair trimmed, not a complete restyle."
+        "I just need my hair trimmed, not a complete restyle.",
+        "只需要修剪一下，不用大改发型。"
       ],
       [
         "bangs",
         "/bæŋz/",
         "刘海",
-        "She likes to wear bangs that cover her forehead."
+        "She likes to wear bangs that cover her forehead.",
+        "她喜欢留遮住额头的刘海。"
       ],
       [
         "blow-dry",
         "/ˈbloʊ draɪ/",
         "吹干头发",
-        "I'll blow-dry and style it for you."
+        "I'll blow-dry and style it for you.",
+        "我帮你吹干做造型。"
       ]
     ]
   },
@@ -44715,19 +46929,22 @@ window.dialogueCards = [
         "ripe",
         "/raɪp/",
         "成熟的",
-        "The bananas are ripe enough to eat now."
+        "The bananas are ripe enough to eat now.",
+        "香蕉现在熟透了，可以吃了。"
       ],
       [
         "bunch",
         "/bʌntʃ/",
         "一串；一束",
-        "She bought a bunch of flowers on her way home."
+        "She bought a bunch of flowers on her way home.",
+        "她回家的路上买了一束花。"
       ],
       [
         "cart",
         "/kɑːrt/",
         "购物车",
-        "Don't overfill the cart."
+        "Don't overfill the cart.",
+        "购物车别塞太满。"
       ]
     ]
   },
@@ -44763,19 +46980,22 @@ window.dialogueCards = [
         "overcast",
         "/ˌoʊvərˈkæst/",
         "阴沉的；多云的",
-        "It's been overcast all morning."
+        "It's been overcast all morning.",
+        "整个上午都是阴天。"
       ],
       [
         "hoodie",
         "/ˈhʊdi/",
         "连帽卫衣",
-        "He always wears a gray hoodie when he goes jogging."
+        "He always wears a gray hoodie when he goes jogging.",
+        "他慢跑时总穿灰色卫衣。"
       ],
       [
         "toss",
         "/tɔːs/",
         "随手放入；扔",
-        "Toss an umbrella in your bag."
+        "Toss an umbrella in your bag.",
+        "往包里扔把伞吧。"
       ]
     ]
   },
@@ -44798,32 +47018,35 @@ window.dialogueCards = [
       [
         "A",
         "Tea or coffee? I’m easy, you choose.",
-        "Tea or coffee? I’m easy, you choose."
+        "茶还是咖啡？我随便，你定吧。"
       ],
       [
         "B",
         "I'm easy. Whatever works for you.",
-        "I'm easy. Whatever works for you."
+        "我都可以，你怎么方便怎么来。"
       ]
     ],
     "words": [
       [
-        "I’m easy.",
-        "/phrase/",
+        "I'm easy",
+        "/aɪm ˈiːzi/",
         "我随便 / 怎样都行。",
-        "Tea or coffee? I’m easy, you choose."
+        "\"Where do you want to eat?\" \"I'm easy — you pick.\"",
+        "\"你想去哪儿吃？\"\"我都可以——你选吧。\""
       ],
       [
         "whatever",
-        "/phrase/",
+        "/wɒtˈev.ər/",
         "随便什么都可以",
-        "I'm easy. Whatever works for you."
+        "I'm easy. Whatever works for you.",
+        "我随意，看你方便。"
       ],
       [
         "choose",
-        "/phrase/",
+        "/tʃuːz/",
         "选择",
-        "Use \"I’m easy.\" when the situation fits."
+        "You need to choose between the two options.",
+        "你需要在两个选项之间做出选择。"
       ]
     ]
   },
@@ -44846,32 +47069,35 @@ window.dialogueCards = [
       [
         "A",
         "Our travel plans are still up in the air.",
-        "Our travel plans are still up in the air."
+        "我们的旅行计划还没定下来。"
       ],
       [
         "B",
         "The date is still up in the air.",
-        "The date is still up in the air."
+        "日期还没确定。"
       ]
     ],
     "words": [
       [
         "It’s up in the air.",
-        "/phrase/",
+        "",
         "还没确定 / 悬而未决。",
-        "Our travel plans are still up in the air."
+        "Our travel plans are still up in the air.",
+        "我们的旅行计划还没定下来。"
       ],
       [
         "travel plans",
-        "/phrase/",
+        "/ˈtræv.əl plænz/",
         "旅行计划",
-        "The date is still up in the air."
+        "The date is still up in the air.",
+        "日期还没定下来。"
       ],
       [
         "date",
-        "/phrase/",
+        "/deɪt/",
         "日期",
-        "Use \"It’s up in the air.\" when the situation fits."
+        "Use \"It’s up in the air.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -44894,32 +47120,35 @@ window.dialogueCards = [
       [
         "A",
         "You won the lottery? You’re pulling my leg!",
-        "You won the lottery? You’re pulling my leg!"
+        "你中彩票了？别逗我了！"
       ],
       [
         "B",
         "You got the job? You're pulling my leg!",
-        "You got the job? You're pulling my leg!"
+        "你拿到那份工作了？你在开玩笑吧！"
       ]
     ],
     "words": [
       [
         "You’re pulling my leg.",
-        "/phrase/",
+        "",
         "你在开玩笑吧 / 逗我玩呢。",
-        "You won the lottery? You’re pulling my leg!"
+        "You won the lottery? You’re pulling my leg!",
+        ""
       ],
       [
         "lottery",
-        "/phrase/",
+        "/ˈlɑtəri/",
         "彩票",
-        "You got the job? You're pulling my leg!"
+        "You got the job? You're pulling my leg!",
+        "你拿到那份工作了？你逗我呢！"
       ],
       [
         "job",
-        "/phrase/",
+        "/dʒɑːb/",
         "工作",
-        "Use \"You’re pulling my leg.\" when the situation fits."
+        "Use \"You’re pulling my leg.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -44942,32 +47171,35 @@ window.dialogueCards = [
       [
         "A",
         "Let’s get the ball rolling with the first agenda item.",
-        "Let’s get the ball rolling with the first agenda item."
+        "咱们从第一个议题开始吧。"
       ],
       [
         "B",
         "Everyone is here, so let's get the ball rolling.",
-        "Everyone is here, so let's get the ball rolling."
+        "大家都到齐了，咱们开始吧。"
       ]
     ],
     "words": [
       [
-        "Let’s get the ball rolling.",
-        "/phrase/",
+        "Let's get the ball rolling.",
+        "/lets ɡet ðə bɔːl ˈrəʊlɪŋ/",
         "我们开始吧 / 启动项目。",
-        "Let’s get the ball rolling with the first agenda item."
+        "Let's get the ball rolling by introducing ourselves to the team.",
+        "我们先向团队做个自我介绍，开始推进吧。"
       ],
       [
         "agenda item",
-        "/phrase/",
+        "/əˈdʒendə ˈaɪtəm/",
         "议程项目",
-        "Everyone is here, so let's get the ball rolling."
+        "The first agenda item is the budget review.",
+        "第一个议程项目是预算审核。"
       ],
       [
         "everyone",
-        "/phrase/",
+        "/ˈɛvriˌwʌn/",
         "所有人",
-        "Use \"Let’s get the ball rolling.\" when the situation fits."
+        "Use \"Let’s get the ball rolling.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -44990,32 +47222,35 @@ window.dialogueCards = [
       [
         "A",
         "Thanks for flagging the issue, I’ll look into it.",
-        "Thanks for flagging the issue, I’ll look into it."
+        "谢谢你指出这个问题，我去了解一下。"
       ],
       [
         "B",
         "I'll look into it and get back to you.",
-        "I'll look into it and get back to you."
+        "我去查一下然后回复你。"
       ]
     ],
     "words": [
       [
-        "I’ll look into it.",
-        "/phrase/",
+        "I'll look into it.",
+        "/aɪl lʊk ˈɪntə ɪt/",
         "我会去查一下 / 调查此事。",
-        "Thanks for flagging the issue, I’ll look into it."
+        "I don't know the answer right now, but I'll look into it.",
+        "我现在还不知道答案，但我会去查一下。"
       ],
       [
         "flag",
-        "/phrase/",
+        "/flæɡ/",
         "指出问题",
-        "I'll look into it and get back to you."
+        "The system will flag any suspicious transactions for review.",
+        "系统会标记任何可疑交易以供审核。"
       ],
       [
         "issue",
-        "/phrase/",
+        "/ˈɪʃuː/",
         "问题",
-        "Use \"I’ll look into it.\" when the situation fits."
+        "Use \"I’ll look into it.\" when the situation fits.",
+        ""
       ]
     ]
   },
@@ -45038,32 +47273,35 @@ window.dialogueCards = [
       [
         "A",
         "We’re on a tight deadline, so please submit your reports by noon.",
-        "We’re on a tight deadline, so please submit your reports by noon."
+        "我们的截止日期很紧，请中午前提交报告。"
       ],
       [
         "B",
         "I can't take on more because we're on a tight deadline.",
-        "I can't take on more because we're on a tight deadline."
+        "我接不了更多活了，因为我们的时间很紧。"
       ]
     ],
     "words": [
       [
         "We’re on a tight deadline.",
-        "/phrase/",
+        "",
         "我们时间很紧 / 截止日期紧迫。",
-        "We’re on a tight deadline, so please submit your reports by noon."
+        "We’re on a tight deadline, so please submit your reports by noon.",
+        ""
       ],
       [
         "deadline",
-        "/phrase/",
+        "/ˈdɛdlaɪn/",
         "截止日期",
-        "I can't take on more because we're on a tight deadline."
+        "The deadline for submitting the report is Friday at 5 p.m.",
+        "提交报告的截止日期是周五下午五点。"
       ],
       [
         "submit",
-        "/phrase/",
+        "/səbˈmɪt/",
         "提交",
-        "Use \"We’re on a tight deadline.\" when the situation fits."
+        "Please submit your application before the deadline.",
+        "请在截止日期前提交你的申请。"
       ]
     ]
   },
@@ -45086,32 +47324,35 @@ window.dialogueCards = [
       [
         "A",
         "Another drink? No, thanks, I’m good.",
-        "Another drink? No, thanks, I’m good."
+        "再来一杯？不用了，谢谢，我够了。"
       ],
       [
         "B",
         "Do you need help? I'm good, thanks.",
-        "Do you need help? I'm good, thanks."
+        "需要帮忙吗？不用了，谢谢。"
       ]
     ],
     "words": [
       [
-        "I’m good.",
-        "/phrase/",
+        "I'm good.",
+        "/aɪm ɡʊd/",
         "我没事 / 不用了。",
-        "Another drink? No, thanks, I’m good."
+        "\"Would you like some more cake?\" \"No thanks, I'm good.\"",
+        "\"再来点蛋糕吗？\"\"不用了谢谢，我够了。\""
       ],
       [
         "another drink",
-        "/phrase/",
+        "/əˈnʌðər drɪŋk/",
         "再来一杯",
-        "Do you need help? I'm good, thanks."
+        "Can I get you another drink?",
+        "我再给你来一杯好吗？"
       ],
       [
         "help",
-        "/phrase/",
+        "/hɛlp/",
         "帮助",
-        "Use \"I’m good.\" when the situation fits."
+        "Could you help me move this table to the other room?",
+        "你能帮我把这张桌子搬到另一个房间吗？"
       ]
     ]
   },
@@ -45134,32 +47375,35 @@ window.dialogueCards = [
       [
         "A",
         "You forgot the meeting? Yeah, my bad.",
-        "You forgot the meeting? Yeah, my bad."
+        "你忘了开会？对，是我的错。"
       ],
       [
         "B",
         "My bad, I sent the wrong file.",
-        "My bad, I sent the wrong file."
+        "我的错，发错了文件。"
       ]
     ],
     "words": [
       [
-        "My bad.",
-        "/phrase/",
+        "my bad",
+        "/maɪ bæd/",
         "我的错。",
-        "You forgot the meeting? Yeah, my bad."
+        "Sorry I forgot your birthday — my bad!",
+        "抱歉忘了你的生日——我的错！"
       ],
       [
         "forgot",
-        "/phrase/",
+        "/fərˈɡɑːt/",
         "忘记",
-        "My bad, I sent the wrong file."
+        "My bad, I sent the wrong file.",
+        "我的错，发错文件了。"
       ],
       [
         "wrong file",
-        "/phrase/",
+        "/rɒŋ faɪl/",
         "错误文件",
-        "Use \"My bad.\" when the situation fits."
+        "Use \"My bad.\" when the situation fits.",
+        "在合适的场合使用\"是我的错。\"。"
       ]
     ]
   },
@@ -45182,32 +47426,35 @@ window.dialogueCards = [
       [
         "A",
         "Exams are tough, but hang in there!",
-        "Exams are tough, but hang in there!"
+        "考试很难，但坚持住！"
       ],
       [
         "B",
         "Hang in there. The busy week is almost over.",
-        "Hang in there. The busy week is almost over."
+        "撑住，这忙碌的一周快结束了。"
       ]
     ],
     "words": [
       [
         "Hang in there.",
-        "/phrase/",
+        "/hæŋ ɪn ðer/",
         "坚持住。",
-        "Exams are tough, but hang in there!"
+        "Exams are tough, but hang in there!",
+        "考试很难，但坚持住！"
       ],
       [
         "exam",
-        "/phrase/",
+        "/ɪɡˈzæm/",
         "考试",
-        "Hang in there. The busy week is almost over."
+        "Hang in there. The busy week is almost over.",
+        "坚持住，忙的一周快结束了。"
       ],
       [
         "busy week",
-        "/phrase/",
+        "/ˈbɪzi wik/",
         "忙碌的一周",
-        "Use \"Hang in there.\" when the situation fits."
+        "Use \"Hang in there.\" when the situation fits.",
+        "在合适的场合使用\"坚持住。\"。"
       ]
     ]
   },
@@ -45230,32 +47477,35 @@ window.dialogueCards = [
       [
         "A",
         "I didn’t catch the budget. Can you run it by me again?",
-        "I didn’t catch the budget. Can you run it by me again?"
+        "我没听清预算那块，你能再跟我说一遍吗？"
       ],
       [
         "B",
         "Before you send it, run it by me.",
-        "Before you send it, run it by me."
+        "发之前先让我过一遍。"
       ]
     ],
     "words": [
       [
         "Run it by me.",
-        "/phrase/",
+        "/rʌn ɪt baɪ mi/",
         "给我过一下 / 再讲一遍。",
-        "I didn’t catch the budget. Can you run it by me again?"
+        "I didn’t catch the budget. Can you run it by me again?",
+        ""
       ],
       [
         "budget",
-        "/phrase/",
+        "/ˈbʌdʒɪt/",
         "预算",
-        "Before you send it, run it by me."
+        "We need to set a budget for the wedding.",
+        "我们需要为婚礼制定预算。"
       ],
       [
         "send",
-        "/phrase/",
+        "/send/",
         "发送",
-        "Use \"Run it by me.\" when the situation fits."
+        "Use \"Run it by me.\" when the situation fits.",
+        "在合适的场合使用\"跟我说说。\"。"
       ]
     ]
   },
@@ -45278,32 +47528,35 @@ window.dialogueCards = [
       [
         "A",
         "We need to get buy-in from the legal team first.",
-        "We need to get buy-in from the legal team first."
+        "我们需要先得到法务团队的认可。"
       ],
       [
         "B",
         "Get buy-in from leadership before we proceed.",
-        "Get buy-in from leadership before we proceed."
+        "在继续推进之前，先争取领导层的支持。"
       ]
     ],
     "words": [
       [
         "Get buy-in from.",
-        "/phrase/",
+        "/ɡet ˈbaɪɪn frʌm/",
         "争取某人的支持或同意。",
-        "We need to get buy-in from the legal team first."
+        "We need to get buy-in from the legal team first.",
+        "我们需要先取得法务团队的认可。"
       ],
       [
         "legal team",
-        "/phrase/",
+        "/ˈliːɡəl tiːm/",
         "法务团队",
-        "Get buy-in from leadership before we proceed."
+        "Get buy-in from leadership before we proceed.",
+        "推进之前先争取领导层的支持。"
       ],
       [
         "leadership",
-        "/phrase/",
+        "/ˈliːdərʃɪp/",
         "管理层",
-        "Use \"Get buy-in from.\" when the situation fits."
+        "Use \"Get buy-in from.\" when the situation fits.",
+        "在合适的场合使用\"取得……的认可。\"。"
       ]
     ]
   },
@@ -45326,32 +47579,35 @@ window.dialogueCards = [
       [
         "A",
         "The new feature is in the pipeline for Q3.",
-        "The new feature is in the pipeline for Q3."
+        "新功能计划在第三季度推出。"
       ],
       [
         "B",
         "Several updates are in the pipeline.",
-        "Several updates are in the pipeline."
+        "有几个更新正在筹备中。"
       ]
     ],
     "words": [
       [
         "In the pipeline.",
-        "/phrase/",
+        "/ɪn ðə ˈpaɪplaɪn/",
         "正在进行中 / 筹备中。",
-        "The new feature is in the pipeline for Q3."
+        "The new feature is in the pipeline for Q3.",
+        "新功能预计在第三季度推出。"
       ],
       [
         "feature",
-        "/phrase/",
+        "/ˈfiːtʃər/",
         "功能",
-        "Several updates are in the pipeline."
+        "This phone has a great camera feature.",
+        "这款手机有一个很棒的相机功能。"
       ],
       [
         "Q3",
-        "/phrase/",
+        "/kju θri/",
         "第三季度",
-        "Use \"In the pipeline.\" when the situation fits."
+        "Use \"In the pipeline.\" when the situation fits.",
+        "在合适的场合使用\"正在筹备中。\"。"
       ]
     ]
   },
@@ -45374,32 +47630,35 @@ window.dialogueCards = [
       [
         "A",
         "Dinner is my treat tonight.",
-        "Dinner is my treat tonight."
+        "今晚我请客吃饭。"
       ],
       [
         "B",
         "Coffee is my treat today.",
-        "Coffee is my treat today."
+        "今天的咖啡我请。"
       ]
     ],
     "words": [
       [
         "My treat.",
-        "/phrase/",
+        "/maɪ trit/",
         "我请客。",
-        "Dinner is my treat tonight."
+        "Dinner is my treat tonight.",
+        "今晚晚饭我请。"
       ],
       [
         "dinner",
-        "/phrase/",
+        "/ˈdɪnər/",
         "晚餐",
-        "Coffee is my treat today."
+        "We're having dinner at 7 p.m. tonight.",
+        "我们今晚七点吃晚餐。"
       ],
       [
         "coffee",
-        "/phrase/",
+        "/ˈkɔfi/",
         "咖啡",
-        "Use \"My treat.\" when the situation fits."
+        "Use \"My treat.\" when the situation fits.",
+        "在合适的场合使用\"我请客。\"。"
       ]
     ]
   },
@@ -45422,32 +47681,35 @@ window.dialogueCards = [
       [
         "A",
         "Could you please clarify the timeline?",
-        "Could you please clarify the timeline?"
+        "你能说明一下时间安排吗？"
       ],
       [
         "B",
         "Could you please clarify what you mean by urgent?",
-        "Could you please clarify what you mean by urgent?"
+        "你能说明一下你说的\"紧急\"是什么意思吗？"
       ]
     ],
     "words": [
       [
         "Could you please clarify...?",
-        "/phrase/",
+        "/kʊd ju pliz ˈklærɪˌfaɪ/",
         "能否请您澄清一下……？",
-        "Could you please clarify the timeline?"
+        "Could you please clarify the timeline?",
+        "能明确一下时间线吗？"
       ],
       [
         "clarify",
-        "/phrase/",
+        "/ˈklærɪfaɪ/",
         "澄清",
-        "Could you please clarify what you mean by urgent?"
+        "Could you clarify what you meant by that comment?",
+        "你能澄清一下你那条评论的意思吗？"
       ],
       [
         "timeline",
-        "/phrase/",
+        "/ˈtaɪmlaɪn/",
         "时间线",
-        "Use \"Could you please clarify...?\" when the situation fits."
+        "Let's set a clear timeline for completing each phase of the project.",
+        "我们为项目的每个阶段设定一个明确的时间表吧。"
       ]
     ]
   },
@@ -45470,32 +47732,35 @@ window.dialogueCards = [
       [
         "A",
         "I really appreciate you taking the time to review this.",
-        "I really appreciate you taking the time to review this."
+        "非常感谢你花时间审核这个。"
       ],
       [
         "B",
         "I really appreciate you taking the time to meet today.",
-        "I really appreciate you taking the time to meet today."
+        "非常感谢你今天抽时间来见面。"
       ]
     ],
     "words": [
       [
         "I really appreciate you taking the time.",
-        "/phrase/",
+        "/aɪ ˈriːəli əˈpriːʃieɪt juː ˈteɪkɪŋ ðə taɪm/",
         "非常感谢您抽出时间。",
-        "I really appreciate you taking the time to review this."
+        "I really appreciate you taking the time to review this.",
+        "非常感谢你花时间审阅这个。"
       ],
       [
         "review",
-        "/phrase/",
+        "/rɪˈvjuː/",
         "审阅",
-        "I really appreciate you taking the time to meet today."
+        "The manager will review our performance at the end of each quarter.",
+        "经理会在每个季度末评估我们的表现。"
       ],
       [
         "meet",
-        "/phrase/",
+        "/mit/",
         "见面",
-        "Use \"I really appreciate you taking the time.\" when the situation fits."
+        "Use \"I really appreciate you taking the time.\" when the situation fits.",
+        "在合适的场合使用\"非常感谢你抽出时间。\"。"
       ]
     ]
   },
@@ -45518,32 +47783,35 @@ window.dialogueCards = [
       [
         "A",
         "Cut it out, you guys. The teacher's coming!",
-        "Cut it out, you guys. The teacher's coming!"
+        "别闹了，你们几个。老师来了！"
       ],
       [
         "B",
         "Cut it out. That's not funny.",
-        "Cut it out. That's not funny."
+        "别闹了，一点都不好笑。"
       ]
     ],
     "words": [
       [
         "Cut it out!",
-        "/phrase/",
+        "/kʌt ɪt aʊt/",
         "别闹了 / 住手。",
-        "Cut it out, you guys. The teacher's coming!"
+        "Cut it out, you guys. The teacher's coming!",
+        "别闹了，老师来了！"
       ],
       [
         "teacher",
-        "/phrase/",
+        "/ˈtiː.tʃər/",
         "老师",
-        "Cut it out. That's not funny."
+        "Cut it out. That's not funny.",
+        "别闹了，不好笑。"
       ],
       [
         "funny",
-        "/phrase/",
+        "/ˈfʌni/",
         "好笑的",
-        "Use \"Cut it out!\" when the situation fits."
+        "Use \"Cut it out!\" when the situation fits.",
+        "在合适的场合使用\"别闹了！\"。"
       ]
     ]
   },
@@ -45566,32 +47834,35 @@ window.dialogueCards = [
       [
         "A",
         "Another round of karaoke? I think I'll pass tonight.",
-        "Another round of karaoke? I think I'll pass tonight."
+        "再来一轮卡拉OK？我今晚就不去了。"
       ],
       [
         "B",
         "Thanks, but I'll pass this time.",
-        "Thanks, but I'll pass this time."
+        "谢谢，这次我就不参加了。"
       ]
     ],
     "words": [
       [
         "I'll pass.",
-        "/phrase/",
+        "/aɪl pæs/",
         "我就不参加了 / 谢绝邀请。",
-        "Another round of karaoke? I think I'll pass tonight."
+        "Another round of karaoke? I think I'll pass tonight.",
+        "再来一轮K歌？今晚我算了吧。"
       ],
       [
         "karaoke",
-        "/phrase/",
+        "/ˌkæriˈoʊki/",
         "卡拉OK",
-        "Thanks, but I'll pass this time."
+        "Thanks, but I'll pass this time.",
+        "谢谢，这次我就不参加了。"
       ],
       [
         "this time",
-        "/phrase/",
+        "/ðɪs taɪm/",
         "这次",
-        "Use \"I'll pass.\" when the situation fits."
+        "Use \"I'll pass.\" when the situation fits.",
+        "在合适的场合使用\"我就算了。\"。"
       ]
     ]
   },
@@ -45614,32 +47885,35 @@ window.dialogueCards = [
       [
         "A",
         "Let's circle back on the budget issue after we get the numbers.",
-        "Let's circle back on the budget issue after we get the numbers."
+        "我们拿到数据后再回来讨论预算问题。"
       ],
       [
         "B",
         "Let's circle back on this next week.",
-        "Let's circle back on this next week."
+        "我们下周再回来讨论这个。"
       ]
     ],
     "words": [
       [
         "Let's circle back on this.",
-        "/phrase/",
+        "/lets ˈsɜːrkəl bæk ɑːn ðɪs/",
         "我们稍后再回头讨论。",
-        "Let's circle back on the budget issue after we get the numbers."
+        "Let's circle back on the budget issue after we get the numbers.",
+        "拿到具体数字后我们再回来讨论预算问题。"
       ],
       [
         "budget issue",
-        "/phrase/",
+        "/ˈbʌdʒɪt ˈɪʃu/",
         "预算问题",
-        "Let's circle back on this next week."
+        "Let's circle back on this next week.",
+        "这个下周再议。"
       ],
       [
         "numbers",
-        "/phrase/",
+        "/ˈnʌmbərz/",
         "数据",
-        "Use \"Let's circle back on this.\" when the situation fits."
+        "Use \"Let's circle back on this.\" when the situation fits.",
+        "在合适的场合使用\"我们回头再讨论这个。\"。"
       ]
     ]
   },
@@ -45662,32 +47936,35 @@ window.dialogueCards = [
       [
         "A",
         "Keep me in the loop as the project moves forward.",
-        "Keep me in the loop as the project moves forward."
+        "项目推进中随时告诉我进展。"
       ],
       [
         "B",
         "Please keep me in the loop on any changes.",
-        "Please keep me in the loop on any changes."
+        "有任何变动请随时告诉我。"
       ]
     ],
     "words": [
       [
         "Please keep me in the loop.",
-        "/phrase/",
+        "/pliz kip mi ɪn ðə lup/",
         "请随时同步我进展。",
-        "Keep me in the loop as the project moves forward."
+        "Keep me in the loop as the project moves forward.",
+        "项目推进过程中随时让我了解进展。"
       ],
       [
         "in the loop",
-        "/phrase/",
+        "/ɪn ðə luːp/",
         "知情",
-        "Please keep me in the loop on any changes."
+        "Please keep me in the loop on any changes.",
+        "有任何变动请让我知情。"
       ],
       [
         "changes",
-        "/phrase/",
+        "/ˈtʃeɪndʒɪz/",
         "变化",
-        "Use \"Please keep me in the loop.\" when the situation fits."
+        "Use \"Please keep me in the loop.\" when the situation fits.",
+        "在合适的场合使用\"请随时让我了解进展。\"。"
       ]
     ]
   },
@@ -45710,32 +47987,35 @@ window.dialogueCards = [
       [
         "A",
         "I don't have the final answer now. I'll get back to you by EOD.",
-        "I don't have the final answer now. I'll get back to you by EOD."
+        "我现在还没有最终答案，今天下班前回复你。"
       ],
       [
         "B",
         "I'll get back to you by EOD after I check.",
-        "I'll get back to you by EOD after I check."
+        "我核实后今天下班前回复你。"
       ]
     ],
     "words": [
       [
         "I'll get back to you by EOD.",
-        "/phrase/",
+        "/aɪl ɡet bæk tə juː baɪ ˌiː oʊ ˈdiː/",
         "我会在今天下班前回复你。",
-        "I don't have the final answer now. I'll get back to you by EOD."
+        "I don't have the final answer now. I'll get back to you by EOD.",
+        "我现在没有最终答复，今天下班前回复你。"
       ],
       [
         "EOD",
-        "/phrase/",
+        "/i oʊ di/",
         "当天结束前",
-        "I'll get back to you by EOD after I check."
+        "I'll get back to you by EOD after I check.",
+        "我确认后今天下班前回复你。"
       ],
       [
         "final answer",
-        "/phrase/",
+        "/ˈfaɪnəl ˈænsər/",
         "最终答案",
-        "Use \"I'll get back to you by EOD.\" when the situation fits."
+        "Use \"I'll get back to you by EOD.\" when the situation fits.",
+        "在合适的场合使用\"我会在今天下班前回复你。\"。"
       ]
     ]
   },
@@ -45758,32 +48038,35 @@ window.dialogueCards = [
       [
         "A",
         "I'm exhausted, so I think I'll hit the hay early tonight.",
-        "I'm exhausted, so I think I'll hit the hay early tonight."
+        "我累坏了，今晚打算早点睡。"
       ],
       [
         "B",
         "It's late. Let's hit the hay.",
-        "It's late. Let's hit the hay."
+        "很晚了，咱们睡吧。"
       ]
     ],
     "words": [
       [
         "Hit the hay.",
-        "/phrase/",
+        "/hɪt ðə heɪ/",
         "去睡觉 / 上床休息。",
-        "I'm exhausted, so I think I'll hit the hay early tonight."
+        "I'm exhausted, so I think I'll hit the hay early tonight.",
+        "我累坏了，今晚早点睡了。"
       ],
       [
         "exhausted",
-        "/phrase/",
+        "/ɪɡˈzɔːstɪd/",
         "筋疲力尽的",
-        "It's late. Let's hit the hay."
+        "After working 12 hours, I was completely exhausted.",
+        "工作了12个小时后，我筋疲力尽。"
       ],
       [
         "early tonight",
-        "/phrase/",
+        "/ˈɜrli təˈnaɪt/",
         "今晚早点",
-        "Use \"Hit the hay.\" when the situation fits."
+        "Use \"Hit the hay.\" when the situation fits.",
+        "在合适的场合使用\"去睡觉了。\"。"
       ]
     ]
   },
@@ -45806,32 +48089,35 @@ window.dialogueCards = [
       [
         "A",
         "They said they'd reply today, but don't hold your breath.",
-        "They said they'd reply today, but don't hold your breath."
+        "他们说今天会回复，但别抱太大希望。"
       ],
       [
         "B",
         "He promised to call, but don't hold your breath.",
-        "He promised to call, but don't hold your breath."
+        "他保证会打电话来，但别指望了。"
       ]
     ],
     "words": [
       [
         "Don't hold your breath.",
-        "/phrase/",
+        "/doʊnt hoʊld jʊr brɛθ/",
         "别干等着。",
-        "They said they'd reply today, but don't hold your breath."
+        "They said they'd reply today, but don't hold your breath.",
+        "他们说今天会回复，但别抱太大希望。"
       ],
       [
         "reply",
-        "/phrase/",
+        "/rɪˈplaɪ/",
         "回复",
-        "He promised to call, but don't hold your breath."
+        "I'm still waiting for her to reply to my message.",
+        "我还在等她回复我的消息。"
       ],
       [
         "promise",
-        "/phrase/",
+        "/ˈprɑːmɪs/",
         "承诺",
-        "Use \"Don't hold your breath.\" when the situation fits."
+        "I promise I'll be there on time.",
+        "我承诺我会准时到的。"
       ]
     ]
   },
@@ -45854,32 +48140,35 @@ window.dialogueCards = [
       [
         "A",
         "We're running out of time. Let's park that for now and move on.",
-        "We're running out of time. Let's park that for now and move on."
+        "时间不够了，这个先放一放，我们继续往下走。"
       ],
       [
         "B",
         "Let's park that for now and revisit it later.",
-        "Let's park that for now and revisit it later."
+        "这个先放一放，回头再看。"
       ]
     ],
     "words": [
       [
         "Let's park that for now.",
-        "/phrase/",
+        "/lets pɑːrk ðæt fɔːr naʊ/",
         "先搁置这个问题。",
-        "We're running out of time. Let's park that for now and move on."
+        "We're running out of time. Let's park that for now and move on.",
+        "我们快没时间了，这个先放一放，继续往下推进。"
       ],
       [
         "move on",
-        "/phrase/",
+        "/muːv ɑːn/",
         "继续下一个话题",
-        "Let's park that for now and revisit it later."
+        "It's time to move on and forget about the past.",
+        "是时候翻篇，忘记过去了。"
       ],
       [
         "revisit",
-        "/phrase/",
+        "/riˈvɪzɪt/",
         "重新讨论",
-        "Use \"Let's park that for now.\" when the situation fits."
+        "Use \"Let's park that for now.\" when the situation fits.",
+        "在合适的场合使用\"这个我们先放一放。\"。"
       ]
     ]
   },
@@ -45902,32 +48191,35 @@ window.dialogueCards = [
       [
         "A",
         "Once I get the final numbers, I'll loop you in on the thread.",
-        "Once I get the final numbers, I'll loop you in on the thread."
+        "等我拿到最终数据，我把你加进邮件讨论里。"
       ],
       [
         "B",
         "I'll loop you in when the client replies.",
-        "I'll loop you in when the client replies."
+        "客户回复了我就拉你进来。"
       ]
     ],
     "words": [
       [
         "I'll loop you in.",
-        "/phrase/",
+        "/aɪl luːp juː ɪn/",
         "我会把你加进邮件 / 通知你进展。",
-        "Once I get the final numbers, I'll loop you in on the thread."
+        "Once I get the final numbers, I'll loop you in on the thread.",
+        "拿到最终数据后，我把你拉进邮件讨论串。"
       ],
       [
         "thread",
-        "/phrase/",
+        "/θred/",
         "邮件线程",
-        "I'll loop you in when the client replies."
+        "I need a needle and thread to sew this button.",
+        "我需要针线来缝这个扣子。"
       ],
       [
         "client",
-        "/phrase/",
+        "/ˈklaɪənt/",
         "客户",
-        "Use \"I'll loop you in.\" when the situation fits."
+        "We need to prepare a proposal for a potential client.",
+        "我们需要为潜在客户准备一份提案。"
       ]
     ]
   },
@@ -45950,32 +48242,35 @@ window.dialogueCards = [
       [
         "A",
         "Can we pencil that in for Thursday afternoon?",
-        "Can we pencil that in for Thursday afternoon?"
+        "我们能暂定周四下午吗？"
       ],
       [
         "B",
         "Let's pencil that in and confirm tomorrow.",
-        "Let's pencil that in and confirm tomorrow."
+        "先暂定下来，明天确认。"
       ]
     ],
     "words": [
       [
         "Can we pencil that in?",
-        "/phrase/",
+        "/kæn wi ˈpɛnsəl ðæt ɪn/",
         "可以先暂定这个时间吗？",
-        "Can we pencil that in for Thursday afternoon?"
+        "Can we pencil that in for Thursday afternoon?",
+        "我们先暂定周四下午可以吗？"
       ],
       [
         "Thursday afternoon",
-        "/phrase/",
+        "/ˈθɜːz.deɪ ˌɑːf.təˈnuːn/",
         "周四下午",
-        "Let's pencil that in and confirm tomorrow."
+        "Let's pencil that in and confirm tomorrow.",
+        "先暂定这个时间，明天再确认。"
       ],
       [
         "confirm",
-        "/phrase/",
+        "/kənˈfɜːm/",
         "确认",
-        "Use \"Can we pencil that in?\" when the situation fits."
+        "Please confirm your attendance by Friday.",
+        "请在周五前确认你是否出席。"
       ]
     ]
   },
@@ -45998,32 +48293,35 @@ window.dialogueCards = [
       [
         "A",
         "I'll revert by EOD after checking internally.",
-        "I'll revert by EOD after checking internally."
+        "我内部确认后今天下班前回复你。"
       ],
       [
         "B",
         "Thanks for your note. I'll revert by EOD.",
-        "Thanks for your note. I'll revert by EOD."
+        "谢谢你的留言，我今天下班前回复。"
       ]
     ],
     "words": [
       [
         "I'll revert by EOD.",
-        "/phrase/",
+        "/aɪl rɪˈvɜːrt baɪ ˌiː oʊ ˈdiː/",
         "我会在今天下班前回复。",
-        "I'll revert by EOD after checking internally."
+        "I'll revert by EOD after checking internally.",
+        "我跟内部确认后，今天下班前回复你。"
       ],
       [
         "internally",
-        "/phrase/",
+        "/ɪnˈtɜːrnəli/",
         "内部地",
-        "Thanks for your note. I'll revert by EOD."
+        "Thanks for your note. I'll revert by EOD.",
+        "谢谢你的留言，我今天下班前回复。"
       ],
       [
         "note",
-        "/phrase/",
+        "/noʊt/",
         "消息；邮件",
-        "Use \"I'll revert by EOD.\" when the situation fits."
+        "I left a note on your desk with the details.",
+        "我在你桌上留了张便条，上面有详细信息。"
       ]
     ]
   },
@@ -46046,32 +48344,35 @@ window.dialogueCards = [
       [
         "A",
         "Let's sync before we finalize the proposal.",
-        "Let's sync before we finalize the proposal."
+        "我们定稿之前先沟通一下。"
       ],
       [
         "B",
         "Can we sync before we finalize the deck?",
-        "Can we sync before we finalize the deck?"
+        "我们定稿之前先碰一下？"
       ]
     ],
     "words": [
       [
         "Let's sync before we finalize.",
-        "/phrase/",
+        "/lets sɪŋk bɪˈfɔːr wiː ˈfaɪnəlaɪz/",
         "定案前我们先对齐一下。",
-        "Let's sync before we finalize the proposal."
+        "Let's sync before we finalize the proposal.",
+        "定稿提案前咱们先对齐一下。"
       ],
       [
         "finalize",
-        "/phrase/",
+        "/ˈfaɪnəlaɪz/",
         "定稿；最终确定",
-        "Can we sync before we finalize the deck?"
+        "We need to finalize the contract by Friday.",
+        "我们需要在周五前最终确定合同。"
       ],
       [
         "proposal",
-        "/phrase/",
+        "/prəˈpoʊzəl/",
         "方案",
-        "Use \"Let's sync before we finalize.\" when the situation fits."
+        "The committee will review your proposal next week.",
+        "委员会下周将审阅你的提案。"
       ]
     ]
   },
@@ -46094,32 +48395,35 @@ window.dialogueCards = [
       [
         "A",
         "Break a leg on your job interview tomorrow!",
-        "Break a leg on your job interview tomorrow!"
+        "祝你明天面试顺利，加油！"
       ],
       [
         "B",
         "Your show starts soon. Break a leg!",
-        "Your show starts soon. Break a leg!"
+        "你的演出快开始了，祝你成功！"
       ]
     ],
     "words": [
       [
         "Break a leg!",
-        "/phrase/",
+        "/breɪk ə lɛɡ/",
         "祝你好运。",
-        "Break a leg on your job interview tomorrow!"
+        "Break a leg on your job interview tomorrow!",
+        "明天面试加油，祝你好运！"
       ],
       [
         "job interview",
-        "/phrase/",
+        "/dʒɑːb ˈɪntərvjuː/",
         "求职面试",
-        "Your show starts soon. Break a leg!"
+        "Your show starts soon. Break a leg!",
+        "你的演出马上开始了，祝你好运！"
       ],
       [
         "show",
-        "/phrase/",
+        "/ʃəʊ/",
         "演出",
-        "Use \"Break a leg!\" when the situation fits."
+        "Use \"Break a leg!\" when the situation fits.",
+        "在合适的场合使用\"祝你好运！\"。"
       ]
     ]
   },
@@ -46142,32 +48446,35 @@ window.dialogueCards = [
       [
         "A",
         "They changed the plan but I'm still in the dark.",
-        "They changed the plan but I'm still in the dark."
+        "他们改了计划，但我还蒙在鼓里。"
       ],
       [
         "B",
         "I'm in the dark about the new schedule.",
-        "I'm in the dark about the new schedule."
+        "我对新的时间安排一无所知。"
       ]
     ],
     "words": [
       [
         "I'm in the dark.",
-        "/phrase/",
+        "/aɪm ɪn ðə dɑːrk/",
         "我一无所知 / 被蒙在鼓里。",
-        "They changed the plan but I'm still in the dark."
+        "They changed the plan but I'm still in the dark.",
+        "他们改了计划，但我还蒙在鼓里。"
       ],
       [
         "changed the plan",
-        "/phrase/",
+        "/tʃeɪndʒd ðə plæn/",
         "改了计划",
-        "I'm in the dark about the new schedule."
+        "I'm in the dark about the new schedule.",
+        "新日程安排我还一头雾水。"
       ],
       [
         "schedule",
-        "/phrase/",
+        "/ˈskedʒuːl/",
         "日程",
-        "Use \"I'm in the dark.\" when the situation fits."
+        "I have a very busy schedule this week.",
+        "我这周的日程安排非常满。"
       ]
     ]
   },
@@ -46190,32 +48497,35 @@ window.dialogueCards = [
       [
         "A",
         "Let's put a pin in that and come back to it after the budget review.",
-        "Let's put a pin in that and come back to it after the budget review."
+        "这个先放一放，等预算审核完再回来看。"
       ],
       [
         "B",
         "Let's put a pin in that for now.",
-        "Let's put a pin in that for now."
+        "这个暂时搁置一下。"
       ]
     ],
     "words": [
       [
         "Let's put a pin in that.",
-        "/phrase/",
+        "/lets pʊt ə pɪn ɪn ðæt/",
         "先搁置这个话题。",
-        "Let's put a pin in that and come back to it after the budget review."
+        "Let's put a pin in that and come back to it after the budget review.",
+        "这个先标记一下，预算审核完再回来讨论。"
       ],
       [
         "budget review",
-        "/phrase/",
+        "/ˈbʌdʒɪt rɪˈvju/",
         "预算审查",
-        "Let's put a pin in that for now."
+        "Let's put a pin in that for now.",
+        "这个先搁置一下。"
       ],
       [
         "come back to",
-        "/phrase/",
+        "/kʌm bæk tu/",
         "回到某话题",
-        "Use \"Let's put a pin in that.\" when the situation fits."
+        "Use \"Let's put a pin in that.\" when the situation fits.",
+        "在合适的场合使用\"这个先标记一下，回头再说。\"。"
       ]
     ]
   },
@@ -46238,32 +48548,35 @@ window.dialogueCards = [
       [
         "A",
         "I'll need sign-off from the legal team before we proceed.",
-        "I'll need sign-off from the legal team before we proceed."
+        "我们需要法务团队签字后才能继续。"
       ],
       [
         "B",
         "I'll need sign-off from finance first.",
-        "I'll need sign-off from finance first."
+        "我需要财务部门先签字。"
       ]
     ],
     "words": [
       [
         "I'll need sign-off from...",
-        "/phrase/",
+        "/aɪl niːd ˈsaɪnɔːf frʌm/",
         "我需要某人审批。",
-        "I'll need sign-off from the legal team before we proceed."
+        "I'll need sign-off from the legal team before we proceed.",
+        "推进之前需要法务团队的批准。"
       ],
       [
         "sign-off",
-        "/phrase/",
+        "/ˈsaɪn.ɒf/",
         "审批；签字同意",
-        "I'll need sign-off from finance first."
+        "I'll need sign-off from finance first.",
+        "我需要先得到财务的批准。"
       ],
       [
         "finance",
-        "/phrase/",
+        "/fɪˈnæns/",
         "财务",
-        "Use \"I'll need sign-off from...\" when the situation fits."
+        "Use \"I'll need sign-off from...\" when the situation fits.",
+        "在合适的场合使用\"我需要……的审批。\"。"
       ]
     ]
   },
@@ -46286,32 +48599,35 @@ window.dialogueCards = [
       [
         "A",
         "Getting the proposal to the client by Friday is a top priority.",
-        "Getting the proposal to the client by Friday is a top priority."
+        "周五前把方案交给客户是头等大事。"
       ],
       [
         "B",
         "This is a top priority for the team.",
-        "This is a top priority for the team."
+        "这对团队来说是最高优先级的事。"
       ]
     ],
     "words": [
       [
         "This is a top priority.",
-        "/phrase/",
+        "/ðɪs ɪz ə tɒp praɪˈɒr.ɪ.ti/",
         "这是最高优先级事项。",
-        "Getting the proposal to the client by Friday is a top priority."
+        "Getting the proposal to the client by Friday is a top priority.",
+        "周五前把提案送到客户手上是头等大事。"
       ],
       [
         "proposal",
-        "/phrase/",
+        "/prəˈpoʊzəl/",
         "提案",
-        "This is a top priority for the team."
+        "The committee will review your proposal next week.",
+        "委员会下周将审阅你的提案。"
       ],
       [
         "priority",
-        "/phrase/",
+        "/praɪˈɔrəti/",
         "优先级",
-        "Use \"This is a top priority.\" when the situation fits."
+        "Use \"This is a top priority.\" when the situation fits.",
+        "在合适的场合使用\"这是最高优先级的事项。\"。"
       ]
     ]
   },
@@ -46334,32 +48650,35 @@ window.dialogueCards = [
       [
         "A",
         "What's up, man? Not much, you?",
-        "What's up, man? Not much, you?"
+        "嘿，怎么样？还行，你呢？"
       ],
       [
         "B",
         "Hey, what's up?",
-        "Hey, what's up?"
+        "嘿，最近怎么样？"
       ]
     ],
     "words": [
       [
         "What's up?",
-        "/phrase/",
+        "/wɒts ʌp/",
         "咋样啊 / 怎么了。",
-        "What's up, man? Not much, you?"
+        "What's up, man? Not much, you?",
+        "咋了兄弟？没啥，你呢？"
       ],
       [
         "not much",
-        "/phrase/",
+        "/nɑt mʌtʃ/",
         "没什么",
-        "Hey, what's up?"
+        "Hey, what's up?",
+        "嘿，最近怎么样？"
       ],
       [
         "man",
-        "/phrase/",
+        "/mæn/",
         "朋友间称呼",
-        "Use \"What's up?\" when the situation fits."
+        "Use \"What's up?\" when the situation fits.",
+        "在合适的场合使用\"怎么了？\"。"
       ]
     ]
   },
@@ -46382,32 +48701,35 @@ window.dialogueCards = [
       [
         "A",
         "Could you give me a hand with these boxes?",
-        "Could you give me a hand with these boxes?"
+        "能帮我搬一下这些箱子吗？"
       ],
       [
         "B",
         "Give me a hand, will you?",
-        "Give me a hand, will you?"
+        "搭把手，行吗？"
       ]
     ],
     "words": [
       [
         "Give me a hand, will you?",
-        "/phrase/",
+        "/ɡɪv mi ə hænd wɪl juː/",
         "帮我一把。",
-        "Could you give me a hand with these boxes?"
+        "Could you give me a hand with these boxes?",
+        "能帮我搬一下这些箱子吗？"
       ],
       [
         "box",
-        "/phrase/",
+        "/bɑks/",
         "箱子",
-        "Give me a hand, will you?"
+        "Give me a hand, will you?",
+        "搭把手行吗？"
       ],
       [
         "help",
-        "/phrase/",
+        "/hɛlp/",
         "帮助",
-        "Use \"Give me a hand, will you?\" when the situation fits."
+        "Could you help me move this table to the other room?",
+        "你能帮我把这张桌子搬到另一个房间吗？"
       ]
     ]
   },
@@ -46430,32 +48752,35 @@ window.dialogueCards = [
       [
         "A",
         "Let's take the detailed discussion offline after the meeting.",
-        "Let's take the detailed discussion offline after the meeting."
+        "详细的讨论我们会议结束后私下聊。"
       ],
       [
         "B",
         "This is too specific, so let's take this offline.",
-        "This is too specific, so let's take this offline."
+        "这个太具体了，我们私下再聊。"
       ]
     ],
     "words": [
       [
         "Let's take this offline.",
-        "/phrase/",
+        "/lets teɪk ðɪs ˈɔːflaɪn/",
         "这个问题我们私下再详聊。",
-        "Let's take the detailed discussion offline after the meeting."
+        "Let's take the detailed discussion offline after the meeting.",
+        "详细讨论咱们会后单独进行。"
       ],
       [
         "detailed discussion",
-        "/phrase/",
+        "/dɪˈteɪld dɪˈskʌʃən/",
         "详细讨论",
-        "This is too specific, so let's take this offline."
+        "This is too specific, so let's take this offline.",
+        "这个太具体了，我们私下再聊。"
       ],
       [
         "specific",
-        "/phrase/",
+        "/spəˈsɪfɪk/",
         "具体的",
-        "Use \"Let's take this offline.\" when the situation fits."
+        "Can you be more specific about what you need?",
+        "你能更具体地说明你需要什么吗？"
       ]
     ]
   },
@@ -46478,32 +48803,35 @@ window.dialogueCards = [
       [
         "A",
         "Do you have the bandwidth to review the draft by Friday?",
-        "Do you have the bandwidth to review the draft by Friday?"
+        "你有空在周五之前审核这份草稿吗？"
       ],
       [
         "B",
         "Do you have bandwidth for one more task?",
-        "Do you have bandwidth for one more task?"
+        "你还能再接一个任务吗？"
       ]
     ],
     "words": [
       [
         "Do you have bandwidth for this?",
-        "/phrase/",
+        "/du ju hæv ˈbændˌwɪdθ fɔr ðɪs/",
         "你有时间或资源处理这个吗？",
-        "Do you have the bandwidth to review the draft by Friday?"
+        "Do you have the bandwidth to review the draft by Friday?",
+        "周五之前有时间审阅草稿吗？"
       ],
       [
         "bandwidth",
-        "/phrase/",
+        "/ˈbændwɪdθ/",
         "精力；时间资源",
-        "Do you have bandwidth for one more task?"
+        "I don't have the bandwidth to take on another project right now.",
+        "我现在没有精力再接手另一个项目了。"
       ],
       [
         "draft",
-        "/phrase/",
+        "/dræft/",
         "草稿",
-        "Use \"Do you have bandwidth for this?\" when the situation fits."
+        "Use \"Do you have bandwidth for this?\" when the situation fits.",
+        "在合适的场合使用\"你有精力处理这个吗？\"。"
       ]
     ]
   },
@@ -46526,32 +48854,35 @@ window.dialogueCards = [
       [
         "A",
         "Can I tell you what happened? Sure, I'm all ears.",
-        "Can I tell you what happened? Sure, I'm all ears."
+        "我能跟你说说发生的事吗？当然，洗耳恭听。"
       ],
       [
         "B",
         "If you have an idea, I'm all ears.",
-        "If you have an idea, I'm all ears."
+        "你要是有想法，我洗耳恭听。"
       ]
     ],
     "words": [
       [
         "I'm all ears.",
-        "/phrase/",
+        "/aɪm ɔːl ɪəz/",
         "我洗耳恭听。",
-        "Can I tell you what happened? Sure, I'm all ears."
+        "You said you have an idea? I'm all ears.",
+        "你说你有个想法？我洗耳恭听。"
       ],
       [
         "idea",
-        "/phrase/",
+        "/aɪˈdiːə/",
         "想法",
-        "If you have an idea, I'm all ears."
+        "If you have an idea, I'm all ears.",
+        "你有什么想法，尽管说。"
       ],
       [
         "listen",
-        "/phrase/",
+        "/ˈlɪsən/",
         "听",
-        "Use \"I'm all ears.\" when the situation fits."
+        "Use \"I'm all ears.\" when the situation fits.",
+        "在合适的场合使用\"我洗耳恭听。\"。"
       ]
     ]
   },
@@ -46574,32 +48905,35 @@ window.dialogueCards = [
       [
         "A",
         "Sorry I didn't call you. It completely slipped my mind.",
-        "Sorry I didn't call you. It completely slipped my mind."
+        "抱歉没给你打电话，我完全忘了。"
       ],
       [
         "B",
         "The meeting slipped my mind.",
-        "The meeting slipped my mind."
+        "我忘了开会这回事。"
       ]
     ],
     "words": [
       [
         "It slipped my mind.",
-        "/phrase/",
+        "/ɪt slɪpt maɪ maɪnd/",
         "我不小心忘了。",
-        "Sorry I didn't call you. It completely slipped my mind."
+        "Sorry I forgot your birthday — it completely slipped my mind.",
+        "抱歉忘了你的生日——我完全忘记了。"
       ],
       [
         "call",
-        "/phrase/",
+        "/kɔl/",
         "打电话",
-        "The meeting slipped my mind."
+        "The meeting slipped my mind.",
+        "我把会议给忘了。"
       ],
       [
         "meeting",
-        "/phrase/",
+        "/ˈmitɪŋ/",
         "会议",
-        "Use \"It slipped my mind.\" when the situation fits."
+        "Use \"It slipped my mind.\" when the situation fits.",
+        "在合适的场合使用\"我给忘了。\"。"
       ]
     ]
   },
@@ -46622,32 +48956,35 @@ window.dialogueCards = [
       [
         "A",
         "Don't worry, we're all in the same boat with this deadline.",
-        "Don't worry, we're all in the same boat with this deadline."
+        "别担心，面对这个截止日期大家都一样。"
       ],
       [
         "B",
         "We're in the same boat, so let's help each other.",
-        "We're in the same boat, so let's help each other."
+        "我们处境相同，所以互相帮忙吧。"
       ]
     ],
     "words": [
       [
         "We're in the same boat.",
-        "/phrase/",
+        "/wɪər ɪn ðə seɪm bəʊt/",
         "我们处境一样。",
-        "Don't worry, we're all in the same boat with this deadline."
+        "Don't worry, we're all in the same boat with this deadline.",
+        "别担心，这个截止日期大家情况都一样。"
       ],
       [
         "deadline",
-        "/phrase/",
+        "/ˈdɛdlaɪn/",
         "截止日期",
-        "We're in the same boat, so let's help each other."
+        "The deadline for submitting the report is Friday at 5 p.m.",
+        "提交报告的截止日期是周五下午五点。"
       ],
       [
         "help each other",
-        "/phrase/",
+        "/help iːtʃ ˈʌðər/",
         "互相帮助",
-        "Use \"We're in the same boat.\" when the situation fits."
+        "Use \"We're in the same boat.\" when the situation fits.",
+        "在合适的场合使用\"我们的处境一样。\"。"
       ]
     ]
   },
@@ -46670,32 +49007,35 @@ window.dialogueCards = [
       [
         "A",
         "Could you walk me through the pricing assumptions in this proposal?",
-        "Could you walk me through the pricing assumptions in this proposal?"
+        "你能给我讲讲这个方案里的定价依据吗？"
       ],
       [
         "B",
         "Could you walk me through your process?",
-        "Could you walk me through your process?"
+        "你能给我讲讲你的流程吗？"
       ]
     ],
     "words": [
       [
         "Could you walk me through that?",
-        "/phrase/",
+        "/kʊd ju wɔk mi θru ðæt/",
         "能否详细说明一下？",
-        "Could you walk me through the pricing assumptions in this proposal?"
+        "Could you walk me through the pricing assumptions in this proposal?",
+        "能给我讲一下这个提案里的定价假设吗？"
       ],
       [
         "pricing assumptions",
-        "/phrase/",
+        "/ˈpraɪsɪŋ əˈsʌmpʃənz/",
         "定价假设",
-        "Could you walk me through your process?"
+        "Could you walk me through your process?",
+        "能给我讲讲你的流程吗？"
       ],
       [
         "process",
-        "/phrase/",
+        "/ˈprɑːsɛs/",
         "流程",
-        "Use \"Could you walk me through that?\" when the situation fits."
+        "The application process takes about two weeks.",
+        "申请流程大约需要两周。"
       ]
     ]
   },
@@ -46718,32 +49058,35 @@ window.dialogueCards = [
       [
         "A",
         "Before we wrap up, let's align on the next steps and owners.",
-        "Before we wrap up, let's align on the next steps and owners."
+        "在结束之前，我们先对齐一下接下来的步骤和负责人。"
       ],
       [
         "B",
         "Let's align on the next steps before Friday.",
-        "Let's align on the next steps before Friday."
+        "周五之前我们先把接下来的步骤对齐。"
       ]
     ],
     "words": [
       [
         "Let's align on the next steps.",
-        "/phrase/",
+        "/lets əˈlaɪn ɑːn ðə nekst steps/",
         "我们对齐下一步行动。",
-        "Before we wrap up, let's align on the next steps and owners."
+        "Before we wrap up, let's align on the next steps and owners.",
+        "结束之前，我们对一下后续步骤和负责人。"
       ],
       [
         "owner",
-        "/phrase/",
+        "/ˈoʊnər/",
         "负责人",
-        "Let's align on the next steps before Friday."
+        "Who is the owner of this restaurant?",
+        "这家餐厅的老板是谁？"
       ],
       [
         "wrap up",
-        "/phrase/",
+        "/ræp ʌp/",
         "结束",
-        "Use \"Let's align on the next steps.\" when the situation fits."
+        "Let's wrap up the meeting and summarize the key points.",
+        "我们结束会议，总结一下要点吧。"
       ]
     ]
   },
@@ -46766,32 +49109,35 @@ window.dialogueCards = [
       [
         "A",
         "I'll check with the client and keep you posted by COB.",
-        "I'll check with the client and keep you posted by COB."
+        "我会跟客户确认，下班前通知你。"
       ],
       [
         "B",
         "I'll keep you posted if anything changes.",
-        "I'll keep you posted if anything changes."
+        "有任何变化我会随时通知你。"
       ]
     ],
     "words": [
       [
         "I'll keep you posted.",
-        "/phrase/",
+        "/aɪl kiːp juː ˈpoʊstɪd/",
         "我会随时向你同步进展。",
-        "I'll check with the client and keep you posted by COB."
+        "I'll check with the client and keep you posted by COB.",
+        "我跟客户确认后，下班前通知你。"
       ],
       [
         "COB",
-        "/phrase/",
+        "/si oʊ bi/",
         "营业结束前",
-        "I'll keep you posted if anything changes."
+        "I'll keep you posted if anything changes.",
+        "有变动我随时通知你。"
       ],
       [
         "anything changes",
-        "/phrase/",
+        "/ˈɛniθɪŋ tʃeɪndʒɪz/",
         "有任何变化",
-        "Use \"I'll keep you posted.\" when the situation fits."
+        "Let me know if anything changes with the schedule.",
+        "如果日程有任何变化，请告诉我。"
       ]
     ]
   },
@@ -46837,19 +49183,22 @@ window.dialogueCards = [
         "check-in",
         "/ˈtʃek ɪn/",
         "状态确认；一对一短面谈",
-        "Let's schedule a quick check-in next Monday."
+        "Let's schedule a quick check-in next Monday.",
+        "下周一安排一个简短的对齐会。"
       ],
       [
         "one-pager",
         "/ˈwʌn peɪdʒər/",
         "一页纸简报",
-        "Can you draft me a one-pager on the vendor options?"
+        "Can you draft me a one-pager on the vendor options?",
+        "能帮我写一份供应商选项的一页摘要吗？"
       ],
       [
         "thin on data",
         "/θɪn ɑːn ˈdeɪtə/",
         "数据支撑不足",
-        "Your analysis is a bit thin on supporting evidence."
+        "Your analysis is a bit thin on supporting evidence.",
+        "你的分析在支撑证据方面有点薄弱。"
       ]
     ]
   },
@@ -46905,19 +49254,22 @@ window.dialogueCards = [
         "dietary restrictions",
         "/ˈdaɪəteri rɪˈstrɪkʃnz/",
         "饮食禁忌；饮食限制",
-        "Do you have any dietary restrictions?"
+        "Do you have any dietary restrictions?",
+        "有什么饮食禁忌吗？"
       ],
       [
         "touch on",
         "/tʌtʃ ɑːn/",
         "简要提及；略微讨论",
-        "Shall we touch on the budget briefly?"
+        "Shall we touch on the budget briefly?",
+        "咱们简单提一下预算？"
       ],
       [
         "It's on us",
         "/ɪts ɑːn ʌs/",
         "这顿算我们请",
-        "Let me take care of the bill. It's on us today."
+        "Let me take care of the bill. It's on us today.",
+        "我来买单。今天算我们的。"
       ]
     ]
   },
@@ -46973,19 +49325,22 @@ window.dialogueCards = [
         "welcome aboard",
         "/ˈwelkəm əˈbɔːrd/",
         "欢迎加入团队",
-        "Welcome aboard. We're glad to have you."
+        "Welcome aboard. We're glad to have you.",
+        "欢迎加入，很高兴你成为我们的一员。"
       ],
       [
         "first-day jitters",
         "/ˈfɜːrst deɪ ˈdʒɪtərz/",
         "入职首日紧张",
-        "It's normal to have first-day jitters."
+        "It's normal to have first-day jitters.",
+        "第一天紧张很正常。"
       ],
       [
         "stand-up meeting",
         "/ˈstænd ʌp ˈmiːtɪŋ/",
         "每日短站会；晨会",
-        "We have a stand-up meeting at 9:30."
+        "We have a stand-up meeting at 9:30.",
+        "我们九点半有站会。"
       ]
     ]
   },
@@ -47041,19 +49396,22 @@ window.dialogueCards = [
         "facility",
         "/fəˈsɪləti/",
         "工厂；设施；场所",
-        "Welcome to our production facility."
+        "Welcome to our production facility.",
+        "欢迎参观我们的生产车间。"
       ],
       [
         "shop floor",
         "/ʃɑːp flɔːr/",
         "车间；生产现场",
-        "Please wear a helmet on the shop floor."
+        "Please wear a helmet on the shop floor.",
+        "进入车间请佩戴安全帽。"
       ],
       [
         "defect rate",
         "/ˈdiːfekt reɪt/",
         "不良率；缺陷率",
-        "We keep the defect rate under 0.1%."
+        "We keep the defect rate under 0.1%.",
+        "我们把次品率控制在 0.1% 以下。"
       ]
     ]
   },
@@ -47109,19 +49467,22 @@ window.dialogueCards = [
         "out-of-the-box",
         "/ˌaʊt əv ðə ˈbɑːks/",
         "打破常规的；跳出框架的",
-        "We need out-of-the-box thinking."
+        "We need out-of-the-box thinking.",
+        "我们需要打破常规的思维。"
       ],
       [
         "park that",
         "/pɑːrk ðæt/",
         "暂存某议题，稍后再议",
-        "Let's park that for now and revisit later."
+        "Let's park that for now and revisit later.",
+        "这个先放一放，以后再说。"
       ],
       [
         "shortlist",
         "/ˈʃɔːrtlɪst/",
         "筛选入围；列入短名单",
-        "Let's shortlist the top three concepts."
+        "Let's shortlist the top three concepts.",
+        "咱们筛选出前三名方案。"
       ]
     ]
   },
@@ -47177,19 +49538,22 @@ window.dialogueCards = [
         "debrief",
         "/dɪˈbriːf/",
         "复盘；情况汇报",
-        "Let's schedule a debrief after the client meeting."
+        "Let's schedule a debrief after the client meeting.",
+        "客户会议结束后安排一个复盘。"
       ],
       [
         "bandwidth",
         "/ˈbændwɪdθ/",
         "时间或精力余量",
-        "I don't have the bandwidth to pick up another task."
+        "I don't have the bandwidth to pick up another task.",
+        "我没精力再接别的任务了。"
       ],
       [
         "key takeaways",
         "/kiː ˈteɪkəweɪz/",
         "关键要点；核心结论",
-        "I'll send the key takeaways after the meeting."
+        "I'll send the key takeaways after the meeting.",
+        "会后我把要点总结发给你。"
       ]
     ]
   },
@@ -47245,19 +49609,22 @@ window.dialogueCards = [
         "put you through",
         "/pʊt juː θruː/",
         "把电话转接给某人",
-        "Could you put me through to extension 305?"
+        "Could you put me through to extension 305?",
+        "能帮我转分机305吗？"
       ],
       [
         "extension",
         "/ɪkˈstenʃn/",
         "分机号",
-        "Do you know David's extension?"
+        "Do you know David's extension?",
+        "你知道David的分机号吗？"
       ],
       [
         "hold on",
         "/hoʊld ɑːn/",
         "电话中请稍等",
-        "Please hold on while I transfer your call."
+        "Please hold on while I transfer your call.",
+        "请稍等，我帮您转接。"
       ]
     ]
   },
@@ -47313,19 +49680,22 @@ window.dialogueCards = [
         "reimbursement",
         "/ˌriːɪmˈbɜːrsmənt/",
         "报销；费用返还",
-        "How does the expense reimbursement process work?"
+        "How does the expense reimbursement process work?",
+        "报销流程是怎么走的？"
       ],
       [
         "pay upfront",
         "/peɪ ˌʌpˈfrʌnt/",
         "先垫付",
-        "You pay upfront and submit a claim later."
+        "You pay upfront and submit a claim later.",
+        "你先垫付，之后再提交理赔申请。"
       ],
       [
         "get bounced",
         "/ɡet baʊnst/",
         "申请被退回",
-        "The claim got bounced because the date was blurry."
+        "The claim got bounced because the date was blurry.",
+        "理赔被退了，因为日期模糊不清。"
       ]
     ]
   },
@@ -47381,19 +49751,22 @@ window.dialogueCards = [
         "run on espresso",
         "/rʌn ɑːn eˈspresoʊ/",
         "靠咖啡撑着",
-        "I'm running on double espresso today."
+        "I'm running on double espresso today.",
+        "今天全靠双份浓缩咖啡撑着。"
       ],
       [
         "blizzard",
         "/ˈblɪzərd/",
         "暴风雪",
-        "Chicago got hit by a blizzard."
+        "Chicago got hit by a blizzard.",
+        "芝加哥遭遇了暴风雪。"
       ],
       [
         "dive in",
         "/daɪv ɪn/",
         "进入正题；开始",
-        "Shall we dive in?"
+        "Shall we dive in?",
+        "咱们开始吧？"
       ]
     ]
   },
@@ -47449,19 +49822,22 @@ window.dialogueCards = [
         "house specialty",
         "/haʊs ˌspeʃiˈæləti/",
         "餐厅招牌菜",
-        "Let me order the house specialties."
+        "Let me order the house specialties.",
+        "我来点几道招牌菜。"
       ],
       [
         "help yourself",
         "/help jɔːrˈself/",
         "请自便；随便取用",
-        "Please help yourself."
+        "Please help yourself.",
+        "请自便。"
       ],
       [
         "for the record",
         "/fɔːr ðə ˈrekərd/",
         "郑重说明；顺带正式提一句",
-        "For the record, I'm happy with the samples."
+        "For the record, I'm happy with the samples.",
+        "先表个态，我对样品很满意。"
       ]
     ]
   },
@@ -47517,19 +49893,22 @@ window.dialogueCards = [
         "that's on me",
         "/ðæts ɑːn mi/",
         "责任在我；是我的疏忽",
-        "I should have followed up. That's on me."
+        "I should have followed up. That's on me.",
+        "我应该跟进一下的，这是我的错。"
       ],
       [
         "workaround",
         "/ˈwɜːrkəraʊnd/",
         "变通方案；替代解决办法",
-        "Do we have a workaround?"
+        "Do we have a workaround?",
+        "有变通的办法吗？"
       ],
       [
         "goodwill gesture",
         "/ˈɡʊdwɪl ˈdʒestʃər/",
         "善意补偿；善意表示",
-        "We offered a discount as a goodwill gesture."
+        "We offered a discount as a goodwill gesture.",
+        "我们提供折扣作为善意的表示。"
       ]
     ]
   },
@@ -47585,19 +49964,1438 @@ window.dialogueCards = [
         "swing by",
         "/swɪŋ baɪ/",
         "顺路过去一下",
-        "I'll swing by your desk after lunch."
+        "I'll swing by your desk after lunch.",
+        "午饭后我去你工位找你。"
       ],
       [
         "on track",
         "/ɑːn træk/",
         "按计划推进",
-        "The rollout is still on track for July."
+        "The rollout is still on track for July.",
+        "七月推出的计划仍在正轨上。"
       ],
       [
         "blocker",
         "/ˈblɑːkər/",
         "阻碍任务推进的因素",
-        "The missing NDA is our only blocker."
+        "The missing NDA is our only blocker.",
+        "缺失的保密协议是我们唯一的障碍。"
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "简洁汇报已完成工作",
+    "difficulty": "高级",
+    "tip": "练习向上级汇报完成事项、提炼价值并提出后续沟通选项。",
+    "lines": [
+      [
+        "A",
+        "I've wrapped up the competitor analysis you asked for.",
+        "我已完成了您要求的竞品分析。"
+      ],
+      [
+        "B",
+        "The key takeaway is that two major rivals are shifting to subscription models.",
+        "核心发现是两家主要竞争对手正在转向订阅制模式。"
+      ],
+      [
+        "A",
+        "That supports our plan to revisit pricing before Q4.",
+        "这支持我们在第四季度前重新评估定价的计划。"
+      ],
+      [
+        "B",
+        "I'll send the full deck before lunch.",
+        "我会在午饭前把完整幻灯片发给您。"
+      ],
+      [
+        "A",
+        "Let me know if you'd like a quick walkthrough this afternoon.",
+        "如果您想下午听我简要说明一下，随时告诉我。"
+      ],
+      [
+        "B",
+        "I can keep the walkthrough focused on pricing implications.",
+        "我可以把讲解重点放在定价影响上。"
+      ]
+    ],
+    "words": [
+      [
+        "wrap up",
+        "/ræp ʌp/",
+        "完成；结束任务",
+        "I've wrapped up the competitor analysis.",
+        "竞争对手分析我已经做完了。"
+      ],
+      [
+        "key takeaway",
+        "/kiː ˈteɪkəweɪ/",
+        "关键要点；核心收获",
+        "The key takeaway is clear.",
+        "核心要点很明确。"
+      ],
+      [
+        "walkthrough",
+        "/ˈwɔːkθruː/",
+        "逐项讲解；演示",
+        "Would you like a quick walkthrough?",
+        "需要快速带你过一遍吗？"
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "机场办理登机牌",
+    "difficulty": "初级",
+    "tip": "练习办理登机、选择座位和确认登机牌。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'd like to check in for my flight to New York, please.",
+        "您好，我想办理飞往纽约的航班登机手续。"
+      ],
+      [
+        "B",
+        "Sure, may I see your passport and e-ticket? Would you prefer a window or an aisle seat?",
+        "好的，请出示您的护照和电子机票。您想要靠窗还是靠过道的座位？"
+      ],
+      [
+        "A",
+        "Window, please. Do you have any seats in the exit row?",
+        "靠窗吧。有紧急出口排的座位吗？"
+      ],
+      [
+        "B",
+        "Yes, I'll put you in 21A by the window. Here's your boarding pass. Have a nice trip!",
+        "有的，给您安排在21A靠窗。这是您的登机牌，祝您旅途愉快！"
+      ]
+    ],
+    "words": [
+      [
+        "aisle",
+        "/aɪl/",
+        "走廊；飞机上的过道座位",
+        "I'd prefer an aisle seat so I can stretch my legs.",
+        "我想要过道座位，方便伸伸腿。"
+      ],
+      [
+        "boarding pass",
+        "/ˈbɔːrdɪŋ pæs/",
+        "登机牌",
+        "Keep your boarding pass handy until you board.",
+        "登机前请保管好登机牌。"
+      ],
+      [
+        "exit row",
+        "/ˈeksɪt roʊ/",
+        "紧急出口排",
+        "Do you have any seats in the exit row?",
+        "有紧急出口排的座位吗？"
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "周五下班去烧烤店放松",
+    "difficulty": "中级",
+    "tip": "练习描述周五下班安排、放松方式和周末计划。",
+    "lines": [
+      [
+        "A",
+        "It's finally Friday, and I'm shutting down my laptop sharp at six.",
+        "终于到周五了，我打算六点准时关电脑走人。"
+      ],
+      [
+        "B",
+        "I'm meeting an old classmate for barbecue and a cold beer at that new place tonight.",
+        "晚上约了老同学去新开的那家烧烤店撸串儿、喝点啤酒。"
+      ],
+      [
+        "A",
+        "Don't call me tomorrow morning; I'm sleeping in.",
+        "明天上午谁也别给我打电话，我要睡到自然醒。"
+      ],
+      [
+        "B",
+        "After that, I'm getting my car washed.",
+        "之后我去洗个车。"
+      ],
+      [
+        "A",
+        "It's been such a hectic week.",
+        "最近这一周太忙了。"
+      ],
+      [
+        "B",
+        "I'll catch up on the show I've been missing over the weekend.",
+        "周末正好把落下的剧补几集。"
+      ]
+    ],
+    "words": [
+      [
+        "sharp",
+        "/ʃɑːrp/",
+        "准点；正好某个时间",
+        "The meeting starts at 9 a.m. sharp.",
+        "会议上午九点整开始。"
+      ],
+      [
+        "hectic",
+        "/ˈhektɪk/",
+        "忙碌混乱的",
+        "I need a quiet Sunday after a hectic week.",
+        "忙了一周后我需要一个安静的周日。"
+      ],
+      [
+        "catch up on",
+        "/kætʃ ʌp ɑːn/",
+        "补上；补看",
+        "I'll catch up on the show this weekend.",
+        "这周末把这部剧补上。"
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "晨间准备自言自语",
+    "difficulty": "中级",
+    "tip": "练习晨间安排、通勤选择和工作待办。",
+    "lines": [
+      [
+        "A",
+        "It's a bit cloudy this morning, but the forecast says it'll clear up by noon.",
+        "今天早上有点阴，但天气预报说中午会放晴。"
+      ],
+      [
+        "B",
+        "I'll bike to the office instead of taking the bus.",
+        "我骑车去公司而不是坐公交。"
+      ],
+      [
+        "A",
+        "That way I can get some fresh air before the meetings start.",
+        "这样我可以在开会前呼吸点新鲜空气。"
+      ],
+      [
+        "B",
+        "Let me lay out my to-do list.",
+        "我来列一下待办事项。"
+      ],
+      [
+        "A",
+        "I'll reply to the client's email first, then finalize the slide deck.",
+        "先回复客户邮件，然后敲定幻灯片。"
+      ],
+      [
+        "B",
+        "Okay, I'm all set. Let's get this day started.",
+        "好了，一切准备就绪，开始今天吧。"
+      ]
+    ],
+    "words": [
+      [
+        "forecast",
+        "/ˈfɔːrkæst/",
+        "天气预报；预测",
+        "The forecast says it'll clear up by noon.",
+        "天气预报说中午会放晴。"
+      ],
+      [
+        "to-do list",
+        "/tə ˈduː lɪst/",
+        "待办事项清单",
+        "Let me lay out my to-do list.",
+        "我列一下待办事项。"
+      ],
+      [
+        "all set",
+        "/ɔːl set/",
+        "准备好了；一切就绪",
+        "I'm all set for the meeting.",
+        "我会议准备妥当了。"
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "周末计划约喝咖啡",
+    "difficulty": "初级",
+    "tip": "练习询问周末安排并发出轻松邀约。",
+    "lines": [
+      [
+        "A",
+        "Hey! Do you have any plans for the weekend?",
+        "嗨！这周末有什么安排吗？"
+      ],
+      [
+        "B",
+        "I'm thinking of going hiking on Saturday. What about you?",
+        "我周六打算去爬山，你呢？"
+      ],
+      [
+        "A",
+        "Not sure yet. Maybe browse the bookstore. Want to grab a coffee after your hike?",
+        "我还没定，也许去逛逛书店。爬完山要不要一起喝杯咖啡？"
+      ],
+      [
+        "B",
+        "Sounds great! Let's meet on Sunday.",
+        "好主意！周日见。"
+      ]
+    ],
+    "words": [
+      [
+        "browse",
+        "/braʊz/",
+        "随意翻阅；浏览",
+        "I like to browse the bookstore on rainy days.",
+        "我喜欢雨天逛书店。"
+      ],
+      [
+        "grab a coffee",
+        "/ɡræb ə ˈkɔːfi/",
+        "随便喝杯咖啡",
+        "Let's grab a coffee before the meeting.",
+        "开会前先去买杯咖啡吧。"
+      ],
+      [
+        "go hiking",
+        "/ɡoʊ ˈhaɪkɪŋ/",
+        "去徒步；去爬山",
+        "I'm going hiking on Saturday.",
+        "我周六去徒步。"
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "约朋友看新片",
+    "difficulty": "初级",
+    "tip": "练习约电影、确认场次和见面时间。",
+    "lines": [
+      [
+        "A",
+        "Hey, there's a new release this weekend. Want to go see it together?",
+        "嘿，这周末有部新片上映，要不要一起去看？"
+      ],
+      [
+        "B",
+        "That sounds great! Is it that new sci-fi blockbuster? What showtime works for us?",
+        "听起来不错！是那部科幻大片吗？几点场次合适？"
+      ],
+      [
+        "A",
+        "The 3 p.m. showing still has seats. Let's get there ten minutes early to pick good ones.",
+        "下午三点那场还有票，我们提前十分钟到挑好点的座位。"
+      ],
+      [
+        "B",
+        "Deal. See you at the theater entrance at 2:50 p.m. on Saturday!",
+        "行，那周六下午两点五十影院门口见！"
+      ]
+    ],
+    "words": [
+      [
+        "release",
+        "/rɪˈliːs/",
+        "新发行作品；上映影片",
+        "The latest release has received great reviews.",
+        "最新版本收到了很好的评价。"
+      ],
+      [
+        "showtime",
+        "/ˈʃoʊtaɪm/",
+        "电影或演出的开场时间",
+        "Text me the showtime.",
+        "把放映时间发短信给我。"
+      ],
+      [
+        "blockbuster",
+        "/ˈblɑːkbʌstər/",
+        "大片；卖座电影",
+        "It's a new sci-fi blockbuster.",
+        "是一部新的科幻大片。"
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "咖啡馆点拿铁和贝果",
+    "difficulty": "初级",
+    "tip": "练习点饮品、确认附加费和堂食外带。",
+    "lines": [
+      [
+        "A",
+        "Good morning! I'd like a medium latte with oat milk, and a blueberry bagel, please.",
+        "早上好！我想点一杯中杯拿铁，加燕麦奶，另外要一个蓝莓贝果。"
+      ],
+      [
+        "B",
+        "Sure, there's a small upcharge for oat milk. Will that be for here or to go?",
+        "好的，燕麦奶需加一点附加费。您要在这里吃还是带走？"
+      ],
+      [
+        "A",
+        "For here. How long will it take?",
+        "在这里吃。大概要等多久？"
+      ],
+      [
+        "B",
+        "Just about two minutes. You can pick it up at the counter over there.",
+        "两分钟左右就好，请到那边柜台取餐。"
+      ]
+    ],
+    "words": [
+      [
+        "upcharge",
+        "/ˈʌptʃɑːrdʒ/",
+        "附加费；额外收费",
+        "There is a $2 upcharge for extra syrup.",
+        "多加糖浆需要额外付 2 美元。"
+      ],
+      [
+        "for here",
+        "/fɔːr hɪr/",
+        "堂食",
+        "Two cappuccinos, one for here and one to go.",
+        "两杯卡布奇诺，一杯堂食一杯带走。"
+      ],
+      [
+        "to go",
+        "/tə ɡoʊ/",
+        "外带",
+        "Will that be for here or to go?",
+        "在这儿吃还是带走？"
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "地铁问路换乘",
+    "difficulty": "初级",
+    "tip": "练习询问地铁方向、换乘和末班车时间。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, does this subway go downtown, or do I need to transfer at the next stop?",
+        "请问这趟地铁是去市中心吗？还是我需要在下一站换乘？"
+      ],
+      [
+        "B",
+        "This line doesn't go downtown. You'll need to transfer to Line 3 at People's Square Station and go two stops south.",
+        "这趟不到市中心，你得在人民广场站换三号线，往南方向坐两站就到了。"
+      ],
+      [
+        "A",
+        "Great, thanks! What time is the last train roughly?",
+        "太好了，谢谢！末班车大概几点？"
+      ],
+      [
+        "B",
+        "Don't worry. You've got about thirty minutes. You'll make it.",
+        "别担心，还有半小时呢，你赶得上的。"
+      ]
+    ],
+    "words": [
+      [
+        "transfer",
+        "/trænsˈfɜːr/",
+        "换乘；转车",
+        "You need to transfer to Bus 205.",
+        "你需要换乘 205 路公交车。"
+      ],
+      [
+        "downtown",
+        "/ˌdaʊnˈtaʊn/",
+        "市中心；商业区",
+        "My office is downtown.",
+        "我的办公室在市中心。"
+      ],
+      [
+        "last train",
+        "/læst treɪn/",
+        "末班车",
+        "What time is the last train?",
+        "末班车是几点？"
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "图书馆借书和续借",
+    "difficulty": "初级",
+    "tip": "练习借书、还书、逾期费用和续借。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, I'd like to check out this novel, and I also have two books to return from last week.",
+        "打扰一下，我想借这本小说，还有这两本上周借的书该还了。"
+      ],
+      [
+        "B",
+        "Sure, let me scan your library card. These two are one day overdue, so there's a small late fee of fifty cents.",
+        "好的，把借书证给我刷一下。这两本逾期一天，要收五毛钱滞纳金。"
+      ],
+      [
+        "A",
+        "That's fine. By the way, can this new novel be renewed?",
+        "没问题。顺便问下，这本新书能续借吗？"
+      ],
+      [
+        "B",
+        "Yes, I'll renew it for you. Just bring it back by the 5th of next month.",
+        "可以，我帮你一起办好，下个月五号前归还就行。"
+      ]
+    ],
+    "words": [
+      [
+        "renew",
+        "/rɪˈnuː/",
+        "续借；更新",
+        "You can renew most books online.",
+        "大部分书都可以在线续借。"
+      ],
+      [
+        "overdue",
+        "/ˌoʊvərˈduː/",
+        "逾期的；过期的",
+        "My borrowed DVDs are overdue.",
+        "我借的DVD逾期了。"
+      ],
+      [
+        "late fee",
+        "/leɪt fiː/",
+        "滞纳金；逾期费",
+        "There is a small late fee.",
+        "有一小笔滞纳金。"
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "预约内科医生",
+    "difficulty": "初级",
+    "tip": "练习预约医生、说明症状和确认到达时间。",
+    "lines": [
+      [
+        "A",
+        "I'd like to make an appointment with a physician for next Wednesday afternoon. I've been having headaches lately.",
+        "我想预约下周三下午看内科医生，我最近一直头疼。"
+      ],
+      [
+        "B",
+        "Sure, let me check. We have an opening at 3 p.m. on Wednesday. I'll book you in.",
+        "好的，帮你查一下。周三三点有空档，我帮您登记好了。"
+      ],
+      [
+        "A",
+        "Thank you. How early should I arrive?",
+        "谢谢，我需要提前多久到？"
+      ],
+      [
+        "B",
+        "Please arrive about 15 minutes early to check in at the front desk.",
+        "请提前十五分钟到前台签到。"
+      ]
+    ],
+    "words": [
+      [
+        "physician",
+        "/fɪˈzɪʃn/",
+        "内科医生；医师",
+        "You should see a physician if symptoms continue.",
+        "如果症状持续，你应该去看医生。"
+      ],
+      [
+        "opening",
+        "/ˈoʊpnɪŋ/",
+        "日程空档；可预约时间",
+        "We have an opening at 10 a.m.",
+        "上午十点有一个空位。"
+      ],
+      [
+        "check in",
+        "/tʃek ɪn/",
+        "签到；办理登记",
+        "Please check in at the front desk.",
+        "请到前台办理入住。"
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "手机欠费在线充值",
+    "difficulty": "初级",
+    "tip": "练习手机余额不足、充值和服务渠道表达。",
+    "lines": [
+      [
+        "A",
+        "My phone suddenly won't make calls. I think I've run out of credit.",
+        "我的手机突然打不出去了，是不是欠费了？"
+      ],
+      [
+        "B",
+        "Let me check. Yep, you're out of balance. You need to top up.",
+        "让我看看。是啊，余额用完了，你得去充点话费。"
+      ],
+      [
+        "A",
+        "Is there a service center or top-up machine nearby?",
+        "这附近有营业厅或自助充值机吗？"
+      ],
+      [
+        "B",
+        "No need. Just top up online through the carrier's app. It takes two minutes.",
+        "不用跑，直接用手机应用在线充值就行，两分钟就好。"
+      ]
+    ],
+    "words": [
+      [
+        "top up",
+        "/tɑːp ʌp/",
+        "充值；续费",
+        "I need to top up my phone before the trip.",
+        "出发前得给手机充话费。"
+      ],
+      [
+        "credit",
+        "/ˈkredɪt/",
+        "预付费手机余额",
+        "You've used up all your call credit.",
+        "你的话费用完了。"
+      ],
+      [
+        "carrier",
+        "/ˈkæriər/",
+        "电信运营商",
+        "Use the carrier's app to top up.",
+        "用运营商的 App 来充值。"
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "取网上订餐",
+    "difficulty": "初级",
+    "tip": "练习取餐、确认姓名和索要一次性餐具。",
+    "lines": [
+      [
+        "A",
+        "Hi, is the order under the name Chen ready?",
+        "您好，我网上订的餐好了吗？姓陈。"
+      ],
+      [
+        "B",
+        "Let me check. Yes, your beef noodle soup and side dish are here. Enjoy!",
+        "稍等。对，您的牛肉面和一个小菜在这儿，请拿好！"
+      ],
+      [
+        "A",
+        "Thanks! Do you have disposable chopsticks?",
+        "谢谢！顺便问下，你们有一次性筷子吗？"
+      ],
+      [
+        "B",
+        "Sure, I'll give you an extra pair. Have a good meal!",
+        "有的，给您多拿一双。祝您用餐愉快！"
+      ]
+    ],
+    "words": [
+      [
+        "disposable",
+        "/dɪˈspoʊzəbl/",
+        "一次性的；可丢弃的",
+        "Most fast-food restaurants use disposable cups.",
+        "大多数快餐店都用一次性杯子。"
+      ],
+      [
+        "side dish",
+        "/saɪd dɪʃ/",
+        "配菜；小菜",
+        "The meal comes with a free side dish.",
+        "这份餐附赠一道小菜。"
+      ],
+      [
+        "under the name",
+        "/ˈʌndər ðə neɪm/",
+        "以某人姓名预订",
+        "Is the order under the name Chen ready?",
+        "陈先生下的单好了吗？"
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "下班后约去健身房",
+    "difficulty": "初级",
+    "tip": "练习约健身、说明训练部位和健身器械。",
+    "lines": [
+      [
+        "A",
+        "Hey, want to hit the gym after work? I'm going to train my upper body.",
+        "嘿，下班后要不要一起去健身房？我想练练上肢力量。"
+      ],
+      [
+        "B",
+        "Sure! I need to work on my back too. Can you show me how to use the lat pulldown machine after that?",
+        "好啊，我也该练背了，练完你教我怎么用那个引拉机吧？"
+      ],
+      [
+        "A",
+        "No problem. Meet you at the subway exit at six. Don't forget your wrist wraps.",
+        "没问题，六点地铁口见，记得带护腕。"
+      ],
+      [
+        "B",
+        "Got it, see you then!",
+        "好嘞，待会见！"
+      ]
+    ],
+    "words": [
+      [
+        "workout",
+        "/ˈwɜːrkaʊt/",
+        "锻炼；训练课",
+        "I usually do a 45-minute workout before breakfast.",
+        "我通常早饭前做45分钟锻炼。"
+      ],
+      [
+        "wrist wrap",
+        "/rɪst ræp/",
+        "护腕",
+        "Wrist wraps help support your joints.",
+        "护腕有助于保护你的关节。"
+      ],
+      [
+        "lat pulldown machine",
+        "/læt ˈpʊldaʊn məˈʃiːn/",
+        "高位下拉机",
+        "Can you show me the lat pulldown machine?",
+        "能带我去看看高位下拉器械吗？"
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "酒店办理入住",
+    "difficulty": "初级",
+    "tip": "练习酒店入住、出示确认单和询问早餐。",
+    "lines": [
+      [
+        "A",
+        "Good evening. I have a reservation online. I'd like to check in, please.",
+        "晚上好，我网上预订了房间，想办理入住。"
+      ],
+      [
+        "B",
+        "Certainly. May I see your passport and the confirmation slip?",
+        "好的，请把您的护照和确认单给我看一下。"
+      ],
+      [
+        "A",
+        "Here you are. Also, what time is breakfast served and where?",
+        "给您。顺便问一下，早餐是几点供应，在哪层？"
+      ],
+      [
+        "B",
+        "Breakfast is from 7 to 10 a.m. on the second floor. Here's your key card. Enjoy your stay!",
+        "早餐七点到十点在二楼餐厅。这是房卡，祝您入住愉快！"
+      ]
+    ],
+    "words": [
+      [
+        "reservation",
+        "/ˌrezərˈveɪʃn/",
+        "预订；预约",
+        "I'd like to make a reservation for two.",
+        "我想订两个人的位子。"
+      ],
+      [
+        "confirmation slip",
+        "/ˌkɑːnfərˈmeɪʃn slɪp/",
+        "确认单；确认凭证",
+        "Please keep the confirmation slip.",
+        "请保留确认单。"
+      ],
+      [
+        "key card",
+        "/kiː kɑːrd/",
+        "房卡；门卡",
+        "Here's your key card.",
+        "这是你的房卡。"
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "药店买感冒药",
+    "difficulty": "初级",
+    "tip": "练习说明感冒症状、询问用药和结账。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, I have a sore throat and keep sneezing. Is there anything I can take?",
+        "打扰一下，我喉咙痛还一直打喷嚏，有什么药可以吃吗？"
+      ],
+      [
+        "B",
+        "Sounds like a mild cold. This cold medicine will help with the symptoms, but see a doctor if you get a fever.",
+        "听起来像轻微感冒。这款感冒药可以缓解症状，不过你要是发烧最好先看医生。"
+      ],
+      [
+        "A",
+        "OK, I'll take one box of this and some throat lozenges, please.",
+        "好的，那我拿一盒这个，还有润喉糖。"
+      ],
+      [
+        "B",
+        "Sure, that comes to 58 yuan. Hope you feel better soon.",
+        "没问题，一共58元。祝您早日康复。"
+      ]
+    ],
+    "words": [
+      [
+        "sore throat",
+        "/sɔːr θroʊt/",
+        "喉咙痛",
+        "I have a sore throat.",
+        "我喉咙痛。"
+      ],
+      [
+        "sneeze",
+        "/sniːz/",
+        "打喷嚏",
+        "I keep sneezing today.",
+        "今天一直打喷嚏。"
+      ],
+      [
+        "lozenge",
+        "/ˈlɑːzɪndʒ/",
+        "含片；润喉糖",
+        "I'll take some throat lozenges.",
+        "我吃点润喉糖。"
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "超市询问橄榄油",
+    "difficulty": "初级",
+    "tip": "练习询问商品位置、价格和会员折扣。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, where can I find the olive oil?",
+        "打扰一下，请问橄榄油在哪排货架？"
+      ],
+      [
+        "B",
+        "It's on the back aisle of the condiment section, next to the vinegar and spices.",
+        "在调料区最里面那排，靠近醋和香料。"
+      ],
+      [
+        "A",
+        "Thanks! And how much is this extra virgin one?",
+        "谢谢！另外这种特级初榨的一瓶多少钱？"
+      ],
+      [
+        "B",
+        "It's marked 68 yuan, and members get a 10% discount today.",
+        "标价是68元，今天会员还能打九折。"
+      ]
+    ],
+    "words": [
+      [
+        "condiment",
+        "/ˈkɑːndɪmənt/",
+        "调味品；佐料",
+        "Most condiments are in aisle 3.",
+        "大部分调料在3号通道。"
+      ],
+      [
+        "extra virgin",
+        "/ˌekstrə ˈvɜːrdʒɪn/",
+        "特级初榨",
+        "Extra virgin olive oil is good for salads.",
+        "特级初榨橄榄油适合拌沙拉。"
+      ],
+      [
+        "discount",
+        "/ˈdɪskaʊnt/",
+        "折扣",
+        "Members get a 10% discount today.",
+        "会员今天享受九折优惠。"
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "菜市场买海鲈鱼",
+    "difficulty": "初级",
+    "tip": "练习买鱼、确认新鲜度和让摊主处理。",
+    "lines": [
+      [
+        "A",
+        "Hi, do you have any fresh fish today?",
+        "老板，今天有什么新鲜的鱼吗？"
+      ],
+      [
+        "B",
+        "Yes, we have fresh sea bass and salmon. Which would you prefer?",
+        "有鲈鱼和鲑鱼都很新鲜，您要哪种？"
+      ],
+      [
+        "A",
+        "I'll take a sea bass, please. Could you clean and scale it for me?",
+        "给我一条鲈鱼吧，能帮我杀好去鳞吗？"
+      ],
+      [
+        "B",
+        "Sure! How about this one? I'll have it filleted and bagged for you.",
+        "没问题，这条怎么样？我帮您处理好并装袋。"
+      ]
+    ],
+    "words": [
+      [
+        "sea bass",
+        "/siː bæs/",
+        "海鲈鱼；鲈鱼",
+        "We're having grilled sea bass for dinner.",
+        "晚餐我们吃烤海鲈鱼。"
+      ],
+      [
+        "scale",
+        "/skeɪl/",
+        "刮鱼鳞",
+        "Could you scale and gut the fish?",
+        "能帮我把鱼刮鳞去内脏吗？"
+      ],
+      [
+        "fillet",
+        "/ˈfɪlɪt/",
+        "去骨切片；鱼柳",
+        "I'll have it filleted and bagged.",
+        "帮我切成鱼片装袋。"
+      ]
+    ]
+  },
+  {
+    "theme": "购物",
+    "title": "商场试衣间试穿外套（尺码咨询）",
+    "difficulty": "初级",
+    "tip": "练习询问试衣间、尺码和衣服是否合身。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, where's the fitting room? Do you have this jacket in medium?",
+        "打扰一下，请问试衣间在哪里？这件外套有中号吗？"
+      ],
+      [
+        "B",
+        "The fitting room is over there in the corner. Yes, here's a medium. You can try it on.",
+        "试衣间在那边角落。有的，给您中号，您可以进去试穿。"
+      ],
+      [
+        "A",
+        "Thanks! Does it fit okay? I feel like the sleeves are a bit short.",
+        "谢谢！这件合身吗？我觉得袖子有点短。"
+      ],
+      [
+        "B",
+        "It looks good, but you can try a large if you think it's too short.",
+        "看着挺好的，不过如果您觉得短可以换大号试试。"
+      ]
+    ],
+    "words": [
+      [
+        "fitting room",
+        "/ˈfɪtɪŋ ruːm/",
+        "试衣间；更衣室",
+        "The fitting room is at the back of the store.",
+        "试衣间在店铺后面。"
+      ],
+      [
+        "sleeve",
+        "/sliːv/",
+        "袖子",
+        "Roll up your sleeves before washing dishes.",
+        "洗碗前先把袖子卷起来。"
+      ],
+      [
+        "try on",
+        "/traɪ ɑːn/",
+        "试穿",
+        "You can try it on.",
+        "你可以试穿一下。"
+      ]
+    ]
+  },
+  {
+    "theme": "餐厅",
+    "title": "餐厅结账刷卡",
+    "difficulty": "初级",
+    "tip": "练习请求账单、刷卡和确认服务费。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, could we have the bill, please?",
+        "不好意思，麻烦帮我们结账。"
+      ],
+      [
+        "B",
+        "Sure, that comes to 268 yuan including the service charge.",
+        "好的，两位一共是268元，含服务费。"
+      ],
+      [
+        "A",
+        "Do you accept credit cards?",
+        "可以刷卡吗？"
+      ],
+      [
+        "B",
+        "Yes, you can tap your card or scan the QR code here.",
+        "当然可以，这边请插卡或扫二维码。"
+      ],
+      [
+        "A",
+        "Thank you. We really enjoyed the meal!",
+        "谢谢，菜很好吃！"
+      ],
+      [
+        "B",
+        "Glad to hear that. Have a good evening.",
+        "很高兴您喜欢。祝您晚上愉快。"
+      ]
+    ],
+    "words": [
+      [
+        "service charge",
+        "/ˈsɜːrvɪs tʃɑːrdʒ/",
+        "服务费",
+        "The restaurant adds a 10% service charge.",
+        "餐厅加收 10% 的服务费。"
+      ],
+      [
+        "bill",
+        "/bɪl/",
+        "账单",
+        "Could you bring me the bill?",
+        "能把账单拿来吗？"
+      ],
+      [
+        "QR code",
+        "/ˌkjuː ˈɑːr koʊd/",
+        "二维码",
+        "You can scan the QR code here.",
+        "你可以在这里扫二维码。"
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "邮局寄包裹到英国",
+    "difficulty": "初级",
+    "tip": "练习邮局寄件、选择快递和平邮、称重和收据。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'd like to send this package to the UK, please.",
+        "你好，我想把这个包裹寄到英国。"
+      ],
+      [
+        "B",
+        "Sure. Would you like standard shipping or express?",
+        "好的，您想寄平邮还是快递？"
+      ],
+      [
+        "A",
+        "Express, please. It has books and clothes inside. Can you weigh it?",
+        "快递吧。里面是书和衣服，请帮我称一下。"
+      ],
+      [
+        "B",
+        "That'll be 35 yuan. Here's your receipt.",
+        "共35元，这是收据。"
+      ],
+      [
+        "A",
+        "Thank you!",
+        "谢谢！"
+      ],
+      [
+        "B",
+        "You're welcome.",
+        "不客气。"
+      ]
+    ],
+    "words": [
+      [
+        "express",
+        "/ɪkˈspres/",
+        "快递；特快",
+        "I'll send the documents by express mail.",
+        "我会用快递寄送文件。"
+      ],
+      [
+        "receipt",
+        "/rɪˈsiːt/",
+        "收据",
+        "Please keep the receipt.",
+        "请保留收据。"
+      ],
+      [
+        "weigh",
+        "/weɪ/",
+        "称重",
+        "Can you weigh it?",
+        "能称一下吗？"
+      ]
+    ]
+  },
+  {
+    "theme": "校园",
+    "title": "图书馆借两本书",
+    "difficulty": "初级",
+    "tip": "练习借书、询问到期日和在线续借。",
+    "lines": [
+      [
+        "A",
+        "Excuse me, I'd like to check out these two books, please.",
+        "您好，我想借这两本书。"
+      ],
+      [
+        "B",
+        "Sure! May I see your library card?",
+        "好的，请出示您的借书证。"
+      ],
+      [
+        "A",
+        "Here you are. When are they due?",
+        "给您。它们什么时候到期？"
+      ],
+      [
+        "B",
+        "They're due in two weeks. You can renew them online through the library app.",
+        "两周后到期，可以凭App在线续借。"
+      ],
+      [
+        "A",
+        "Got it. Thanks a lot!",
+        "明白了，谢谢！"
+      ],
+      [
+        "B",
+        "You're welcome.",
+        "不客气。"
+      ]
+    ],
+    "words": [
+      [
+        "check out",
+        "/tʃek aʊt/",
+        "借出；办理借阅",
+        "I'd like to check out these books.",
+        "我想借这几本书。"
+      ],
+      [
+        "due",
+        "/duː/",
+        "到期的；应归还的",
+        "The books are due next Friday.",
+        "这些书下周五到期。"
+      ],
+      [
+        "renew",
+        "/rɪˈnuː/",
+        "续借；更新",
+        "You can renew the book online.",
+        "你可以在线续借这本书。"
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "电影院买票看电影",
+    "difficulty": "初级",
+    "tip": "练习购买电影票、选择厅和确认检票口。",
+    "lines": [
+      [
+        "A",
+        "Hi, we'd like two tickets for Elemental tonight, please.",
+        "你好，我们要两张今晚《疯狂元素城》的电影票。"
+      ],
+      [
+        "B",
+        "Sure, do you want the standard screening or IMAX?",
+        "好的，要普通厅还是IMAX？"
+      ],
+      [
+        "A",
+        "IMAX, please. How much is that altogether?",
+        "IMAX吧。一共多少钱？"
+      ],
+      [
+        "B",
+        "That'll be 120 yuan. The show starts at 7:30. The entrance is on the left.",
+        "120元。电影七点半开场，检票口在左边。"
+      ],
+      [
+        "A",
+        "Thanks!",
+        "谢谢！"
+      ],
+      [
+        "B",
+        "Enjoy the movie.",
+        "祝您观影愉快。"
+      ]
+    ],
+    "words": [
+      [
+        "screening",
+        "/ˈskriːnɪŋ/",
+        "电影场次；放映",
+        "Do you want the standard screening or IMAX?",
+        "要普通场还是IMAX？"
+      ],
+      [
+        "altogether",
+        "/ˌɔːltəˈɡeðər/",
+        "总共；一共",
+        "How much is that altogether?",
+        "一共多少钱？"
+      ],
+      [
+        "entrance",
+        "/ˈentrəns/",
+        "入口；检票口",
+        "The entrance is on the left.",
+        "入口在左边。"
+      ]
+    ]
+  },
+  {
+    "theme": "健康",
+    "title": "健身房偶遇聊天",
+    "difficulty": "初级",
+    "tip": "练习健身房寒暄、询问器械使用和调节座椅。",
+    "lines": [
+      [
+        "A",
+        "Hi! Do you come to this gym often?",
+        "嗨！你常来这间健身房吗？"
+      ],
+      [
+        "B",
+        "Yeah, I try to work out three times a week. Is this your first time here?",
+        "嗯，我尽量一周来三次。你今天第一次来？"
+      ],
+      [
+        "A",
+        "Not really, but I'm not sure how to use the weight machines. Could you show me how to adjust this seat?",
+        "不是第一次，但我不太会用那些力量器械。你能教我怎么调这个座椅吗？"
+      ],
+      [
+        "B",
+        "Sure! Just pull the lever under the seat and slide it to your height. Don't forget to stretch after your set.",
+        "当然！先拉座椅下的拉杆，调到合适高度就行。练完记得拉伸。"
+      ]
+    ],
+    "words": [
+      [
+        "work out",
+        "/wɜːrk aʊt/",
+        "锻炼；健身",
+        "I usually work out before dinner.",
+        "我通常在晚饭前锻炼。"
+      ],
+      [
+        "adjust",
+        "/əˈdʒʌst/",
+        "调节；调整",
+        "You can adjust the mirror.",
+        "你可以调一下镜子。"
+      ],
+      [
+        "lever",
+        "/ˈlevər/",
+        "拉杆；控制杆",
+        "Pull the lever under the seat.",
+        "拉一下座位下面的拉杆。"
+      ]
+    ]
+  },
+  {
+    "theme": "旅行",
+    "title": "公交车站买票",
+    "difficulty": "初级",
+    "tip": "练习买车票、确认单程往返和站台。",
+    "lines": [
+      [
+        "A",
+        "Hi, I'd like a ticket to the city center, please.",
+        "您好，我想买一张去市中心的大巴票。"
+      ],
+      [
+        "B",
+        "One-way or round-trip?",
+        "单程还是往返？"
+      ],
+      [
+        "A",
+        "One-way. Is there a bus at 2 p.m.?",
+        "单程，下午两点有发车吗？"
+      ],
+      [
+        "B",
+        "Yes, here's your ticket. Please wait at Platform 3.",
+        "有的，给您票，请到3号站台候车。"
+      ]
+    ],
+    "words": [
+      [
+        "one-way",
+        "/ˌwʌn ˈweɪ/",
+        "单程的",
+        "I'd like a one-way ticket.",
+        "我要一张单程票。"
+      ],
+      [
+        "round-trip",
+        "/ˌraʊnd ˈtrɪp/",
+        "往返的",
+        "One-way or round-trip?",
+        "单程还是往返？"
+      ],
+      [
+        "platform",
+        "/ˈplætfɔːrm/",
+        "站台；月台",
+        "Please wait at Platform 3.",
+        "请在3号站台等候。"
+      ]
+    ]
+  },
+  {
+    "theme": "日常",
+    "title": "租房看房",
+    "difficulty": "初中级",
+    "tip": "练习看房时询问家具、水电和押金租期。",
+    "lines": [
+      [
+        "A",
+        "Hi! I saw your listing online. Could you show me around?",
+        "你好！我在网上看到您这间公寓招租，能带我看看吗？"
+      ],
+      [
+        "B",
+        "Sure, come in! This is the living room. It gets great southern light.",
+        "当然，请进！这是客厅，朝南采光很好。"
+      ],
+      [
+        "A",
+        "Nice. Is the apartment furnished? Does the rent include utilities?",
+        "不错。公寓带家具吗？租金包水电吗？"
+      ],
+      [
+        "B",
+        "It comes with basic furniture. Water and trash are included, but electricity is extra.",
+        "带基本家具。租金包水和垃圾清运，电费另付。"
+      ],
+      [
+        "A",
+        "Got it. I like it. How do we sign the lease?",
+        "明白了。我挺喜欢的，怎么签租约？"
+      ],
+      [
+        "B",
+        "You'll pay a one-month security deposit. The minimum lease term is one year.",
+        "先交一个月押金，租期最少一年。"
+      ]
+    ],
+    "words": [
+      [
+        "furnished",
+        "/ˈfɜːrnɪʃt/",
+        "带家具的",
+        "The studio is fully furnished.",
+        "这套单间配齐了家具。"
+      ],
+      [
+        "security deposit",
+        "/sɪˈkjʊrəti dɪˈpɑːzɪt/",
+        "押金；保证金",
+        "The landlord asked for a security deposit.",
+        "房东要求交押金。"
+      ],
+      [
+        "lease",
+        "/liːs/",
+        "租约；租赁合同",
+        "How do we sign the lease?",
+        "怎么签租约？"
+      ]
+    ]
+  },
+  {
+    "theme": "社交",
+    "title": "周五晚看电影吃宵夜",
+    "difficulty": "中级",
+    "tip": "练习描述周五晚约朋友看电影和吃宵夜的计划。",
+    "lines": [
+      [
+        "A",
+        "Finally made it to Friday!",
+        "终于熬到周五了！"
+      ],
+      [
+        "B",
+        "I'm shutting down my laptop and texting an old friend to see if she wants to catch a late movie with me.",
+        "我先把电脑关机，给老朋友发消息问她要不要一起看场晚场电影。"
+      ],
+      [
+        "A",
+        "If she's free, we can grab some skewers and cold drinks at that tiny place by the alley after the show.",
+        "如果她不忙，散场后我们可以去巷口小店吃点烤串和冰饮。"
+      ],
+      [
+        "B",
+        "We can chat about all the little things that happened this week.",
+        "我们可以聊聊这周发生的琐事。"
+      ],
+      [
+        "A",
+        "It's been ages since I properly unwound like this.",
+        "我已经好久没这样好好放松过了。"
+      ],
+      [
+        "B",
+        "I really hope we can just have a fun night out and go home happy.",
+        "真希望能痛痛快快地玩一晚上再回家。"
+      ]
+    ],
+    "words": [
+      [
+        "unwind",
+        "/ˌʌnˈwaɪnd/",
+        "放松；解压",
+        "I like to unwind by watching a comedy.",
+        "我喜欢看喜剧放松。"
+      ],
+      [
+        "skewer",
+        "/ˈskjuːər/",
+        "烤串；肉串",
+        "The street stall sells lamb skewers.",
+        "街边摊卖羊肉串。"
+      ],
+      [
+        "late movie",
+        "/leɪt ˈmuːvi/",
+        "晚场电影",
+        "Do you want to catch a late movie?",
+        "想去看晚场电影吗？"
       ]
     ]
   }

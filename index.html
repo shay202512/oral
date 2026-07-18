@@ -151,9 +151,20 @@
 
     .theme-strip {
       display: grid;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-template-columns: repeat(5, minmax(0, 1fr));
       gap: 10px;
       margin: 18px 0;
+    }
+
+    .theme-btn.fav-filter {
+      border-color: #e74c3c;
+      background: #fef5f4;
+    }
+
+    .theme-btn.fav-filter.active {
+      border-color: #e74c3c;
+      background: #fef0ef;
+      color: #c0392b;
     }
 
     .theme-btn {
@@ -246,6 +257,38 @@
       white-space: nowrap;
     }
 
+    .fav-btn {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      border: 2px solid var(--line);
+      background: transparent;
+      display: grid;
+      place-items: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .fav-btn svg {
+      width: 20px;
+      height: 20px;
+      stroke: var(--muted);
+      fill: none;
+      stroke-width: 2;
+      transition: all 0.2s ease;
+    }
+
+    .fav-btn.faved {
+      border-color: #e74c3c;
+      background: #fef0ef;
+    }
+
+    .fav-btn.faved svg {
+      stroke: #e74c3c;
+      fill: #e74c3c;
+    }
+
     .dialogue {
       padding: 16px 20px 20px;
       display: grid;
@@ -305,6 +348,7 @@
     .chinese,
     .meaning,
     .example,
+    .example-zh,
     .note,
     .status {
       margin: 0;
@@ -315,6 +359,11 @@
 
     .chinese {
       font-size: 15px;
+    }
+
+    .example-zh {
+      font-size: 13px;
+      opacity: 0.85;
     }
 
     .speak-btn {
@@ -385,6 +434,102 @@
       text-align: center;
     }
 
+    /* 更新日志 */
+    .changelog-trigger {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      background: var(--panel);
+      border: 2px solid var(--line);
+      box-shadow: 0 6px 20px rgba(31, 36, 43, 0.14);
+      cursor: pointer;
+      display: grid;
+      place-items: center;
+      font-size: 18px;
+      z-index: 100;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .changelog-trigger:hover {
+      transform: scale(1.08);
+      box-shadow: 0 8px 24px rgba(31, 36, 43, 0.2);
+    }
+    .changelog-trigger .dot {
+      position: absolute;
+      top: 2px;
+      right: 2px;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: #e74c3c;
+      border: 2px solid var(--panel);
+      display: none;
+    }
+    .changelog-trigger.new .dot {
+      display: block;
+    }
+
+    .changelog-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.35);
+      z-index: 200;
+      display: grid;
+      place-items: center;
+      animation: fadeIn 0.2s ease;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .changelog-panel {
+      background: var(--panel);
+      border-radius: 12px;
+      padding: 28px 30px 22px;
+      max-width: 420px;
+      width: calc(100% - 40px);
+      box-shadow: 0 20px 60px rgba(31, 36, 43, 0.25);
+      animation: slideUp 0.25s ease;
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    .changelog-panel h3 {
+      margin: 0 0 6px;
+      font-size: 18px;
+    }
+    .changelog-panel .version {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+    .changelog-panel ul {
+      margin: 0;
+      padding: 0 0 0 18px;
+      display: grid;
+      gap: 8px;
+    }
+    .changelog-panel li {
+      color: #3d424a;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+    .changelog-panel .close-btn {
+      margin-top: 18px;
+      width: 100%;
+      min-height: 42px;
+      border-radius: var(--radius);
+      background: var(--accent);
+      color: #fff;
+      font-weight: 700;
+      font-size: 15px;
+    }
+
     svg {
       width: 20px;
       height: 20px;
@@ -416,7 +561,7 @@
       }
 
       .theme-strip {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
       }
     }
 
@@ -442,7 +587,7 @@
       }
 
       .theme-strip {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
     }
     :root {
@@ -542,6 +687,17 @@
           <span>主题</span>
           <select id="themeSelect" aria-label="选择主题"></select>
         </label>
+        <label class="select-wrap">
+          <span>难度</span>
+          <select id="difficultySelect" aria-label="选择难度">
+            <option value="">全部</option>
+            <option value="初级">初级</option>
+            <option value="初中级">初中级</option>
+            <option value="中级">中级</option>
+            <option value="中高级">中高级</option>
+            <option value="高级">高级</option>
+          </select>
+        </label>
         <label class="select-wrap mode-wrap">
           <span>切换</span>
           <select id="switchMode" aria-label="选择换一张方式">
@@ -574,6 +730,9 @@
           </div>
           <div class="meta-row">
             <span class="difficulty" id="difficulty"></span>
+            <button class="fav-btn" id="favBtn" type="button" title="收藏" aria-label="收藏当前对话">
+              <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+            </button>
             <span class="status" id="cardCounter"></span>
           </div>
         </div>
@@ -601,14 +760,36 @@
     <p class="footer-note">发音使用浏览器自带语音；如没有声音，请检查系统音量或浏览器语音支持。</p>
   </main>
 
-  <script src="data/dialogues.js"></script>
+  <!-- 更新日志按钮 -->
+  <button class="changelog-trigger" id="changelogBtn" type="button" title="更新日志" aria-label="查看更新日志">
+    📋<span class="dot"></span>
+  </button>
+
+  <script src="dialogues.js"></script>
   <script>
     const cards = window.dialogueCards || [];
+    
+    // 收藏功能 — 用 localStorage 持久化
+    const STORAGE_KEY = 'dialogue_favorites';
+    function loadFavorites() {
+      try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY)) || []); }
+      catch { return new Set(); }
+    }
+    function saveFavorites(favs) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...favs]));
+    }
+    let favorites = loadFavorites();
+    
+    // 生成卡片唯一标识
+    function cardKey(card) { return `${card.theme}||${card.title}`; }
+    
     const state = {
       currentTheme: cards[0]?.theme || "",
       currentIndex: 0,
       query: "",
-      switchMode: "sequential"
+      switchMode: "sequential",
+      difficultyFilter: "",
+      favOnly: false
     };
 
     const themeSelect = document.querySelector("#themeSelect");
@@ -622,6 +803,7 @@
     const wordList = document.querySelector("#wordList");
     const tip = document.querySelector("#tip");
     const searchInput = document.querySelector("#searchInput");
+    const difficultySelect = document.querySelector("#difficultySelect");
     const themes = [...new Set(cards.map(card => card.theme))];
 
     function speak(text) {
@@ -636,28 +818,39 @@
 
     function getThemeCards() {
       const query = state.query.trim().toLowerCase();
+      const diff = state.difficultyFilter;
       return cards.filter(card => {
         const inTheme = card.theme === state.currentTheme;
-        if (!query) return inTheme;
+        const inDifficulty = !diff || card.difficulty === diff;
+        if (!inTheme || !inDifficulty) return false;
+        if (state.favOnly && !favorites.has(cardKey(card))) return false;
+        if (!query) return true;
         const text = `${card.title} ${card.lines.map(line => line[1]).join(" ")}`.toLowerCase();
-        return inTheme && text.includes(query);
+        return text.includes(query);
       });
     }
 
     function renderThemeControls() {
       themeSelect.innerHTML = themes.map(theme => `<option value="${theme}">${theme}</option>`).join("");
-      themeStrip.innerHTML = themes.map(theme => {
-        const count = cards.filter(card => card.theme === theme).length;
-        return `<button class="theme-btn" type="button" data-theme="${theme}">${theme}<span>${count} 个对话</span></button>`;
-      }).join("");
+      const favCount = [...favorites].filter(k => k.startsWith(state.currentTheme + '||')).length;
+      themeStrip.innerHTML = `<button class="theme-btn fav-filter${state.favOnly ? ' active' : ''}" type="button" id="favFilterBtn">⭐ 收藏<span>${favCount} 个对话</span></button>` +
+        themes.map(theme => {
+          const count = cards.filter(card => card.theme === theme).length;
+          return `<button class="theme-btn${theme === state.currentTheme && !state.favOnly ? ' active' : ''}" type="button" data-theme="${theme}">${theme}<span>${count} 个对话</span></button>`;
+        }).join("");
       themeSelect.value = state.currentTheme;
       switchMode.value = state.switchMode;
     }
 
     function renderCard() {
       const themeCards = getThemeCards();
-      document.querySelectorAll(".theme-btn").forEach(button => {
-        button.classList.toggle("active", button.dataset.theme === state.currentTheme);
+      // 更新主题按钮 active 状态（包括收藏筛选按钮）
+      document.querySelectorAll("#themeStrip .theme-btn").forEach(button => {
+        if (button.id === "favFilterBtn") {
+          button.classList.toggle("active", state.favOnly);
+        } else {
+          button.classList.toggle("active", button.dataset.theme === state.currentTheme && !state.favOnly);
+        }
       });
       themeSelect.value = state.currentTheme;
 
@@ -669,11 +862,29 @@
         dialogue.innerHTML = "";
         wordList.innerHTML = "";
         tip.textContent = "可以搜索标题或英文句子，也可以清空搜索框继续练习。";
+        // 没有卡片时也更新收藏按钮状态
+        const favBtn = document.querySelector("#favBtn");
+        if (favBtn) favBtn.classList.remove("faved");
         return;
       }
 
       state.currentIndex = state.currentIndex % themeCards.length;
       const card = themeCards[state.currentIndex];
+
+      // 收藏按钮状态
+      const favBtn = document.querySelector("#favBtn");
+      const ck = cardKey(card);
+      favBtn.classList.toggle("faved", favorites.has(ck));
+      favBtn.onclick = () => {
+        if (favorites.has(ck)) {
+          favorites.delete(ck);
+        } else {
+          favorites.add(ck);
+        }
+        saveFavorites(favorites);
+        favBtn.classList.toggle("faved", favorites.has(ck));
+        renderThemeControls();
+      };
       themeName.textContent = card.theme;
       cardTitle.textContent = card.title;
       difficulty.textContent = card.difficulty;
@@ -697,7 +908,7 @@
       }).join("");
 
       wordList.innerHTML = card.words.map(word => {
-        const [term, phonetic, meaning, example] = word;
+        const [term, phonetic, meaning, exampleEn, exampleZh] = word;
         return `
           <article class="word-card">
             <div class="word-top">
@@ -705,7 +916,8 @@
               <span class="phonetic">${phonetic}</span>
             </div>
             <p class="meaning">${meaning}</p>
-            <p class="example">${example}</p>
+            <p class="example">${exampleEn}</p>
+            <p class="example-zh">${exampleZh}</p>
           </article>
         `;
       }).join("");
@@ -714,6 +926,8 @@
     function switchTheme(theme) {
       state.currentTheme = theme;
       state.currentIndex = 0;
+      state.favOnly = false;
+      renderThemeControls();
       renderCard();
     }
 
@@ -742,10 +956,24 @@
     });
     themeStrip.addEventListener("click", event => {
       const button = event.target.closest(".theme-btn");
-      if (button) switchTheme(button.dataset.theme);
+      if (!button) return;
+      if (button.id === "favFilterBtn") {
+        state.favOnly = !state.favOnly;
+        state.currentIndex = 0;
+        renderThemeControls();
+        renderCard();
+      } else if (button.dataset.theme) {
+        state.favOnly = false;
+        switchTheme(button.dataset.theme);
+      }
     });
     searchInput.addEventListener("input", event => {
       state.query = event.target.value;
+      state.currentIndex = 0;
+      renderCard();
+    });
+    difficultySelect.addEventListener("change", event => {
+      state.difficultyFilter = event.target.value;
       state.currentIndex = 0;
       renderCard();
     });
@@ -763,6 +991,57 @@
       const button = event.target.closest("[data-speak]");
       if (button) speak(decodeURIComponent(button.dataset.speak));
     });
+
+    // ===== 更新日志 =====
+    const CHANGELOG = [
+      { version: "v2.0", date: "2026-07-18", items: [
+        "新增收藏功能：点击心形按钮收藏对话，支持按收藏筛选",
+        "新增难度筛选：可按初级/初中级/中级/中高级/高级过滤",
+        "补齐所有单词音标、英文例句及中文翻译",
+        "修复对话中文翻译缺失问题，优化数据质量"
+      ]},
+      { version: "v1.0", date: "2026-07-17", items: [
+        "首次发布：覆盖8大主题共820张口语对话卡片",
+        "支持主题切换、随机/顺序浏览、搜索对话",
+        "逐句朗读、重点单词展示与朗读",
+        "820条对话数据完成清洗与模板化整理"
+      ]}
+    ];
+    const CHANGELOG_KEY = 'changelog_seen_version';
+    const latestVersion = CHANGELOG[0].version;
+    const seenVersion = localStorage.getItem(CHANGELOG_KEY);
+    const changelogBtn = document.querySelector("#changelogBtn");
+
+    // 未读过最新版本则显示红点
+    if (seenVersion !== latestVersion) {
+      changelogBtn.classList.add("new");
+    }
+
+    function showChangelog() {
+      const overlay = document.createElement("div");
+      overlay.className = "changelog-overlay";
+      overlay.innerHTML = CHANGELOG.map(log => `
+        <div class="changelog-panel">
+          <h3>📋 更新日志</h3>
+          <p class="version">${log.version} · ${log.date}</p>
+          <ul>${log.items.map(item => `<li>${item}</li>`).join("")}</ul>
+          ${log === CHANGELOG[0] ? `<button class="close-btn" type="button">知道了</button>` : ""}
+        </div>
+      `)[0]; // 只显示最新一条
+      document.body.appendChild(overlay);
+
+      const close = () => {
+        overlay.remove();
+        localStorage.setItem(CHANGELOG_KEY, latestVersion);
+        changelogBtn.classList.remove("new");
+      };
+      overlay.querySelector(".close-btn").addEventListener("click", close);
+      overlay.addEventListener("click", (e) => {
+        if (e.target === overlay) close();
+      });
+    }
+
+    changelogBtn.addEventListener("click", showChangelog);
 
     renderThemeControls();
     renderCard();
