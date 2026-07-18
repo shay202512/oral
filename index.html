@@ -6,592 +6,8 @@
   <title>英文口语对话卡片</title>
   <style>
     :root {
-      --bg: #f7f5ef;
-      --panel: #ffffff;
-      --ink: #202226;
-      --muted: #666b75;
-      --line: #dde1e7;
-      --accent: #126c62;
-      --accent-strong: #0a4f48;
-      --accent-soft: #dcefeb;
-      --warm: #d7753f;
-      --shadow: 0 18px 50px rgba(31, 36, 43, 0.12);
-      --radius: 8px;
-      font-family: "Inter", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      min-height: 100vh;
-      color: var(--ink);
-      background:
-        linear-gradient(145deg, rgba(18, 108, 98, 0.12), transparent 32%),
-        linear-gradient(315deg, rgba(215, 117, 63, 0.14), transparent 34%),
-        var(--bg);
-    }
-
-    button,
-    select,
-    input {
-      font: inherit;
-    }
-
-    button {
-      border: 0;
-      cursor: pointer;
-    }
-
-    .app {
-      width: min(1180px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 28px 0 36px;
-    }
-
-    .topbar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 18px;
-      margin-bottom: 18px;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: clamp(28px, 4vw, 48px);
-      line-height: 1.05;
-      letter-spacing: 0;
-    }
-
-    .subtitle {
-      margin: 6px 0 0;
-      color: var(--muted);
-      font-size: 15px;
-    }
-
-    .toolbar {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      justify-content: flex-end;
-    }
-
-    .select-wrap,
-    .search-wrap {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      min-height: 42px;
-      padding: 0 12px;
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      background: rgba(255, 255, 255, 0.76);
-    }
-
-    .select-wrap span {
-      color: var(--muted);
-      white-space: nowrap;
-      font-size: 14px;
-    }
-
-    .mode-wrap select {
-      min-width: 104px;
-    }
-
-    select,
-    input {
-      border: 0;
-      background: transparent;
-      color: var(--ink);
-      outline: 0;
-    }
-
-    select {
-      min-width: 128px;
-    }
-
-    input {
-      width: 170px;
-    }
-
-    .icon-btn,
-    .primary-btn {
-      min-height: 42px;
-      border-radius: var(--radius);
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      transition: transform 0.16s ease, background 0.16s ease;
-    }
-
-    .icon-btn {
-      width: 44px;
-      color: var(--accent-strong);
-      background: var(--accent-soft);
-    }
-
-    .primary-btn {
-      padding: 0 16px;
-      color: white;
-      background: var(--accent);
-      font-weight: 700;
-    }
-
-    .icon-btn:hover,
-    .primary-btn:hover,
-    .theme-btn:hover,
-    .theme-btn.active {
-      transform: translateY(-1px);
-    }
-
-    .theme-strip {
-      display: grid;
-      grid-template-columns: repeat(5, minmax(0, 1fr));
-      gap: 10px;
-      margin: 18px 0;
-    }
-
-    .theme-btn.fav-filter {
-      border-color: #e74c3c;
-      background: #fef5f4;
-    }
-
-    .theme-btn.fav-filter.active {
-      border-color: #e74c3c;
-      background: #fef0ef;
-      color: #c0392b;
-    }
-
-    .theme-btn {
-      min-height: 58px;
-      border-radius: var(--radius);
-      padding: 8px 10px;
-      background: rgba(255, 255, 255, 0.72);
-      border: 1px solid var(--line);
-      color: var(--ink);
-      font-weight: 800;
-      transition: border 0.16s ease, background 0.16s ease, transform 0.16s ease;
-    }
-
-    .theme-btn span {
-      display: block;
-      margin-top: 3px;
-      color: var(--muted);
-      font-size: 12px;
-      font-weight: 700;
-    }
-
-    .theme-btn.active {
-      border-color: var(--accent);
-      background: var(--accent-soft);
-    }
-
-    .layout {
-      display: grid;
-      grid-template-columns: minmax(0, 1.3fr) minmax(300px, 0.7fr);
-      gap: 18px;
-      align-items: start;
-    }
-
-    .practice,
-    .side-panel {
-      background: rgba(255, 255, 255, 0.88);
-      border: 1px solid rgba(221, 225, 231, 0.8);
-      box-shadow: var(--shadow);
-      border-radius: var(--radius);
-    }
-
-    .practice {
-      overflow: hidden;
-    }
-
-    .card-head {
-      padding: 20px;
-      display: flex;
-      justify-content: space-between;
-      gap: 16px;
-      align-items: flex-start;
-      background: linear-gradient(90deg, rgba(18, 108, 98, 0.1), rgba(215, 117, 63, 0.08));
-      border-bottom: 1px solid var(--line);
-    }
-
-    .eyebrow {
-      margin: 0 0 8px;
-      color: var(--accent-strong);
-      font-size: 13px;
-      font-weight: 800;
-      text-transform: uppercase;
-    }
-
-    h2,
-    h3 {
-      margin: 0;
-      letter-spacing: 0;
-    }
-
-    h2 {
-      font-size: clamp(22px, 3vw, 34px);
-      line-height: 1.15;
-    }
-
-    h3 {
-      font-size: 20px;
-    }
-
-    .difficulty {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 30px;
-      padding: 0 10px;
-      border-radius: 999px;
-      color: #7b3b16;
-      background: #ffe7d9;
-      font-size: 13px;
-      font-weight: 800;
-      white-space: nowrap;
-    }
-
-    .fav-btn {
-      width: 38px;
-      height: 38px;
-      border-radius: 50%;
-      border: 2px solid var(--line);
-      background: transparent;
-      display: grid;
-      place-items: center;
-      cursor: pointer;
-      transition: all 0.2s ease;
-      flex-shrink: 0;
-    }
-
-    .fav-btn svg {
-      width: 20px;
-      height: 20px;
-      stroke: var(--muted);
-      fill: none;
-      stroke-width: 2;
-      transition: all 0.2s ease;
-    }
-
-    .fav-btn.faved {
-      border-color: #e74c3c;
-      background: #fef0ef;
-    }
-
-    .fav-btn.faved svg {
-      stroke: #e74c3c;
-      fill: #e74c3c;
-    }
-
-    .dialogue {
-      padding: 16px 20px 20px;
-      display: grid;
-      gap: 12px;
-    }
-
-    .bottom-actions {
-      padding: 0 20px 20px;
-      display: flex;
-      justify-content: center;
-    }
-
-    .bottom-actions .primary-btn {
-      width: min(100%, 320px);
-    }
-
-    .line {
-      display: grid;
-      grid-template-columns: 48px minmax(0, 1fr) 44px;
-      gap: 12px;
-      align-items: start;
-      padding: 14px;
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      background: var(--panel);
-    }
-
-    .avatar {
-      width: 42px;
-      height: 42px;
-      border-radius: 50%;
-      display: grid;
-      place-items: center;
-      color: white;
-      background: var(--accent);
-      font-weight: 800;
-    }
-
-    .line:nth-child(even) .avatar {
-      background: var(--warm);
-    }
-
-    .sentence {
-      display: grid;
-      gap: 7px;
-      min-width: 0;
-    }
-
-    .english {
-      margin: 0;
-      font-size: 20px;
-      line-height: 1.45;
-      font-weight: 750;
-      overflow-wrap: anywhere;
-    }
-
-    .chinese,
-    .meaning,
-    .example,
-    .example-zh,
-    .note,
-    .status {
-      margin: 0;
-      color: var(--muted);
-      line-height: 1.55;
-      font-size: 14px;
-    }
-
-    .chinese {
-      font-size: 15px;
-    }
-
-    .example-zh {
-      font-size: 13px;
-      opacity: 0.85;
-    }
-
-    .speak-btn {
-      width: 40px;
-      height: 40px;
-      border-radius: var(--radius);
-      color: var(--accent-strong);
-      background: #edf6f3;
-      display: grid;
-      place-items: center;
-    }
-
-    .side-panel {
-      padding: 18px;
-      display: grid;
-      gap: 16px;
-    }
-
-    .panel-title,
-    .meta-row {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-    }
-
-    .word-list {
-      display: grid;
-      gap: 12px;
-    }
-
-    .word-card {
-      padding: 14px;
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      background: var(--panel);
-      display: grid;
-      gap: 8px;
-    }
-
-    .word-top {
-      display: flex;
-      align-items: baseline;
-      justify-content: space-between;
-      gap: 10px;
-    }
-
-    .word {
-      font-size: 19px;
-      font-weight: 850;
-    }
-
-    .phonetic {
-      color: var(--accent-strong);
-      font-size: 14px;
-      font-weight: 700;
-      white-space: nowrap;
-    }
-
-    .example {
-      color: #3d424a;
-    }
-
-    .footer-note {
-      margin: 14px 0 0;
-      color: var(--muted);
-      font-size: 13px;
-      text-align: center;
-    }
-
-    /* 更新日志 */
-    .changelog-trigger {
-      position: fixed;
-      bottom: 24px;
-      right: 24px;
-      width: 46px;
-      height: 46px;
-      border-radius: 50%;
-      background: var(--panel);
-      border: 2px solid var(--line);
-      box-shadow: 0 6px 20px rgba(31, 36, 43, 0.14);
-      cursor: pointer;
-      display: grid;
-      place-items: center;
-      font-size: 18px;
-      z-index: 100;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-    .changelog-trigger:hover {
-      transform: scale(1.08);
-      box-shadow: 0 8px 24px rgba(31, 36, 43, 0.2);
-    }
-    .changelog-trigger .dot {
-      position: absolute;
-      top: 2px;
-      right: 2px;
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      background: #e74c3c;
-      border: 2px solid var(--panel);
-      display: none;
-    }
-    .changelog-trigger.new .dot {
-      display: block;
-    }
-
-    .changelog-overlay {
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.35);
-      z-index: 200;
-      display: grid;
-      place-items: center;
-      animation: fadeIn 0.2s ease;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    .changelog-panel {
-      background: var(--panel);
-      border-radius: 12px;
-      padding: 28px 30px 22px;
-      max-width: 420px;
-      width: calc(100% - 40px);
-      box-shadow: 0 20px 60px rgba(31, 36, 43, 0.25);
-      animation: slideUp 0.25s ease;
-      max-height: 80vh;
-      overflow-y: auto;
-    }
-    @keyframes slideUp {
-      from { transform: translateY(20px); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
-    }
-    .changelog-panel h3 {
-      margin: 0 0 6px;
-      font-size: 18px;
-    }
-    .changelog-panel .version {
-      color: var(--muted);
-      font-size: 13px;
-      margin-bottom: 16px;
-    }
-    .changelog-panel ul {
-      margin: 0;
-      padding: 0 0 0 18px;
-      display: grid;
-      gap: 8px;
-    }
-    .changelog-panel li {
-      color: #3d424a;
-      font-size: 15px;
-      line-height: 1.6;
-    }
-    .changelog-panel .close-btn {
-      margin-top: 18px;
-      width: 100%;
-      min-height: 42px;
-      border-radius: var(--radius);
-      background: var(--accent);
-      color: #fff;
-      font-weight: 700;
-      font-size: 15px;
-    }
-
-    svg {
-      width: 20px;
-      height: 20px;
-      stroke: currentColor;
-      stroke-width: 2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      fill: none;
-    }
-
-    @media (max-width: 900px) {
-      .topbar,
-      .card-head {
-        display: grid;
-      }
-
-      .toolbar {
-        justify-content: stretch;
-      }
-
-      .select-wrap,
-      .search-wrap,
-      .primary-btn {
-        flex: 1 1 160px;
-      }
-
-      .layout {
-        grid-template-columns: 1fr;
-      }
-
-      .theme-strip {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-      }
-    }
-
-    @media (max-width: 560px) {
-      .app {
-        width: min(100% - 20px, 1180px);
-        padding-top: 18px;
-      }
-
-      .line {
-        grid-template-columns: 38px minmax(0, 1fr) 38px;
-        gap: 9px;
-        padding: 12px;
-      }
-
-      .avatar {
-        width: 36px;
-        height: 36px;
-      }
-
-      .english {
-        font-size: 17px;
-      }
-
-      .theme-strip {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-      }
-    }
-    :root {
       --bg: #f4f7fb;
+      --panel: #ffffff;
       --ink: #17202a;
       --muted: #647083;
       --line: #dbe3ee;
@@ -600,9 +16,14 @@
       --accent-soft: #e8f0ff;
       --warm: #f97316;
       --shadow: 0 18px 44px rgba(38, 55, 77, 0.12);
+      --radius: 8px;
+      font-family: "Inter", "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
     }
 
+    * { box-sizing: border-box; }
+
     body {
+      margin: 0; min-height: 100vh; color: var(--ink);
       background:
         radial-gradient(circle at 12% 0%, rgba(37, 99, 235, 0.16), transparent 28%),
         radial-gradient(circle at 92% 14%, rgba(15, 143, 114, 0.12), transparent 26%),
@@ -610,68 +31,246 @@
         var(--bg);
     }
 
+    button, select, input { font: inherit; }
+    button { border: 0; cursor: pointer; }
+
+    .app {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto; padding: 28px 0 36px;
+    }
+
     .topbar {
-      padding: 18px;
-      border: 1px solid rgba(219, 227, 238, 0.76);
-      border-radius: var(--radius);
-      background: rgba(255, 255, 255, 0.74);
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 18px; margin-bottom: 18px;
+      padding: 18px; border: 1px solid rgba(219, 227, 238, 0.76);
+      border-radius: var(--radius); background: rgba(255, 255, 255, 0.74);
       box-shadow: 0 10px 26px rgba(38, 55, 77, 0.08);
       backdrop-filter: blur(14px);
     }
 
-    .select-wrap,
-    .search-wrap {
-      min-height: 44px;
-      border-color: rgba(203, 213, 225, 0.9);
-      background: #ffffff;
+    h1 { margin: 0; font-size: clamp(28px, 4vw, 48px); line-height: 1.05; }
+    .subtitle { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
+
+    .toolbar {
+      display: flex; align-items: center; gap: 10px;
+      flex-wrap: wrap; justify-content: flex-end;
     }
 
+    .select-wrap, .search-wrap {
+      display: flex; align-items: center; gap: 8px;
+      min-height: 44px; padding: 0 12px;
+      border: 1px solid rgba(203, 213, 225, 0.9);
+      border-radius: var(--radius); background: #ffffff;
+    }
+    .select-wrap span { color: var(--muted); white-space: nowrap; font-size: 14px; }
+    .mode-wrap select { min-width: 104px; }
+    select, input {
+      border: 0; background: transparent; color: var(--ink); outline: 0;
+    }
+    select { min-width: 128px; }
+    input { width: 170px; }
+
+    .icon-btn, .primary-btn {
+      min-height: 44px; border-radius: var(--radius);
+      display: inline-flex; align-items: center; justify-content: center;
+      gap: 8px; transition: transform 0.16s ease, background 0.16s ease;
+    }
+    .icon-btn { width: 44px; color: var(--accent); background: var(--accent-soft); }
     .primary-btn {
-      min-height: 44px;
+      padding: 0 16px; color: white; font-weight: 700;
       background: linear-gradient(135deg, var(--accent), #0f8f72);
       box-shadow: 0 10px 18px rgba(37, 99, 235, 0.22);
     }
+    .icon-btn:hover, .primary-btn:hover, .theme-btn:hover, .theme-btn.active {
+      transform: translateY(-1px);
+    }
 
-    .icon-btn,
-    .speak-btn {
-      color: var(--accent);
-      background: var(--accent-soft);
+    .review-badge {
+      display: inline-flex; align-items: center; gap: 4px;
+      min-height: 44px; padding: 0 14px; border-radius: var(--radius);
+      background: linear-gradient(135deg, #fef3c7, #fde68a);
+      color: #92400e; font-weight: 800; font-size: 14px;
+      white-space: nowrap; cursor: pointer;
+      border: 2px solid #f59e0b; transition: all 0.2s ease;
+    }
+    .review-badge:hover { background: #fde68a; transform: translateY(-1px); }
+    .review-badge .count { font-size: 18px; }
+
+    .theme-strip {
+      display: grid; grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 10px; margin: 18px 0;
     }
 
     .theme-btn {
-      min-height: 62px;
-      padding: 10px 12px;
-      text-align: left;
+      min-height: 62px; border-radius: var(--radius);
+      padding: 10px 12px; text-align: left;
       background: rgba(255, 255, 255, 0.82);
-      border-color: rgba(219, 227, 238, 0.92);
+      border: 1px solid rgba(219, 227, 238, 0.92);
+      color: var(--ink); font-weight: 800;
       box-shadow: 0 8px 18px rgba(38, 55, 77, 0.06);
+      transition: border 0.16s ease, background 0.16s ease, transform 0.16s ease;
     }
-
+    .theme-btn span { display: block; margin-top: 3px; color: var(--muted); font-size: 12px; font-weight: 700; }
     .theme-btn.active {
       color: var(--accent-strong);
       background: linear-gradient(135deg, #ffffff, var(--accent-soft));
       border-color: var(--accent);
     }
+    .theme-btn.fav-filter { border-color: #e74c3c; background: #fef5f4; }
+    .theme-btn.fav-filter.active { border-color: #e74c3c; background: #fef0ef; color: #c0392b; }
+    .theme-btn.review-filter { border-color: #f59e0b; background: #fffdf5; }
+    .theme-btn.review-filter.active { border-color: #f59e0b; background: #fefce8; color: #92400e; }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(300px, 0.7fr);
+      gap: 18px; align-items: start;
+    }
+
+    .practice, .side-panel {
+      background: rgba(255, 255, 255, 0.88);
+      border: 1px solid rgba(221, 225, 231, 0.8);
+      box-shadow: var(--shadow); border-radius: var(--radius);
+    }
+    .practice { overflow: hidden; }
 
     .card-head {
-      background:
-        linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(15, 143, 114, 0.08)),
-        #ffffff;
+      padding: 20px; display: flex; justify-content: space-between;
+      gap: 16px; align-items: flex-start;
+      background: linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(15, 143, 114, 0.08)), #ffffff;
+      border-bottom: 1px solid var(--line);
+    }
+    .eyebrow { margin: 0 0 8px; color: var(--accent-strong); font-size: 13px; font-weight: 800; text-transform: uppercase; }
+    h2, h3 { margin: 0; letter-spacing: 0; }
+    h2 { font-size: clamp(22px, 3vw, 34px); line-height: 1.15; }
+    h3 { font-size: 20px; }
+
+    .difficulty {
+      display: inline-flex; align-items: center; justify-content: center;
+      min-height: 30px; padding: 0 10px; border-radius: 999px;
+      color: #7b3b16; background: #ffe7d9; font-size: 13px; font-weight: 800; white-space: nowrap;
     }
 
+    .card-actions { display: flex; align-items: center; gap: 8px; }
+
+    .fav-btn, .mastered-btn {
+      width: 38px; height: 38px; border-radius: 50%;
+      border: 2px solid var(--line); background: transparent;
+      display: grid; place-items: center; cursor: pointer;
+      transition: all 0.2s ease; flex-shrink: 0;
+    }
+    .fav-btn svg, .mastered-btn svg { width: 20px; height: 20px; stroke: var(--muted); fill: none; stroke-width: 2; transition: all 0.2s ease; }
+    .fav-btn.faved { border-color: #e74c3c; background: #fef0ef; }
+    .fav-btn.faved svg { stroke: #e74c3c; fill: #e74c3c; }
+    .mastered-btn.mastered { border-color: #16a34a; background: #f0fdf4; }
+    .mastered-btn.mastered svg { stroke: #16a34a; fill: #16a34a; }
+    .mastered-btn.review-due { border-color: #f59e0b; background: #fffdf5; }
+    .mastered-btn.review-due svg { stroke: #f59e0b; fill: #f59e0b; }
+
+    .review-info {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-size: 12px; color: #92400e; font-weight: 700;
+      padding: 3px 8px; border-radius: 999px;
+      background: #fef3c7; white-space: nowrap;
+    }
+
+    .dialogue { padding: 16px 20px 20px; display: grid; gap: 12px; }
+    .bottom-actions { padding: 0 20px 20px; display: flex; justify-content: center; gap: 10px; }
+    .bottom-actions .primary-btn { width: min(100%, 320px); }
+
+    .line {
+      display: grid; grid-template-columns: 48px minmax(0, 1fr) 44px;
+      gap: 12px; align-items: start; padding: 14px;
+      border: 1px solid rgba(219, 227, 238, 0.9);
+      border-radius: var(--radius); background: var(--panel);
+      box-shadow: 0 8px 20px rgba(38, 55, 77, 0.05);
+    }
     .avatar {
-      border-radius: var(--radius);
+      width: 42px; height: 42px; border-radius: var(--radius);
+      display: grid; place-items: center; color: white; font-weight: 800;
       background: linear-gradient(135deg, var(--accent), #1d4ed8);
     }
+    .line:nth-child(even) .avatar { background: linear-gradient(135deg, var(--warm), #ea580c); }
+    .sentence { display: grid; gap: 7px; min-width: 0; }
+    .english { margin: 0; font-size: 20px; line-height: 1.45; font-weight: 750; overflow-wrap: anywhere; }
+    .chinese, .meaning, .example, .example-zh, .note, .status { margin: 0; color: var(--muted); line-height: 1.55; font-size: 14px; }
+    .chinese { font-size: 15px; }
+    .example-zh { font-size: 13px; opacity: 0.85; }
+    .speak-btn { width: 40px; height: 40px; border-radius: var(--radius); color: var(--accent); background: var(--accent-soft); display: grid; place-items: center; }
 
-    .line:nth-child(even) .avatar {
-      background: linear-gradient(135deg, var(--warm), #ea580c);
+    .side-panel { padding: 18px; display: grid; gap: 16px; }
+    .panel-title, .meta-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .word-list { display: grid; gap: 12px; }
+
+    .word-card {
+      padding: 14px; border: 1px solid rgba(219, 227, 238, 0.9);
+      border-radius: var(--radius); background: var(--panel);
+      box-shadow: 0 8px 20px rgba(38, 55, 77, 0.05);
+      display: grid; gap: 8px;
+    }
+    .word-top { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+    .word { font-size: 19px; font-weight: 850; }
+    .phonetic { color: var(--accent-strong); font-size: 14px; font-weight: 700; white-space: nowrap; }
+    .example { color: #3d424a; }
+
+    .footer-note { margin: 14px 0 0; color: var(--muted); font-size: 13px; text-align: center; }
+
+    /* 更新日志 */
+    .changelog-trigger {
+      position: fixed; bottom: 24px; right: 24px;
+      width: 46px; height: 46px; border-radius: 50%;
+      background: var(--panel); border: 2px solid var(--line);
+      box-shadow: 0 6px 20px rgba(31, 36, 43, 0.14);
+      cursor: pointer; display: grid; place-items: center;
+      font-size: 18px; z-index: 100;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .changelog-trigger:hover { transform: scale(1.08); box-shadow: 0 8px 24px rgba(31, 36, 43, 0.2); }
+    .changelog-trigger .dot {
+      position: absolute; top: 2px; right: 2px;
+      width: 12px; height: 12px; border-radius: 50%;
+      background: #e74c3c; border: 2px solid var(--panel); display: none;
+    }
+    .changelog-trigger.new .dot { display: block; }
+
+    .changelog-overlay {
+      position: fixed; inset: 0; background: rgba(0,0,0,0.35);
+      z-index: 200; display: grid; place-items: center;
+      animation: fadeIn 0.2s ease;
+    }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .changelog-panel {
+      background: var(--panel); border-radius: 12px;
+      padding: 28px 30px 22px; max-width: 420px;
+      width: calc(100% - 40px); box-shadow: 0 20px 60px rgba(31, 36, 43, 0.25);
+      animation: slideUp 0.25s ease; max-height: 80vh; overflow-y: auto;
+    }
+    @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+    .changelog-panel h3 { margin: 0 0 6px; font-size: 18px; }
+    .changelog-panel .version { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+    .changelog-panel ul { margin: 0; padding: 0 0 0 18px; display: grid; gap: 8px; }
+    .changelog-panel li { color: #3d424a; font-size: 15px; line-height: 1.6; }
+    .changelog-panel .close-btn {
+      margin-top: 18px; width: 100%; min-height: 42px;
+      border-radius: var(--radius); background: var(--accent);
+      color: #fff; font-weight: 700; font-size: 15px;
     }
 
-    .line,
-    .word-card {
-      border-color: rgba(219, 227, 238, 0.9);
-      box-shadow: 0 8px 20px rgba(38, 55, 77, 0.05);
+    svg { width: 20px; height: 20px; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+
+    @media (max-width: 900px) {
+      .topbar, .card-head { display: grid; }
+      .toolbar { justify-content: stretch; }
+      .select-wrap, .search-wrap, .primary-btn { flex: 1 1 160px; }
+      .layout { grid-template-columns: 1fr; }
+      .theme-strip { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+    @media (max-width: 560px) {
+      .app { width: min(100% - 20px, 1180px); padding-top: 18px; }
+      .line { grid-template-columns: 38px minmax(0, 1fr) 38px; gap: 9px; padding: 12px; }
+      .avatar { width: 36px; height: 36px; }
+      .english { font-size: 17px; }
+      .theme-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     }
   </style>
 </head>
@@ -683,6 +282,9 @@
         <p class="subtitle">按主题推送真实场景表达，逐句听读、翻译和积累重点词。</p>
       </div>
       <div class="toolbar">
+        <button class="review-badge" id="reviewBadge" type="button" title="今日待复习">
+          📅 今日复习 <span class="count" id="reviewCount">0</span> 张
+        </button>
         <label class="select-wrap">
           <span>主题</span>
           <select id="themeSelect" aria-label="选择主题"></select>
@@ -728,12 +330,20 @@
             <p class="eyebrow" id="themeName"></p>
             <h2 id="cardTitle"></h2>
           </div>
-          <div class="meta-row">
-            <span class="difficulty" id="difficulty"></span>
-            <button class="fav-btn" id="favBtn" type="button" title="收藏" aria-label="收藏当前对话">
-              <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
-            </button>
-            <span class="status" id="cardCounter"></span>
+          <div>
+            <div class="meta-row" style="margin-bottom:8px">
+              <span class="difficulty" id="difficulty"></span>
+              <span class="review-info" id="reviewInfo" style="display:none"></span>
+            </div>
+            <div class="card-actions">
+              <button class="fav-btn" id="favBtn" type="button" title="收藏" aria-label="收藏当前对话">
+                <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+              </button>
+              <button class="mastered-btn" id="masteredBtn" type="button" title="已掌握 / 待复习" aria-label="标记掌握状态">
+                <svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              </button>
+              <span class="status" id="cardCounter"></span>
+            </div>
           </div>
         </div>
         <div class="dialogue" id="dialogue"></div>
@@ -765,31 +375,129 @@
     📋<span class="dot"></span>
   </button>
 
-  <script src="data/dialogues.js"></script>
+  <script src="dialogues.js"></script>
   <script>
     const cards = window.dialogueCards || [];
-    
-    // 收藏功能 — 用 localStorage 持久化
+
+    // ===== 收藏功能 =====
     const STORAGE_KEY = 'dialogue_favorites';
     function loadFavorites() {
       try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY)) || []); }
       catch { return new Set(); }
     }
-    function saveFavorites(favs) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify([...favs]));
-    }
+    function saveFavorites(favs) { localStorage.setItem(STORAGE_KEY, JSON.stringify([...favs])); }
     let favorites = loadFavorites();
-    
+
+    // ===== 艾宾浩斯复习系统 =====
+    // 间隔：学习后第 1, 2, 4, 7, 15, 30 天复习
+    const REVIEW_INTERVALS = [1, 2, 4, 7, 15, 30];
+    const MEMORY_KEY = 'dialogue_memory'; // { "theme||title": { stage: 0-6, lastReview: timestamp, nextReview: timestamp } }
+
+    function loadMemory() {
+      try { return JSON.parse(localStorage.getItem(MEMORY_KEY)) || {}; }
+      catch { return {}; }
+    }
+    function saveMemory(mem) { localStorage.setItem(MEMORY_KEY, JSON.stringify(mem)); }
+    let memory = loadMemory();
+
+    function getTodayStart() {
+      const d = new Date();
+      d.setHours(0, 0, 0, 0);
+      return d.getTime();
+    }
+
+    // stage: 0=未学习, 1-6=间隔阶段, 7=已掌握(不再提醒)
+    function markLearned(ck) {
+      const now = Date.now();
+      const today = getTodayStart();
+      const entry = memory[ck] || { stage: 0, lastReview: 0, nextReview: 0 };
+      if (entry.stage === 0) {
+        // 首次学习
+        entry.stage = 1;
+        entry.lastReview = now;
+        entry.nextReview = today + REVIEW_INTERVALS[0] * 86400000;
+      }
+      memory[ck] = entry;
+      saveMemory(memory);
+    }
+
+    function markMastered(ck) {
+      const now = Date.now();
+      const today = getTodayStart();
+      const entry = memory[ck] || { stage: 0, lastReview: 0, nextReview: 0 };
+
+      if (entry.stage >= 6) {
+        // 已完成全部间隔 → 标记为已掌握
+        entry.stage = 7;
+        entry.lastReview = now;
+        entry.nextReview = 0;
+      } else if (entry.stage >= 1) {
+        // 正常复习 → 推进到下一阶段
+        entry.stage += 1;
+        entry.lastReview = now;
+        if (entry.stage <= 6) {
+          entry.nextReview = today + REVIEW_INTERVALS[entry.stage - 1] * 86400000;
+        } else {
+          entry.nextReview = 0; // 已掌握
+        }
+      } else {
+        // 还没学过，先标记学习
+        entry.stage = 1;
+        entry.lastReview = now;
+        entry.nextReview = today + REVIEW_INTERVALS[0] * 86400000;
+      }
+      memory[ck] = entry;
+      saveMemory(memory);
+    }
+
+    function markForgot(ck) {
+      // 答错了，回到 stage 1
+      const today = getTodayStart();
+      const entry = memory[ck] || { stage: 0, lastReview: 0, nextReview: 0 };
+      entry.stage = 1;
+      entry.lastReview = Date.now();
+      entry.nextReview = today + REVIEW_INTERVALS[0] * 86400000;
+      memory[ck] = entry;
+      saveMemory(memory);
+    }
+
+    function getMemoryInfo(ck) {
+      const entry = memory[ck];
+      if (!entry || entry.stage === 0) return { stage: 0, label: '', isDue: false, isMastered: false };
+      if (entry.stage >= 7) return { stage: 7, label: '已掌握', isDue: false, isMastered: true };
+      const now = Date.now();
+      const isDue = now >= entry.nextReview;
+      if (isDue) return { stage: entry.stage, label: `待复习 (第${entry.stage}轮)`, isDue: true, isMastered: false };
+      const daysLeft = Math.ceil((entry.nextReview - now) / 86400000);
+      return { stage: entry.stage, label: `${daysLeft}天后复习`, isDue: false, isMastered: false };
+    }
+
+    function getDueCards() {
+      const now = Date.now();
+      return cards.filter(card => {
+        const ck = cardKey(card);
+        const entry = memory[ck];
+        if (!entry || entry.stage === 0 || entry.stage >= 7) return false;
+        return now >= entry.nextReview;
+      });
+    }
+
+    function getReviewCount() {
+      return getDueCards().length;
+    }
+
     // 生成卡片唯一标识
     function cardKey(card) { return `${card.theme}||${card.title}`; }
-    
+
     const state = {
       currentTheme: cards[0]?.theme || "",
       currentIndex: 0,
       query: "",
       switchMode: "sequential",
       difficultyFilter: "",
-      favOnly: false
+      favOnly: false,
+      reviewOnly: false,
+      viewStartTime: 0  // 记录开始浏览当前卡片的时间
     };
 
     const themeSelect = document.querySelector("#themeSelect");
@@ -804,6 +512,9 @@
     const tip = document.querySelector("#tip");
     const searchInput = document.querySelector("#searchInput");
     const difficultySelect = document.querySelector("#difficultySelect");
+    const reviewBadge = document.querySelector("#reviewBadge");
+    const reviewCount = document.querySelector("#reviewCount");
+    const reviewInfo = document.querySelector("#reviewInfo");
     const themes = [...new Set(cards.map(card => card.theme))];
 
     function speak(text) {
@@ -824,6 +535,12 @@
         const inDifficulty = !diff || card.difficulty === diff;
         if (!inTheme || !inDifficulty) return false;
         if (state.favOnly && !favorites.has(cardKey(card))) return false;
+        if (state.reviewOnly) {
+          const ck = cardKey(card);
+          const entry = memory[ck];
+          if (!entry || entry.stage === 0 || entry.stage >= 7) return false;
+          if (Date.now() < entry.nextReview) return false;
+        }
         if (!query) return true;
         const text = `${card.title} ${card.lines.map(line => line[1]).join(" ")}`.toLowerCase();
         return text.includes(query);
@@ -833,58 +550,124 @@
     function renderThemeControls() {
       themeSelect.innerHTML = themes.map(theme => `<option value="${theme}">${theme}</option>`).join("");
       const favCount = [...favorites].filter(k => k.startsWith(state.currentTheme + '||')).length;
-      themeStrip.innerHTML = `<button class="theme-btn fav-filter${state.favOnly ? ' active' : ''}" type="button" id="favFilterBtn">⭐ 收藏<span>${favCount} 个对话</span></button>` +
+      const dueTotal = getReviewCount();
+      reviewCount.textContent = dueTotal;
+
+      const reviewCountInTheme = getDueCards().filter(c => c.theme === state.currentTheme).length;
+
+      themeStrip.innerHTML =
+        `<button class="theme-btn review-filter${state.reviewOnly ? ' active' : ''}" type="button" id="reviewFilterBtn">📅 待复习<span>${reviewCountInTheme} 张</span></button>` +
+        `<button class="theme-btn fav-filter${state.favOnly ? ' active' : ''}" type="button" id="favFilterBtn">⭐ 收藏<span>${favCount} 个对话</span></button>` +
         themes.map(theme => {
           const count = cards.filter(card => card.theme === theme).length;
-          return `<button class="theme-btn${theme === state.currentTheme && !state.favOnly ? ' active' : ''}" type="button" data-theme="${theme}">${theme}<span>${count} 个对话</span></button>`;
+          return `<button class="theme-btn${theme === state.currentTheme && !state.favOnly && !state.reviewOnly ? ' active' : ''}" type="button" data-theme="${theme}">${theme}<span>${count} 个对话</span></button>`;
         }).join("");
       themeSelect.value = state.currentTheme;
       switchMode.value = state.switchMode;
     }
 
+    function updateReviewBadge() {
+      const due = getReviewCount();
+      reviewCount.textContent = due;
+      reviewBadge.style.display = due > 0 ? '' : 'none';
+    }
+
     function renderCard() {
+      // 记录上一个卡片的学习时间（超过8秒自动标记为已学习）
+      if (state.viewStartTime > 0) {
+        const elapsed = Date.now() - state.viewStartTime;
+        if (elapsed > 8000) {
+          const prevCard = getThemeCards()[state.currentIndex];
+          if (prevCard) markLearned(cardKey(prevCard));
+        }
+      }
+      state.viewStartTime = Date.now();
+
       const themeCards = getThemeCards();
-      // 更新主题按钮 active 状态（包括收藏筛选按钮）
+      // 更新主题按钮状态
       document.querySelectorAll("#themeStrip .theme-btn").forEach(button => {
         if (button.id === "favFilterBtn") {
           button.classList.toggle("active", state.favOnly);
+        } else if (button.id === "reviewFilterBtn") {
+          button.classList.toggle("active", state.reviewOnly);
         } else {
-          button.classList.toggle("active", button.dataset.theme === state.currentTheme && !state.favOnly);
+          button.classList.toggle("active", button.dataset.theme === state.currentTheme && !state.favOnly && !state.reviewOnly);
         }
       });
       themeSelect.value = state.currentTheme;
+      updateReviewBadge();
 
       if (!themeCards.length) {
         themeName.textContent = state.currentTheme;
-        cardTitle.textContent = "没有找到匹配的对话";
-        difficulty.textContent = "请换关键词";
+        cardTitle.textContent = state.reviewOnly ? "🎉 当前主题没有待复习的卡片" : "没有找到匹配的对话";
+        difficulty.textContent = state.reviewOnly ? "太棒了" : "请换关键词";
         cardCounter.textContent = "";
         dialogue.innerHTML = "";
         wordList.innerHTML = "";
-        tip.textContent = "可以搜索标题或英文句子，也可以清空搜索框继续练习。";
-        // 没有卡片时也更新收藏按钮状态
+        tip.textContent = state.reviewOnly ? "所有卡片都已掌握或未到复习时间，继续加油！" : "可以搜索标题或英文句子，也可以清空搜索框继续练习。";
+        reviewInfo.style.display = "none";
         const favBtn = document.querySelector("#favBtn");
         if (favBtn) favBtn.classList.remove("faved");
+        const masteredBtn = document.querySelector("#masteredBtn");
+        if (masteredBtn) { masteredBtn.classList.remove("mastered", "review-due"); }
         return;
       }
 
       state.currentIndex = state.currentIndex % themeCards.length;
       const card = themeCards[state.currentIndex];
-
-      // 收藏按钮状态
-      const favBtn = document.querySelector("#favBtn");
       const ck = cardKey(card);
+
+      // 自动标记学习
+      markLearned(ck);
+
+      // 收藏按钮
+      const favBtn = document.querySelector("#favBtn");
       favBtn.classList.toggle("faved", favorites.has(ck));
       favBtn.onclick = () => {
-        if (favorites.has(ck)) {
-          favorites.delete(ck);
-        } else {
-          favorites.add(ck);
-        }
+        if (favorites.has(ck)) { favorites.delete(ck); }
+        else { favorites.add(ck); }
         saveFavorites(favorites);
         favBtn.classList.toggle("faved", favorites.has(ck));
         renderThemeControls();
       };
+
+      // 掌握/复习按钮
+      const masteredBtn = document.querySelector("#masteredBtn");
+      const memInfo = getMemoryInfo(ck);
+      masteredBtn.classList.remove("mastered", "review-due");
+      if (memInfo.isMastered) masteredBtn.classList.add("mastered");
+      else if (memInfo.isDue) masteredBtn.classList.add("review-due");
+      masteredBtn.title = memInfo.label || '标记为已学习';
+
+      masteredBtn.onclick = () => {
+        const info = getMemoryInfo(ck);
+        if (info.isDue) {
+          // 待复习状态 → 点击表示复习完成
+          markMastered(ck);
+        } else if (info.isMastered) {
+          // 已掌握 → 点击重置
+          markForgot(ck);
+        } else if (info.stage >= 1) {
+          // 学习中 → 提前复习
+          markMastered(ck);
+        } else {
+          // 未学习 → 标记学习
+          markLearned(ck);
+        }
+        renderCard();
+      };
+
+      // 复习状态提示
+      if (memInfo.label) {
+        reviewInfo.style.display = "";
+        reviewInfo.textContent = memInfo.label;
+        if (memInfo.isDue) reviewInfo.style.background = "#fef3c7";
+        else if (memInfo.isMastered) reviewInfo.style.background = "#dcfce7";
+        else reviewInfo.style.background = "#e8f0ff";
+      } else {
+        reviewInfo.style.display = "none";
+      }
+
       themeName.textContent = card.theme;
       cardTitle.textContent = card.title;
       difficulty.textContent = card.difficulty;
@@ -927,6 +710,7 @@
       state.currentTheme = theme;
       state.currentIndex = 0;
       state.favOnly = false;
+      state.reviewOnly = false;
       renderThemeControls();
       renderCard();
     }
@@ -950,20 +734,45 @@
       renderCard();
     }
 
+    function activateReviewMode() {
+      const dueCards = getDueCards();
+      if (dueCards.length === 0) {
+        alert("🎉 太棒了！当前没有待复习的卡片。");
+        return;
+      }
+      // 进入第一个有待复习卡片的主题
+      state.currentTheme = dueCards[0].theme;
+      state.currentIndex = 0;
+      state.favOnly = false;
+      state.reviewOnly = true;
+      state.difficultyFilter = "";
+      state.query = "";
+      searchInput.value = "";
+      difficultySelect.value = "";
+      renderThemeControls();
+      renderCard();
+    }
+
     themeSelect.addEventListener("change", event => switchTheme(event.target.value));
-    switchMode.addEventListener("change", event => {
-      state.switchMode = event.target.value;
-    });
+    switchMode.addEventListener("change", event => { state.switchMode = event.target.value; });
     themeStrip.addEventListener("click", event => {
       const button = event.target.closest(".theme-btn");
       if (!button) return;
       if (button.id === "favFilterBtn") {
         state.favOnly = !state.favOnly;
+        state.reviewOnly = false;
+        state.currentIndex = 0;
+        renderThemeControls();
+        renderCard();
+      } else if (button.id === "reviewFilterBtn") {
+        state.reviewOnly = !state.reviewOnly;
+        state.favOnly = false;
         state.currentIndex = 0;
         renderThemeControls();
         renderCard();
       } else if (button.dataset.theme) {
         state.favOnly = false;
+        state.reviewOnly = false;
         switchTheme(button.dataset.theme);
       }
     });
@@ -977,6 +786,7 @@
       state.currentIndex = 0;
       renderCard();
     });
+    reviewBadge.addEventListener("click", activateReviewMode);
     document.querySelector("#randomBtn").addEventListener("click", nextCard);
     document.querySelector("#bottomRandomBtn").addEventListener("click", nextCard);
     document.querySelector("#speakAllBtn").addEventListener("click", () => {
@@ -994,17 +804,19 @@
 
     // ===== 更新日志 =====
     const CHANGELOG = [
-      { version: "v2.0", date: "2026-07-18", items: [
-        "新增收藏功能：点击心形按钮收藏对话，支持按收藏筛选",
+      { version: "v2.1", date: "2026-07-18", items: [
+        "新增艾宾浩斯记忆复习系统：自动追踪学习记录，按1/2/4/7/15/30天间隔提醒复习",
+        "浏览卡片超过8秒自动标记为已学习",
+        "点击✓按钮标记已掌握，答错可重置复习进度",
+        "顶部「今日复习」入口 + 主题栏「待复习」筛选",
+        "新增收藏功能：心形按钮收藏对话，支持按收藏筛选",
         "新增难度筛选：可按初级/初中级/中级/中高级/高级过滤",
-        "补齐所有单词音标、英文例句及中文翻译",
-        "修复对话中文翻译缺失问题，优化数据质量"
+        "补齐所有单词音标、英文例句及中文翻译"
       ]},
       { version: "v1.0", date: "2026-07-17", items: [
         "首次发布：覆盖8大主题共820张口语对话卡片",
         "支持主题切换、随机/顺序浏览、搜索对话",
-        "逐句朗读、重点单词展示与朗读",
-        "820条对话数据完成清洗与模板化整理"
+        "逐句朗读、重点单词展示与朗读"
       ]}
     ];
     const CHANGELOG_KEY = 'changelog_seen_version';
@@ -1012,10 +824,7 @@
     const seenVersion = localStorage.getItem(CHANGELOG_KEY);
     const changelogBtn = document.querySelector("#changelogBtn");
 
-    // 未读过最新版本则显示红点
-    if (seenVersion !== latestVersion) {
-      changelogBtn.classList.add("new");
-    }
+    if (seenVersion !== latestVersion) { changelogBtn.classList.add("new"); }
 
     function showChangelog() {
       const overlay = document.createElement("div");
@@ -1027,23 +836,20 @@
           <ul>${log.items.map(item => `<li>${item}</li>`).join("")}</ul>
           ${log === CHANGELOG[0] ? `<button class="close-btn" type="button">知道了</button>` : ""}
         </div>
-      `)[0]; // 只显示最新一条
+      `)[0];
       document.body.appendChild(overlay);
-
       const close = () => {
         overlay.remove();
         localStorage.setItem(CHANGELOG_KEY, latestVersion);
         changelogBtn.classList.remove("new");
       };
       overlay.querySelector(".close-btn").addEventListener("click", close);
-      overlay.addEventListener("click", (e) => {
-        if (e.target === overlay) close();
-      });
+      overlay.addEventListener("click", (e) => { if (e.target === overlay) close(); });
     }
-
     changelogBtn.addEventListener("click", showChangelog);
 
     renderThemeControls();
+    updateReviewBadge();
     renderCard();
   </script>
 </body>
