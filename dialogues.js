@@ -51406,9 +51406,124 @@ window.dialogueCards = [
     "tip": "商务场景跟读：先模仿语音语调与重音，再重点掌握「jump in、where we stand、tight」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Sorry to jump in — I'll give a quick update on where we stand with the IND submission. The CMC module and toxicology data are mostly ready, but the CMC stability studies are still missing the final batch of three-month accelerated testing data. My preliminary assessment is that if we push forward with the current plan, hitting the end-of-August submission window is possible, but it'll be tight. The biggest unknown is CDE's request for supplementary materials — if they raise major changes after the Pre-IND meeting, the timeline could slip by three to four weeks. Got it. When is your Pre-IND meeting with the CDE scheduled? It's currently set for July 28th, virtual. Alright, that is cutting it close. Do you have enough hands on deck right now? To be honest, we're stretched thin. We've only got one full-time regulatory colleague on our side, and she's also handling post-approval changes for another project. If possible, I'd like to bump up the external regulatory consultant's hours from ten to twenty per week, at least for these six weeks leading up to submission. Also, if we outsource the stability studies to a CRO, we'll need to approve an extra budget, roughly 120K RMB. The 120K is not an issue. For bumping up the consultant hours, send an email through the internal approval loop and CC me in — that should speed things up. How far along are you with the Pre-IND meeting prep? Is the dossier complete? The briefing book is drafted and undergoing internal review — we expect to lock it by this Friday. I'm planning to run a mock Q&A session one week before the meeting, looping in medical and tox colleagues to walk through likely pushback questions. Good call. One more thing — on the end-of-August submission target, I need a clear yes-or-no call from you right after the meeting. No ambiguity. Understood. You'll have my written feedback within 24 hours of the meeting. Everyone, let me quickly sync on how the second round of talks with Gamma Pharma went last week. First off, they acknowledged the completeness of our preclinical data package — especially our DMPK and tox profiles, which they found more compelling than the competing program they were also looking at. But there are two major sticking points that still need ironing out. The first is the geographic scope. They want Greater China plus Southeast Asia on an exclusive basis, whereas our bottom line is Greater China only, keeping Southeast Asia for our own future development. The second is the upfront structure. They lean toward a low-upfront, high-milestone model, which doesn't align with our pipeline's current cash-flow needs. Next week I'm flying to Singapore with a revised term sheet for a face-to-face round. The goal is to push the upfront to at least five million USD and hold the line on Southeast Asia rights. If things go smoothly, I expect we can move into formal agreement drafting by mid-August. What I need from the team: IP team, please get the FTO analysis on background patents done ASAP. BD ops, we need a more detailed Southeast Asia market forecast — those numbers are hard currency at the negotiating table.",
-        "【场景：会议即兴发言 —— 快速汇报项目进展与请求资源支持】 PART A · 双人对话（项目汇报 + 资源协调） 【情境】项目经理 Lisa 在部门周会上被临时点名汇报新药临床申报进度，并向上司 Dr. Chen 请求额外法规支持。 抱歉打扰，我来快速汇报一下 IND 申报的进度。 目前 CMC 模块和毒理数据基本就绪，但 CMC 部分的稳定性研究还差最后一批三个月加速试验的数据。 我初步评估，如果按现有计划推进，我们在八月底之前完成申报是有可能的，但会比较紧张。 最大的不确定因素是药审中心的补充资料要求——如果他们在 Pre-IND 沟通会后提出重大修改，时间线可能要往后推三到四周。 明白了，你们跟药审中心的 Pre-IND 会议定在什么时候？ 目前定在 7 月 28 号，线上。 好的，那时间上确实有点紧。你们现在人手够用吗？ 说实话，有点吃力。我们这边法规事务只有一名全职同事，她同时还在负责另一个项目的上市后变更。 如果可以的话，我想申请把外部法规顾问的工时从每周 10 小时增加到 20 小时，至少在申报前这六周。 另外，稳定性试验外包给 CRO 做的话，需要额外批一笔预算，大约 12 万人民币。 12 万问题不大，法规顾问的工时增加你写个邮件走内部审批流程，我抄送在里，应该能加快。 Pre-IND 会议的准备你们做到哪一步了？资料齐全吗？ briefing book 已经写完了，正在内部审核，预计本周五定稿。 我打算在会议前一周安排一次模拟 Q&A，让医学和毒理同事一起过一遍可能被追问的问题。 很好，这个做法对。还有一件事——八月底申报这个节点，我需要你在会后第一时间给我一个明确的是否能达成的判断，不要模糊。 明白，会议结束后 24 小时内我给您书面反馈。 PART B · 单人独白（项目阶段总结 + 下一步说明） 【情境】BD 总监在内部跨部门会议上做五分钟即兴总结，汇报与海外药企合作谈判的阶段性成果。 各位，我来快速同步一下上周跟 Gamma Pharma 的第二轮谈判情况。 首先，对方对我们在临床前数据包上的完整性表示了认可，尤其是我们的 DMPK 和毒理模型，他们认为比竞品项目更有说服力。 但有两个关键分歧点还需要继续磨合。 第一个分歧是地域授权范围。对方希望拿下大中华区加东南亚的独家权益，而我们内部的底线是只出大中华区，东南亚保留给自己未来开发。 第二个分歧在首付款结构上。对方倾向于低首付、高里程碑的模式，这跟我们管线现阶段对现金流的实际需求不太匹配。 下周我会带着修订后的 term sheet 去新加坡跟他们面对面再谈一轮，目标是至少把首付拉到 500 万美元以上，同时守住东南亚权益。 如果谈判顺利，我预计在八月中旬可以进入正式协议起草阶段。 需要大家支持的是：知识产权团队尽快完成背景专利的 FTO 分析，商务团队准备一份更详细的东南亚市场预估——这些数据是我们在谈判桌上的硬筹码。"
+        "Lisa",
+        "Sorry to jump in — I'll give a quick update on where we stand with the IND submission.",
+        "抱歉打扰，我来快速汇报一下 IND 申报的进度。"
+      ],
+      [
+        "Lisa",
+        "The CMC module and toxicology data are mostly ready, but the CMC stability studies are still missing the final batch of three-month accelerated testing data.",
+        "目前 CMC 模块和毒理数据基本就绪，但 CMC 部分的稳定性研究还差最后一批三个月加速试验的数据。"
+      ],
+      [
+        "Lisa",
+        "My preliminary assessment is that if we push forward with the current plan, hitting the end-of-August submission window is possible, but it'll be tight.",
+        "我初步评估，如果按现有计划推进，我们在八月底之前完成申报是有可能的，但会比较紧张。"
+      ],
+      [
+        "Lisa",
+        "The biggest unknown is CDE's request for supplementary materials — if they raise major changes after the Pre-IND meeting, the timeline could slip by three to four weeks.",
+        "最大的不确定因素是药审中心的补充资料要求——如果他们在 Pre-IND 沟通会后提出重大修改，时间线可能要往后推三到四周。"
+      ],
+      [
+        "Dr. Chen",
+        "Got it. When is your Pre-IND meeting with the CDE scheduled?",
+        "明白了，你们跟药审中心的 Pre-IND 会议定在什么时候？"
+      ],
+      [
+        "Lisa",
+        "It's currently set for July 28th, virtual.",
+        "目前定在 7 月 28 号，线上。"
+      ],
+      [
+        "Dr. Chen",
+        "Alright, that is cutting it close. Do you have enough hands on deck right now?",
+        "好的，那时间上确实有点紧。你们现在人手够用吗？"
+      ],
+      [
+        "Lisa",
+        "To be honest, we're stretched thin. We've only got one full-time regulatory colleague on our side, and she's also handling post-approval changes for another project.",
+        "说实话，有点吃力。我们这边法规事务只有一名全职同事，她同时还在负责另一个项目的上市后变更。"
+      ],
+      [
+        "Lisa",
+        "If possible, I'd like to bump up the external regulatory consultant's hours from ten to twenty per week, at least for these six weeks leading up to submission.",
+        "如果可以的话，我想申请把外部法规顾问的工时从每周 10 小时增加到 20 小时，至少在申报前这六周。"
+      ],
+      [
+        "Lisa",
+        "Also, if we outsource the stability studies to a CRO, we'll need to approve an extra budget, roughly 120K RMB.",
+        "另外，稳定性试验外包给 CRO 做的话，需要额外批一笔预算，大约 12 万人民币。"
+      ],
+      [
+        "Dr. Chen",
+        "The 120K is not an issue. For bumping up the consultant hours, send an email through the internal approval loop and CC me in — that should speed things up.",
+        "12 万问题不大，法规顾问的工时增加你写个邮件走内部审批流程，我抄送在里，应该能加快。"
+      ],
+      [
+        "Dr. Chen",
+        "How far along are you with the Pre-IND meeting prep? Is the dossier complete?",
+        "Pre-IND 会议的准备你们做到哪一步了？资料齐全吗？"
+      ],
+      [
+        "Lisa",
+        "The briefing book is drafted and undergoing internal review — we expect to lock it by this Friday.",
+        "briefing book 已经写完了，正在内部审核，预计本周五定稿。"
+      ],
+      [
+        "Lisa",
+        "I'm planning to run a mock Q&A session one week before the meeting, looping in medical and tox colleagues to walk through likely pushback questions.",
+        "我打算在会议前一周安排一次模拟 Q&A，让医学和毒理同事一起过一遍可能被追问的问题。"
+      ],
+      [
+        "Dr. Chen",
+        "Good call. One more thing — on the end-of-August submission target, I need a clear yes-or-no call from you right after the meeting. No ambiguity.",
+        "很好，这个做法对。还有一件事——八月底申报这个节点，我需要你在会后第一时间给我一个明确的是否能达成的判断，不要模糊。"
+      ],
+      [
+        "Lisa",
+        "Understood. You'll have my written feedback within 24 hours of the meeting.",
+        "明白，会议结束后 24 小时内我给您书面反馈。"
+      ],
+      [
+        "我",
+        "Everyone, let me quickly sync on how the second round of talks with Gamma Pharma went last week.",
+        "各位，我来快速同步一下上周跟 Gamma Pharma 的第二轮谈判情况。"
+      ],
+      [
+        "我",
+        "First off, they acknowledged the completeness of our preclinical data package — especially our DMPK and tox profiles, which they found more compelling than the competing program they were also looking at.",
+        "首先，对方对我们在临床前数据包上的完整性表示了认可，尤其是我们的 DMPK 和毒理模型，他们认为比竞品项目更有说服力。"
+      ],
+      [
+        "我",
+        "But there are two major sticking points that still need ironing out.",
+        "但有两个关键分歧点还需要继续磨合。"
+      ],
+      [
+        "我",
+        "The first is the geographic scope. They want Greater China plus Southeast Asia on an exclusive basis, whereas our bottom line is Greater China only, keeping Southeast Asia for our own future development.",
+        "第一个分歧是地域授权范围。对方希望拿下大中华区加东南亚的独家权益，而我们内部的底线是只出大中华区，东南亚保留给自己未来开发。"
+      ],
+      [
+        "我",
+        "The second is the upfront structure. They lean toward a low-upfront, high-milestone model, which doesn't align with our pipeline's current cash-flow needs.",
+        "第二个分歧在首付款结构上。对方倾向于低首付、高里程碑的模式，这跟我们管线现阶段对现金流的实际需求不太匹配。"
+      ],
+      [
+        "我",
+        "Next week I'm flying to Singapore with a revised term sheet for a face-to-face round. The goal is to push the upfront to at least five million USD and hold the line on Southeast Asia rights.",
+        "下周我会带着修订后的 term sheet 去新加坡跟他们面对面再谈一轮，目标是至少把首付拉到 500 万美元以上，同时守住东南亚权益。"
+      ],
+      [
+        "我",
+        "If things go smoothly, I expect we can move into formal agreement drafting by mid-August.",
+        "如果谈判顺利，我预计在八月中旬可以进入正式协议起草阶段。"
+      ],
+      [
+        "我",
+        "What I need from the team: IP team, please get the FTO analysis on background patents done ASAP. BD ops, we need a more detailed Southeast Asia market forecast — those numbers are hard currency at the negotiating table.",
+        "需要大家支持的是：知识产权团队尽快完成背景专利的 FTO 分析，商务团队准备一份更详细的东南亚市场预估——这些数据是我们在谈判桌上的硬筹码。"
       ]
     ],
     "words": [
@@ -51416,43 +51531,43 @@ window.dialogueCards = [
         "jump in",
         "/dʒʌmp ɪn/",
         "插话、临时加入（讨论）；解析：会议中临时发言或打断时的礼貌开场，比 interrupt 更口语、更自然。",
-        "Sorry to jump in, but...",
-        "抱歉插一句，但是……"
+        "Sorry to jump in, but...（抱歉插一句，但是……）",
+        ""
       ],
       [
         "where we stand",
         "/weər wiː stænd/",
         "目前的进展/处境；解析：汇报项目进度时最常用的高频表达，简洁有力。",
-        "a quick update on where we stand",
-        "快速同步一下我们的进展"
+        "a quick update on where we stand（快速同步一下我们的进展）",
+        ""
       ],
       [
         "tight",
         "/taɪt/",
         "（时间/预算）紧张的；解析：口语中替代 tight schedule 的简洁说法，暗示\"能完成但吃力\"。",
-        "the timeline will be tight",
-        "时间线会很紧张"
+        "the timeline will be tight（时间线会很紧张）",
+        ""
       ],
       [
         "slip",
         "/slɪp/",
         "推迟、延后；解析：比 delay 更委婉，常用于项目管理和进度讨论中。",
-        "the timeline could slip by three weeks",
-        "时间线可能推迟三周"
+        "the timeline could slip by three weeks（时间线可能推迟三周）",
+        ""
       ],
       [
         "hands on deck",
         "/hændz ɒn dek/",
         "人手、可用的人力资源；解析：源自航海术语，职场口语中替代 manpower 或 staffing 的更生动说法。",
-        "enough hands on deck",
-        "人手充足"
+        "enough hands on deck（人手充足）",
+        ""
       ],
       [
         "stretch thin",
         "/stretʃ θɪn/",
         "资源/人力紧张到极限；解析：描述团队超负荷状态，语气中带有\"已经在尽力但撑不住了\"的暗示。",
-        "we're stretched thin",
-        "我们已经是满负荷运转了"
+        "we're stretched thin（我们已经是满负荷运转了）",
+        ""
       ]
     ]
   },
@@ -51463,9 +51578,194 @@ window.dialogueCards = [
     "tip": "商务场景跟读：先模仿语音语调与重音，再重点掌握「have a seat、turnaround time、RFP (Request for Proposal)」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Dr. Reed, so great to finally meet you in person! It's been over six months of emails, hasn't it? James, the pleasure's mine. Come in, have a seat. How was your flight? Smooth flight. Boston's definitely cooler than Beijing though. Ha, yes — autumn's setting in here. Coffee, tea, water? Just a black coffee, thanks. So — I have to say, I've been impressed with your team's turnaround time. Every RFP we've sent over, you've come back within forty-eight hours with a tight proposal. That's rare in this industry. Really appreciate you saying that. That's a standard we hold ourselves to — your pace is our pace. Good. Before we dive in, tell me a bit about the team. Who's going to be running point on our program? Linda will be the lead. She's got fifteen years of early-stage clinical PM experience, has run over twenty Phase I programs in the past three years. I'll loop her into our next call. Perfect. What about the regulatory piece? That's where we always get tripped up. Regulatory has its own dedicated team — Eric leads IND strategy, six years at the FDA before moving back, been with us on the compliance side since. That's reassuring. Alright, let's walk through the timeline. Our IND target is Q2 next year — is that realistic from your end? Realistic, but with two prerequisites — first, we need your Pre-IND meeting minutes ASAP, and second, the finalized tox report by end of October. Without either, the timeline slips. Understood. I'll have my team send those over by end of this week. Excellent. Then we can lock the proposal and start detailed scheduling. Great. One last thing before we go to the deck — what's your pricing model? Fixed-fee or FTE-based? We can do either, but for an early-stage program like yours, I'd strongly recommend fixed-fee with milestone payments — keeps the budget predictable and you don't have to worry about overrun uncertainty. That aligns with what we were hoping to hear. Good. Everyone, urgent — the patient education site going live the day after tomorrow, R&D's latest version of the drug insert hasn't been synced to IT yet. @IT-Kevin @R&D-Lin @Mei I just uploaded v3.2 to the shared drive, under Patient-Edu / V3-final / insert.pdf. Please confirm. Got it. Let me take a look — @Lin, what's the main change between v3.1 and v3.2? I need to figure out if we need a full regression run. Two main things: indication wording and a new warning section. No structural changes. Got it, no structural change — I'll do a lightweight test, should be done in four hours. Can push it live by 8 PM tonight. Great — I'll align all the post-launch marketing materials to the v3.2 wording. @Mei, after launch please do a full content audit — every drug name, dosage, and indication. Flag anything off in the group. Noted. @Lin, can you stay online in the group before 8 PM tonight? We'll do a final cross-check. No problem, I'll be online all evening. Alright, that's the plan. I'll kick off testing now and post updates in the group as I go. @all thanks, everyone! Let's stick to this pace. Everyone, I'll take the last ten minutes for a quick wrap-up. First, the key numbers. The patient education platform took fourteen weeks from kickoff to launch, six days ahead of schedule. During the soft-launch phase, daily visits have stabilized at 12,000, with an 18% registration conversion — twelve points above KPI. First, IT's Kevin and Wei, who pulled three consecutive all-nighters to make the launch date; Second, R&D, who at the last minute pushed the insert from v3.1 to v3.2 — the precision of that wording directly determined our launch compliance; Third, marketing's Mei, who aligned all pre- and post-launch assets across over a dozen agency partners. Without her, we wouldn't have hit those twelve overage points. But I also want to be straight with you about a few open risks. First, the physician verification module for Phase 2 is still waiting on legal sign-off, by next Wednesday at the latest; Second, the overseas version (North American site) compliance review ran two weeks longer than expected — currently slated for early October; Third, on user privacy compliance, a few GDPR sections still need another pass from legal and outside counsel. I'll personally stay on top of these three. If anyone has relevant info, please ping me directly. Finally, thank you to everyone who's put in work on this project. We're having a celebration on Monday at 10 AM — boba tea on me.",
-        "【场景：商务洽谈寒暄 + 职场工作协作 + 会议即兴总结】 PART A · 双人对话（商务洽谈开场寒暄 + 试探合作意向） 【情境】某 CRO 公司商务总监 James 飞往波士顿拜访生物科技创始人 Dr. Reed，会议室门口的破冰对话。 Dr. Reed，很高兴终于见到您本人了！我们之前邮件往来已经半年多了吧？ James，我也很高兴见到您。快请进，坐。路上还顺利吗？ 挺顺利的，就是波士顿的天气比北京凉快不少。 哈哈，是的，这边已经入秋了。咖啡、茶还是水？ 一杯美式就好，谢谢。 —— 说实话，你们团队的响应速度让我印象很深刻。我们发过去的每一份 RFP，你们四十八小时内都能给出非常清晰的方案。这个在行业里很难得。 非常感谢您的认可。这是我们一直坚持的服务标准——客户的节奏就是我们的节奏。 好。在我们正式进入正题之前，先简单介绍一下你们的团队吧。我们这个项目，谁来主负责？ 主负责是 Linda，她有十五年的早期临床项目管理经验，过去三年带过二十多个 I 期项目。回头我让她也加入我们的下一次会议。 完美。那法规这块呢？这块我们总是卡壳。 法规这边我们有专门的小组负责 IND 策略，组长叫 Eric，之前在 FDA 工作过六年，回国后一直在我们这边做合规支持。 这个让我心里有底了。好的，我们来过一下时间线。我们的 IND 目标是明年 Q2，你们这边觉得现实吗？ 现实，但有两个前提——一是您的 Pre-IND 会议纪要要尽快共享给我们，二是您的毒理报告定稿最好在十月底之前。少一个，时间线都会往后推。 明白了。我让团队本周内发给你。 太好了，那我们就可以锁定方案书，开始详细排期了。 很好。在我们看 deck 之前，最后一件事——你们的收费模式是什么？固定价还是按 FTE 算？ 两种我们都能做，但针对您这种早期项目，我个人更建议固定价加里程碑付款——这样预算可控，您也不必担心后期时间超支带来的不确定性。 这正是我们想听到的。很好。 PART B · 多人对话（职场工作协作：跨部门紧急拉群对齐） 【情境】某医药公司项目紧急上线前两天，市场、研发、IT 三方负责人在飞书群里快速对齐问题。 各位，有个紧急情况——后天上线的患者教育网站，研发确认的药品说明书最新版本，IT 那边还没同步上。@IT-Kevin @R&D-Lin @Mei 我刚把 v3.2 版本传到共享盘，路径在 Patient-Edu / V3-final / insert.pdf，请确认。 收到。我看一下——@Lin 你这个版本和 v3.1 相比，主要改了哪几块？我要评估要不要走完整回归测试。 主要改了两块：一是适应症措辞，二是新增了一版用药警告。结构上没动。 明白，结构没动的话我就跑轻量级测试，预计四个小时能搞定。晚上 8 点之前可以上线。 太好了，那我这边把上线后的市场侧素材同步调整一下，按 v3.2 的措辞统一。 @Mei 上线后麻烦你做一次全量内容复核，把每个药品名、剂量、适应症对一遍，发现问题随时在群里喊。 收到。@Lin 你今晚 8 点前能在群里挂一下吗？我们做最终交叉确认。 没问题，我整晚都在。 好，那就这么定。我现在开始测试，进展随时同步。 @all 辛苦各位！我们按这个节奏推进就好。 PART C · 单人独白（会议即兴总结：项目收尾 + 团队感谢） 【情境】项目经理在项目结项会上做十分钟收尾发言，既要总结成绩、感谢团队，也要点出遗留风险。 各位，借最后十分钟，做一个简短的结项总结。 首先，几个核心数字——本次患者教育平台项目从立项到上线一共花了 14 周，比原计划提前了 6 天。日均访问量在试运行阶段已经稳定在 1.2 万次，注册转化率做到了 18%，超出 KPI 12 个百分点。 这些数字不是哪一个人的功劳，是市场、研发、IT、客服、BD 五条线联合作战的结果。我特别想点名感谢三组团队： 第一，IT 团队的 Kevin 和 Wei，连续三个通宵压住了上线节点； 第二，研发团队在最后一刻把说明书从 v3.1 改到 v3.2，措辞的精准度直接决定了上线合规性； 第三，市场团队的 Mei 带着十几家代理商把上线前后的所有素材统一对齐，没有她就不会有今天这个 12 个百分点的转化超额。 但我也要诚实地跟大家说几个遗留风险。 第一个，第二阶段的医师认证模块还在等法务最终签字，最迟下周三； 第二个，海外版（北美站）的合规审查比预期多了两周，目前定在十月初上线； 第三个，用户隐私合规这块 GDPR 的部分还有几处需要法务和外部律所再过一遍。 这三件事我会继续盯到底，各位手上如果有相关信息，也请直接丢我。 最后，感谢每一个在这个项目里付出过的人。我们下周一上午十点开庆功会，到时候我请大家喝奶茶。"
+        "James",
+        "Dr. Reed, so great to finally meet you in person! It's been over six months of emails, hasn't it?",
+        "Dr. Reed，很高兴终于见到您本人了！我们之前邮件往来已经半年多了吧？"
+      ],
+      [
+        "Reed",
+        "James, the pleasure's mine. Come in, have a seat. How was your flight?",
+        "James，我也很高兴见到您。快请进，坐。路上还顺利吗？"
+      ],
+      [
+        "James",
+        "Smooth flight. Boston's definitely cooler than Beijing though.",
+        "挺顺利的，就是波士顿的天气比北京凉快不少。"
+      ],
+      [
+        "Reed",
+        "Ha, yes — autumn's setting in here. Coffee, tea, water?",
+        "哈哈，是的，这边已经入秋了。咖啡、茶还是水？"
+      ],
+      [
+        "James",
+        "Just a black coffee, thanks.",
+        "一杯美式就好，谢谢。"
+      ],
+      [
+        "Reed",
+        "So — I have to say, I've been impressed with your team's turnaround time. Every RFP we've sent over, you've come back within forty-eight hours with a tight proposal. That's rare in this industry.",
+        "—— 说实话，你们团队的响应速度让我印象很深刻。我们发过去的每一份 RFP，你们四十八小时内都能给出非常清晰的方案。这个在行业里很难得。"
+      ],
+      [
+        "James",
+        "Really appreciate you saying that. That's a standard we hold ourselves to — your pace is our pace.",
+        "非常感谢您的认可。这是我们一直坚持的服务标准——客户的节奏就是我们的节奏。"
+      ],
+      [
+        "Reed",
+        "Good. Before we dive in, tell me a bit about the team. Who's going to be running point on our program?",
+        "好。在我们正式进入正题之前，先简单介绍一下你们的团队吧。我们这个项目，谁来主负责？"
+      ],
+      [
+        "James",
+        "Linda will be the lead. She's got fifteen years of early-stage clinical PM experience, has run over twenty Phase I programs in the past three years. I'll loop her into our next call.",
+        "主负责是 Linda，她有十五年的早期临床项目管理经验，过去三年带过二十多个 I 期项目。回头我让她也加入我们的下一次会议。"
+      ],
+      [
+        "Reed",
+        "Perfect. What about the regulatory piece? That's where we always get tripped up.",
+        "完美。那法规这块呢？这块我们总是卡壳。"
+      ],
+      [
+        "James",
+        "Regulatory has its own dedicated team — Eric leads IND strategy, six years at the FDA before moving back, been with us on the compliance side since.",
+        "法规这边我们有专门的小组负责 IND 策略，组长叫 Eric，之前在 FDA 工作过六年，回国后一直在我们这边做合规支持。"
+      ],
+      [
+        "Reed",
+        "That's reassuring. Alright, let's walk through the timeline. Our IND target is Q2 next year — is that realistic from your end?",
+        "这个让我心里有底了。好的，我们来过一下时间线。我们的 IND 目标是明年 Q2，你们这边觉得现实吗？"
+      ],
+      [
+        "James",
+        "Realistic, but with two prerequisites — first, we need your Pre-IND meeting minutes ASAP, and second, the finalized tox report by end of October. Without either, the timeline slips.",
+        "现实，但有两个前提——一是您的 Pre-IND 会议纪要要尽快共享给我们，二是您的毒理报告定稿最好在十月底之前。少一个，时间线都会往后推。"
+      ],
+      [
+        "Reed",
+        "Understood. I'll have my team send those over by end of this week.",
+        "明白了。我让团队本周内发给你。"
+      ],
+      [
+        "James",
+        "Excellent. Then we can lock the proposal and start detailed scheduling.",
+        "太好了，那我们就可以锁定方案书，开始详细排期了。"
+      ],
+      [
+        "Reed",
+        "Great. One last thing before we go to the deck — what's your pricing model? Fixed-fee or FTE-based?",
+        "很好。在我们看 deck 之前，最后一件事——你们的收费模式是什么？固定价还是按 FTE 算？"
+      ],
+      [
+        "James",
+        "We can do either, but for an early-stage program like yours, I'd strongly recommend fixed-fee with milestone payments — keeps the budget predictable and you don't have to worry about overrun uncertainty.",
+        "两种我们都能做，但针对您这种早期项目，我个人更建议固定价加里程碑付款——这样预算可控，您也不必担心后期时间超支带来的不确定性。"
+      ],
+      [
+        "Reed",
+        "That aligns with what we were hoping to hear. Good.",
+        "这正是我们想听到的。很好。"
+      ],
+      [
+        "Lin",
+        "Two main things: indication wording and a new warning section. No structural changes.",
+        "主要改了两块：一是适应症措辞，二是新增了一版用药警告。结构上没动。"
+      ],
+      [
+        "Kevin",
+        "Got it, no structural change — I'll do a lightweight test, should be done in four hours. Can push it live by 8 PM tonight.",
+        "明白，结构没动的话我就跑轻量级测试，预计四个小时能搞定。晚上 8 点之前可以上线。"
+      ],
+      [
+        "Mei",
+        "Great — I'll align all the post-launch marketing materials to the v3.2 wording.",
+        "太好了，那我这边把上线后的市场侧素材同步调整一下，按 v3.2 的措辞统一。"
+      ],
+      [
+        "Kevin",
+        "@Mei, after launch please do a full content audit — every drug name, dosage, and indication. Flag anything off in the group.",
+        "@Mei 上线后麻烦你做一次全量内容复核，把每个药品名、剂量、适应症对一遍，发现问题随时在群里喊。"
+      ],
+      [
+        "Mei",
+        "Noted. @Lin, can you stay online in the group before 8 PM tonight? We'll do a final cross-check.",
+        "收到。@Lin 你今晚 8 点前能在群里挂一下吗？我们做最终交叉确认。"
+      ],
+      [
+        "Lin",
+        "No problem, I'll be online all evening.",
+        "没问题，我整晚都在。"
+      ],
+      [
+        "Kevin",
+        "Alright, that's the plan. I'll kick off testing now and post updates in the group as I go.",
+        "好，那就这么定。我现在开始测试，进展随时同步。"
+      ],
+      [
+        "Mei",
+        "@all thanks, everyone! Let's stick to this pace.",
+        "@all 辛苦各位！我们按这个节奏推进就好。"
+      ],
+      [
+        "我",
+        "Everyone, I'll take the last ten minutes for a quick wrap-up.",
+        "各位，借最后十分钟，做一个简短的结项总结。"
+      ],
+      [
+        "我",
+        "First, the key numbers. The patient education platform took fourteen weeks from kickoff to launch, six days ahead of schedule. During the soft-launch phase, daily visits have stabilized at 12,000, with an 18% registration conversion — twelve points above KPI.",
+        "首先，几个核心数字——本次患者教育平台项目从立项到上线一共花了 14 周，比原计划提前了 6 天。日均访问量在试运行阶段已经稳定在 1.2 万次，注册转化率做到了 18%，超出 KPI 12 个百分点。"
+      ],
+      [
+        "我",
+        "These numbers aren't any one person's win. They're the result of a five-line joint effort — marketing, R&D, IT, customer support, and BD. Three teams I want to call out specifically:",
+        "这些数字不是哪一个人的功劳，是市场、研发、IT、客服、BD 五条线联合作战的结果。我特别想点名感谢三组团队："
+      ],
+      [
+        "我",
+        "First, IT's Kevin and Wei, who pulled three consecutive all-nighters to make the launch date;",
+        "第一，IT 团队的 Kevin 和 Wei，连续三个通宵压住了上线节点；"
+      ],
+      [
+        "我",
+        "Second, R&D, who at the last minute pushed the insert from v3.1 to v3.2 — the precision of that wording directly determined our launch compliance;",
+        "第二，研发团队在最后一刻把说明书从 v3.1 改到 v3.2，措辞的精准度直接决定了上线合规性；"
+      ],
+      [
+        "我",
+        "Third, marketing's Mei, who aligned all pre- and post-launch assets across over a dozen agency partners. Without her, we wouldn't have hit those twelve overage points.",
+        "第三，市场团队的 Mei 带着十几家代理商把上线前后的所有素材统一对齐，没有她就不会有今天这个 12 个百分点的转化超额。"
+      ],
+      [
+        "我",
+        "But I also want to be straight with you about a few open risks.",
+        "但我也要诚实地跟大家说几个遗留风险。"
+      ],
+      [
+        "我",
+        "First, the physician verification module for Phase 2 is still waiting on legal sign-off, by next Wednesday at the latest;",
+        "第一个，第二阶段的医师认证模块还在等法务最终签字，最迟下周三；"
+      ],
+      [
+        "我",
+        "Second, the overseas version (North American site) compliance review ran two weeks longer than expected — currently slated for early October;",
+        "第二个，海外版（北美站）的合规审查比预期多了两周，目前定在十月初上线；"
+      ],
+      [
+        "我",
+        "Third, on user privacy compliance, a few GDPR sections still need another pass from legal and outside counsel.",
+        "第三个，用户隐私合规这块 GDPR 的部分还有几处需要法务和外部律所再过一遍。"
+      ],
+      [
+        "我",
+        "I'll personally stay on top of these three. If anyone has relevant info, please ping me directly.",
+        "这三件事我会继续盯到底，各位手上如果有相关信息，也请直接丢我。"
+      ],
+      [
+        "我",
+        "Finally, thank you to everyone who's put in work on this project. We're having a celebration on Monday at 10 AM — boba tea on me.",
+        "最后，感谢每一个在这个项目里付出过的人。我们下周一上午十点开庆功会，到时候我请大家喝奶茶。"
       ]
     ],
     "words": [
@@ -51473,43 +51773,280 @@ window.dialogueCards = [
         "have a seat",
         "/hæv ə siːt/",
         "请坐；解析：替代 sit down 的更温和客气的说法，主人接待访客时几乎标配的开场动作。",
-        "Come in, have a seat.",
-        "请进，请坐。"
+        "Come in, have a seat.（请进，请坐。）",
+        ""
       ],
       [
         "turnaround time",
         "/ˈtɜːnəraʊnd taɪm/",
         "周转时间、响应时长；解析：服务行业（咨询/法务/CRO）客户最关心的指标之一，越短越能赢得信任。",
-        "fast turnaround time",
-        "快速响应"
+        "fast turnaround time（快速响应）",
+        ""
       ],
       [
         "RFP (Request for Proposal)",
         "/ˌɑːr ɛf ˈpiː/",
         "方案征询书；解析：乙方业务开发的标准流程触发点，欧美外企通用缩写，国内场合也常见。",
-        "respond to an RFP",
-        "回应 RFP"
+        "respond to an RFP（回应 RFP）",
+        ""
       ],
       [
         "run point",
         "/rʌn pɔɪnt/",
         "主负责、领衔；解析：比 \"in charge of\" 更显 team-player 视角，暗示\"协调各方\"而非\"高高在上\"。",
-        "Who's running point?",
-        "谁在牵头？"
+        "Who's running point?（谁在牵头？）",
+        ""
       ],
       [
         "loop in",
         "/luːp ɪn/",
         "拉进（群/对话）、让……知情；解析：跨部门协作高频表达，比 cc 或 add to 更显主动，节奏感强。",
-        "loop someone into the call",
-        "把某人拉进会议"
+        "loop someone into the call（把某人拉进会议）",
+        ""
       ],
       [
         "trip up",
         "/trɪp ʌp/",
         "绊倒、卡壳；解析：形容项目被某环节卡住的状态，比 \"get stuck\" 更具画面感、更口语。",
-        "trip up on regulatory issues",
-        "在法规问题上卡壳"
+        "trip up on regulatory issues（在法规问题上卡壳）",
+        ""
+      ]
+    ]
+  },
+  {
+    "theme": "职场",
+    "title": "展会现场交流 + 客户接待闲聊 + 电话沟通对接",
+    "difficulty": "中高级",
+    "tip": "商务场景跟读：先模仿语音语调与重音，再重点掌握「sorry to bother you、couldn't be more timely、be intrigued」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
+    "lines": [
+      [
+        "Sarah",
+        "Hi, sorry to bother you — are you with this company? I just saw your poster on the GLP-1 receptor agonist data, and I'm really intrigued.",
+        "你好，冒昧打扰一下——请问您是这家公司的代表吗？我刚在您的海报上看到了 GLP-1 受体激动剂的数据，非常感兴趣。"
+      ],
+      [
+        "Mark",
+        "Yes, hi! Mark Wang, head of business development. Great to hear you're interested in our data.",
+        "是的，您好！我叫 Mark Wang，商务拓展负责人。很高兴您对我们的数据感兴趣。"
+      ],
+      [
+        "Sarah",
+        "Sarah Lim, flew in from Singapore. Mostly looking at early-stage assets in the metabolic space.",
+        "我叫 Sarah Lim，从新加坡过来，主要看早期代谢领域的项目。"
+      ],
+      [
+        "Mark",
+        "Well, that couldn't be more timely. Sarah, we've actually been in this space for a few years — we have a dual-agonist candidate currently in IND-enabling studies.",
+        "那真是太巧了。Sarah，这个领域我们其实布局了好几年——目前有一个处于 IND-enabling 阶段的双激动剂候选分子。"
+      ],
+      [
+        "Sarah",
+        "Dual-agonist? What's the target combo?",
+        "双激动剂？靶点组合是？"
+      ],
+      [
+        "Mark",
+        "GLP-1 and GIP. On the preclinical side, we're seeing about 30% greater weight loss versus semaglutide, with more stable glucose control.",
+        "GLP-1 和 GIP。临床前数据上，体重下降幅度比司美格鲁肽高大概 30%，而且血糖控制更稳。"
+      ],
+      [
+        "Sarah",
+        "Wow, that's a strong dataset. Oral or injectable?",
+        "哇，这个数据很硬。口服还是注射？"
+      ],
+      [
+        "Mark",
+        "Oral. We've been working with a CRO on a specialty formulation — bioavailability is more than double that of conventional oral formats.",
+        "口服。这是我们跟一家 CRO 合作开发的特殊制剂工艺，生物利用度比传统口服剂型高两倍多。"
+      ],
+      [
+        "Sarah",
+        "Interesting. Could I grab a one-pager? I'd like to take it back to my team for a closer look.",
+        "有意思。我可以拿一份你们的一页摘要吗？我想带回办公室细看一下。"
+      ],
+      [
+        "Mark",
+        "Of course. Let me have my colleague send it to your inbox right away — would you mind leaving me a card?",
+        "当然，我让我同事马上发到您邮箱——您方便留张名片吗？"
+      ],
+      [
+        "Sarah",
+        "Sure. We're actually hosting a small investor dinner in Shanghai next week — if you're free, we'd love to have you come meet our partners face-to-face.",
+        "好的。我们下周会在上海办一个小型投资人晚宴，如果您方便，欢迎过来跟我们合伙人当面聊几句。"
+      ],
+      [
+        "Mark",
+        "Appreciate that. When exactly is it, and roughly how many people?",
+        "非常感谢。请问具体是哪一天？人数规模大概多少？"
+      ],
+      [
+        "Sarah",
+        "Wednesday evening, expecting twelve to fifteen, all institutional. If you can make it, I'll have my assistant send over an invite.",
+        "周三晚上，预计 12 到 15 人，都是机构投资人。如果来得了，我让助理把邀请函发您。"
+      ],
+      [
+        "Mark",
+        "Excellent. Let me check my Wednesday schedule and get back to you by tomorrow morning at the latest. Really looking forward to it.",
+        "太好了。我先确认一下我周三的日程，最迟明天上午回复您。非常期待这次交流。"
+      ],
+      [
+        "Sarah",
+        "Sounds good. It's been a pleasure, Mark.",
+        "好的，那我们就先这么定。很高兴认识您，Mark。"
+      ],
+      [
+        "Mark",
+        "Pleasure's mine, Sarah. Safe travels, and I hope to see you at the dinner.",
+        "我也很高兴认识您，Sarah。一路辛苦了，希望晚宴上再见。"
+      ],
+      [
+        "Emma",
+        "Hi Klaus, this is Emma from the company side, coming to pick you up. Did your flight land on time?",
+        "Klaus 您好，我是 Emma，从公司这边过来接您。您的航班准时落地了吗？"
+      ],
+      [
+        "Klaus",
+        "Hi Emma, I just got off the plane — actually, it landed a bit early, around twenty minutes ahead of schedule. I'm at Terminal 3, just walking out.",
+        "Emma 你好，我刚下飞机——其实提前了大概 20 分钟落地。我在 T3 航站楼，刚走出来。"
+      ],
+      [
+        "Emma",
+        "Great, so you should be out pretty quickly. Take a left at the exit — there's a Starbucks. I'll be waiting there, holding a sign with your name on it.",
+        "太好了，那您出来应该会很快。出口左转有个星巴克，我就在那里等您，手里会举一个写着您名字的接机牌。"
+      ],
+      [
+        "Klaus",
+        "Perfect, I'll find you. How's the weather over there? I packed light.",
+        "完美，我来找您。请问那边天气怎么样？我行李带得不多。"
+      ],
+      [
+        "Emma",
+        "Pretty hot — low thirties these past few days, strong sun. I'd suggest leaving your jacket in the car; the AC indoors is cranked up.",
+        "挺热的，这几天三十度出头，太阳比较晒。建议您把外套放车上，室内空调都开得挺足的。"
+      ],
+      [
+        "Klaus",
+        "Noted, thanks. Long flight from Frankfurt — I'm running on about three hours of sleep.",
+        "记住了，谢谢。从法兰克福飞过来时间太久了——我大概只睡了三个小时。"
+      ],
+      [
+        "Emma",
+        "You must be exhausted. Let's head to the hotel first so you can check in and rest. I have tomorrow's agenda starting at 9:30 — does that work for you?",
+        "那您辛苦了。我们先去酒店 check-in，让您休息一下。明天的行程我从九点半开始排，您看可以吗？"
+      ],
+      [
+        "Klaus",
+        "9:30 works. Anything on the agenda tonight?",
+        "九点半没问题。今晚有什么安排吗？"
+      ],
+      [
+        "Emma",
+        "Keeping it light tonight. Our VP David has set up a small welcome dinner at the Chinese restaurant inside the hotel, 6:30. Small group — just four or five of us.",
+        "今晚轻松一点，公司副总裁 David 安排了一个小型欢迎晚宴，就在我们酒店的中餐厅，6 点半。规模不大，就我们四五个人。"
+      ],
+      [
+        "Klaus",
+        "That sounds lovely. I'll try to freshen up and be down by 6:15.",
+        "听起来很棒。我尽量洗漱一下，6:15 之前下来。"
+      ],
+      [
+        "Emma",
+        "No rush, take your time. It's about a 40-minute drive — you can grab a quick nap if you'd like.",
+        "好的，不着急，您慢慢来。路上大概 40 分钟，您可以趁机眯一会儿。"
+      ],
+      [
+        "Klaus",
+        "Appreciate it. See you in a few minutes, Emma.",
+        "非常感谢。待会儿见，Emma。"
+      ],
+      [
+        "Emma",
+        "See you in a bit.",
+        "好的，待会儿见。"
+      ],
+      [
+        "我",
+        "Hi Daniel, is this Daniel?",
+        "Daniel 你好，Daniel 在吗？"
+      ],
+      [
+        "我",
+        "Yes, speaking.",
+        "是的，我是。"
+      ],
+      [
+        "我",
+        "Hi Daniel, William Wu here, co-founder of NovaVax. Sorry for the cold call — I found your contact through LinkedIn. I know you've backed a few standout mRNA plays, and I'm working on something in that space at an early stage, so I was hoping to see if you might have a quick moment to chat.",
+        "您好 Daniel，我是 NovaVax 的联合创始人 William Wu。冒昧打扰，是从 LinkedIn 上找到您的联系方式——知道您之前在 mRNA 领域投过几个明星项目，我这边正好在做相关的早期工作，想看看您最近有没有时间简短聊一下。"
+      ],
+      [
+        "我",
+        "Quick background: we're working on a next-gen mRNA delivery platform — focused on extrahepatic targeting, sidestepping the IP moats around current LNPs. On the preclinical side, we're seeing over 4x bioavailability versus existing tech via IM injection, and no observable ADA after repeat dosing.",
+        "先简单介绍一下背景：我们目前在做下一代 mRNA 递送平台，重点是肝外靶向，技术上绕过了 LNP 现有的专利壁垒。临床前数据上，肌肉注射的生物利用度比现有技术高四倍以上，重复给药没有观察到抗药抗体。"
+      ],
+      [
+        "我",
+        "We're currently raising a Pre-A, targeting 8M USD, with two strategic investors already confirmed for follow-on. We hope to close by end of September if all goes to plan.",
+        "这一轮我们正在融 Pre-A，目标 800 万美元，已经有两个产业方确认跟投意向。如果一切顺利，希望在九月底前 close。"
+      ],
+      [
+        "我",
+        "I know your time's tight, so I won't take much — roughly 25 to 30 minutes, video or in-person. I'm currently splitting time between San Francisco and Shanghai.",
+        "我理解您时间很宝贵，所以不会占用太多——大概 25 到 30 分钟，可以视频，也可以线下，我目前在旧金山和上海两地跑。"
+      ],
+      [
+        "我",
+        "If it works for you, I'd love to walk you through a quick intro this week or next — what time slot might suit you?",
+        "如果方便的话，我想这周或下周找个时间向您做个简单介绍，您看哪个时段合适？"
+      ],
+      [
+        "我",
+        "Sure, let me check my calendar and confirm over email. Mind if I add you on WeChat first? I'll send a brief deck so you can glance through it when you have a moment — makes our chat more efficient.",
+        "好的，那我把时间表查一下，再回复您邮件确认。可以先加个微信，我把 brief deck 发您，您方便时翻一下，这样见面时效率更高。"
+      ]
+    ],
+    "words": [
+      [
+        "sorry to bother you",
+        "/ˈsɒri tə ˈbɒðər juː/",
+        "冒昧打扰一下；解析：搭讪/初次接触时的礼貌开场，比 Sorry to interrupt 更柔和，适合陌生人或长者。",
+        "Sorry to bother you, but...（冒昧打扰，但是……）",
+        ""
+      ],
+      [
+        "couldn't be more timely",
+        "/ˈkʊdnt bi mɔːr ˈtaɪmli/",
+        "来得正是时候、再及时不过；解析：与陌生人搭话时表达\"太巧了\"的语气，比 \"perfect timing\" 更有故事感。",
+        "That couldn't be more timely.（时机再合适不过了。）",
+        ""
+      ],
+      [
+        "be intrigued",
+        "/bi ɪnˈtriːɡd/",
+        "感到好奇、感兴趣；解析：比 interested 更显专业、克制，欧美商务场合尤其是投资人/学者偏好使用。",
+        "I'm intrigued by your data.（我对您的数据很感兴趣。）",
+        ""
+      ],
+      [
+        "one-pager",
+        "/ˈwʌn ˌpeɪdʒər/",
+        "一页纸简介（产品/项目摘要）；解析：展会上投资人最常索要的物料，简洁、视觉化、一分钟内能读完。",
+        "grab a one-pager（拿一份一页纸简介）",
+        ""
+      ],
+      [
+        "bioavailability",
+        "/ˌbaɪəʊˌævəˌləˈbɪləti/",
+        "生物利用度；解析：医药 BD 谈判或路演中必提的硬指标之一，比 abstract 数据更让客户\"秒懂\"。",
+        "high bioavailability（高生物利用度）",
+        ""
+      ],
+      [
+        "look forward to",
+        "/lʊk ˈfɔːwəd tuː/",
+        "期待、盼望；解析：会议结束或邮件结尾的标配客套，比 \"I'm excited\" 更为正式得体。",
+        "I look forward to it.（我非常期待。）",
+        ""
       ]
     ]
   },
@@ -51520,9 +52057,174 @@ window.dialogueCards = [
     "tip": "商务场景跟读：先模仿语音语调与重音，再重点掌握「when in Rome、steer away from、dietary restriction」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Dr. Weber, this way please. The window seats in our cafeteria have a view of the campus, and the lighting's better too. Would you like to try Chinese food today, or something Western? We also have light salads. When in Rome, I'll go with Chinese. But I can't handle spicy food too well, so please steer me away from the chili dishes. No problem. We'll order a few local specialties and ask the chef to go easy on the spice. Any other dietary restrictions? I'm allergic to peanuts. Other than that, I'm fine. Noted. I'll make sure to mention that to the waiter. You've just flown in from Frankfurt — how are you handling the jet lag? Honestly, still a bit fuzzy. I got about five hours of sleep last night and have been running on coffee ever since. Then I'll keep this afternoon's session to under an hour, and you can head back to the hotel to rest. We can also move tomorrow's meeting to 10 AM if that works for you. Ten o'clock would be great. Thanks for being considerate. Of course. Let's chat over the meal — the main reason we invited you here is to show you our pilot plant and QC lab in person. I'm looking forward to it. The photos in your emails looked good, but nothing compares to seeing the actual site. Exactly, and we feel confident about it. After the walkthrough this afternoon, you'll have a much more direct sense of our GMP compliance and production capacity. That's precisely why I'm here. Before any partnership, I need first-hand knowledge of the manufacturing side. Totally understand. We also hope this visit will allow us to put all technical and commercial questions on the table and address them in one go. Everyone, let me address the tox report timeline concern directly. We originally targeted August 15th, but the CRO came back last week saying that one batch of rat studies showed a non-drug-related abnormal pathology finding. They need to add a histology review cohort. This review isn't about overturning existing conclusions — it's about making the data package more robust, so the regulator doesn't come back with supplementary questions during review. Based on where we are now, we expect the delivery to shift to August 28th — roughly a two-week slip. First, we moved the CMC stability sampling milestone up by one week, so it can wrap up in parallel with the tox report; Second, we asked our regulatory consultant to draft a delay explanation for both our internal risk register and the client quarterly report; Third, I've already secured a 15-minute briefing slot with the CEO's office, in case the client side needs a more senior-level explanation at any time. My judgment is that this two-week slip is manageable and won't derail the overall year-end IND submission goal. But I'll update you weekly, and if anything else pops up, you'll hear from me immediately. Hi, is this Linda? It's Jenny from BioLink. Yes, hi Jenny. Is this about tomorrow's meeting? Yes. Sorry for the last-minute call — we were informed that Director Zhang has an urgent board meeting tomorrow at 2 PM, so the original meeting will need to be rescheduled. Got it. Director Zhang is free from 10 to 11:30 AM the day after tomorrow. Would that work? 10 to 11:30 AM works for us, and everyone on our side can make it. I'll update the calendar invite shortly. Good. Also, Director Zhang would like to focus the meeting on the financial model and milestone payment structure. The technical details can be discussed in depth next time. Noted. I'll adjust the agenda accordingly. The technical section was originally 30 minutes; I'll cut it down to 10 minutes and only go through the key assumptions. That would be perfect. Director Zhang also asked if you could send over the Excel version of the financial model in advance so he can review it before the meeting. Of course. I'll send a password-protected file to his inbox by 5 PM today, along with a note explaining how the key parameters were set. Much appreciated. If Director Zhang has any pre-meeting questions, I'll reach out. No problem, feel free to reach out anytime. Again, sorry for the last-minute change, and looking forward to meeting the day after tomorrow.",
-        "【场景：商务午餐破冰 + 会议即兴回应 + 电话临时调整对接】 PART A · 双人对话（商务午餐：接待海外客户并自然破冰） 【情境】某生物医药公司 BD 负责人 Alex 在总部餐厅接待从德国飞来的潜在客户 Dr. Weber，希望借午餐轻松氛围建立信任。 Weber 博士，这边请。我们餐厅窗边的位置能看到园区，光线也比较好。 您今天想试试中餐还是西餐？我们这边也有轻食沙拉。 入乡随俗，我选中餐。不过我不太能吃辣，请帮我避开辣椒。 没问题。我们点几道本地特色菜，我让厨师少放辣。您有什么忌口吗？ 我对花生过敏，其他都可以。 记住了，我待会儿会跟服务员特别说明。您这一趟从法兰克福飞过来，时差调整得还好吗？ 老实说，还有点晕。昨晚睡了大概五个小时，靠咖啡续命到现在。 那下午的安排我尽量压缩到一小时以内，结束后您回酒店休息。明天的会议可以挪到上午十点，您看行吗？ 十点钟很好，谢谢你的体贴。 应该的。我们边吃边聊——其实这次邀请您来，主要是想让您亲眼看看我们的中试车间和 QC 实验室。 我很期待。邮件里照片拍得不错，但现场看的感觉完全不一样。 是的，我们也有这个信心。下午带您走一圈之后，您会对我们的 GMP 合规能力和产能有更直观的判断。 这正是我这次来的目的。合作之前，我必须对制造端有第一手了解。 完全理解。我们也希望通过这次来访，把双方从技术到商务的疑问都摊到桌面上，一次性聊清楚。 PART B · 单人独白（会议即兴发言：回应客户对时间线的质疑） 【情境】项目周会上，客户方代表对毒理报告交付时间提出质疑，项目经理 Ryan 被点名即兴回应。 各位，我直接回应一下刚才关于毒理报告时间线的疑问。 我们原定 8 月 15 号交付，但上周 CRO 反馈，由于第二批次大鼠实验出现一例非药物相关的异常病理结果，他们需要追加一组组织学复核。 这个复核不是为了推翻已有结论，而是为了让数据包更扎实，避免监管机构在审评时提出补充问题。 基于目前的情况，我们预计交付时间要推迟到 8 月 28 号，也就是两周左右。 我知道这个延迟会对下游的 CMC 和申报排期造成压力，所以我们已经同步做了三件事： 第一，把 CMC 稳定性试验的取样节点提前了一周，争取和毒理报告并行收尾； 第二，让法规顾问起草一份延迟说明，用于内部 risk register 和客户季报； 第三，我已经跟 CEO 办公室排了一个 15 分钟的汇报窗口，如果客户方需要更高层面的解释，我们随时可以提供。 我的判断是：这两周延迟是可控的，不会动摇年底 IND 申报的整体目标。但我会每周同步一次进展，有任何风吹草动第一时间告诉大家。 PART C · 双人对话（电话沟通：临时调整会议时间并确认议程） 【情境】项目经理 Jenny 临时接到通知，客户财务总监无法按原定时间参会，她打电话与对方助理确认新的时间。 您好，请问是 Linda 吗？我是 BioLink 的 Jenny。 是的，Jenny 您好。您打电话是关于明天的会议吗？ 是的。非常抱歉临时打扰——我们这边收到通知，张总监明天下午两点有个紧急董事会，原定的会议恐怕要改期。 明白了。张总监后天上午 10 点到 11 点半有空，您看这个时间可以吗？ 10 点到 11 点半没问题，我们这边的人也都能参加。我待会儿把日历邀请更新过去。 好的。另外，张总监希望把会议重点放在财务模型和里程碑付款结构上，技术细节可以下次再深入。 收到，我会相应调整议程。原本技术部分我占了 30 分钟，我压缩到 10 分钟，只过一下关键假设。 这样就太好了。张总监还特别问了一下，您这边能否提前把财务模型的 Excel 版本发一份，他想会前先看一遍。 当然，我整理好密码保护的文件后，今天下午五点前发到他邮箱。我会附上一份说明，解释几个关键参数是怎么设的。 非常感谢。如果张总监会前还有疑问，我会再联系您。 没问题，随时联系。再次抱歉临时调整，期待后天见面。"
+        "Alex",
+        "Dr. Weber, this way please. The window seats in our cafeteria have a view of the campus, and the lighting's better too.",
+        "Weber 博士，这边请。我们餐厅窗边的位置能看到园区，光线也比较好。"
+      ],
+      [
+        "Alex",
+        "Would you like to try Chinese food today, or something Western? We also have light salads.",
+        "您今天想试试中餐还是西餐？我们这边也有轻食沙拉。"
+      ],
+      [
+        "Weber",
+        "When in Rome, I'll go with Chinese. But I can't handle spicy food too well, so please steer me away from the chili dishes.",
+        "入乡随俗，我选中餐。不过我不太能吃辣，请帮我避开辣椒。"
+      ],
+      [
+        "Alex",
+        "No problem. We'll order a few local specialties and ask the chef to go easy on the spice. Any other dietary restrictions?",
+        "没问题。我们点几道本地特色菜，我让厨师少放辣。您有什么忌口吗？"
+      ],
+      [
+        "Weber",
+        "I'm allergic to peanuts. Other than that, I'm fine.",
+        "我对花生过敏，其他都可以。"
+      ],
+      [
+        "Alex",
+        "Noted. I'll make sure to mention that to the waiter. You've just flown in from Frankfurt — how are you handling the jet lag?",
+        "记住了，我待会儿会跟服务员特别说明。您这一趟从法兰克福飞过来，时差调整得还好吗？"
+      ],
+      [
+        "Weber",
+        "Honestly, still a bit fuzzy. I got about five hours of sleep last night and have been running on coffee ever since.",
+        "老实说，还有点晕。昨晚睡了大概五个小时，靠咖啡续命到现在。"
+      ],
+      [
+        "Alex",
+        "Then I'll keep this afternoon's session to under an hour, and you can head back to the hotel to rest. We can also move tomorrow's meeting to 10 AM if that works for you.",
+        "那下午的安排我尽量压缩到一小时以内，结束后您回酒店休息。明天的会议可以挪到上午十点，您看行吗？"
+      ],
+      [
+        "Weber",
+        "Ten o'clock would be great. Thanks for being considerate.",
+        "十点钟很好，谢谢你的体贴。"
+      ],
+      [
+        "Alex",
+        "Of course. Let's chat over the meal — the main reason we invited you here is to show you our pilot plant and QC lab in person.",
+        "应该的。我们边吃边聊——其实这次邀请您来，主要是想让您亲眼看看我们的中试车间和 QC 实验室。"
+      ],
+      [
+        "Weber",
+        "I'm looking forward to it. The photos in your emails looked good, but nothing compares to seeing the actual site.",
+        "我很期待。邮件里照片拍得不错，但现场看的感觉完全不一样。"
+      ],
+      [
+        "Alex",
+        "Exactly, and we feel confident about it. After the walkthrough this afternoon, you'll have a much more direct sense of our GMP compliance and production capacity.",
+        "是的，我们也有这个信心。下午带您走一圈之后，您会对我们的 GMP 合规能力和产能有更直观的判断。"
+      ],
+      [
+        "Weber",
+        "That's precisely why I'm here. Before any partnership, I need first-hand knowledge of the manufacturing side.",
+        "这正是我这次来的目的。合作之前，我必须对制造端有第一手了解。"
+      ],
+      [
+        "Alex",
+        "Totally understand. We also hope this visit will allow us to put all technical and commercial questions on the table and address them in one go.",
+        "完全理解。我们也希望通过这次来访，把双方从技术到商务的疑问都摊到桌面上，一次性聊清楚。"
+      ],
+      [
+        "我",
+        "Everyone, let me address the tox report timeline concern directly.",
+        "各位，我直接回应一下刚才关于毒理报告时间线的疑问。"
+      ],
+      [
+        "我",
+        "We originally targeted August 15th, but the CRO came back last week saying that one batch of rat studies showed a non-drug-related abnormal pathology finding. They need to add a histology review cohort.",
+        "我们原定 8 月 15 号交付，但上周 CRO 反馈，由于第二批次大鼠实验出现一例非药物相关的异常病理结果，他们需要追加一组组织学复核。"
+      ],
+      [
+        "我",
+        "This review isn't about overturning existing conclusions — it's about making the data package more robust, so the regulator doesn't come back with supplementary questions during review.",
+        "这个复核不是为了推翻已有结论，而是为了让数据包更扎实，避免监管机构在审评时提出补充问题。"
+      ],
+      [
+        "我",
+        "Based on where we are now, we expect the delivery to shift to August 28th — roughly a two-week slip.",
+        "基于目前的情况，我们预计交付时间要推迟到 8 月 28 号，也就是两周左右。"
+      ],
+      [
+        "我",
+        "I know this delay puts pressure on the downstream CMC and submission schedule, so we've already taken three parallel actions:",
+        "我知道这个延迟会对下游的 CMC 和申报排期造成压力，所以我们已经同步做了三件事："
+      ],
+      [
+        "我",
+        "First, we moved the CMC stability sampling milestone up by one week, so it can wrap up in parallel with the tox report;",
+        "第一，把 CMC 稳定性试验的取样节点提前了一周，争取和毒理报告并行收尾；"
+      ],
+      [
+        "我",
+        "Second, we asked our regulatory consultant to draft a delay explanation for both our internal risk register and the client quarterly report;",
+        "第二，让法规顾问起草一份延迟说明，用于内部 risk register 和客户季报；"
+      ],
+      [
+        "我",
+        "Third, I've already secured a 15-minute briefing slot with the CEO's office, in case the client side needs a more senior-level explanation at any time.",
+        "第三，我已经跟 CEO 办公室排了一个 15 分钟的汇报窗口，如果客户方需要更高层面的解释，我们随时可以提供。"
+      ],
+      [
+        "我",
+        "My judgment is that this two-week slip is manageable and won't derail the overall year-end IND submission goal. But I'll update you weekly, and if anything else pops up, you'll hear from me immediately.",
+        "我的判断是：这两周延迟是可控的，不会动摇年底 IND 申报的整体目标。但我会每周同步一次进展，有任何风吹草动第一时间告诉大家。"
+      ],
+      [
+        "Jenny",
+        "Hi, is this Linda? It's Jenny from BioLink.",
+        "您好，请问是 Linda 吗？我是 BioLink 的 Jenny。"
+      ],
+      [
+        "Linda",
+        "Yes, hi Jenny. Is this about tomorrow's meeting?",
+        "是的，Jenny 您好。您打电话是关于明天的会议吗？"
+      ],
+      [
+        "Jenny",
+        "Yes. Sorry for the last-minute call — we were informed that Director Zhang has an urgent board meeting tomorrow at 2 PM, so the original meeting will need to be rescheduled.",
+        "是的。非常抱歉临时打扰——我们这边收到通知，张总监明天下午两点有个紧急董事会，原定的会议恐怕要改期。"
+      ],
+      [
+        "Linda",
+        "Got it. Director Zhang is free from 10 to 11:30 AM the day after tomorrow. Would that work?",
+        "明白了。张总监后天上午 10 点到 11 点半有空，您看这个时间可以吗？"
+      ],
+      [
+        "Jenny",
+        "10 to 11:30 AM works for us, and everyone on our side can make it. I'll update the calendar invite shortly.",
+        "10 点到 11 点半没问题，我们这边的人也都能参加。我待会儿把日历邀请更新过去。"
+      ],
+      [
+        "Linda",
+        "Good. Also, Director Zhang would like to focus the meeting on the financial model and milestone payment structure. The technical details can be discussed in depth next time.",
+        "好的。另外，张总监希望把会议重点放在财务模型和里程碑付款结构上，技术细节可以下次再深入。"
+      ],
+      [
+        "Jenny",
+        "Noted. I'll adjust the agenda accordingly. The technical section was originally 30 minutes; I'll cut it down to 10 minutes and only go through the key assumptions.",
+        "收到，我会相应调整议程。原本技术部分我占了 30 分钟，我压缩到 10 分钟，只过一下关键假设。"
+      ],
+      [
+        "Linda",
+        "That would be perfect. Director Zhang also asked if you could send over the Excel version of the financial model in advance so he can review it before the meeting.",
+        "这样就太好了。张总监还特别问了一下，您这边能否提前把财务模型的 Excel 版本发一份，他想会前先看一遍。"
+      ],
+      [
+        "Jenny",
+        "Of course. I'll send a password-protected file to his inbox by 5 PM today, along with a note explaining how the key parameters were set.",
+        "当然，我整理好密码保护的文件后，今天下午五点前发到他邮箱。我会附上一份说明，解释几个关键参数是怎么设的。"
+      ],
+      [
+        "Linda",
+        "Much appreciated. If Director Zhang has any pre-meeting questions, I'll reach out.",
+        "非常感谢。如果张总监会前还有疑问，我会再联系您。"
+      ],
+      [
+        "Jenny",
+        "No problem, feel free to reach out anytime. Again, sorry for the last-minute change, and looking forward to meeting the day after tomorrow.",
+        "没问题，随时联系。再次抱歉临时调整，期待后天见面。"
       ]
     ],
     "words": [
@@ -51530,43 +52232,43 @@ window.dialogueCards = [
         "when in Rome",
         "/wen ɪn ˈrəʊm/",
         "入乡随俗（完整形式为 when in Rome, do as the Romans do）；解析：跨文化接待中最自然的谦辞，表达愿意尊重对方习惯，气氛轻松友好。",
-        "When in Rome, I'll go with local food.",
-        "入乡随俗，我选本地菜。"
+        "When in Rome, I'll go with local food.（入乡随俗，我选本地菜。）",
+        ""
       ],
       [
         "steer away from",
         "/stɪər əˈweɪ frɒm/",
         "避开、绕开（某事物）；解析：比 avoid 更委婉、有方向感，适合餐桌或敏感场合的礼貌表达。",
-        "steer away from spicy dishes / risky topics",
-        "避开辣菜 / 敏感话题"
+        "steer away from spicy dishes / risky topics（避开辣菜 / 敏感话题）",
+        ""
       ],
       [
         "dietary restriction",
         "/ˈdaɪətəri rɪˈstrɪkʃn/",
         "饮食限制 / 忌口；解析：接待客户、安排会议餐时必问，比 food taboo 更专业、更得体。",
-        "Do you have any dietary restrictions?",
-        "您有什么忌口吗？"
+        "Do you have any dietary restrictions?（您有什么忌口吗？）",
+        ""
       ],
       [
         "run on",
         "/rʌn ɒn/",
         "靠……维持运转 / 支撑；解析：描述疲惫中坚持工作的状态，口语中带点自嘲，适合非正式场合。",
-        "running on coffee and adrenaline",
-        "靠咖啡和肾上腺素撑着"
+        "running on coffee and adrenaline（靠咖啡和肾上腺素撑着）",
+        ""
       ],
       [
         "first-hand",
         "/ˌfɜːst ˈhænd/",
         "第一手的；亲自地；解析：强调\"亲自到现场、亲眼看到\"，比 \"in person\" 更正式，商务考察和尽调中常用。",
-        "first-hand knowledge / experience",
-        "第一手了解 / 经验"
+        "first-hand knowledge / experience（第一手了解 / 经验）",
+        ""
       ],
       [
         "in one go",
         "/ɪn wʌn ɡəʊ/",
         "一次性、一气呵成；解析：表达\"不拖泥带水、一次性解决\"，比 \"at once\" 更自然，适合用于会议总结和谈判节奏。",
-        "solve it in one go",
-        "一次性解决"
+        "solve it in one go（一次性解决）",
+        ""
       ]
     ]
   },
@@ -51577,9 +52279,199 @@ window.dialogueCards = [
     "tip": "商务场景跟读：先模仿语音语调与重音，再重点掌握「pick up where we left off、walk through、upfront」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Grace, glad we can pick up where we left off. Let me quickly walk you through our internal feedback on the term sheet. The main gaps are still on three points: the upfront amount, the development milestone triggers, and the Greater China royalty rate. Sure, Vincent. We're ready on our end too. Your proposed upfront cut from 8 million to 5 million USD — frankly, that's a significant adjustment, and it's a tough sell internally. I understand your concern. But let me give you the context — the 5 million isn't a reflection of how we value the asset. It's driven by our current cash position. Our Series B is expected to close in Q4. Before that, large cash outflows need to be very carefully managed. As a trade-off, we're willing to move on the development milestones — bumping the first one from 3 million to 5 million. I see the logic, but the total deal value can't shrink as a result. If the upfront drops by 3 million, the milestones and royalty need to make up for it. Agreed, the total package stays intact. Our proposal: 5 million upfront, 25 million in development milestones across four triggers, 15 million in commercial milestones, and royalty bumped from 8% to 10%. 10% royalty works for us. But the 25 million in development milestones needs clear trigger criteria for each — IND, Phase II completion, Phase III initiation, NDA submission. No ambiguity between triggers. Completely agree. Four triggers as you described, 6.25 million each, pro-rata. Clean and fair. What about the royalty start date? We'd like it to kick in from first commercial sale, not from approval date. First commercial sale works. But we'd want a sunset clause — within three years of patent expiry, the royalty steps down to 5%. That's workable. I'll check with our legal team on the exact wording of the sunset clause and get back to you by the day after tomorrow at the latest. Sounds good. I'll have my team prepare the revised term sheet, and we can walk through it together next Monday. No problem. Vincent, honestly, I appreciate your negotiating style — pragmatic but not stingy. That's a good sign for the partnership ahead. Thank you, investors, for the time. I'll use five minutes to lay out our core thesis. We're NovaBio, focused on next-generation ADC platforms for solid tumors. Our lead asset is NB-101, a TROP2-directed ADC, expected to enter Phase I in Q1 next year. I want to frame our differentiation around three keywords: linker, payload, and DAR optimization. First, linker. We use a proprietary enzymatically cleavable linker — plasma stability exceeding 7 days, but tumor microenvironment release within 4 hours. This means lower systemic toxicity and a wider therapeutic window. Second, payload. Our toxin is a novel topoisomerase I inhibitor, with an IC50 an order of magnitude lower than DXd, and no P-gp efflux sensitivity — which shows up especially well in resistant models. Third, DAR optimization. Through site-specific conjugation, we've precisely controlled DAR at 4, with inter-batch CV below 5%. That's a huge advantage for CMC control and regulatory filing. Commercially, the global TROP2 ADC market is projected to exceed 8 billion USD by 2030. We're not positioning to go head-to-head with Daiichi Sankyo — we're targeting later-line monotherapy and combination niches. We're raising a Series A this round, targeting 40 million USD. Use of proceeds: 60% for NB-101 Phase I, 25% for platform iteration, 15% for team expansion and operations. Our lead investor has confirmed 15 million. We're looking for 1 to 2 strategic investors with industry background to fill the remainder. If you're interested, I'm happy to share the detailed data package and financial model after the session. Thank you. Everyone, I received an email from the client 10 minutes ago. They're disputing the impurity results on LOT-2024-0815 — their internal retest found an unknown impurity at 0.3%, versus the 0.1% we reported. That's not a small discrepancy. If it turns out to be on our end, it could involve a full lot recall. Hold on, I signed off on this lot. Our QC report clearly shows 0.1%. Sampling and testing were both done per SOP. I know, but the issue is the client used a different analytical method. They ran HPLC-UV while we used LC-MS. Manager Zhang, were there any deviation logs during production? Even minor ones — temperature fluctuations, raw material lot changes, cleaning records? I checked — on August 13th, reactor 3 ran 2 degrees high for about an hour, but within the validated range, so no deviation was filed. 2 degrees within the validated range, yes. But if this impurity is a temperature-sensitive degradation product, that could explain the discrepancy. I need the complete batch record from that day within one hour. Let me jump in — I've already called the client to manage expectations. They've agreed to give us 48 hours for root cause analysis. But if we don't have a clear conclusion by then, they'll escalate to their VP of Quality. So we need to accomplish three things within this window: first, identify the impurity; second, confirm whether it's a true production deviation; third, prepare a formal response letter to the client. I'll handle the first. I'll have the analytical team work overtime on structural identification — results by tomorrow noon. I'll take the second. I'll pull all operational records and OQ/PQ calibration logs from that day for a full re-review — conclusion by end of day. Good, I'll draft the framework for the third. Once Susan and Zhang's conclusions are in, I'll fill in the content. The tone: transparent, accountable, with a clear action plan. Also, I suggest we send the client a progress update every 12 hours during this window. Don't wait for the full conclusion — that makes the client anxious. Agreed. I suggest we set up a dedicated war room group — everyone involved, real-time information sharing. No problem, I'll set it up now. One more suggestion — if it turns out to be our issue, should we proactively offer a replacement lot? That would show good faith. Great idea from Manager Zhang. I'll prepare a contingency — if root cause confirms it's on us, we'll immediately propose a replacement plan and cost coverage. Alright, that's the split. We'll do our first progress sync right here in 12 hours.",
-        "【场景：合同条款电话谈判 + 投资人路演产品推介 + 客户投诉危机处理】 PART A · 双人对话（商务洽谈：许可协议核心条款电话博弈） 【情境】某生物医药公司 BD 总监 Vincent 与海外药企授权方代表 Grace 进行第二轮电话谈判，就某创新药大中华区许可协议的首付款、开发里程碑和销售分成展开拉锯。 Grace，很高兴我们今天能接着上次的讨论继续。我先简单同步一下我们内部对 term sheet 的反馈。 核心分歧还是集中在三个点：首付款金额、开发里程碑的触发条件，以及大中华区的销售分成比例。 好的 Vincent，我这边也准备好了。你们提的首付款从 800 万降到 500 万美元，坦率说这个调整幅度有点大，我们内部不太能接受。 我理解你们的顾虑。但我想把背景说清楚——500 万并不是我们对资产价值的判断，而是基于我们现金流现状的现实考量。 我们的 B 轮融资预计在 Q4 关闭，在此之前，大额现金支出需要非常谨慎。作为补偿，我们愿意在开发里程碑上做出让步——把第一个里程碑从 300 万提高到 500 万。 这个思路我可以理解，但总包金额不能因此缩水。如果首付款降 300 万，里程碑和分成需要补回来。 同意，总包不缩水。我们的建议是：首付款 500 万，开发里程碑总共 2500 万分四个节点，商业里程碑 1500 万，分成比例从原来的 8% 调到 10%。 分成调到 10% 我们可以接受，但 2500 万的开发里程碑需要明确每个节点的触发标准——IND、II 期完成、III 期启动、NDA 提交。每个节点之间不能有模糊地带。 完全同意，触发标准按你说的四个节点来定，每个节点 625 万，等比例分配。这样既清晰又公平。 那销售分成起始时间呢？我们希望从首次商业化销售开始算，而不是从获批日开始。 从首次商业化销售开始没问题，但我们希望有一个 sunset clause——专利到期后三年内，分成比例阶梯式降到 5%。 这个可以谈。我回去跟法务确认一下 sunset clause 的具体措辞，最迟后天给你回复。 好的，那就先这样。我让我的团队把修订后的 term sheet 整理出来，我们下周一再过一遍。 没问题。Vincent，说实话我很欣赏你们的谈判方式——务实但不抠门，这对后续合作是个好信号。 PART B · 单人独白（产品路演：投资人路演日介绍核心管线） 【情境】某创新药企创始人在投资人路演日上，用五分钟向一组机构投资人介绍公司核心 ADC 管线资产的差异化优势和商业潜力。 各位投资人，感谢给我这个时间。我用五分钟把公司的核心逻辑讲清楚。 我们公司叫 NovaBio，聚焦实体瘤的下一代 ADC 平台。目前管线里推进最快的是 NB-101，一个靶向 TROP2 的 ADC 分子，预计明年 Q1 进入 I 期临床。 我想用三个关键词来讲我们为什么不一样：linker、payload 和 DAR 优化。 第一，linker。我们用的是自研的酶切可裂解 linker，血浆稳定性超过 7 天，但在肿瘤微环境中能在 4 小时内完成释放。这意味着系统毒性更低，治疗窗口更宽。 第二，payload。我们的毒素分子是新型拓扑异构酶 I 抑制剂，IC50 比 DXd 低一个数量级，且不具备 P-gp 外排敏感性——这一点在耐药模型中表现尤为突出。 第三，DAR 优化。通过定点偶联技术，我们把 DAR 精确控制在 4，批次间一致性 CV 小于 5%。这对 CMC 可控性和监管申报来说是巨大的优势。 商业层面，TROP2 ADC 的全球市场到 2030 年预计超过 80 亿美元。我们的定位不是去跟第一三共正面竞争，而是瞄准后线单药和联合用药的细分场景。 这一轮我们融 A 轮，目标 4000 万美元，资金用途中 60% 用于 NB-101 的 I 期临床，25% 用于平台技术迭代，15% 用于团队扩张和运营。 我们的 lead investor 已经确认跟投 1500 万，目前还在找 1 到 2 家有产业背景的战略投资人补齐剩下的额度。 如果各位感兴趣，会后我可以把详细的数据包和财务模型发给大家。谢谢。 PART C · 多人对话（职场危机沟通：客户投诉后的跨部门紧急协调） 【情境】某 CDMO 公司客户投诉一批次原料药出现杂质超标，QA、生产、BD 三方紧急开会协调应对方案。 各位，我十分钟前收到客户邮件，他们对我们交付的 LOT-2024-0815 批次的杂质检测结果有异议——他们内部复检发现未知杂质含量 0.3%，超出我们报告的 0.1%。 这个差异不是小数目，如果确认是我们这边的问题，可能涉及整批召回。 等一下，这个批次是我签字放行的。我们的 QC 报告明确显示 0.1%，取样和检测都是按 SOP 走的。 我知道，但现在问题是客户那边的复检方法跟我们不一样。他们用的是 HPLC-UV，我们用的是 LC-MS。 张经理，你们生产过程中有没有任何偏差记录？哪怕是微小的——温度波动、换料批次、清洗记录？ 我查了一下——8 月 13 号那天，反应釜三的温度有一个小时偏高了 2 度，但在工艺允许范围内，所以没有走偏差流程。 2 度在验证范围内没错，但如果这个杂质是温度敏感的降解产物，那就可能解释这个差异。我需要你们把那天的完整 batch record 在一个小时内发给我。 我插一句——客户那边我已经打了电话安抚，他们同意给我们 48 小时做根因分析。但如果 48 小时内没有明确结论，他们会升级到他们的质量副总。 所以我们需要在这个时间窗口内完成三件事：第一，确认杂质身份；第二，确认是否是生产端的真实偏差；第三，准备一份给客户的正式回复信。 第一件事我来安排，今天下午让分析团队加班做结构鉴定，预计明天中午出结果。 第二件事我来。我把那天所有操作记录、OQ/PQ 校准记录全部调出来重新审一遍，今天下班前给结论。 好，第三件事我来起草框架，Susan 和 Zhang 的结论出来后我填充内容。信的基调是：透明、负责、有行动计划。 另外，我建议在这 48 小时内，我们每 12 小时给客户发一次进展更新——不要等全部结论出来才回复，那样客户会焦虑。 同意。我建议我们建一个专门的 war room 群，所有相关人都在里面，信息实时共享。 没问题，我马上建群。另外我有一个建议——如果最终确认是我们的问题，我们是不是应该主动提出补送一批替代品？这样能显示诚意。 张经理这个想法很好。我先准备一个预案，如果根因确认是我们的问题，我们第一时间提出补送方案和费用承担方式。 好，那就这么分工。12 小时后我们在这里做第一次进度同步。"
+        "Vincent",
+        "Grace, glad we can pick up where we left off. Let me quickly walk you through our internal feedback on the term sheet.",
+        "Grace，很高兴我们今天能接着上次的讨论继续。我先简单同步一下我们内部对 term sheet 的反馈。"
+      ],
+      [
+        "Vincent",
+        "The main gaps are still on three points: the upfront amount, the development milestone triggers, and the Greater China royalty rate.",
+        "核心分歧还是集中在三个点：首付款金额、开发里程碑的触发条件，以及大中华区的销售分成比例。"
+      ],
+      [
+        "Grace",
+        "Sure, Vincent. We're ready on our end too. Your proposed upfront cut from 8 million to 5 million USD — frankly, that's a significant adjustment, and it's a tough sell internally.",
+        "好的 Vincent，我这边也准备好了。你们提的首付款从 800 万降到 500 万美元，坦率说这个调整幅度有点大，我们内部不太能接受。"
+      ],
+      [
+        "Vincent",
+        "I understand your concern. But let me give you the context — the 5 million isn't a reflection of how we value the asset. It's driven by our current cash position.",
+        "我理解你们的顾虑。但我想把背景说清楚——500 万并不是我们对资产价值的判断，而是基于我们现金流现状的现实考量。"
+      ],
+      [
+        "Vincent",
+        "Our Series B is expected to close in Q4. Before that, large cash outflows need to be very carefully managed. As a trade-off, we're willing to move on the development milestones — bumping the first one from 3 million to 5 million.",
+        "我们的 B 轮融资预计在 Q4 关闭，在此之前，大额现金支出需要非常谨慎。作为补偿，我们愿意在开发里程碑上做出让步——把第一个里程碑从 300 万提高到 500 万。"
+      ],
+      [
+        "Grace",
+        "I see the logic, but the total deal value can't shrink as a result. If the upfront drops by 3 million, the milestones and royalty need to make up for it.",
+        "这个思路我可以理解，但总包金额不能因此缩水。如果首付款降 300 万，里程碑和分成需要补回来。"
+      ],
+      [
+        "Vincent",
+        "Agreed, the total package stays intact. Our proposal: 5 million upfront, 25 million in development milestones across four triggers, 15 million in commercial milestones, and royalty bumped from 8% to 10%.",
+        "同意，总包不缩水。我们的建议是：首付款 500 万，开发里程碑总共 2500 万分四个节点，商业里程碑 1500 万，分成比例从原来的 8% 调到 10%。"
+      ],
+      [
+        "Grace",
+        "10% royalty works for us. But the 25 million in development milestones needs clear trigger criteria for each — IND, Phase II completion, Phase III initiation, NDA submission. No ambiguity between triggers.",
+        "分成调到 10% 我们可以接受，但 2500 万的开发里程碑需要明确每个节点的触发标准——IND、II 期完成、III 期启动、NDA 提交。每个节点之间不能有模糊地带。"
+      ],
+      [
+        "Vincent",
+        "Completely agree. Four triggers as you described, 6.25 million each, pro-rata. Clean and fair.",
+        "完全同意，触发标准按你说的四个节点来定，每个节点 625 万，等比例分配。这样既清晰又公平。"
+      ],
+      [
+        "Grace",
+        "What about the royalty start date? We'd like it to kick in from first commercial sale, not from approval date.",
+        "那销售分成起始时间呢？我们希望从首次商业化销售开始算，而不是从获批日开始。"
+      ],
+      [
+        "Vincent",
+        "First commercial sale works. But we'd want a sunset clause — within three years of patent expiry, the royalty steps down to 5%.",
+        "从首次商业化销售开始没问题，但我们希望有一个 sunset clause——专利到期后三年内，分成比例阶梯式降到 5%。"
+      ],
+      [
+        "Grace",
+        "That's workable. I'll check with our legal team on the exact wording of the sunset clause and get back to you by the day after tomorrow at the latest.",
+        "这个可以谈。我回去跟法务确认一下 sunset clause 的具体措辞，最迟后天给你回复。"
+      ],
+      [
+        "Vincent",
+        "Sounds good. I'll have my team prepare the revised term sheet, and we can walk through it together next Monday.",
+        "好的，那就先这样。我让我的团队把修订后的 term sheet 整理出来，我们下周一再过一遍。"
+      ],
+      [
+        "Grace",
+        "No problem. Vincent, honestly, I appreciate your negotiating style — pragmatic but not stingy. That's a good sign for the partnership ahead.",
+        "没问题。Vincent，说实话我很欣赏你们的谈判方式——务实但不抠门，这对后续合作是个好信号。"
+      ],
+      [
+        "我",
+        "Thank you, investors, for the time. I'll use five minutes to lay out our core thesis.",
+        "各位投资人，感谢给我这个时间。我用五分钟把公司的核心逻辑讲清楚。"
+      ],
+      [
+        "我",
+        "We're NovaBio, focused on next-generation ADC platforms for solid tumors. Our lead asset is NB-101, a TROP2-directed ADC, expected to enter Phase I in Q1 next year.",
+        "我们公司叫 NovaBio，聚焦实体瘤的下一代 ADC 平台。目前管线里推进最快的是 NB-101，一个靶向 TROP2 的 ADC 分子，预计明年 Q1 进入 I 期临床。"
+      ],
+      [
+        "我",
+        "I want to frame our differentiation around three keywords: linker, payload, and DAR optimization.",
+        "我想用三个关键词来讲我们为什么不一样：linker、payload 和 DAR 优化。"
+      ],
+      [
+        "我",
+        "First, linker. We use a proprietary enzymatically cleavable linker — plasma stability exceeding 7 days, but tumor microenvironment release within 4 hours. This means lower systemic toxicity and a wider therapeutic window.",
+        "第一，linker。我们用的是自研的酶切可裂解 linker，血浆稳定性超过 7 天，但在肿瘤微环境中能在 4 小时内完成释放。这意味着系统毒性更低，治疗窗口更宽。"
+      ],
+      [
+        "我",
+        "Second, payload. Our toxin is a novel topoisomerase I inhibitor, with an IC50 an order of magnitude lower than DXd, and no P-gp efflux sensitivity — which shows up especially well in resistant models.",
+        "第二，payload。我们的毒素分子是新型拓扑异构酶 I 抑制剂，IC50 比 DXd 低一个数量级，且不具备 P-gp 外排敏感性——这一点在耐药模型中表现尤为突出。"
+      ],
+      [
+        "我",
+        "Third, DAR optimization. Through site-specific conjugation, we've precisely controlled DAR at 4, with inter-batch CV below 5%. That's a huge advantage for CMC control and regulatory filing.",
+        "第三，DAR 优化。通过定点偶联技术，我们把 DAR 精确控制在 4，批次间一致性 CV 小于 5%。这对 CMC 可控性和监管申报来说是巨大的优势。"
+      ],
+      [
+        "我",
+        "Commercially, the global TROP2 ADC market is projected to exceed 8 billion USD by 2030. We're not positioning to go head-to-head with Daiichi Sankyo — we're targeting later-line monotherapy and combination niches.",
+        "商业层面，TROP2 ADC 的全球市场到 2030 年预计超过 80 亿美元。我们的定位不是去跟第一三共正面竞争，而是瞄准后线单药和联合用药的细分场景。"
+      ],
+      [
+        "我",
+        "We're raising a Series A this round, targeting 40 million USD. Use of proceeds: 60% for NB-101 Phase I, 25% for platform iteration, 15% for team expansion and operations.",
+        "这一轮我们融 A 轮，目标 4000 万美元，资金用途中 60% 用于 NB-101 的 I 期临床，25% 用于平台技术迭代，15% 用于团队扩张和运营。"
+      ],
+      [
+        "我",
+        "Our lead investor has confirmed 15 million. We're looking for 1 to 2 strategic investors with industry background to fill the remainder.",
+        "我们的 lead investor 已经确认跟投 1500 万，目前还在找 1 到 2 家有产业背景的战略投资人补齐剩下的额度。"
+      ],
+      [
+        "我",
+        "If you're interested, I'm happy to share the detailed data package and financial model after the session. Thank you.",
+        "如果各位感兴趣，会后我可以把详细的数据包和财务模型发给大家。谢谢。"
+      ],
+      [
+        "Susan",
+        "I know, but the issue is the client used a different analytical method. They ran HPLC-UV while we used LC-MS.",
+        "我知道，但现在问题是客户那边的复检方法跟我们不一样。他们用的是 HPLC-UV，我们用的是 LC-MS。"
+      ],
+      [
+        "Susan",
+        "Manager Zhang, were there any deviation logs during production? Even minor ones — temperature fluctuations, raw material lot changes, cleaning records?",
+        "张经理，你们生产过程中有没有任何偏差记录？哪怕是微小的——温度波动、换料批次、清洗记录？"
+      ],
+      [
+        "Zhang",
+        "I checked — on August 13th, reactor 3 ran 2 degrees high for about an hour, but within the validated range, so no deviation was filed.",
+        "我查了一下——8 月 13 号那天，反应釜三的温度有一个小时偏高了 2 度，但在工艺允许范围内，所以没有走偏差流程。"
+      ],
+      [
+        "Susan",
+        "2 degrees within the validated range, yes. But if this impurity is a temperature-sensitive degradation product, that could explain the discrepancy. I need the complete batch record from that day within one hour.",
+        "2 度在验证范围内没错，但如果这个杂质是温度敏感的降解产物，那就可能解释这个差异。我需要你们把那天的完整 batch record 在一个小时内发给我。"
+      ],
+      [
+        "Susan",
+        "BD Director（Michael）:",
+        "我插一句——客户那边我已经打了电话安抚，他们同意给我们 48 小时做根因分析。但如果 48 小时内没有明确结论，他们会升级到他们的质量副总。"
+      ],
+      [
+        "Susan",
+        "Let me jump in — I've already called the client to manage expectations. They've agreed to give us 48 hours for root cause analysis. But if we don't have a clear conclusion by then, they'll escalate to their VP of Quality.",
+        "所以我们需要在这个时间窗口内完成三件事：第一，确认杂质身份；第二，确认是否是生产端的真实偏差；第三，准备一份给客户的正式回复信。"
+      ],
+      [
+        "Susan",
+        "So we need to accomplish three things within this window: first, identify the impurity; second, confirm whether it's a true production deviation; third, prepare a formal response letter to the client.",
+        ""
+      ],
+      [
+        "Susan",
+        "I'll handle the first. I'll have the analytical team work overtime on structural identification — results by tomorrow noon.",
+        "第一件事我来安排，今天下午让分析团队加班做结构鉴定，预计明天中午出结果。"
+      ],
+      [
+        "Zhang",
+        "I'll take the second. I'll pull all operational records and OQ/PQ calibration logs from that day for a full re-review — conclusion by end of day.",
+        "第二件事我来。我把那天所有操作记录、OQ/PQ 校准记录全部调出来重新审一遍，今天下班前给结论。"
+      ],
+      [
+        "Michael",
+        "Good, I'll draft the framework for the third. Once Susan and Zhang's conclusions are in, I'll fill in the content. The tone: transparent, accountable, with a clear action plan.",
+        "好，第三件事我来起草框架，Susan 和 Zhang 的结论出来后我填充内容。信的基调是：透明、负责、有行动计划。"
+      ],
+      [
+        "Michael",
+        "Also, I suggest we send the client a progress update every 12 hours during this window. Don't wait for the full conclusion — that makes the client anxious.",
+        "另外，我建议在这 48 小时内，我们每 12 小时给客户发一次进展更新——不要等全部结论出来才回复，那样客户会焦虑。"
+      ],
+      [
+        "Susan",
+        "Agreed. I suggest we set up a dedicated war room group — everyone involved, real-time information sharing.",
+        "同意。我建议我们建一个专门的 war room 群，所有相关人都在里面，信息实时共享。"
+      ],
+      [
+        "Zhang",
+        "No problem, I'll set it up now. One more suggestion — if it turns out to be our issue, should we proactively offer a replacement lot? That would show good faith.",
+        "没问题，我马上建群。另外我有一个建议——如果最终确认是我们的问题，我们是不是应该主动提出补送一批替代品？这样能显示诚意。"
+      ],
+      [
+        "Michael",
+        "Great idea from Manager Zhang. I'll prepare a contingency — if root cause confirms it's on us, we'll immediately propose a replacement plan and cost coverage.",
+        "张经理这个想法很好。我先准备一个预案，如果根因确认是我们的问题，我们第一时间提出补送方案和费用承担方式。"
+      ],
+      [
+        "Susan",
+        "Alright, that's the split. We'll do our first progress sync right here in 12 hours.",
+        "好，那就这么分工。12 小时后我们在这里做第一次进度同步。"
       ]
     ],
     "words": [
@@ -51587,43 +52479,43 @@ window.dialogueCards = [
         "pick up where we left off",
         "/pɪk ʌp weər wiː left ɒf/",
         "从上次停下的地方继续；解析：多轮谈判或会议续开时最自然的开场白，比 continue our discussion 更口语、更有连续感。",
-        "Let's pick up where we left off.",
-        "我们从上次接着聊。"
+        "Let's pick up where we left off.（我们从上次接着聊。）",
+        ""
       ],
       [
         "walk through",
         "/wɔːk θruː/",
         "过一遍、逐步讲解；解析：会议和谈判中替代 explain 或 present 的高频表达，暗示\"一步一步来\"，更亲切。",
-        "walk you through the feedback / the proposal",
-        "带你们过一遍反馈/方案"
+        "walk you through the feedback / the proposal（带你们过一遍反馈/方案）",
+        ""
       ],
       [
         "upfront",
         "/ʌpˈfrʌnt/",
         "首付款；坦率的；解析：医药 BD 许可交易中最核心的财务术语，与 milestone 和 royalty 并称三大支付结构。",
-        "upfront payment / upfront amount",
-        "首付款"
+        "upfront payment / upfront amount（首付款）",
+        ""
       ],
       [
         "trade-off",
         "/ˈtreɪd ɒf/",
         "权衡、取舍、交换条件；解析：谈判中\"以退为进\"的标准句式，比 compromise 更主动、更有策略感。",
-        "As a trade-off, we'll...",
-        "作为交换，我们……"
+        "As a trade-off, we'll...（作为交换，我们……）",
+        ""
       ],
       [
         "tough sell",
         "/tʌf sɛl/",
         "难以说服他人的事；难推销的方案；解析：谈判中表达\"这个条件我们内部不好交代\"的委婉说法，比 difficult to accept 更形象。",
-        "That's a tough sell internally.",
-        "这在国内部很难推。"
+        "That's a tough sell internally.（这在国内部很难推。）",
+        ""
       ],
       [
         "make up for",
         "/meɪk ʌp fɔːr/",
         "弥补、补偿；解析：谈判中\"找补\"的标准动词，比 compensate 更口语、更自然。",
-        "milestones need to make up for the upfront cut",
-        "里程碑需要补回首付差额"
+        "milestones need to make up for the upfront cut（里程碑需要补回首付差额）",
+        ""
       ]
     ]
   },
@@ -51635,8 +52527,23 @@ window.dialogueCards = [
     "lines": [
       [
         "A",
-        "Do you have any plans for the weekend? Not sure yet, I might go for a run in the park. That sounds great, can I join you? Sure! See you at the usual spot at eight.",
-        "A：你周末有什么安排吗？ B：还没想好，可能去公园跑个步。 A：好主意，我能一起吗？ B：当然！早上八点老地方见。"
+        "Do you have any plans for the weekend?",
+        "你周末有什么安排吗？"
+      ],
+      [
+        "B",
+        "Not sure yet, I might go for a run in the park.",
+        "还没想好，可能去公园跑个步。"
+      ],
+      [
+        "A",
+        "That sounds great, can I join you?",
+        "好主意，我能一起吗？"
+      ],
+      [
+        "B",
+        "Sure! See you at the usual spot at eight.",
+        "当然！早上八点老地方见。"
       ]
     ],
     "words": [
@@ -51644,15 +52551,15 @@ window.dialogueCards = [
         "join",
         "/dʒɔɪn/",
         "加入，一起（做某事）；解析：口语中常用来表示\"一起参与某活动\"，语气轻松。",
-        "Can I join you for lunch?",
-        "我能和你一起吃午饭吗？"
+        "Can I join you for lunch?（我能和你一起吃午饭吗？）",
+        ""
       ],
       [
         "usual spot",
         "/ˈjuːʒuəl spɒt/",
         "老地方，惯常去的地方；解析：口语常用搭配，指双方都知道的固定地点。",
-        "Let's meet at the usual spot after work.",
-        "下班后老地方见。"
+        "Let's meet at the usual spot after work.（下班后老地方见。）",
+        ""
       ]
     ]
   },
@@ -51664,8 +52571,28 @@ window.dialogueCards = [
     "lines": [
       [
         "A",
-        "Hey, is this seat taken? No, go ahead. Are you waiting for someone? No, just grabbing a quick coffee before work. Same here. Their new latte is really good. Oh, I might try that next time!",
-        "A：嘿，这个座位有人吗？ B：没有，坐吧。你在等人吗？ A：没有，就是上班前赶紧喝杯咖啡。 B：我也是。他们新出的拿铁特别好喝。 A：哦，下次我也要试试！"
+        "Hey, is this seat taken?",
+        "嘿，这个座位有人吗？"
+      ],
+      [
+        "B",
+        "No, go ahead. Are you waiting for someone?",
+        "没有，坐吧。你在等人吗？"
+      ],
+      [
+        "A",
+        "No, just grabbing a quick coffee before work.",
+        "没有，就是上班前赶紧喝杯咖啡。"
+      ],
+      [
+        "B",
+        "Same here. Their new latte is really good.",
+        "我也是。他们新出的拿铁特别好喝。"
+      ],
+      [
+        "A",
+        "Oh, I might try that next time!",
+        "哦，下次我也要试试！"
       ]
     ],
     "words": [
@@ -51673,15 +52600,15 @@ window.dialogueCards = [
         "grab",
         "/ɡræb/",
         "vt. 抓取，赶紧弄到；解析：口语中常表示\"快速获取/随便弄一下\"，比 get 更有紧迫感。",
-        "Let me grab a sandwich on the way.",
-        "路上我赶紧买个三明治。"
+        "Let me grab a sandwich on the way.（路上我赶紧买个三明治。）",
+        ""
       ],
       [
         "latte",
         "/ˈlɑːteɪ/",
         "拿铁（咖啡）；解析：意大利语借词，指浓缩咖啡加蒸汽牛奶的饮品。",
-        "I usually order a vanilla latte in the morning.",
-        "我早上一般点一杯香草拿铁。"
+        "I usually order a vanilla latte in the morning.（我早上一般点一杯香草拿铁。）",
+        ""
       ]
     ]
   },
@@ -51693,8 +52620,28 @@ window.dialogueCards = [
     "lines": [
       [
         "A",
-        "I just got a text — my package is here. Where is it? At the pickup station or the locker? It's in the locker downstairs. I'll go get it. Could you grab mine too? Mine arrived as well. Sure, send me the pickup code.",
-        "A：刚收到短信，我的快递到了。 B：在哪儿？驿站还是快递柜？ A：在楼下快递柜，我去取一下。 B：帮我顺便带一下呗？我的也到了。 A：行，把取件码发我。"
+        "I just got a text — my package is here.",
+        "刚收到短信，我的快递到了。"
+      ],
+      [
+        "B",
+        "Where is it? At the pickup station or the locker?",
+        "在哪儿？驿站还是快递柜？"
+      ],
+      [
+        "A",
+        "It's in the locker downstairs. I'll go get it.",
+        "在楼下快递柜，我去取一下。"
+      ],
+      [
+        "B",
+        "Could you grab mine too? Mine arrived as well.",
+        "帮我顺便带一下呗？我的也到了。"
+      ],
+      [
+        "A",
+        "Sure, send me the pickup code.",
+        "行，把取件码发我。"
       ]
     ],
     "words": [
@@ -51702,15 +52649,15 @@ window.dialogueCards = [
         "package",
         "/ˈpækɪdʒ/",
         "包裹，快递；解析：比 parcel 更常用于美式口语，指邮寄或快递的物品。",
-        "I'm expecting a package this afternoon.",
-        "我下午有个快递要到。"
+        "I'm expecting a package this afternoon.（我下午有个快递要到。）",
+        ""
       ],
       [
         "pickup code",
         "/ˈpɪkʌp koʊd/",
         "取件码；解析：指从快递柜或驿站取包裹时需要输入或出示的验证码。",
-        "I'll send you the pickup code in a second.",
-        "我马上把取件码发你。"
+        "I'll send you the pickup code in a second.（我马上把取件码发你。）",
+        ""
       ]
     ]
   },
@@ -51722,8 +52669,28 @@ window.dialogueCards = [
     "lines": [
       [
         "A",
-        "Are you busy today? Can you look at something for me? Not too bad, what's up? I'm not sure about the numbers in this report — could you go over them with me? No problem, send it over. Thanks so much. I'll send it right now.",
-        "A：你今天忙吗？能帮我看个东西吗？ B：还行，什么事？ A：我这份报告的数据部分不太确定，能帮我对一下吗？ B：没问题，发我看看。 A：太感谢了，马上发你。"
+        "Are you busy today? Can you look at something for me?",
+        "你今天忙吗？能帮我看个东西吗？"
+      ],
+      [
+        "B",
+        "Not too bad, what's up?",
+        "还行，什么事？"
+      ],
+      [
+        "A",
+        "I'm not sure about the numbers in this report — could you go over them with me?",
+        "我这份报告的数据部分不太确定，能帮我对一下吗？"
+      ],
+      [
+        "B",
+        "No problem, send it over.",
+        "没问题，发我看看。"
+      ],
+      [
+        "A",
+        "Thanks so much. I'll send it right now.",
+        "太感谢了，马上发你。"
       ]
     ],
     "words": [
@@ -51731,15 +52698,15 @@ window.dialogueCards = [
         "go over",
         "/ɡoʊ ˈoʊvər/",
         "phr.v. 仔细检查，过一遍；解析：口语中极常用的短语动词，表示\"审阅/核对/再过一遍\"，比 review 更自然。",
-        "Let's go over the agenda before the meeting starts.",
-        "开会前咱们再过一遍议程。"
+        "Let's go over the agenda before the meeting starts.（开会前咱们再过一遍议程。）",
+        ""
       ],
       [
         "send over",
         "/send ˈoʊvər/",
         "phr.v. 发过来，传过来；解析：比 send 更口语化，带\"传/递过来\"的语感，常用在请对方发文件、链接等场景。",
-        "Could you send over that contract when you get a chance?",
-        "方便的话把那份合同发我？"
+        "Could you send over that contract when you get a chance?（方便的话把那份合同发我？）",
+        ""
       ]
     ]
   },
@@ -51750,9 +52717,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「stuck、data analysis、spreadsheet」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Hi, do you have a minute? I'm working on this report and I'm stuck on the data analysis part. I know you're good with spreadsheets. Could you walk me through it? I don't want to take up too much of your time, maybe ten minutes after lunch?",
-        "嗨，你有空吗？我正在做这份报告，在数据分析部分卡住了。我知道你很擅长表格。你能给我讲解一下吗？我不想占用你太多时间，午饭后十分钟可以吗？"
+        "我",
+        "Hi, do you have a minute?",
+        "嗨，你有空吗？"
+      ],
+      [
+        "我",
+        "I'm working on this report and I'm stuck on the data analysis part.",
+        "我正在做这份报告，在数据分析部分卡住了。"
+      ],
+      [
+        "我",
+        "I know you're good with spreadsheets.",
+        "我知道你很擅长表格。"
+      ],
+      [
+        "我",
+        "Could you walk me through it?",
+        "你能给我讲解一下吗？"
+      ],
+      [
+        "我",
+        "I don't want to take up too much of your time, maybe ten minutes after lunch?",
+        "我不想占用你太多时间，午饭后十分钟可以吗？"
       ]
     ],
     "words": [
@@ -51800,9 +52787,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「commute、crowded、rush hour」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "My commute usually takes about forty minutes. I take the subway, and it's often crowded during rush hour. I use that time to listen to podcasts or read a few pages of a book. Sometimes I just close my eyes and relax. I think the commute is a good buffer between home life and work life.",
-        "我的通勤通常要花大约四十分钟。我坐地铁，高峰时段常常很拥挤。我会利用这段时间听播客或读几页书。有时我只是闭上眼睛放松一下。我觉得通勤是家庭生活和工作生活之间的一个很好的缓冲。"
+        "我",
+        "My commute usually takes about forty minutes.",
+        "我的通勤通常要花大约四十分钟。"
+      ],
+      [
+        "我",
+        "I take the subway, and it's often crowded during rush hour.",
+        "我坐地铁，高峰时段常常很拥挤。"
+      ],
+      [
+        "我",
+        "I use that time to listen to podcasts or read a few pages of a book.",
+        "我会利用这段时间听播客或读几页书。"
+      ],
+      [
+        "我",
+        "Sometimes I just close my eyes and relax.",
+        "有时我只是闭上眼睛放松一下。"
+      ],
+      [
+        "我",
+        "I think the commute is a good buffer between home life and work life.",
+        "我觉得通勤是家庭生活和工作生活之间的一个很好的缓冲。"
       ]
     ],
     "words": [
@@ -51850,9 +52857,19 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「reflect、grateful、improve」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "At the end of the day, I like to spend a few minutes reflecting on what went well and what didn't. I write down three things I'm grateful for and one thing I want to improve tomorrow. This small habit helps me sleep better and wake up with a clearer mind.",
-        "在一天结束时，我喜欢花几分钟反思哪些事情做得好，哪些没有。我写下三件感恩的事，以及一件明天想要改进的事。这个小习惯帮助我睡得更好，并以更清晰的头脑醒来。"
+        "我",
+        "At the end of the day, I like to spend a few minutes reflecting on what went well and what didn't.",
+        "在一天结束时，我喜欢花几分钟反思哪些事情做得好，哪些没有。"
+      ],
+      [
+        "我",
+        "I write down three things I'm grateful for and one thing I want to improve tomorrow.",
+        "我写下三件感恩的事，以及一件明天想要改进的事。"
+      ],
+      [
+        "我",
+        "This small habit helps me sleep better and wake up with a clearer mind.",
+        "这个小习惯帮助我睡得更好，并以更清晰的头脑醒来。"
       ]
     ],
     "words": [
@@ -51900,9 +52917,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「routine、stretch、schedule」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Every morning, I try to stick to a simple routine. I wake up around seven, drink a glass of warm water, and stretch for five minutes. Then I make coffee and review my schedule for the day. I find that a calm start helps me stay focused later. If I rush, I feel stressed before the workday even begins.",
-        "每天早上，我都尽量遵循一个简单的例行流程。我大约七点起床，喝一杯温水，然后伸展五分钟。接着煮咖啡并查看当天的日程安排。我发现一个平静的开始能帮助我之后保持专注。如果我匆匆忙忙，甚至在工作日开始之前就会感到紧张。"
+        "我",
+        "Every morning, I try to stick to a simple routine.",
+        "每天早上，我都尽量遵循一个简单的例行流程。"
+      ],
+      [
+        "我",
+        "I wake up around seven, drink a glass of warm water, and stretch for five minutes.",
+        "我大约七点起床，喝一杯温水，然后伸展五分钟。"
+      ],
+      [
+        "我",
+        "Then I make coffee and review my schedule for the day.",
+        "接着煮咖啡并查看当天的日程安排。"
+      ],
+      [
+        "我",
+        "I find that a calm start helps me stay focused later.",
+        "我发现一个平静的开始能帮助我之后保持专注。"
+      ],
+      [
+        "我",
+        "If I rush, I feel stressed before the workday even begins.",
+        "如果我匆匆忙忙，甚至在工作日开始之前就会感到紧张。"
       ]
     ],
     "words": [
@@ -51950,9 +52987,24 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「prioritize、task、tackle」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "When I arrive at the office, the first thing I do is check my emails and messages. I prioritize my tasks and make a to-do list. I like to tackle the hardest task first while my energy is high. By noon, I usually feel a sense of accomplishment.",
-        "当我到达办公室时，我做的第一件事就是查看邮件和消息。我确定任务的优先级并列出待办清单。我喜欢在精力最充沛的时候先处理最难的任务。到中午时分，我通常会有一种成就感。"
+        "我",
+        "When I arrive at the office, the first thing I do is check my emails and messages.",
+        "当我到达办公室时，我做的第一件事就是查看邮件和消息。"
+      ],
+      [
+        "我",
+        "I prioritize my tasks and make a to-do list.",
+        "我确定任务的优先级并列出待办清单。"
+      ],
+      [
+        "我",
+        "I like to tackle the hardest task first while my energy is high.",
+        "我喜欢在精力最充沛的时候先处理最难的任务。"
+      ],
+      [
+        "我",
+        "By noon, I usually feel a sense of accomplishment.",
+        "到中午时分，我通常会有一种成就感。"
       ]
     ],
     "words": [
@@ -52000,9 +53052,34 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「update、initial、on track」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Thanks, everyone. Let me give you a quick update on my project. We finished the initial research phase last week, and now we're moving into design. So far, everything is on track. The main risk is the timeline, because one of our suppliers is delayed. I'll keep you posted if anything changes.",
-        "谢谢大家。让我快速汇报一下我的项目进展。我们上周完成了初期调研阶段，现在正进入设计阶段。到目前为止，一切进展顺利。主要风险是时间安排，因为其中一个供应商延误了。如果有任何变化，我会及时通知大家。"
+        "我",
+        "Thanks, everyone.",
+        "谢谢大家。"
+      ],
+      [
+        "我",
+        "Let me give you a quick update on my project.",
+        "让我快速汇报一下我的项目进展。"
+      ],
+      [
+        "我",
+        "We finished the initial research phase last week, and now we're moving into design.",
+        "我们上周完成了初期调研阶段，现在正进入设计阶段。"
+      ],
+      [
+        "我",
+        "So far, everything is on track.",
+        "到目前为止，一切进展顺利。"
+      ],
+      [
+        "我",
+        "The main risk is the timeline, because one of our suppliers is delayed.",
+        "主要风险是时间安排，因为其中一个供应商延误了。"
+      ],
+      [
+        "我",
+        "I'll keep you posted if anything changes.",
+        "如果有任何变化，我会及时通知大家。"
       ]
     ],
     "words": [
@@ -52057,9 +53134,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「address、take responsibility、resent」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "I want to address the error in yesterday's report. I missed a key data point in the financial section, and I take full responsibility. I've already corrected it and resent the updated version. To make sure this doesn't happen again, I've added a second review step to my process. I appreciate your patience, and I'm committed to maintaining the standards of our team.",
-        "我想就昨天报告中的错误做一个说明。我漏掉了财务部分的一个关键数据点，我负全部责任。我已经修正了，并重新发送了更新版本。为了确保此类情况不再发生，我在流程中增加了一道复核环节。感谢您的耐心，我致力于保持我们团队的标准。"
+        "我",
+        "I want to address the error in yesterday's report.",
+        "我想就昨天报告中的错误做一个说明。"
+      ],
+      [
+        "我",
+        "I missed a key data point in the financial section, and I take full responsibility.",
+        "我漏掉了财务部分的一个关键数据点，我负全部责任。"
+      ],
+      [
+        "我",
+        "I've already corrected it and resent the updated version.",
+        "我已经修正了，并重新发送了更新版本。"
+      ],
+      [
+        "我",
+        "To make sure this doesn't happen again, I've added a second review step to my process.",
+        "为了确保此类情况不再发生，我在流程中增加了一道复核环节。"
+      ],
+      [
+        "我",
+        "I appreciate your patience, and I'm committed to maintaining the standards of our team.",
+        "感谢您的耐心，我致力于保持我们团队的标准。"
       ]
     ],
     "words": [
@@ -52107,9 +53204,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「schedule an appointment、check-up、routine visit」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Hello, I'd like to schedule an appointment with Dr. Smith, please. This Thursday or Friday afternoon would work for me, if possible. I haven't been in for a check-up in over a year, so it's just a routine visit. Could you also let me know what I should bring? My insurance card, I assume, but anything else?",
-        "你好，我想预约一下 Smith 医生的门诊。如果可以的话，这个周四或周五下午都可以。我已经超过一年没做体检了，所以只是例行检查。请问您能告诉我需要带什么吗？我想保险卡是必须的，还有别的吗？"
+        "我",
+        "Hello, I'd like to schedule an appointment with Dr. Smith, please.",
+        "你好，我想预约一下 Smith 医生的门诊。"
+      ],
+      [
+        "我",
+        "This Thursday or Friday afternoon would work for me, if possible.",
+        "如果可以的话，这个周四或周五下午都可以。"
+      ],
+      [
+        "我",
+        "I haven't been in for a check-up in over a year, so it's just a routine visit.",
+        "我已经超过一年没做体检了，所以只是例行检查。"
+      ],
+      [
+        "我",
+        "Could you also let me know what I should bring?",
+        "请问您能告诉我需要带什么吗？"
+      ],
+      [
+        "我",
+        "My insurance card, I assume, but anything else?",
+        "我想保险卡是必须的，还有别的吗？"
       ]
     ],
     "words": [
@@ -52157,9 +53274,34 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「unwind、pasta、olive oil」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "I really enjoy cooking on weekday evenings. It helps me unwind after a long day at work. Tonight I'm making a simple pasta with garlic, olive oil, and fresh tomatoes. The whole process takes about twenty minutes. I find that chopping vegetables and stirring the sauce can be surprisingly therapeutic. Plus, I know exactly what's going into my meal.",
-        "我非常喜欢在工作日的晚上做饭。它能帮助我在漫长的一天后放松下来。今晚我打算做一道简单的意面，配大蒜、橄榄油和新鲜的番茄。整个过程大约需要二十分钟。我发现切菜和翻炒酱汁有出奇地治愈效果。而且，我清楚地知道我的饭菜里都放了什么。"
+        "我",
+        "I really enjoy cooking on weekday evenings.",
+        "我非常喜欢在工作日的晚上做饭。"
+      ],
+      [
+        "我",
+        "It helps me unwind after a long day at work.",
+        "它能帮助我在漫长的一天后放松下来。"
+      ],
+      [
+        "我",
+        "Tonight I'm making a simple pasta with garlic, olive oil, and fresh tomatoes.",
+        "今晚我打算做一道简单的意面，配大蒜、橄榄油和新鲜的番茄。"
+      ],
+      [
+        "我",
+        "The whole process takes about twenty minutes.",
+        "整个过程大约需要二十分钟。"
+      ],
+      [
+        "我",
+        "I find that chopping vegetables and stirring the sauce can be surprisingly therapeutic.",
+        "我发现切菜和翻炒酱汁有出奇地治愈效果。"
+      ],
+      [
+        "我",
+        "Plus, I know exactly what's going into my meal.",
+        "而且，我清楚地知道我的饭菜里都放了什么。"
       ]
     ],
     "words": [
@@ -52214,9 +53356,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「upfront、workload、hit the deadline」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Thanks for the update on the project timeline. I've been reviewing the workload, and I want to be upfront with you — I don't think we can hit the original deadline without compromising quality. Could we push it back by one week? That would give us enough time to do thorough testing. I'd rather deliver something solid than rush and risk errors.",
-        "谢谢您关于项目时间表的更新。我一直在评估工作量，想跟您坦诚地说一下——我认为在不影响质量的前提下无法赶上原定截止日期。我们能否延后一周？这样能有足够时间做充分的测试。我宁愿交付出扎实的结果，也不愿赶工而冒着出错的危险。"
+        "我",
+        "Thanks for the update on the project timeline.",
+        "谢谢您关于项目时间表的更新。"
+      ],
+      [
+        "我",
+        "I've been reviewing the workload, and I want to be upfront with you — I don't think we can hit the original deadline without compromising quality.",
+        "我一直在评估工作量，想跟您坦诚地说一下——我认为在不影响质量的前提下无法赶上原定截止日期。"
+      ],
+      [
+        "我",
+        "Could we push it back by one week?",
+        "我们能否延后一周？"
+      ],
+      [
+        "我",
+        "That would give us enough time to do thorough testing.",
+        "这样能有足够时间做充分的测试。"
+      ],
+      [
+        "我",
+        "I'd rather deliver something solid than rush and risk errors.",
+        "我宁愿交付出扎实的结果，也不愿赶工而冒着出错的危险。"
       ]
     ],
     "words": [
@@ -52271,9 +53433,34 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「networking event、approach、flow naturally」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "At networking events, I used to feel nervous approaching strangers. Now I start with a simple question, like \"What brings you to this event?\" or \"How do you know the host?\" People love to talk about themselves, so the conversation usually flows naturally. Before I leave, I always ask for a business card or a LinkedIn connection. It's all about being curious and genuine.",
-        "在社交活动上，我以前会为接近陌生人而感到紧张。现在我会从一个简单的问题开始，比如\"是什么吸引你来到这次活动？\"或者\"你是怎么认识主办方的？\"人们都喜欢谈论自己，所以对话通常会很自然地展开。离开之前，我总会要一张名片或加个 LinkedIn 好友。这完全在于保持好奇和真诚。"
+        "我",
+        "At networking events, I used to feel nervous approaching strangers.",
+        "在社交活动上，我以前会为接近陌生人而感到紧张。"
+      ],
+      [
+        "我",
+        "Now I start with a simple question, like \"What brings you to this event?\" or \"How do you know the host?\" People love to talk about themselves, so the conversation usually flows naturally.",
+        "现在我会从一个简单的问题开始，比如\"是什么吸引你来到这次活动？"
+      ],
+      [
+        "我",
+        "Before I leave, I always ask for a business card or a LinkedIn connection.",
+        "\"或者\"你是怎么认识主办方的？"
+      ],
+      [
+        "我",
+        "It's all about being curious and genuine.",
+        "\"人们都喜欢谈论自己，所以对话通常会很自然地展开。"
+      ],
+      [
+        "我",
+        "",
+        "离开之前，我总会要一张名片或加个 LinkedIn 好友。"
+      ],
+      [
+        "我",
+        "",
+        "这完全在于保持好奇和真诚。"
       ]
     ],
     "words": [
@@ -52328,9 +53515,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「cappuccino、notebook、float」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "Saturday mornings are my favorite. I usually walk to a small café near my apartment and order a cappuccino. I bring a notebook and just sit by the window. Sometimes I read, sometimes I write down ideas that have been floating in my head all week. There's something about the gentle noise of the café that helps me think clearly.",
-        "周六早晨是我最喜欢的时光。我通常会步行到公寓附近的一家小咖啡馆，点一杯卡布奇诺。我会带一个笔记本，坐在窗边。有时阅读，有时把整整一周盘旋在脑海里的想法写下来。咖啡馆里轻柔的嘈杂声反而能帮我清晰地思考。"
+        "我",
+        "Saturday mornings are my favorite.",
+        "周六早晨是我最喜欢的时光。"
+      ],
+      [
+        "我",
+        "I usually walk to a small café near my apartment and order a cappuccino.",
+        "我通常会步行到公寓附近的一家小咖啡馆，点一杯卡布奇诺。"
+      ],
+      [
+        "我",
+        "I bring a notebook and just sit by the window.",
+        "我会带一个笔记本，坐在窗边。"
+      ],
+      [
+        "我",
+        "Sometimes I read, sometimes I write down ideas that have been floating in my head all week.",
+        "有时阅读，有时把整整一周盘旋在脑海里的想法写下来。"
+      ],
+      [
+        "我",
+        "There's something about the gentle noise of the café that helps me think clearly.",
+        "咖啡馆里轻柔的嘈杂声反而能帮我清晰地思考。"
       ]
     ],
     "words": [
@@ -52378,9 +53585,24 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「clarify、streamline、approval process」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "I'm sorry, could you clarify what you mean by \"streamline the approval process\"? Are we talking about reducing the number of review steps, or just speeding up the existing ones? I want to make sure I understand correctly before we move forward. It's better to ask now than to guess and end up doing the wrong thing.",
-        "不好意思，能否请您澄清一下\"简化审批流程\"具体是什么意思？我们说的是减少审核步骤的数量，还是加快现有步骤的速度？我想确保理解正确后再推进。现在问清楚总比猜测之后做错要好。"
+        "我",
+        "I'm sorry, could you clarify what you mean by \"streamline the approval process\"?",
+        "不好意思，能否请您澄清一下\"简化审批流程\"具体是什么意思？"
+      ],
+      [
+        "我",
+        "Are we talking about reducing the number of review steps, or just speeding up the existing ones?",
+        "我们说的是减少审核步骤的数量，还是加快现有步骤的速度？"
+      ],
+      [
+        "我",
+        "I want to make sure I understand correctly before we move forward.",
+        "我想确保理解正确后再推进。"
+      ],
+      [
+        "我",
+        "It's better to ask now than to guess and end up doing the wrong thing.",
+        "现在问清楚总比猜测之后做错要好。"
       ]
     ],
     "words": [
@@ -52435,9 +53657,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「tracking number、transit center、stuck」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "My package was supposed to arrive yesterday, but it's still not here. I checked the tracking number and it says it's been stuck at a transit center since Monday. I'm going to call customer service to find out what happened. If it doesn't arrive by tomorrow, I'll ask for a refund. Waiting is frustrating, especially when you need something urgently.",
-        "我的包裹本应昨天到达，但到现在还没收到。我查了物流单号，显示从周一就一直停留在中转站。我打算打电话给客服问清楚情况。如果明天还没到，我就要求退款。等待令人烦躁，尤其当你急需某样东西的时候。"
+        "我",
+        "My package was supposed to arrive yesterday, but it's still not here.",
+        "我的包裹本应昨天到达，但到现在还没收到。"
+      ],
+      [
+        "我",
+        "I checked the tracking number and it says it's been stuck at a transit center since Monday.",
+        "我查了物流单号，显示从周一就一直停留在中转站。"
+      ],
+      [
+        "我",
+        "I'm going to call customer service to find out what happened.",
+        "我打算打电话给客服问清楚情况。"
+      ],
+      [
+        "我",
+        "If it doesn't arrive by tomorrow, I'll ask for a refund.",
+        "如果明天还没到，我就要求退款。"
+      ],
+      [
+        "我",
+        "Waiting is frustrating, especially when you need something urgently.",
+        "等待令人烦躁，尤其当你急需某样东西的时候。"
       ]
     ],
     "words": [
@@ -52492,9 +53734,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「feedback、well-structured、solid」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "I wanted to share some feedback on the presentation you gave yesterday. Overall, it was well-structured and the data was solid. One thing I'd suggest is to slow down during the key findings section — you rushed through it a bit, and the audience might have missed the main takeaways. Also, try to pause after each major point. That gives people time to absorb the information.",
-        "我想对你昨天做的演示汇报给一些反馈。整体来看，结构很清晰，数据也很扎实。有一点建议：在关键发现部分可以放慢节奏——你稍微赶了一些，听众可能会错过主要结论。另外，每讲完一个要点之后试着停顿一下，这样人们才有时间去消化信息。"
+        "我",
+        "I wanted to share some feedback on the presentation you gave yesterday.",
+        "我想对你昨天做的演示汇报给一些反馈。"
+      ],
+      [
+        "我",
+        "Overall, it was well-structured and the data was solid.",
+        "整体来看，结构很清晰，数据也很扎实。"
+      ],
+      [
+        "我",
+        "One thing I'd suggest is to slow down during the key findings section — you rushed through it a bit, and the audience might have missed the main takeaways.",
+        "有一点建议：在关键发现部分可以放慢节奏——你稍微赶了一些，听众可能会错过主要结论。"
+      ],
+      [
+        "我",
+        "Also, try to pause after each major point.",
+        "另外，每讲完一个要点之后试着停顿一下，这样人们才有时间去消化信息。"
+      ],
+      [
+        "我",
+        "That gives people time to absorb the information.",
+        ""
       ]
     ],
     "words": [
@@ -52549,9 +53811,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「upset、deliverable、interrupt」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "The client on the phone was clearly upset about the delay in our deliverables. I listened carefully without interrupting, and then acknowledged their frustration. I explained what caused the issue and offered a concrete timeline for resolution. I also promised to send a daily progress update until the project is back on track. Sometimes the best strategy is just to stay calm and show that you genuinely care about fixing the problem.",
-        "电话那头的客户显然对我们交付延迟很不满。我仔细聆听，没有打断，然后认可了他们的不满情绪。我解释了问题的原因，并提供了一个具体的解决时间表。我还承诺在项目恢复正常之前每天发送进展更新。有时候最好的策略就是保持冷静，并表现出你确实关心解决问题。"
+        "我",
+        "The client on the phone was clearly upset about the delay in our deliverables.",
+        "电话那头的客户显然对我们交付延迟很不满。"
+      ],
+      [
+        "我",
+        "I listened carefully without interrupting, and then acknowledged their frustration.",
+        "我仔细聆听，没有打断，然后认可了他们的不满情绪。"
+      ],
+      [
+        "我",
+        "I explained what caused the issue and offered a concrete timeline for resolution.",
+        "我解释了问题的原因，并提供了一个具体的解决时间表。"
+      ],
+      [
+        "我",
+        "I also promised to send a daily progress update until the project is back on track.",
+        "我还承诺在项目恢复正常之前每天发送进展更新。"
+      ],
+      [
+        "我",
+        "Sometimes the best strategy is just to stay calm and show that you genuinely care about fixing the problem.",
+        "有时候最好的策略就是保持冷静，并表现出你确实关心解决问题。"
       ]
     ],
     "words": [
@@ -52606,9 +53888,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「short trip、hiking trail、look up」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "I've been thinking about taking a short trip this weekend. I want to go somewhere within a two-hour drive, maybe a small town with a nice hiking trail. I've already looked up a few places online and read some reviews. Now I just need to book a hotel and decide whether to leave Friday evening or Saturday morning. Short trips like this are a great way to recharge without spending too much.",
-        "我在考虑这周末来一趟短途旅行。想去车程两小时以内的地方，也许是一个有不错徒步路线的小镇。我已经在网上查了几个地方，也读了一些评价。现在只需要订一家酒店，再决定周五晚上出发还是周六早上出发。这样的短途旅行是很好的充电方式，花费也不会太多。"
+        "我",
+        "I've been thinking about taking a short trip this weekend.",
+        "我在考虑这周末来一趟短途旅行。"
+      ],
+      [
+        "我",
+        "I want to go somewhere within a two-hour drive, maybe a small town with a nice hiking trail.",
+        "想去车程两小时以内的地方，也许是一个有不错徒步路线的小镇。"
+      ],
+      [
+        "我",
+        "I've already looked up a few places online and read some reviews.",
+        "我已经在网上查了几个地方，也读了一些评价。"
+      ],
+      [
+        "我",
+        "Now I just need to book a hotel and decide whether to leave Friday evening or Saturday morning.",
+        "现在只需要订一家酒店，再决定周五晚上出发还是周六早上出发。"
+      ],
+      [
+        "我",
+        "Short trips like this are a great way to recharge without spending too much.",
+        "这样的短途旅行是很好的充电方式，花费也不会太多。"
       ]
     ],
     "words": [
@@ -52663,9 +53965,29 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「return label、fit properly、original」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "I need to return a pair of shoes I bought online. They looked great on the website, but the size doesn't fit properly. I've already printed the return label and packed them back in the original box. I just need to drop it off at the pickup point before the return window closes. The process is usually straightforward, but I always double-check the deadline to avoid any issues.",
-        "我需要退掉网上买的一双鞋。网站上看着很不错，但尺码不太合脚。我已经打印了退货标签，把鞋装回了原包装盒里。只需要在退货窗口关闭前送到取件点就行。流程通常很简单，但我总是会再三确认截止日期，以免出问题。"
+        "我",
+        "I need to return a pair of shoes I bought online.",
+        "我需要退掉网上买的一双鞋。"
+      ],
+      [
+        "我",
+        "They looked great on the website, but the size doesn't fit properly.",
+        "网站上看着很不错，但尺码不太合脚。"
+      ],
+      [
+        "我",
+        "I've already printed the return label and packed them back in the original box.",
+        "我已经打印了退货标签，把鞋装回了原包装盒里。"
+      ],
+      [
+        "我",
+        "I just need to drop it off at the pickup point before the return window closes.",
+        "只需要在退货窗口关闭前送到取件点就行。"
+      ],
+      [
+        "我",
+        "The process is usually straightforward, but I always double-check the deadline to avoid any issues.",
+        "流程通常很简单，但我总是会再三确认截止日期，以免出问题。"
       ]
     ],
     "words": [
@@ -52720,9 +54042,34 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「commuter、in advance」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "It's Monday morning again, and the subway is packed with commuters rushing to work. I lean against the door, an old song playing in my headphones, and suddenly this week's busyness doesn't feel so unwelcome. When I get to the office, I'll make myself a cup of coffee first and list out my to-do items one by one. At noon, I'm planning to try the new light-meal restaurant downstairs with a colleague. There's a project report this afternoon, and I've already gone through the slides in advance. If I can leave on time tonight, I'll take a walk by the river and give myself a little breathing room.",
-        "又是周一的早晨，地铁上挤满了赶路的上班族。我靠在门边，耳机里放着一首老歌，忽然觉得这一周的忙碌也未尝不可期。到了公司，先给自己泡一杯咖啡，再把待办事项一条条列出来。中午打算和同事去楼下那家新开的轻食店试试。下午有个项目汇报，我已经提前把PPT过了一遍。晚上如果能准时下班，就去河边散散步，给自己一点喘息的空间。"
+        "我",
+        "It's Monday morning again, and the subway is packed with commuters rushing to work.",
+        "又是周一的早晨，地铁上挤满了赶路的上班族。"
+      ],
+      [
+        "我",
+        "I lean against the door, an old song playing in my headphones, and suddenly this week's busyness doesn't feel so unwelcome.",
+        "我靠在门边，耳机里放着一首老歌，忽然觉得这一周的忙碌也未尝不可期。"
+      ],
+      [
+        "我",
+        "When I get to the office, I'll make myself a cup of coffee first and list out my to-do items one by one.",
+        "到了公司，先给自己泡一杯咖啡，再把待办事项一条条列出来。"
+      ],
+      [
+        "我",
+        "At noon, I'm planning to try the new light-meal restaurant downstairs with a colleague.",
+        "中午打算和同事去楼下那家新开的轻食店试试。"
+      ],
+      [
+        "我",
+        "There's a project report this afternoon, and I've already gone through the slides in advance.",
+        "下午有个项目汇报，我已经提前把PPT过了一遍。"
+      ],
+      [
+        "我",
+        "If I can leave on time tonight, I'll take a walk by the river and give myself a little breathing room.",
+        "晚上如果能准时下班，就去河边散散步，给自己一点喘息的空间。"
       ]
     ],
     "words": [
@@ -52730,15 +54077,15 @@ window.dialogueCards = [
         "commuter",
         "/kəˈmjuːtər/",
         "通勤者，上下班往返的人",
-        "The early train is always full of sleepy commuters.",
-        "早班火车上总是挤满了睡眼惺忪的通勤者。"
+        "The early train is always full of sleepy commuters.（早班火车上总是挤满了睡眼惺忪的通勤者。）",
+        ""
       ],
       [
         "in advance",
         "",
         "提前，事先",
-        "Thanks for booking the meeting room in advance.",
-        "谢谢你提前预订了会议室。"
+        "Thanks for booking the meeting room in advance.（谢谢你提前预订了会议室。）",
+        ""
       ]
     ]
   },
@@ -52749,9 +54096,34 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「spacious、muster up the courage」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "At the hotel front desk, I checked in with a few English phrases I'd prepared beforehand — it was a bit choppy, but the receptionist was very patient. The room turned out to be more spacious than I expected, with a view of the old town's red rooftops right outside the window. I dropped off my luggage and headed out immediately, wandering aimlessly along the cobblestone streets until I came across an open-air café and sat down to order a latte. In the evening, I found my way to a night market popular with locals, where the aromas from all kinds of food stalls blended together and made it impossible to walk away. I mustered up the courage to use a translation app plus hand gestures to order a local specialty grilled meat wrap. The vendor gave me a thumbs-up, and in that moment I realized that a language barrier really isn't such a big deal.",
-        "到了酒店前台，我用事先准备好的几句英语办了入住，虽然磕磕巴巴但前台小姐姐很有耐心。房间比想象中宽敞，窗户外就能看到老城区的红屋顶。放下行李我就出门了，沿着石板路瞎逛，路过一家露天咖啡馆就坐下来点了杯拿铁。傍晚溜达到了一个当地人爱去的夜市，各种小吃摊的香味混在一起，让人挪不动脚。我鼓起勇气用翻译软件加手势，点了一份当地特色烤肉卷。卖烤肉的大叔冲我竖了个大拇指，那一瞬间觉得语言不通也没什么大不了的。"
+        "我",
+        "At the hotel front desk, I checked in with a few English phrases I'd prepared beforehand — it was a bit choppy, but the receptionist was very patient.",
+        "到了酒店前台，我用事先准备好的几句英语办了入住，虽然磕磕巴巴但前台小姐姐很有耐心。"
+      ],
+      [
+        "我",
+        "The room turned out to be more spacious than I expected, with a view of the old town's red rooftops right outside the window.",
+        "房间比想象中宽敞，窗户外就能看到老城区的红屋顶。"
+      ],
+      [
+        "我",
+        "I dropped off my luggage and headed out immediately, wandering aimlessly along the cobblestone streets until I came across an open-air café and sat down to order a latte.",
+        "放下行李我就出门了，沿着石板路瞎逛，路过一家露天咖啡馆就坐下来点了杯拿铁。"
+      ],
+      [
+        "我",
+        "In the evening, I found my way to a night market popular with locals, where the aromas from all kinds of food stalls blended together and made it impossible to walk away.",
+        "傍晚溜达到了一个当地人爱去的夜市，各种小吃摊的香味混在一起，让人挪不动脚。"
+      ],
+      [
+        "我",
+        "I mustered up the courage to use a translation app plus hand gestures to order a local specialty grilled meat wrap.",
+        "我鼓起勇气用翻译软件加手势，点了一份当地特色烤肉卷。"
+      ],
+      [
+        "我",
+        "The vendor gave me a thumbs-up, and in that moment I realized that a language barrier really isn't such a big deal.",
+        "卖烤肉的大叔冲我竖了个大拇指，那一瞬间觉得语言不通也没什么大不了的。"
       ]
     ],
     "words": [
@@ -52759,15 +54131,15 @@ window.dialogueCards = [
         "spacious",
         "/ˈspeɪʃəs/",
         "宽敞的",
-        "The hotel lobby is spacious and well-lit.",
-        "酒店大堂宽敞明亮。"
+        "The hotel lobby is spacious and well-lit.（酒店大堂宽敞明亮。）",
+        ""
       ],
       [
         "muster up the courage",
         "",
         "鼓起勇气",
-        "I finally mustered up the courage to speak up at the meeting.",
-        "我终于鼓起勇气在会议上发言了。"
+        "I finally mustered up the courage to speak up at the meeting.（我终于鼓起勇气在会议上发言了。）",
+        ""
       ]
     ]
   },
@@ -52778,9 +54150,34 @@ window.dialogueCards = [
     "tip": "独白跟读：先通读英文，再模仿语调；重点掌握「floor-to-ceiling、zone out」 的发音与在句中的实际用法；最后尝试不看中文，用英语复述本段。",
     "lines": [
       [
-        "A",
-        "It's a rare weekend with nothing on the schedule, so I decided to check out that brunch spot south of the city I've been meaning to try. There were already a dozen people in line when I arrived, but there happened to be a bookstore next door — perfect for killing time while waiting. Once seated, I ordered avocado toast and an iced Americano; sunlight streamed in through the floor-to-ceiling windows, and I just felt completely relaxed. After eating, I wandered into the park next door — someone was walking their dog by the lake, and a few kids were chasing a kite across the lawn. I found a bench under the shade of a tree and sat for a while, doing absolutely nothing, just zoning out. On my way back, I grabbed a bouquet of flowers at the convenience store to brighten up the apartment.",
-        "难得周末没安排，我决定去城南那家一直想试的brunch餐厅。到的时候已经排了十几个人，不过等位的时候旁边有家书店正好可以打发时间。坐下来以后点了一份牛油果吐司和一杯冰美式，阳光透过落地窗照进来，整个人都松弛了。吃完出门溜达进隔壁的公园，湖边有人在遛狗，草坪上几个小孩追着风筝跑。我在树荫下找了张长椅坐了一会儿，什么也没想，就这么发呆放空。回去的路上顺手在便利店买了一束花，给屋里添点颜色。"
+        "我",
+        "It's a rare weekend with nothing on the schedule, so I decided to check out that brunch spot south of the city I've been meaning to try.",
+        "难得周末没安排，我决定去城南那家一直想试的brunch餐厅。"
+      ],
+      [
+        "我",
+        "There were already a dozen people in line when I arrived, but there happened to be a bookstore next door — perfect for killing time while waiting.",
+        "到的时候已经排了十几个人，不过等位的时候旁边有家书店正好可以打发时间。"
+      ],
+      [
+        "我",
+        "Once seated, I ordered avocado toast and an iced Americano; sunlight streamed in through the floor-to-ceiling windows, and I just felt completely relaxed.",
+        "坐下来以后点了一份牛油果吐司和一杯冰美式，阳光透过落地窗照进来，整个人都松弛了。"
+      ],
+      [
+        "我",
+        "After eating, I wandered into the park next door — someone was walking their dog by the lake, and a few kids were chasing a kite across the lawn.",
+        "吃完出门溜达进隔壁的公园，湖边有人在遛狗，草坪上几个小孩追着风筝跑。"
+      ],
+      [
+        "我",
+        "I found a bench under the shade of a tree and sat for a while, doing absolutely nothing, just zoning out.",
+        "我在树荫下找了张长椅坐了一会儿，什么也没想，就这么发呆放空。"
+      ],
+      [
+        "我",
+        "On my way back, I grabbed a bouquet of flowers at the convenience store to brighten up the apartment.",
+        "回去的路上顺手在便利店买了一束花，给屋里添点颜色。"
       ]
     ],
     "words": [
@@ -52788,15 +54185,15 @@ window.dialogueCards = [
         "floor-to-ceiling",
         "/flɔːr tə ˈsiːlɪŋ/",
         "落地式的（指窗户等从地面直达天花板）",
-        "The living room has floor-to-ceiling windows with a stunning ocean view.",
-        "客厅有落地窗，可以欣赏绝美的海景。"
+        "The living room has floor-to-ceiling windows with a stunning ocean view.（客厅有落地窗，可以欣赏绝美的海景。）",
+        ""
       ],
       [
         "zone out",
         "/zoʊn aʊt/",
         "发呆，走神，放空",
-        "I was so tired after the flight that I just zoned out during the whole meeting.",
-        "下飞机后我太累了，整个会议期间都在放空发呆。"
+        "I was so tired after the flight that I just zoned out during the whole meeting.（下飞机后我太累了，整个会议期间都在放空发呆。）",
+        ""
       ]
     ]
   }
