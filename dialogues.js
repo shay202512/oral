@@ -52747,35 +52747,35 @@ window.dialogueCards = [
         "stuck",
         "/stʌk/",
         "卡住的，困住的",
-        "",
+        "I'm working on this report and I'm stuck on the data analysis part.（我正在做这份报告，在数据分析部分卡住了。）",
         ""
       ],
       [
         "data analysis",
         "/ˈdeɪtə əˈnæləsɪs/",
         "数据分析",
-        "",
+        "I'm working on this report and I'm stuck on the data analysis part.（我正在做这份报告，在数据分析部分卡住了。）",
         ""
       ],
       [
         "spreadsheet",
         "/ˈspredʃiːt/",
         "电子表格",
-        "",
+        "I know you're good with spreadsheets.（我知道你很擅长表格。）",
         ""
       ],
       [
         "walk someone through",
         "/wɔːk ðruː/",
         "给某人逐步讲解",
-        "",
+        "Could you walk me through how this spreadsheet formula works?（你能带我过一遍这个表格公式是怎么用的吗？）",
         ""
       ],
       [
         "take up",
         "/teɪk ʌp/",
         "占用（时间）",
-        "",
+        "I don't want to take up too much of your time, maybe ten minutes after lunch?（我不想占用你太多时间，午饭后十分钟可以吗？）",
         ""
       ]
     ]
@@ -52817,35 +52817,35 @@ window.dialogueCards = [
         "commute",
         "/kəˈmjuːt/",
         "通勤",
-        "",
+        "My commute usually takes about forty minutes.（我的通勤通常要花大约四十分钟。）",
         ""
       ],
       [
         "crowded",
         "/ˈkraʊdɪd/",
         "拥挤的",
-        "",
+        "I take the subway, and it's often crowded during rush hour.（我坐地铁，高峰时段常常很拥挤。）",
         ""
       ],
       [
         "rush hour",
         "/rʌʃ ˈaʊər/",
         "高峰时段",
-        "",
+        "I take the subway, and it's often crowded during rush hour.（我坐地铁，高峰时段常常很拥挤。）",
         ""
       ],
       [
         "podcast",
         "/ˈpɒdkɑːst/",
         "播客",
-        "",
+        "I use that time to listen to podcasts or read a few pages of a book.（我会利用这段时间听播客或读几页书。）",
         ""
       ],
       [
         "buffer",
         "/ˈbʌfər/",
         "缓冲",
-        "",
+        "I think the commute is a good buffer between home life and work life.（我觉得通勤是家庭生活和工作生活之间的一个很好的缓冲。）",
         ""
       ]
     ]
@@ -52877,35 +52877,35 @@ window.dialogueCards = [
         "reflect",
         "/rɪˈflekt/",
         "反思，思考",
-        "",
+        "At the end of the day, I like to spend a few minutes reflecting on what went well and what didn't.（在一天结束时，我喜欢花几分钟反思哪些事情做得好，哪些没有。）",
         ""
       ],
       [
         "grateful",
         "/ˈɡreɪtfl/",
         "感激的，感恩的",
-        "",
+        "I write down three things I'm grateful for and one thing I want to improve tomorrow.（我写下三件感恩的事，以及一件明天想要改进的事。）",
         ""
       ],
       [
         "improve",
         "/ɪmˈpruːv/",
         "改进，提高",
-        "",
+        "At the end of the day, I like to spend a few minutes reflecting on what went well and what didn't.（在一天结束时，我喜欢花几分钟反思哪些事情做得好，哪些没有。）",
         ""
       ],
       [
         "habit",
         "/ˈhæbɪt/",
         "习惯",
-        "",
+        "This small habit helps me sleep better and wake up with a clearer mind.（这个小习惯帮助我睡得更好，并以更清晰的头脑醒来。）",
         ""
       ],
       [
         "clear",
         "/klɪər/",
         "清晰的，清楚的",
-        "",
+        "This small habit helps me sleep better and wake up with a clearer mind.（这个小习惯帮助我睡得更好，并以更清晰的头脑醒来。）",
         ""
       ]
     ]
@@ -52947,35 +52947,35 @@ window.dialogueCards = [
         "routine",
         "/ruːˈtiːn/",
         "例行公事，常规",
-        "",
+        "Every morning, I try to stick to a simple routine.（每天早上，我都尽量遵循一个简单的例行流程。）",
         ""
       ],
       [
         "stretch",
         "/stretʃ/",
         "伸展，拉伸",
-        "",
+        "I wake up around seven, drink a glass of warm water, and stretch for five minutes.（我大约七点起床，喝一杯温水，然后伸展五分钟。）",
         ""
       ],
       [
         "schedule",
         "/ˈskedʒuːl/",
         "日程安排，计划表",
-        "",
+        "Then I make coffee and review my schedule for the day.（接着煮咖啡并查看当天的日程安排。）",
         ""
       ],
       [
         "calm",
         "/kɑːm/",
         "平静的，冷静的",
-        "",
+        "I find that a calm start helps me stay focused later.（我发现一个平静的开始能帮助我之后保持专注。）",
         ""
       ],
       [
         "rush",
         "/rʌʃ/",
         "匆忙，赶紧",
-        "",
+        "If I rush, I feel stressed before the workday even begins.（如果我匆匆忙忙，甚至在工作日开始之前就会感到紧张。）",
         ""
       ]
     ]
@@ -53012,35 +53012,35 @@ window.dialogueCards = [
         "prioritize",
         "/praɪˈɒrətaɪz/",
         "确定优先级，优先处理",
-        "",
+        "I prioritize my tasks and make a to-do list.（我确定任务的优先级并列出待办清单。）",
         ""
       ],
       [
         "task",
         "/tɑːsk/",
         "任务",
-        "",
+        "I prioritize my tasks and make a to-do list.（我确定任务的优先级并列出待办清单。）",
         ""
       ],
       [
         "tackle",
         "/ˈtækl/",
         "处理，着手解决",
-        "",
+        "I like to tackle the hardest task first while my energy is high.（我喜欢在精力最充沛的时候先处理最难的任务。）",
         ""
       ],
       [
         "accomplishment",
         "/əˈkʌmplɪʃmənt/",
         "成就，完成",
-        "",
+        "I prioritize my tasks and make a to-do list.（我确定任务的优先级并列出待办清单。）",
         ""
       ],
       [
         "energy",
         "/ˈenədʒi/",
         "精力，能量",
-        "",
+        "I like to tackle the hardest task first while my energy is high.（我喜欢在精力最充沛的时候先处理最难的任务。）",
         ""
       ]
     ]
@@ -53087,42 +53087,42 @@ window.dialogueCards = [
         "update",
         "/ˌʌpˈdeɪt/",
         "更新，进展汇报",
-        "",
+        "Let me give you a quick update on my project.（让我快速汇报一下我的项目进展。）",
         ""
       ],
       [
         "initial",
         "/ɪˈnɪʃl/",
         "最初的，初期的",
-        "",
+        "We finished the initial research phase last week, and now we're moving into design.（我们上周完成了初期调研阶段，现在正进入设计阶段。）",
         ""
       ],
       [
         "on track",
         "/ɒn træk/",
         "进展顺利，按计划进行",
-        "",
+        "So far, everything is on track.（到目前为止，一切进展顺利。）",
         ""
       ],
       [
         "risk",
         "/rɪsk/",
         "风险",
-        "",
+        "The main risk is the timeline, because one of our suppliers is delayed.（主要风险是时间安排，因为其中一个供应商延误了。）",
         ""
       ],
       [
         "supplier",
         "/səˈplaɪər/",
         "供应商",
-        "",
+        "The main risk is the timeline, because one of our suppliers is delayed.（主要风险是时间安排，因为其中一个供应商延误了。）",
         ""
       ],
       [
         "keep someone posted",
         "/kiːp ˈpəʊstɪd/",
         "让某人及时了解情况",
-        "",
+        "I'll keep you posted on any changes to the schedule.（日程有任何变动我都会及时告诉你。）",
         ""
       ]
     ]
@@ -53164,35 +53164,35 @@ window.dialogueCards = [
         "address",
         "/əˈdres/",
         "处理，说明（问题）",
-        "",
+        "I want to address the error in yesterday's report.（我想就昨天报告中的错误做一个说明。）",
         ""
       ],
       [
         "take responsibility",
         "/teɪk rɪˌspɒnsɪˈbɪləti/",
         "承担责任",
-        "",
+        "I take full responsibility for the mistake in the report.（对于报告里的错误，我承担全部责任。）",
         ""
       ],
       [
         "resent",
         "/ˌriːˈsent/",
         "重新发送",
-        "",
+        "I've already corrected it and resent the updated version.（我已经修正了，并重新发送了更新版本。）",
         ""
       ],
       [
         "review step",
         "/rɪˈvjuː step/",
         "复核步骤",
-        "",
+        "To make sure this doesn't happen again, I've added a second review step to my process.（为了确保此类情况不再发生，我在流程中增加了一道复核环节。）",
         ""
       ],
       [
         "committed",
         "/kəˈmɪtɪd/",
         "投入的，坚定的",
-        "",
+        "I appreciate your patience, and I'm committed to maintaining the standards of our team.（感谢您的耐心，我致力于保持我们团队的标准。）",
         ""
       ]
     ]
@@ -53234,35 +53234,35 @@ window.dialogueCards = [
         "schedule an appointment",
         "/ˈskedʒuːl ə əˈpɔɪntmənt/",
         "预约（门诊、会面）",
-        "",
+        "Hello, I'd like to schedule an appointment with Dr. Smith, please.（你好，我想预约一下 Smith 医生的门诊。）",
         ""
       ],
       [
         "check-up",
         "/ˈtʃekʌp/",
         "体检，检查",
-        "",
+        "I haven't been in for a check-up in over a year, so it's just a routine visit.（我已经超过一年没做体检了，所以只是例行检查。）",
         ""
       ],
       [
         "routine visit",
         "/ruːˈtiːn ˈvɪzɪt/",
         "例行就诊",
-        "",
+        "I haven't been in for a check-up in over a year, so it's just a routine visit.（我已经超过一年没做体检了，所以只是例行检查。）",
         ""
       ],
       [
         "insurance card",
         "/ɪnˈʃʊərəns kɑːd/",
         "保险卡",
-        "",
+        "My insurance card, I assume, but anything else?（我想保险卡是必须的，还有别的吗？）",
         ""
       ],
       [
         "assume",
         "/əˈsjuːm/",
         "假设，认为",
-        "",
+        "I haven't been in for a check-up in over a year, so it's just a routine visit.（我已经超过一年没做体检了，所以只是例行检查。）",
         ""
       ]
     ]
@@ -53309,42 +53309,42 @@ window.dialogueCards = [
         "unwind",
         "/ʌnˈwaɪnd/",
         "放松，松弛下来",
-        "",
+        "It helps me unwind after a long day at work.（它能帮助我在漫长的一天后放松下来。）",
         ""
       ],
       [
         "pasta",
         "/ˈpæstə/",
         "意大利面",
-        "",
+        "Tonight I'm making a simple pasta with garlic, olive oil, and fresh tomatoes.（今晚我打算做一道简单的意面，配大蒜、橄榄油和新鲜的番茄。）",
         ""
       ],
       [
         "olive oil",
         "/ˈɒlɪv ɔɪl/",
         "橄榄油",
-        "",
+        "Tonight I'm making a simple pasta with garlic, olive oil, and fresh tomatoes.（今晚我打算做一道简单的意面，配大蒜、橄榄油和新鲜的番茄。）",
         ""
       ],
       [
         "chop",
         "/tʃɒp/",
         "切，剁",
-        "",
+        "I find that chopping vegetables and stirring the sauce can be surprisingly therapeutic.（我发现切菜和翻炒酱汁有出奇地治愈效果。）",
         ""
       ],
       [
         "therapeutic",
         "/ˌθerəˈpjuːtɪk/",
         "治疗性的，有疗愈效果的",
-        "",
+        "The whole process takes about twenty minutes.（整个过程大约需要二十分钟。）",
         ""
       ],
       [
         "plus",
         "/plʌs/",
         "而且，加之",
-        "",
+        "Plus, I know exactly what's going into my meal.（而且，我清楚地知道我的饭菜里都放了什么。）",
         ""
       ]
     ]
@@ -53386,42 +53386,42 @@ window.dialogueCards = [
         "upfront",
         "/ˌʌpˈfrʌnt/",
         "坦诚地，开诚布公",
-        "",
+        "I've been reviewing the workload, and I want to be upfront with you — I don't think we can hit the original deadline without compromising quality.（我一直在评估工作量，想跟您坦诚地说一下——我认为在不影响质量的前提下无法赶上原定截止日期。）",
         ""
       ],
       [
         "workload",
         "/ˈwɜːkləʊd/",
         "工作量",
-        "",
+        "I've been reviewing the workload, and I want to be upfront with you — I don't think we can hit the original deadline without compromising quality.（我一直在评估工作量，想跟您坦诚地说一下——我认为在不影响质量的前提下无法赶上原定截止日期。）",
         ""
       ],
       [
         "hit the deadline",
         "/hɪt ðə ˈdedlaɪn/",
         "赶上截止日期",
-        "",
+        "We'll need more time if we want to hit the deadline.（要想赶上截止日期，我们需要更多时间。）",
         ""
       ],
       [
         "compromise",
         "/ˈkɒmprəmaɪz/",
         "损害，妥协",
-        "",
+        "We reached a compromise on the delivery date.（我们就交付日期达成了一个折中方案。）",
         ""
       ],
       [
         "thorough",
         "/ˈθʌrə/",
         "彻底的，详尽的",
-        "",
+        "That would give us enough time to do thorough testing.（这样能有足够时间做充分的测试。）",
         ""
       ],
       [
         "deliver",
         "/dɪˈlɪvər/",
         "交付，递交",
-        "",
+        "I'd rather deliver something solid than rush and risk errors.（我宁愿交付出扎实的结果，也不愿赶工而冒着出错的危险。）",
         ""
       ]
     ]
@@ -53468,42 +53468,42 @@ window.dialogueCards = [
         "networking event",
         "/ˈnetwɜːkɪŋ ɪˈvent/",
         "社交活动",
-        "",
+        "At networking events, I used to feel nervous approaching strangers.（在社交活动上，我以前会为接近陌生人而感到紧张。）",
         ""
       ],
       [
         "approach",
         "/əˈprəʊtʃ/",
         "接近，搭话",
-        "",
+        "At networking events, I used to feel nervous approaching strangers.（在社交活动上，我以前会为接近陌生人而感到紧张。）",
         ""
       ],
       [
         "flow naturally",
         "/fləʊ ˈnætʃərəli/",
         "自然展开",
-        "",
+        "Let the conversation flow naturally instead of forcing it.（让对话自然展开，别刻意去硬聊。）",
         ""
       ],
       [
         "business card",
         "/ˈbɪznəs kɑːd/",
         "名片",
-        "",
+        "Before I leave, I always ask for a business card or a LinkedIn connection.（\"或者\"你是怎么认识主办方的？）",
         ""
       ],
       [
         "genuine",
         "/ˈdʒenjuɪn/",
         "真诚的，真实的",
-        "",
+        "It's all about being curious and genuine.（\"人们都喜欢谈论自己，所以对话通常会很自然地展开。）",
         ""
       ],
       [
         "curious",
         "/ˈkjʊəriəs/",
         "好奇的",
-        "",
+        "It's all about being curious and genuine.（\"人们都喜欢谈论自己，所以对话通常会很自然地展开。）",
         ""
       ]
     ]
@@ -53545,35 +53545,35 @@ window.dialogueCards = [
         "cappuccino",
         "/ˌkæpʊˈtʃiːnəʊ/",
         "卡布奇诺",
-        "",
+        "I usually walk to a small café near my apartment and order a cappuccino.（我通常会步行到公寓附近的一家小咖啡馆，点一杯卡布奇诺。）",
         ""
       ],
       [
         "notebook",
         "/ˈnəʊtbʊk/",
         "笔记本",
-        "",
+        "I bring a notebook and just sit by the window.（我会带一个笔记本，坐在窗边。）",
         ""
       ],
       [
         "float",
         "/fləʊt/",
         "（想法）浮现，飘荡",
-        "",
+        "Sometimes I read, sometimes I write down ideas that have been floating in my head all week.（有时阅读，有时把整整一周盘旋在脑海里的想法写下来。）",
         ""
       ],
       [
         "gentle",
         "/ˈdʒentl/",
         "轻柔的，温和的",
-        "",
+        "There's something about the gentle noise of the café that helps me think clearly.（咖啡馆里轻柔的嘈杂声反而能帮我清晰地思考。）",
         ""
       ],
       [
         "clearly",
         "/ˈklɪəli/",
         "清晰地",
-        "",
+        "There's something about the gentle noise of the café that helps me think clearly.（咖啡馆里轻柔的嘈杂声反而能帮我清晰地思考。）",
         ""
       ]
     ]
@@ -53610,42 +53610,42 @@ window.dialogueCards = [
         "clarify",
         "/ˈklærɪfaɪ/",
         "澄清，说明",
-        "",
+        "I'm sorry, could you clarify what you mean by \"streamline the approval process\"?（不好意思，能否请您澄清一下\"简化审批流程\"具体是什么意思？）",
         ""
       ],
       [
         "streamline",
         "/ˈstriːmlaɪn/",
         "简化，精简",
-        "",
+        "I'm sorry, could you clarify what you mean by \"streamline the approval process\"?（不好意思，能否请您澄清一下\"简化审批流程\"具体是什么意思？）",
         ""
       ],
       [
         "approval process",
         "/əˈprʊvl ˈprəʊses/",
         "审批流程",
-        "",
+        "I'm sorry, could you clarify what you mean by \"streamline the approval process\"?（不好意思，能否请您澄清一下\"简化审批流程\"具体是什么意思？）",
         ""
       ],
       [
         "review step",
         "/rɪˈvjuː step/",
         "审核步骤",
-        "",
+        "Are we talking about reducing the number of review steps, or just speeding up the existing ones?（我们说的是减少审核步骤的数量，还是加快现有步骤的速度？）",
         ""
       ],
       [
         "speed up",
         "/spiːd ʌp/",
         "加速",
-        "",
+        "We should speed up the discussion to cover all the topics.（我们应该加快讨论进度，好把议题都过完。）",
         ""
       ],
       [
         "move forward",
         "/muːv ˈfɔːwəd/",
         "推进，往前走",
-        "",
+        "I want to make sure I understand correctly before we move forward.（我想确保理解正确后再推进。）",
         ""
       ]
     ]
@@ -53687,42 +53687,42 @@ window.dialogueCards = [
         "tracking number",
         "/ˈtrækɪŋ ˈnʌmbər/",
         "物流单号",
-        "",
+        "I checked the tracking number and it says it's been stuck at a transit center since Monday.（我查了物流单号，显示从周一就一直停留在中转站。）",
         ""
       ],
       [
         "transit center",
         "/ˈtrænzɪt ˈsentər/",
         "中转站",
-        "",
+        "I checked the tracking number and it says it's been stuck at a transit center since Monday.（我查了物流单号，显示从周一就一直停留在中转站。）",
         ""
       ],
       [
         "stuck",
         "/stʌk/",
         "卡住的，停滞的",
-        "",
+        "I checked the tracking number and it says it's been stuck at a transit center since Monday.（我查了物流单号，显示从周一就一直停留在中转站。）",
         ""
       ],
       [
         "customer service",
         "/ˈkʌstəmər ˈsɜːvɪs/",
         "客服",
-        "",
+        "I'm going to call customer service to find out what happened.（我打算打电话给客服问清楚情况。）",
         ""
       ],
       [
         "refund",
         "/ˈriːfʌnd/",
         "退款",
-        "",
+        "If it doesn't arrive by tomorrow, I'll ask for a refund.（如果明天还没到，我就要求退款。）",
         ""
       ],
       [
         "urgently",
         "/ˈɜːdʒəntli/",
         "紧急地，迫切地",
-        "",
+        "Waiting is frustrating, especially when you need something urgently.（等待令人烦躁，尤其当你急需某样东西的时候。）",
         ""
       ]
     ]
@@ -53764,42 +53764,42 @@ window.dialogueCards = [
         "feedback",
         "/ˈfiːdbæk/",
         "反馈",
-        "",
+        "I wanted to share some feedback on the presentation you gave yesterday.（我想对你昨天做的演示汇报给一些反馈。）",
         ""
       ],
       [
         "well-structured",
         "/wel ˈstrʌktʃəd/",
         "结构清晰的",
-        "",
+        "Overall, it was well-structured and the data was solid.（整体来看，结构很清晰，数据也很扎实。）",
         ""
       ],
       [
         "solid",
         "/ˈsɒlɪd/",
         "扎实的，可靠的",
-        "",
+        "Overall, it was well-structured and the data was solid.（整体来看，结构很清晰，数据也很扎实。）",
         ""
       ],
       [
         "key findings",
         "/kiː ˈfaɪndɪŋz/",
         "主要发现/结论",
-        "",
+        "One thing I'd suggest is to slow down during the key findings section — you rushed through it a bit, and the audience might have missed the main takeaways.（有一点建议：在关键发现部分可以放慢节奏——你稍微赶了一些，听众可能会错过主要结论。）",
         ""
       ],
       [
         "takeaway",
         "/ˈteɪkəweɪ/",
         "要点，核心结论",
-        "",
+        "One thing I'd suggest is to slow down during the key findings section — you rushed through it a bit, and the audience might have missed the main takeaways.（有一点建议：在关键发现部分可以放慢节奏——你稍微赶了一些，听众可能会错过主要结论。）",
         ""
       ],
       [
         "absorb",
         "/əbˈzɔːb/",
         "消化，吸收",
-        "",
+        "One thing I'd suggest is to slow down during the key findings section — you rushed through it a bit, and the audience might have missed the main takeaways.（有一点建议：在关键发现部分可以放慢节奏——你稍微赶了一些，听众可能会错过主要结论。）",
         ""
       ]
     ]
@@ -53841,42 +53841,42 @@ window.dialogueCards = [
         "upset",
         "/ˌʌpˈset/",
         "不满的，沮丧的",
-        "",
+        "The client on the phone was clearly upset about the delay in our deliverables.（电话那头的客户显然对我们交付延迟很不满。）",
         ""
       ],
       [
         "deliverable",
         "/dɪˈlɪvərəbl/",
         "交付物",
-        "",
+        "The client on the phone was clearly upset about the delay in our deliverables.（电话那头的客户显然对我们交付延迟很不满。）",
         ""
       ],
       [
         "interrupt",
         "/ˌɪntəˈrʌpt/",
         "打断",
-        "",
+        "The client on the phone was clearly upset about the delay in our deliverables.（电话那头的客户显然对我们交付延迟很不满。）",
         ""
       ],
       [
         "acknowledge",
         "/əkˈnɒlɪdʒ/",
         "认可，承认",
-        "",
+        "I listened carefully without interrupting, and then acknowledged their frustration.（我仔细聆听，没有打断，然后认可了他们的不满情绪。）",
         ""
       ],
       [
         "frustration",
         "/frʌˈstreɪʃən/",
         "沮丧，不满",
-        "",
+        "I listened carefully without interrupting, and then acknowledged their frustration.（我仔细聆听，没有打断，然后认可了他们的不满情绪。）",
         ""
       ],
       [
         "concrete",
         "/ˈkɒnkriːt/",
         "具体的，明确的",
-        "",
+        "I explained what caused the issue and offered a concrete timeline for resolution.（我解释了问题的原因，并提供了一个具体的解决时间表。）",
         ""
       ]
     ]
@@ -53918,42 +53918,42 @@ window.dialogueCards = [
         "short trip",
         "/ʃɔːt trɪp/",
         "短途旅行",
-        "",
+        "I've been thinking about taking a short trip this weekend.（我在考虑这周末来一趟短途旅行。）",
         ""
       ],
       [
         "hiking trail",
         "/ˈhaɪkɪŋ treɪl/",
         "徒步路线",
-        "",
+        "I want to go somewhere within a two-hour drive, maybe a small town with a nice hiking trail.（想去车程两小时以内的地方，也许是一个有不错徒步路线的小镇。）",
         ""
       ],
       [
         "look up",
         "/lʊk ʌp/",
         "查找",
-        "",
+        "I'll look up the train schedule online tonight.（我今晚会上网查一下火车时刻表。）",
         ""
       ],
       [
         "review",
         "/rɪˈvjuː/",
         "评价，评论",
-        "",
+        "I've already looked up a few places online and read some reviews.（我已经在网上查了几个地方，也读了一些评价。）",
         ""
       ],
       [
         "recharge",
         "/ˌriːˈtʃɑːdʒ/",
         "充电，恢复精力",
-        "",
+        "Short trips like this are a great way to recharge without spending too much.（这样的短途旅行是很好的充电方式，花费也不会太多。）",
         ""
       ],
       [
         "within",
         "/wɪˈθɪn/",
         "在……范围之内",
-        "",
+        "I want to go somewhere within a two-hour drive, maybe a small town with a nice hiking trail.（想去车程两小时以内的地方，也许是一个有不错徒步路线的小镇。）",
         ""
       ]
     ]
@@ -53995,42 +53995,42 @@ window.dialogueCards = [
         "return label",
         "/rɪˈtɜːn ˈleɪbl/",
         "退货标签",
-        "",
+        "I've already printed the return label and packed them back in the original box.（我已经打印了退货标签，把鞋装回了原包装盒里。）",
         ""
       ],
       [
         "fit properly",
         "/fɪt ˈprɒpəli/",
         "合身，合脚",
-        "",
+        "They looked great on the website, but the size doesn't fit properly.（网站上看着很不错，但尺码不太合脚。）",
         ""
       ],
       [
         "original",
         "/əˈrɪdʒɪnl/",
         "原始的，最初的",
-        "",
+        "I've already printed the return label and packed them back in the original box.（我已经打印了退货标签，把鞋装回了原包装盒里。）",
         ""
       ],
       [
         "pickup point",
         "/ˈpɪkʌp pɔɪnt/",
         "取件点",
-        "",
+        "I just need to drop it off at the pickup point before the return window closes.（只需要在退货窗口关闭前送到取件点就行。）",
         ""
       ],
       [
         "return window",
         "/rɪˈtɜːn ˈwɪndəʊ/",
         "退货期限",
-        "",
+        "I just need to drop it off at the pickup point before the return window closes.（只需要在退货窗口关闭前送到取件点就行。）",
         ""
       ],
       [
         "straightforward",
         "/ˌstreɪtˈfɔːwəd/",
         "简单直接的",
-        "",
+        "The process is usually straightforward, but I always double-check the deadline to avoid any issues.（流程通常很简单，但我总是会再三确认截止日期，以免出问题。）",
         ""
       ]
     ]
